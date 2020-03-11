@@ -1,0 +1,17 @@
+#new_text=P112840
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU	_	_	_
+o.1.2	masz2	masz[goat]	N	_	_	_
+o.2.1	ensi2	ensik[ruler]	N	_	_	_
+o.2.2	ka-zal-lu{ki}	Kazallu[1][-ak][-ak][-ø]	SN.GEN.GEN.ABS	_	_	_
+o.3.1	be-li2-du10	Belidu[1]	PN	_	_	_
+o.3.2	kuruszda	kuruszda[animal_fattener][-e]	N.ERG	_	_	_
+r.1.1	i3-dab5	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.3-SG-P	_	_	_
+r.2.1	sza3	szag[heart]	N	_	_	_
+r.2.2	tum-ma-al	Tummal[1][-ak][-'a]	SN.GEN.L1	_	_	_
+r.3.1	iti	iti[month]	N	_	_	_
+r.3.2	a2-ki-ti	Akiti[1][-'a]	MN.L1	_	_	_
+r.4.1	mu	mu[year]	N	_	_	_
+r.4.2	bad3	bad[wall]	N	_	_	_
+r.4.3	ma-da	mada[land][-ak][-ø]	N.GEN.ABS	_	_	_
+r.4.4	ba-du3	ba-du[build][-ø]	MID.V.3-SG-S	_	_	_
