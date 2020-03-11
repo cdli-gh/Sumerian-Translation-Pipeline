@@ -1,0 +1,18 @@
+AJ,adjective (including statives)
+AV,adverb
+NU,number
+CNJ,conjunction
+DET,determinative pronoun
+J,interjection
+N,noun (including statives)
+PP,possessive pronoun
+V,"verb (including infinitives, marked with EPOS ‘N and gerundive GW)"
+IP,independent/anaphoric pronoun
+DP,demonstrative pronoun
+MOD,"modal, negative, or conditional particle"
+PRP,preposition
+QP,interrogative pronoun
+RP,reflexive/reciprocal pronoun
+REL,relative pronoun
+SBJ,subjunction
+XP,indefinite pronoun
