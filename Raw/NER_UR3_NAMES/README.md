@@ -1,3 +1,5 @@
+Taken from https://github.com/niekveldhuis/UrIII-names
+
 # UrIII-names
 Name authority for Ur III period administrative texts
 # Goal
