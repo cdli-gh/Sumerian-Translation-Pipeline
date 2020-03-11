@@ -1,0 +1,27 @@
+#new_text=P139771
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	5(disz)	5(disz)[one]	NU	5(disz)[one][-sze]	NU.TERM
+o.1.2	gurusz	gurusz[male]	N
+o.1.3	1(barig)	1(bariga)[unit]	N	1(bariga)[unit][-ø]	N.ABS	1(bariga)[measuring_container]	N
+o.2.1	8(disz)	8(disz)[one]	NU
+o.2.2	ug3-IL2	uggaga[porter]	N
+o.2.3	4(ban2)	4(ban)[unit]	N
+o.3.1	u4	ud[day]	N
+o.3.2	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
+o.3.3	3(disz)-sze3	3(disz)[one]-sze	NU.TERM
+o.4.1	kun-zi-da	kunzida[weir]	N
+o.4.2	i7	id[river]	N
+o.4.3	si-sa2-ka	Sisa[1]-ak-'a	WN.GEN.L1
+o.4.4	gub-ba	gub[assigned]-a	NF.V.PT	gub[stand]-a	NF.V.PT	gub[stand]-a	V.SUB	gub[stand]-a[-ak][-sze]	NF.V.PT.GEN.TERM	gub[assign]-a	NF.V.PT	gub[assigned]-a[-ø]	NF.V.PT.ABS	gub[assigned]-a[-ak][-ø]	NF.V.PT.GEN.ABS
+o.5.1	ugula	ugula[overseer][-ø]	N.ABS
+o.5.2	ARAD2	Arad[1][-ø]	PN.ABS	Arad[1][-ak][-ø]	PN.GEN.ABS	arad[slave][-ra]	N.DAT-H
+o.6.1	kiszib3	kiszib[seal]	N	kiszib[sealed_tablet]	N
+o.6.2	lu2-{d}szara2	Luszara[1][-ak]	PN.GEN	Luszara[1][-e]	PN.ERG	Luszara[1][-ak][-ra]	PN.GEN.DAT-H
+r.1.1	mu	mu[year]	N
+r.1.2	en	en[priest]	N
+r.1.3	ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN.GEN.ABS
+r.1.4	ba-hun	ba-hug[hire][-ø]	MID.V.3-SG-S	ba-hug[hire][-ø][-ø]	MID.V.3-SG-S.ABS	ba-hug[hire][-ø][-a]	MID.V.3-SG-S.SUB	ba-hung[hire][-ø]	MID.V.3-SG-S
+s1.1.1	lu2-{d}szara2	Luszara[1]	PN	Luszara[1][-ra]	PN.DAT-H	Luszara[1][-ak]	PN.GEN	Luszara[1][-e]	PN.ERG	Luszara[1][-ak][-ra]	PN.GEN.DAT-H
+s1.2.1	dub-sar	dubsar[scribe]	N	dubsar[scribe][-ak]	N.GEN	dubsar[scribe][-ø]	N.ABS
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	iri-bar-re	Iribare[1][-ak]	PN.GEN

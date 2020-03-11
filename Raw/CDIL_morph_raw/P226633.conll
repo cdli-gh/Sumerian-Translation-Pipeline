@@ -1,0 +1,24 @@
+#new_text=P226633
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}mes-lam-ta-e3-a	Meslamta'e'a[1]	PN
+a.2.1	lugal	lugal[king]	N	lugal[king][-ak]	N.GEN	lugal[king][-ak]	N.DAT-H	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-ak][-ra]	N.GEN.DAT-H	lugal[king]	N.DAT-H	lugal[king][-ø]	N.ABS	lugal[king][-ak][-sze]	N.GEN.TERM	lugal[king][-am]	N.COP-3-SG
+a.2.2	a2	a[arm]	N
+a.2.3	zi-da	zid[right]-a	NF.V.PT
+a.3.1	lagasz{ki}-ke4	Lagasz[1][-ak]-e	SN.GEN.L3-NH
+a.4.1	nam-ti-il	namtil[life]	N
+a.5.1	{d}szul-gi	Szulgir[1]	RN
+a.5.2	nita	nita[male]	N
+a.5.3	kal-ga	kalag[strong]-a	NF.V.PT
+a.6.1	lugal	lugal[king]	N
+a.6.2	uri5{ki}-ma-ka-sze3	Urim[1]-ak-ak-sze	SN.GEN.GEN.TERM
+a.7.1	ki-lu5-la	Kilula[1]	PN
+a.7.2	gu-za-la2	guzala[throne_bearer]	N
+a.8.1	dumu	dumu[child]	N
+a.8.2	ur-ba-gara2-ke4	Urbagara[1]-ak-e	PN.GEN.ERG
+a.9.1	mu-na-dim2	mu-nn-a-dim[create][-ø]	VEN.3-SG-H.DAT.V.3-SG-P
+a.9.2	kiszib3-ba	kiszib[seal]-bi-'a	N.3-SG-NH-POSS.L1
+a.10.1	lugal-mu	lugal[king]-gu	N.1-SG-POSS
+a.10.2	gesztu3	gesztug[wisdom]	N
+a.10.3	nig2-sa6-ga-ka-ni	nigsaga[goodness]-ak-ani[-'a]	N.GEN.3-SG-H-POSS.L1
+a.11.1	ga-an-ti-il	ga-n-til[live][-ø]	MOD.L1-SYN.V.ABS
+a.12.1	mu-bi	mu[name]-bi[-ø]	N.3-SG-NH-POSS.ABS

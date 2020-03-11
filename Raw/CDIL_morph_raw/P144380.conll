@@ -1,0 +1,30 @@
+#new_text=P144380
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	3(u)	3(u)[ten]	NU	_	_	_
+o.1.2	6(disz)	6(disz)[one]	NU	_	_	_
+o.1.3	sila3	sila[unit]	N	_	_	_
+o.1.4	dabin	dabin[semolina]	N	_	_	_
+o.2.1	u4	ud[day]	N	_	_	_
+o.2.2	2(u)	2(u)[ten]	NU	_	_	_
+o.2.3	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
+o.3.1	ki	ki[place]	N	_	_	_
+o.3.2	lu2-dingir-ra-ka	Ludingira[1]-ak[-ta]	PN.GEN.ABL	_	_	_
+r.1.1	kiszib3	kiszib[seal]	N	_	_	_
+r.1.2	ensi2-ka	ensik[ruler]-ak	N.GEN	_	_	_
+r.2.1	iti	iti[month]	N	_	_	_
+r.2.2	diri	dirig[excess][-'a]	N.L1	_	_	_
+r.3.1	mu	mu[year]	N	_	_	_
+r.3.2	{d}szu-{d}suen	Szusuen[1][-ø]	RN.ABS	_	_	_
+r.3.3	lugal	lugal[king][-ø]	N.ABS	_	_	_
+s1.col1.1.1	{d}szu-{d}suen	Szusuen[1]	RN	_	_	_
+s1.col1.2.1	lugal	lugal[king]	N	_	_	_
+s1.col1.2.2	kal-ga	kalag[strong]-a	NF.V.PT	_	_	_
+s1.col1.3.1	lugal	lugal[king]	N	_	_	_
+s1.col1.3.2	uri5{ki}-ma	Urim[1]-ak	SN.GEN	_	_	_
+s1.col1.4.1	lugal	lugal[king]	N	_	_	_
+s1.col1.4.2	an-ub-da	anubda[quarter]	N	_	_	_
+s1.col1.4.3	limmu2-ba	limmu[four]-bi-ak[-ø]	NU.3-SG-NH-POSS.GEN.ABS	_	_	_
+s1.col2.1.1	a-a-kal-la	Ayakala[1]	PN	_	_	_
+s1.col2.2.1	ensi2	ensik[ruler]	N	_	_	_
+s1.col2.3.1	umma{ki}	Umma[1][-ak][-ø]	SN.GEN.ABS	_	_	_
+s1.col2.4.1	ARAD2-zu	arad[slave]-zu[-ø]	N.2-SG-POSS.ABS	_	_	_

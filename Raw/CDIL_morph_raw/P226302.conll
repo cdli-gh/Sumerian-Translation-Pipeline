@@ -1,0 +1,32 @@
+#new_text=P226302
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	ur-{d}namma	Urnamma[1]	RN	_	_	_
+a.2.1	lugal	lugal[king]	N	_	_	_
+a.2.2	uri5{ki}-ma	Urim[1][-ak]	SN.GEN	_	_	_
+a.3.1	lugal	lugal[king]	N	_	_	_
+a.3.2	ki-en-gi	ki'engi[1]	GN	_	_	_
+a.3.3	ki-uri	ki'uri[1][-ak]	GN.GEN	_	_	_
+a.4.1	lu2	lu[person]	N	_	_	_
+a.4.2	e2	e[house]	N	_	_	_
+a.4.3	{d}en-lil2-la2	Enlil[1]-ak[-ø]	DN.GEN.ABS	_	_	_
+a.5.1	in-du3-a	i-n-du[build][-ø]-a	FIN.3-SG-H-A.V.3-SG-P.SUB	_	_	_
+b.1.1	ur-{d}namma	Urnamma[1]	RN	_	_	_
+b.2.1	lugal	lugal[king]	N	_	_	_
+b.2.2	uri5{ki}-ma	Urim[1][-ak]	SN.GEN	_	_	_
+b.3.1	lugal	lugal[king]	N	_	_	_
+b.3.2	ki-en-gi	ki'engi[1]	GN	_	_	_
+b.3.3	ki-uri	ki'uri[1][-ak]	GN.GEN	_	_	_
+b.4.1	lu2	lu[person]	N	_	_	_
+b.4.2	e2	e[house]	N	_	_	_
+b.4.3	{d}en-lil2-la2	Enlil[1]-ak[-ø]	DN.GEN.ABS	_	_	_
+b.5.1	in-du3-a	i-n-du[build][-ø]-a	FIN.3-SG-H-A.V.3-SG-P.SUB	_	_	_
+c.1.1	ur-{d}namma	Urnamma[1]	RN	_	_	_
+c.2.1	lugal	lugal[king]	N	_	_	_
+c.2.2	uri5{ki}-ma	Urim[1][-ak]	SN.GEN	_	_	_
+c.3.1	lugal	lugal[king]	N	_	_	_
+c.3.2	ki-en-gi	ki'engi[1]	GN	_	_	_
+c.3.3	ki-uri	ki'uri[1][-ak]	GN.GEN	_	_	_
+c.4.1	lu2	lu[person]	N	_	_	_
+c.4.2	e2	e[house]	N	_	_	_
+c.4.3	{d}en-lil2-la2	Enlil[1]-ak[-ø]	DN.GEN.ABS	_	_	_
+c.5.1	in-du3-a	i-n-du[build][-ø]-a	FIN.3-SG-H-A.V.3-SG-P.SUB	_	_	_

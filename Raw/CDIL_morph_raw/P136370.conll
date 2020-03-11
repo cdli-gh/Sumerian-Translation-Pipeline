@@ -1,0 +1,17 @@
+#new_text=P136370
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N	pisandubak[filing_basket]	N
+o.2.1	nig2-ka9-ak	nigSZID[account]	N	nigSZID[account]-ak	N.GEN	nigkas[account]-ak	N.GEN	nigSZID[account][-ak]	N.GEN _  _ _
+o.3.1	gu3-de2-a	Gude'a[1]	PN	Gude'a[1][-ak]	PN.GEN	Gude'a[1][-ra]	PN.DAT-H
+o.3.2	kuruszda	kuruszda[animal_fattener][-ak]	N.GEN	kuruszda[animal_fattener][-ø]	N.ABS	kuruszda[animal_fattener][-ak][-ra]	N.GEN.DAT-H	kuruszda[animal_fattener][-e]	N.ERG	kuruszda[fattener][-e]	N.ERG
+o.4.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _
+o.4.2	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU.GEN.COP-3-SG.GEN.ABS
+r.1.1	i3-gal2	i[-ni]-gal[be][-ø]	FIN.L1.V.3-SG-S	i-gal[be][-ø]	FIN.V.3-SG-S _  _ _
+r.2.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _
+r.2.2	ki-masz{ki}	Kimasz[1][-ø]	SN.ABS	Kimasz[1]	SN	Kimasz[1][-ø]	SN	Kimasz[1]	GN
+r.2.3	ba-hul-ta	ba-hulu[destroy][-ø]-ta	MID.V.3-SG-S.ABL
+r.3.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _
+r.3.2	{d}amar-{d}suen	Amarsuen[1]	RN	Amarsuen[1][-ø]	RN.ABS	Amarsuen[1][-ra][-ø]	RN.DAT.H.ABS
+r.3.3	lugal	lugal[king][-e]	N.ERG
+r.3.4	ur-bi2-lum{ki}	Urbilum[1][-ø]	SN.ABS
+r.3.5	mu-hul-sze3	mu[-n]-hulu[destroy][-ø]-sze	VEN.3-SG-H-A.V.3-SG-P.TERM
