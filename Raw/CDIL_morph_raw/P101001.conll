@@ -1,0 +1,19 @@
+#new_text=P101001
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	5(disz)	5(disz)[one]	NU	_	_	_
+o.1.2	ab2	ab[cow]	N	_	_	_
+o.2.1	gu4	gud[ox][-ø]	N.ABS	_	_	_
+o.2.2	ha-szi-pa2-tal	Haszipatal[1][-e]	PN.ERG	_	_	_
+o.3.1	giri3	giri[foot]	N	_	_	_
+o.3.2	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN.GEN	_	_	_
+o.4.1	mu-kux(DU)	mu[-ni][-n]-kur[enter][-esz]	VEN.L1.3-SG-H-A.V.3-PL	_	_	_
+o.5.1	ki	ki[place]	N	_	_	_
+o.5.2	na-sa6-ta	Nasa[1][-ak]-ta	PN.GEN.ABL	_	_	_
+r.1.1	{d}en-lil2-la2	Enlila[1][-e]	PN.ERG	_	_	_
+r.1.2	i3-dab5	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.3-SG-P	_	_	_
+r.2.1	iti	iti[month]	N	_	_	_
+r.2.2	u5-bi2-gu7	Ubigu[1][-'a]	MN.L1	_	_	_
+r.3.1	mu	mu[year]	N	_	_	_
+r.3.2	{d}amar-{d}suen	Amarsuen[1]	RN	_	_	_
+r.3.3	lugal	lugal[king]	N	_	_	_
+l.1.1	5(disz)	5(disz)[one]	NU	_	_	_

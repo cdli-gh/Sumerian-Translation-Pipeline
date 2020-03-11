@@ -1,0 +1,10 @@
+#new_text=P100767
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N	_	_	_
+o.2.1	e2-tum	bitum[administrative_term]	N	_	_	_
+o.3.1	ab2	ab[cow]	N	_	_	_
+o.3.2	e2-tur3	etur[stall]	N	_	_	_
+o.4.1	u3	u[and]	CNJ	_	_	_
+o.4.2	gu4-{gesz}apin	gudapin[plow_ox][-ak][-ak]	N.GEN.GEN	_	_	_
+o.5.1	mu	mu[year]	N	_	_	_
+o.5.2	en-mah-gal-an-na	Enmahgalana[1]	PN	_	_	_

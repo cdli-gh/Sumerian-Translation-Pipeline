@@ -1,0 +1,142 @@
+#new_text=P101276							
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC	
+o.1.1	5(disz)	5(disz)[one]	NU				
+o.1.2	sila3	sila[unit]	N				
+o.1.3	kasz	kasz[beer]	N				
+o.1.4	5(disz)	5(disz)[one]	NU				
+o.1.5	sila3	sila[unit]	N				
+o.1.6	ninda	ninda[bread]	N				
+o.1.7	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+o.1.8	sa	sa[bundle]	N				
+o.1.9	szum2	szum[garlic]	N				
+o.2.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+o.2.2	gin2	gig[unit]	N				
+o.2.3	i3	i[oil]	N	i[oil][-ø]	N.ABS		
+o.2.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+o.2.5	gin2	gig[unit]	N				
+o.2.6	naga	naga[potash]	N	teme[plant]	N		
+o.3.1	li-bur-{d}szul-gi	Liburszulgir[1]	PN				
+o.4.1	5(disz)	5(disz)[one]	NU				
+o.4.2	sila3	sila[unit]	N				
+o.4.3	kasz	kasz[beer]	N				
+o.4.4	5(disz)	5(disz)[one]	NU				
+o.4.5	sila3	sila[unit]	N				
+o.4.6	ninda	ninda[bread]	N				
+o.4.7	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+o.4.8	sa	sa[bundle]	N				
+o.4.9	szum2	szum[garlic]	N				
+o.5.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+o.5.2	gin2	gig[unit]	N				
+o.5.3	i3	i[oil]	N	i[oil][-ø]	N.ABS		
+o.5.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+o.5.5	gin2	gig[unit]	N				
+o.5.6	naga	naga[potash]	N	teme[plant]	N		
+o.6.1	{d}utu-he2-sa6	Utuhesa[1]	PN				
+o.7.1	5(disz)	5(disz)[one]	NU				
+o.7.2	sila3	sila[unit]	N				
+o.7.3	kasz	kasz[beer]	N				
+o.7.4	5(disz)	5(disz)[one]	NU				
+o.7.5	sila3	sila[unit]	N				
+o.7.6	ninda	ninda[bread]	N				
+o.7.7	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+o.7.8	sa	sa[bundle]	N				
+o.7.9	szum2	szum[garlic]	N				
+o.8.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+o.8.2	gin2	gig[unit]	N				
+o.8.3	i3	i[oil]	N	i[oil][-ø]	N.ABS		
+o.8.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+o.8.5	gin2	gig[unit]	N				
+o.8.6	naga	naga[potash]	N	teme[plant]	N		
+o.9.1	{d}szul-gi-mu-dah	Szulgirmudah[1]	PN				
+o.10.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+o.10.2	sila3	sila[unit]	N				
+o.10.3	kasz	kasz[beer]	N				
+o.10.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+o.10.5	sila3	sila[unit]	N				
+o.10.6	ninda	ninda[bread]	N				
+o.10.7	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+o.10.8	sa	sa[bundle]	N				
+o.10.9	szum2	szum[garlic]	N				
+o.11.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+o.11.2	gin2	gig[unit]	N				
+o.11.3	i3	i[oil]	N	i[oil][-ø]	N.ABS		
+o.11.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+o.11.5	gin2	gig[unit]	N				
+o.11.6	naga	naga[potash]	N	teme[plant]	N		
+r.1.1	x-lu2-x-x	_[1]	PN				
+r.2.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+r.2.2	sila3	sila[unit]	N				
+r.2.3	kasz	kasz[beer]	N				
+r.2.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.2.5	sila3	sila[unit]	N				
+r.2.6	ninda	ninda[bread]	N				
+r.2.7	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.2.8	sa	sa[bundle]	N				
+r.2.9	szum2	szum[garlic]	N				
+r.3.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+r.3.2	gin2	gig[unit]	N				
+r.3.3	i3	i[oil]	N	i[oil][-ø]	N.ABS		
+r.3.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.3.5	gin2	gig[unit]	N				
+r.3.6	naga	naga[potash]	N	teme[plant]	N		
+r.4.1	ku-da-<nu>-um	Kudanum[1]	PN				
+r.4.2	szabra(AL)	szabra[chief_administrator]	N				
+r.5.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+r.5.2	sila3	sila[unit]	N				
+r.5.3	kasz	kasz[beer]	N				
+r.5.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.5.5	sila3	sila[unit]	N				
+r.5.6	ninda	ninda[bread]	N				
+r.5.7	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.5.8	sa	sa[bundle]	N				
+r.5.9	szum2	szum[garlic]	N				
+r.6.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+r.6.2	gin2	gig[unit]	N				
+r.6.3	i3	i[oil]	N	i[oil][-ø]	N.ABS		
+r.6.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.6.5	gin2	gig[unit]	N				
+r.6.6	naga	naga[potash]	N	teme[plant]	N		
+r.7.1	a-ma-ma-a	Amamaya[1]	PN				
+r.8.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+r.8.2	sila3	sila[unit]	N				
+r.8.3	kasz	kasz[beer]	N				
+r.8.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.8.5	sila3	sila[unit]	N				
+r.8.6	ninda	ninda[bread]	N				
+r.8.7	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.8.8	sa	sa[bundle]	N				
+r.8.9	szum2	szum[garlic]	N				
+r.9.1	3(disz)	3(disz)[one]	NU	3(disz)[one]	3(dish)[one]	NU	
+r.9.2	gin2	gig[unit]	N				
+r.9.3	i3	i[oil]	N	i[oil][-ø]	N.ABS		
+r.9.4	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.9.5	gin2	gig[unit]	N				
+r.9.6	naga	naga[potash]	N	teme[plant]	N		
+r.10.1	szu-ma-am3	Szumam[1]	PN				
+r.11.1	szunigin	szunigin[total]	N				
+r.11.2	2(ban2)	2(ban)[unit]	N	2(ban)[unit]	NU		
+r.11.3	7(disz)	7(disz)[one]	NU				
+r.11.4	sila3	sila[unit]	N				
+r.11.5	kasz	kasz[beer]	N				
+r.11.6	2(ban2)	2(ban)[unit]	N	2(ban)[unit]	NU		
+r.11.7	2(disz)	2(disz)[one]	NU	2(disz)[one]			
+r.11.8	sila3	sila[unit]	N				
+r.11.9	ninda	ninda[bread]	N				
+r.11.10	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _		
+r.11.11	4(disz)	4(disz)[one]	NU				
+r.11.12	sa	sa[bundle]	N				
+r.11.13	szum2	szum[garlic]	N				
+r.12.1	1/3(disz)	1/3(disz)[one]	NU				
+r.12.2	sila3	sila[unit]	N				
+r.12.3	1(disz)	1(disz)[one]	NU				
+r.12.4	gin2	gig[unit]	N				
+r.12.5	i3	i[oil]	N	i[oil][-ø]	N.ABS		
+r.12.6	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _		
+r.12.7	4(disz)	4(disz)[one]	NU				
+r.12.8	gin2	gig[unit]	N				
+r.12.9	naga	naga[potash]	N	teme[plant]	N		
+l.1.1	u4	ud[day]	N				
+l.1.2	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _		
+l.1.3	4(disz)-kam	4(disz)[one]-ak-am	NU.GEN.COP-3-SG				
+l.2.1	iti	iti[month]	N	iti[month]	N _  _ _	iti[month][-ak]	N.GEN
+l.2.2	{d}dumu-zi	Dumuzi[1][-'a]	MN.L1				
