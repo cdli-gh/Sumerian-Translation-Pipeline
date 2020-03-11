@@ -1,0 +1,6 @@
+#new_text=P454768
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	bu-ga-ti	Bugati[1]	PN
+a.2.1	dumu	dumu[child]	N
+a.2.2	i-di3-{d}iszkur	Idi'iszkur[1]	PN
+a.3.1	dam-gar3	damgar[merchant][-ak]	N.GEN	damgar[merchant][-ak][-ø]	N.GEN.ABS

@@ -1,0 +1,7 @@
+#new_text=P457736
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	ur-{d}lamma	Urlamma[1]	PN	Urlamma[1][-ak][-ø]	PN.GEN.ABS	Urlamma[1][-ra]	PN.DAT-H	Urlamma[1][-e]	PN.ERG
+a.2.1	dumu	dumu[child]	N
+a.2.2	ur-mes	Urmes[1]	PN	Urmes[1]	RN
+a.3.1	lu2	lu[person]	N	lu[person][-e]	N.ERG
+a.3.2	lunga	lungak[brewer][-ak]	N.GEN
