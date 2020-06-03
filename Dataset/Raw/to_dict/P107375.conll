@@ -1,0 +1,23 @@
+#new_text=P107375
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N	_	_	_
+o.2.1	e2-tum	bitum[administrative_term]	N	_	_	_
+o.3.1	kiszib3	kiszib[sealed_tablet]	N	_	_	_
+o.3.2	zi-re	zir[break]-ed	NF.V.F	_	_	_
+o.3.3	ugu2-a	ugu[capital]-'a	N.L1	_	_	_
+o.3.4	{ga2}gar	gar[place][-a]	NF.V.PT	_	_	_
+o.4.1	lugal-ezem	Lugalezem[1][-ak]	PN.GEN	_	_	_
+o.4.2	szabra	szabra[chief_administrator][-ø]	N.ABS	_	_	_
+r.1.1	i3-gal2	i[-ni]-gal[be][-ø]	FIN.L1.V.3-SG-S	_	_	_
+r.2.1	mu	mu[year]	N	_	_	_
+r.2.2	an-sza-an{ki}	Anszan[1][-ø]	GN.ABS	_	_	_
+r.2.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S	_	_	_
+r.3.1	mu	mu[year]	N	_	_	_
+r.3.2	us2-sa	us[follow]-a	NF.V.PT	_	_	_
+r.3.3	an-sza-an{ki}	Anszan[1][-ø]	GN.ABS	_	_	_
+r.3.4	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S	_	_	_
+r.4.1	mu	mu[year]	N	_	_	_
+r.4.2	{d}nanna	Nanna[1]	DN	_	_	_
+r.4.3	kar-zi-da	Karzida[1][-ak]	SN.GEN	_	_	_
+r.4.4	a-ra2	ara[times]	N	_	_	_
+r.4.5	2(disz@t)	2(disz@t)[one]	NU	_	_	_

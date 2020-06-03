@@ -1,0 +1,30 @@
+#new_text=P135633
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU	_	_	_
+o.1.2	ab2-mah2	abmah[mature_cow]	N	_	_	_
+o.2.1	2(disz)	2(disz)[one]	NU	_	_	_
+o.2.2	gu4-gesz	gudgesz[draught_ox][-ø]	N.ABS	_	_	_
+o.3.1	ki	ki[place]	N	_	_	_
+o.3.2	a-kal-la-ta	Akala[1][-ak]-ta	PN.GEN.ABL	_	_	_
+o.4.1	3(disz)	3(disz)[one]	NU	_	_	_
+o.4.2	gu4-gesz	gudgesz[draught_ox][-ø]	N.ABS	_	_	_
+o.5.1	ki	ki[place]	N	_	_	_
+o.5.2	szu-na-ta	Szuna[1][-ak]-ta	PN.GEN.ABL	_	_	_
+r.1.1	1(disz)	1(disz)[one]	NU	_	_	_
+r.1.2	gu4-gesz	gudgesz[draught_ox][-ø]	N.ABS	_	_	_
+r.2.1	ki	ki[place]	N	_	_	_
+r.2.2	ur-{d}utu-ta	Urutu[1][-ak]-ta	PN.GEN.ABL	_	_	_
+r.3.1	ugula	ugula[overseer]	N	_	_	_
+r.3.2	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	_	_	_
+r.3.3	dam-gar3	damgar[merchant]	N	_	_	_
+r.4.1	apin	apin[plow]	N	_	_	_
+r.4.2	e2	e[house]	N	_	_	_
+r.4.3	{d}szu-{d}suen-sze3	Szusuen[1][-ak][-ak]-sze	RN.GEN.GEN.TERM	_	_	_
+r.5.1	ab-ba-kal-la	Abbakala[1][-e]	PN.ERG	_	_	_
+r.5.2	i3-dab5	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.3-SG-P	_	_	_
+r.6.1	mu	mu[year]	N	_	_	_
+r.6.2	{d}szu-{d}suen	Szusuen[1]	RN	_	_	_
+r.6.3	lugal-e	lugal[king]-e	N.ERG	_	_	_
+r.6.4	na-ru2-a-mah	naruamah[magnificent_stele]	N	_	_	_
+r.6.5	{d}en-lil2	Enlil[1]	DN	_	_	_
+r.6.6	{d}nin-lil2-la2	Ninlil[1][-ak][-ø]	DN.GEN.ABS	_	_	_

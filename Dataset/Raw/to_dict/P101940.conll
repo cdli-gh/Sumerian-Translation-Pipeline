@@ -1,0 +1,37 @@
+#new_text=P101940
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(gesz2)	1(gesz)[sixty]	NU
+o.1.2	4(u)	4(u)[ten]	NU	4[u][ten]	NU
+o.1.3	8(asz)	8(asz)[one]	NU
+o.1.4	sze	sze[barley]	N	sze[barley]	N	sze[grain]	N
+o.1.5	gur	gur[unit]	N
+o.1.6	lugal	lugal[king]	N	lugal[king][-ak]	N.GEN	lugal[quality_designation]	N	lugal[king][-ra]	N.DAT-H	lugal[a quality designation]	N	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-am]	N.COP-3-SG	lugal[king][-ak]	N	lugal[king][-e]	N.ERG	lugal[king]	N _  _ _	lugal[king][-ak][-ø]	N.GEN.ABS
+o.2.1	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _
+o.2.2	lu2-{d}nin-gir2-su	Luningirsu[1][-ak]	PN.GEN
+o.3.1	sag-ub3{ki}-ta	Sagub[1]-ta	SN.ABL
+o.4.1	x	_[_]	_
+o.4.2	iti	iti[month]	N	iti[month]	N _  _ _	iti[month][-ak]	N.GEN
+o.4.3	7(disz)-ta	7(disz)[one]-ta	NU.ABL
+o.5.1	x	_[_]	_
+o.5.2	la2	la[hang][-ø]	NF.V.ABS	lal[small]	N	lal[hang][-a]	V.SUB	lal[minus]	N	lal[small]	V												
+o.5.3	1(disz)	1(disz)[one]	NU
+o.5.4	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _
+o.5.5	na-ba-sa6	Nabasa[1][-ak]	PN.GEN
+o.6.1	ki	ki[place]	N
+o.6.2	ur-{d}szusz3-{d}ba-ba6-ta	Urszuszbaba[1][-ak]-ta	PN.GEN.ABL
+o.7.1	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
+o.7.2	1(barig)	1(bariga)[unit]	N
+o.7.3	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _
+o.7.4	lugal-mudra5	Lugalmudra[1][-ak]	PN.GEN
+o.8.1	e2-duru5	eduru[village]	N
+o.8.2	{d}inanna-ta	Inanna[1][-ak]-ta	DN.GEN.ABL
+o.9.1	4(u)	4(u)[ten]	NU	4[u][ten]	NU
+o.9.2	e2-gibil4-le-ta	Egibile[1]-ta	FN.ABL
+o.10.1	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _
+o.10.2	na-ba-sa6	Nabasa[1][-ak]	PN.GEN
+r.1.1	4(u)	4(u)[ten]	NU	4[u][ten]	NU
+r.1.2	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _
+r.1.3	lugal-mudra5	Lugalmudra[1][-ak]	PN.GEN
+r.2.1	e2-duru5	eduru[village]	N
+r.2.2	ur-li-ta	Urli[1]-ta	GN.ABL
+r.3.1	lugal-mudra5	Lugalmudra[1]	PN

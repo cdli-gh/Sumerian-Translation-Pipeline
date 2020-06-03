@@ -1,0 +1,24 @@
+#new_text=P119307
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(bur3)	2(bur)[unit]	N
+o.1.2	GAN2	gana[field]	N	GAN[surface]	N
+o.1.3	gesz-ur3-ra	geszur[harrow]-a	NF.V.PT
+o.1.4	a-ra2	ara[times]	N
+o.1.5	1(disz)	1(disz)[one][-sze]	NU.TERM
+o.1.6	4(iku)	4(iku)[unit]	N
+o.1.7	1/2(iku)	1/2(iku)[unit]	N
+o.1.8	GAN2-ta	gana[field]-ta	N.ABL
+o.2.1	a-sza3	aszag[field]	N
+o.2.2	gibil	gibil[new][-ø][-'a]	NF.V.ABS.L1	gibil[new][-a]	V.SUB
+o.3.1	ugula	ugula[overseer][-ø]	N.ABS
+o.3.2	lugal-ku3-zu	Lugalkuzu[1][-ø]	PN.ABS	Lugalkuzu[1][-ak]	PN.GEN	Lugalkuzu[1][-ak]	PN
+o.4.1	kiszib3	kiszib[seal]	N	kiszib[sealed_tablet]	N
+o.4.2	na-ba-sa6	Nabasa[1][-ak]	PN.GEN	Nabasa[1]	PN
+r.1.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _
+r.1.2	si-ma-num2{ki}	Simanum[1][-ø]	SN.ABS	Simanum[1]	SN
+r.1.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S
+s1.1.1	na-ba-sa6	Nabasa[1]	PN
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	he2-sa6	Hesa[1]	PN
+s1.3.1	iszib	iszib[priest]	N
+s1.3.2	{d}szara2	Szara[1][-ak][-ak]	DN.GEN.GEN	Szara[1][-ak][-ø]	SN.GEN.ABS	Szara[1][-ra]	DN.DAT-H	Szara[1][-ak][-ø]	DN.GEN

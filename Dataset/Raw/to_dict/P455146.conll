@@ -1,0 +1,5 @@
+#new_text=P455146
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	hu-ur5-bi-sza-am	Hurbiszam[1]	PN	_	_	_
+a.2.1	dumu	dumu[child]	N	_	_	_
+a.2.2	SI-A-a	SI'Aya[1][-ak]	PN.GEN	_	_	_

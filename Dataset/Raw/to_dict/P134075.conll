@@ -1,0 +1,36 @@
+#new_text=P134075
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(u)	1(u)[ten]	NU	_	_	_
+o.1.2	1(disz)	1(disz)[one]	NU	_	_	_
+o.1.3	gurusz	gurusz[male]	N	_	_	_
+o.2.1	ugula	ugula[overseer][-ø]	N.ABS	_	_	_
+o.2.2	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN.ABS	_	_	_
+o.3.1	9(disz)	9(disz)[one]	NU	_	_	_
+o.3.2	gurusz	gurusz[male]	N	_	_	_
+o.3.3	1(disz)	1(disz)[one]	NU	_	_	_
+o.3.4	gurusz	gurusz[male]	N	_	_	_
+o.3.5	tu-ra	tur[young][-a]	NF.V.PT	_	_	_
+o.4.1	ugula	ugula[overseer][-ø]	N.ABS	_	_	_
+o.4.2	lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN.ABS	_	_	_
+o.5.1	8(disz)	8(disz)[one]	NU	_	_	_
+o.5.2	gurusz	gurusz[male]	N	_	_	_
+o.6.1	ugula	ugula[overseer][-ø]	N.ABS	_	_	_
+o.6.2	lugal-ezem	Lugalezem[1][-ø]	PN.ABS	_	_	_
+r.1.1	gurum2	gurum[inspection][-ø]	N.ABS	_	_	_
+r.1.2	ak	ak[inspect][-a]	NF.V.PT	_	_	_
+r.1.3	u4	ud[day]	N	_	_	_
+r.1.4	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
+r.2.1	guru7	guru[grain_heap]	N	_	_	_
+r.2.2	sahar-u2-u2	Saharu'u[1][-ak][-'a]	SN.GEN.L1	_	_	_
+r.3.1	iti	iti[month]	N	_	_	_
+r.3.2	e2-iti-6(disz)	E'iti6[1][-'a]	MN.L1	_	_	_
+r.4.1	mu	mu[year]	N	_	_	_
+r.4.2	us2-sa	us[follow]-a	NF.V.PT	_	_	_
+r.4.3	mu	mu[year]	N	_	_	_
+r.4.4	si-mu-ru-um	Simurum[1]	SN	_	_	_
+r.4.5	lu-lu-bu{ki}	Lulubu[1][-ø]	SN.ABS	_	_	_
+r.4.6	a-ra2	ara[times]	N	_	_	_
+r.4.7	1(u)	1(u)[ten]	NU	_	_	_
+r.4.8	la2	la[hang][-ø]	NF.V.ABS	_	_	_
+r.4.9	1(disz)-kam	1(disz)[one]-ak-am	NU.GEN.COP-3-SG	_	_	_
+r.4.10	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S	_	_	_

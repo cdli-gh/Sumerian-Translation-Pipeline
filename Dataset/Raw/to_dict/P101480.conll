@@ -1,0 +1,35 @@
+#new_text=P101480
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	3(gesz'u)	3(gesz'u)[six_hundred]	NU
+o.1.2	2(gesz2)	2(gesz)[sixty]	NU
+o.1.3	sar	sar[unit]	N
+o.1.4	...	_[_]	_
+o.2.1	2(gesz'u)	2(gesz'u)[six_hundred]	NU
+o.2.2	sar	sar[unit]	N
+o.2.3	...	_[_]	_
+o.3.1	al	al[hoe][-ø]	N.ABS
+o.3.2	ak	ak[hoe][-a]	NF.V.PT
+o.3.3	gi	gi[reed]	N	gi[reed][-ø]	N.ABS
+o.3.4	ze2-a	ze[cut]-a	NF.V.PT
+o.4.1	a-sza3	aszag[field]	N
+o.4.2	la2-mah	Lamah[1]	FN
+r.1.1	ki	ki[place]	N
+r.1.2	bi2-du11-ga-ta	Biduga[1][-ak]-ta	PN.GEN.ABL
+r.2.1	kiszib3	kiszib[seal]	N	kiszib[seal]	N _ _ _
+r.2.2	a-tu	Atu[1]	PN	Atu[1]
+r.2.3	nu-banda3	nubanda[overseer][-ak]	N.GEN	nubanda[overseer][-ak]	N.GEN
+r.3.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _
+r.3.2	{d}nanna	Nanna[1]	DN	Nanna[1][-ak][-ø]	DN.GEN.ABS	Nanna[1][-ak]	DN.GEN
+r.3.3	kar-zi-da	Karzida[1][-ak][-ø]	SN.GEN.ABS	Karzida[-ak]	SN.GEN	Karzida[-ak][-ak][-ø]	SN.GEN.GEN.ABS	Karzida[1][-ak][-ak]	SN.GEN.GEN	Karzida[1][-ak][-ak][-ø]	SN.GEN.GEN
+r.3.4	a-ra2	ara[times]	N
+r.3.5	2(disz)-kam	2(disz)[one]-ak-am	NU.GEN.COP-3-SG	2(disz)[one]-ak-am	NU.GEN.COP-3-SG _  _ _
+r.3.6	e2-a-na	Eana[1][-'a]	TN.L1
+r.3.7	ba-kux(KWU147)	ba[-n]-kur[enter][-ø]	MID.L1-SYN.V.3-SG-S
+s1.1.1	ur-{d}li9-si4	Urlisi[1]	PN	Urlisi[1][-e]	PN.ERG
+s1.2.1	ensi2	ensik[ruler]	N	ensik[ruler][-ak]	N.GEN	ensik[ruler]	N _ _ _	ensik[ruler][-ak][-ak]	N.GEN.GEN
+s1.2.2	umma{ki}	Umma[1][-ak][-ø]	SN.GEN.ABS	Umma[1][-ak][-ak]	SN.GEN.GEN	Umma[1][-ak][-ak][-ak]	SN.GEN.GEN.GEN
+s1.3.1	a-tu	Atu[1]	PN	Atu[1][-ak]	PN.GEN
+s1.3.2	dub-sar	dubsar[scribe]	N	dubsar[scribe][-e]	N.ERG	dubsar[scribe][-ak]	N.GEN
+s1.4.1	dumu	dumu[child]	N
+s1.4.2	lugal-sa6-ga	Lugalsaga[1]-ak[-ø]	PN.GEN.ABS
+s1.4.3	ARAD2-zu	arad[slave]-zu[-ø]	N.2-SG-POSS.ABS	Aarad[slave]-zu	N.2-SG-POSS

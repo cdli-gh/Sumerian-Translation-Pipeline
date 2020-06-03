@@ -1,0 +1,17 @@
+#new_text=P100188						
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	masz-da	maszda[stone]	N			
+o.1.2	x	_[_]	_			
+o.2.1	dumu	dumu[child]	N			
+o.2.2	x	_[_]	_			
+o.2.3	x	_[_]	_			
+o.3.1	x	_[_]	_			
+o.3.2	x	_[_]	_			
+o.3.3	dumu	dumu[child]	N			
+o.3.4	x	_[_]	_			
+o.4.1	x	_[_]	_			
+o.4.2	x	_[_]	_			
+o.4.3	mar	mar[wagon]	N			
+o.4.4	x	_[_]	_			
+o.5.1	x	_[_]	_			
+o.5.2	...	_[_]	_			

@@ -1,0 +1,24 @@
+#new_text=P125067
+# ID	FORM	SEGM	XPOSTAG	HEAD	HEAD1	DEPREL	MISC
+o.1.1	6(disz)	6(disz)[one]	NU	6(disz)[one][-ø]	NU.ABS	6(disz)[one][-sze]	NU.TERM
+o.1.2	gurusz	gurusz[male]	N
+o.1.3	u4	ud[day]	N
+o.1.4	5(disz)-sze3	5(disz)[one]-sze	NU.TERM
+o.2.1	sze	sze[barley][-ø]	N.ABS	sze[unit]	N	sze[barley][-ø]	N.ABS	sze[barley][-ak]	N.GEN
+o.2.2	ma2-a	ma[ship]-a	N.L1
+o.2.3	si-ga	sig[load]-a	NF.V.PT	sig[fill]-a	NF.V.PT	sig[place]-a	NF.V.PT
+o.3.1	u3	u[and]	CNJ
+o.3.2	ma2	ma[ship][-ø]	N.ABS	ma[ship]	N
+o.3.3	diri-ga	dirig[drift]-a	NF.V.PT
+o.4.1	ugula	ugula[overseer][-ø]	N.ABS
+o.4.2	ur-{d}nin-mug	Urninmug[1][-ø]	PN.ABS
+o.5.1	iti	iti[month]	N	iti[month]	N _  _ _	iti[month]-	N	iti[month][-ta]	N.ABL
+o.5.2	dal	Dal[1][-'a]	MN.L1	Dal[1][-’a]	MN.L1
+o.6.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _
+o.6.2	an-sza-an{ki}	Anszan[1][-ø]	GN.ABS
+o.6.3	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S
+s1.1.1	ARAD2-mu	Aradmu[1]	PN	Aradmu[1][-ak][-ø]	PN.GEN.ABS
+s1.2.1	dub-sar	dubsar[scribe]	N	dubsar[scribe][-ak]	N.GEN	dubsar[scribe][-ø]	N.ABS
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-nigar{gar}	Urnigar[1]	PN
+s1.3.3	szusz3	kusz[cattle_manager][-ak]	N.GEN	kusz[official]	N

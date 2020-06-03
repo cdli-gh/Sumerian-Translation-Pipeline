@@ -1,0 +1,18 @@
+#new_text=P317338
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N	_	_	_
+o.2.1	sze-ba	szeba[ration]	N	_	_	_
+o.2.2	geme2	geme[female_worker]	N	_	_	_
+o.2.3	usz-bar	uszbar[garment_type][-ak][-ra]	N.GEN.DAT-H	_	_	_
+o.3.1	...	_[_]	_	_	_	_
+o.3.2	x	_[_]	_	_	_	_
+o.3.3	...	_[_]	_	_	_	_
+o.3.4	x	_[_]	_	_	_	_
+r.1.1	i3-gal2	i[-ni]-gal[be][-ø]	FIN.L1.V.3-SG-S	_	_	_
+r.2.1	mu	mu[year]	N	_	_	_
+r.2.2	{d}x-{d}suen	_[1]	RN	_	_	_
+r.2.3	lugal	lugal[king]	N	_	_	_
+r.2.4	x	_[_]	_	_	_	_
+r.2.5	x	_[_]	_	_	_	_
+r.2.6	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	N.ABS	_	_	_
+r.2.7	mu-du3	mu[-n]-du[build][-ø]	VEN.3-SG-H-A.V.3-SG-P	_	_	_

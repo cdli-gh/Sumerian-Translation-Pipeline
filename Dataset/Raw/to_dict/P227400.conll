@@ -1,0 +1,9 @@
+#new_text=P227400
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	ur-{d}namma	Urnamma[1]	RN	Urnamma[1][-ak]	PN.GEN
+o.2.1	lugal	lugal[king]	N	lugal[king][-ak]	N.GEN	lugal[king][-ø]	N.ABS	lugal[king][-ak][-ø]	N.GEN.ABS	lugal[king][-ak][-ak]	N.GEN.GEN	lugal[king][-ra]	N.DAT-H	lugal[king][-am]	N.COP-3-SG	lugal[king][-ak][-ra]	N.GEN.DAT-H	lugal[king][-ak]	N.DAT-H	lugal[king][-ak][-sze]	N.GEN.TERM	lugal[king]	N.DAT-H	lugal[king][-e]	N.ERG	lugal[king]	N _  _ _
+o.2.2	uri5{ki}-ma	Urim[1]-ak	SN.GEN	Urim[1]-ak[-'a]	SN.GEN.L1	Urim[1][-ak]	SN.GEN	Urim[1][-ak]-'a	SN.GEN.L1	Urim[1][-ak]-‘a	SN.GEN.L1	Urim[1]-'a	SN.L1
+o.3.1	lu2	lu[person]	N	lu[person][-e]	N.ERG
+o.3.2	e2	e[house]	N	e[house][-'a]	N.L1
+o.3.3	{d}nanna	Nanna[1]	DN	Nanna[1][-ak][-ø]	DN.GEN.ABS	Nanna[1][-ra]	DN.DAT-H	Nanna[1][-ak][-sze]	DN.GEN.TERM
+o.4.1	in-du3-a	i-n-du[build][-ø]-a	FIN.3-SG-H-A.V.3-SG-P.SUB

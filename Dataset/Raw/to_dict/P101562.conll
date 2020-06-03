@@ -1,0 +1,20 @@
+#new_text=P101562
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	(x)	_[_]	_
+o.1.2	2(u)	2(u)[ten]	NU
+o.1.3	geme2	geme[female_worker]	N
+o.1.4	iti	iti[month]	N	iti[month]	N _  _ _	iti[month][-ak]	N.GEN
+o.1.5	1(u)	1(u)[ten]	NU	1(u)[ten]	NU _  _ _
+o.1.6	3(disz)-sze3	3(disz)[one]-sze	NU.TERM
+o.2.1	geme2	geme[female_worker]	N
+o.2.2	e2-lunga	elungak[brewery][-ak][-ø]	N.GEN.ABS
+o.3.1	ki	ki[place]	N
+o.3.2	lugal-ezem-ta	Lugalezem[1][-ak]-ta	PN.GEN.ABL
+o.4.1	da-da-a	Dadaya[1]	PN
+o.4.2	i3-dab5	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.3-SG-P	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.ABS
+r.1.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _
+r.1.2	{d}nanna	Nanna[1]	DN	Nanna[1][-ak][-ø]	DN.GEN.ABS	Nanna[1][-ak]	DN.GEN
+r.1.3	kar-zi-da	Karzida[1][-ak]	SN.GEN	Karzida[-ak]	SN.GEN	Karzida[-ak][-ak][-ø]	SN.GEN.GEN.ABS	Karzida[1][-ak][-ak]	SN.GEN.GEN	Karzida[1][-ak][-ak][-ø]	SN.GEN.GEN
+s1.1.1	da-da-a	Dadaya[1]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N	dubsar[scribe][-e]	N.ERG	dubsar[scribe][-ak]	N.GEN
+s1.2.2	dug	dug[pot]	N								

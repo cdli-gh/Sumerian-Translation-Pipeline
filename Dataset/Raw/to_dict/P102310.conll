@@ -1,0 +1,19 @@
+#new_text=P102310
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	sila4	sila[lamb][-ø]	N.ABS
+o.2.1	u4	ud[day]	N
+o.2.2	2(u)	2(u)[ten]	NU
+o.2.3	8(disz)-kam	8(disz)[one]-ak-am	NU.GEN.COP-3-SG
+o.3.1	ki	ki[place]	N
+o.3.2	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN.GEN.ABL
+o.4.1	lu2-dingir-ra	Ludingira[1][-e]	PN.ERG
+o.5.1	i3-dab5	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.3-SG-P
+r.1.1	iti	iti[month]	N
+r.1.2	ses-da-gu7	Sesdagu[1][-'a]	MN.L1
+r.2.1	mu	mu[year]	N
+r.2.2	{d}amar-{d}suen	Amarsuen[1]	RN
+r.2.3	lugal-e	lugal[king]-e	N.ERG
+r.2.4	ur-bi2-lum{ki}	Urbilum[1][-ø]	SN.ABS
+r.2.5	mu-hul	mu[-n]-hulu[destroy][-ø]	VEN.3-SG-H-A.V.3-SG-P
+r.1.1	1(disz)	1(disz)[one]	NU

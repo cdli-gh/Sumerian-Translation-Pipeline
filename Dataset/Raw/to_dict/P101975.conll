@@ -1,0 +1,19 @@
+#new_text=P101975
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(disz)	2(disz)[one]	NU	_	_	_
+o.1.2	sila3	sila[unit]	N	_	_	_
+o.1.3	i3-gesz	igesz[oil]	N	_	_	_
+o.2.1	i3-ba	iba[oil_ration]	N	_	_	_
+o.2.2	nin-dingir-ra	Nindingir[1]-ak	PN.GEN	_	_	_
+o.3.1	4(disz)	4(disz)[one]	NU	_	_	_
+o.3.2	sila3	sila[unit]	N	_	_	_
+o.3.3	i3-gesz	igesz[oil]	N	_	_	_
+o.4.1	mu-kux(DU)	mukur[delivery]	N
+r.1.1	ki	ki[place]	N	_	_	_
+r.1.2	lu2-{d}utu-ta	Lu'utu[1][-ak]-ta	PN.GEN.ABL	_	_	_
+r.2.1	iti	iti[month]	N	_	_	_
+r.2.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN.L1	_	_	_
+r.3.1	mu	mu[year]	N	_	_	_
+r.3.2	us2-sa	us[follow]-a	NF.V.PT	_	_	_
+r.3.3	an-sza-an{ki}	Anszan[1][-ø]	GN.ABS	_	_	_
+r.3.4	ba-hul	ba-hulu[destroy][-ø]	MID.V.3-SG-S	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P380036
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU	2(u)[ten][-ø]	NU.ABS
+o.1.2	4(asz)	4(asz)[one]	NU
+o.1.3	sze	sze[barley]	N	sze[unit]	N	sze[barley][-ak]	N.GEN	sze[barley][-ø]	N.ABS
+o.1.4	gur	gur[unit]	N	gur[unit][-ø]	N.ABS	gur[unit][-ø]	N
+o.2.1	nig2-sa10	nigsam[price]	N
+o.2.2	ab2	ab[cow]	N	ab[cow][-ø]	N.ABS
+o.2.3	2(disz)-sze3	2(disz)[one]-sze	NU.TERM
+o.3.1	sze	sze[barley]	N	sze[unit]	N	sze[barley][-ak]	N.GEN	sze[barley][-ø]	N.ABS
+o.3.2	a-<sza3>	aszag[field]	N
+o.3.3	{gesz}ma-nu	manu[wood_type][-ø]	N.ABS
+o.4.1	ki	ki[place]	N
+o.4.2	lu2-{d}utu-ta	Lu'utu[1][-ak]-ta	PN.GEN.ABL
+o.5.1	...-bi	_[1][-e]	PN.ERG
+r.1.1	szu	szu[hand][-e]	N.L3-NH	szu[hand]	N	szu[hand][-ø]	N.ABS	szu[hand][-e]	N.L3
+r.1.2	ba-ti	ba[-n]-teg[accept][-ø]	MID.3-SG-H-A.V.3-SG-P	ba[-n]teg[accept][-ø]	MID.3-SG-H-A.V.3-SG-P	ba[-n]-teg[accept][-ø][-a]	MID.3-SG-H-A.V.3-SG-P.SUB	ba[-n]-teg[accept][-ø][-esz]	MID.3-SG-H-A.V.3-SG-P.3-PL
+r.2.1	iti	iti[month]	N	iti[month]	N _  _ _	iti[month]-	N	iti[month][-ta]	N.ABL
+r.2.2	ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN.L1
+r.3.1	mu	mu[year]	N	mu[name]	N	mu[year]	N _  _ _
+r.3.2	ma-da	mada[land]	N	mada[land][-ak][-ø]	N.GEN.ABS	mada[land]	N _  _ _
+r.3.3	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	SN.GEN.ABS	Zabszali[1][-ak]	SN.GEN	Zabszali[1][-ak][-ø]	GN.GEN.ABS _  _ _
+r.3.4	mu-hul	mu[-n]-hulu[destroy][-ø]	VEN.3-SG-H-A.V.3-SG-P	mu[-n]-hulu[destroy][-ø]	VEN.3-SG-H-A.V.3-SG-S _  _ _
