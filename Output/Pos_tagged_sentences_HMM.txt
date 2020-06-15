@@ -1,0 +1,372 @@
+1
+sentence: su-mu-ra-pi2
+POS:(su-mu-ra-pi2,N) 
+
+2
+sentence: dumu ia-szu-ub-dingir
+POS:(dumu,N) (ia-szu-ub-dingir,N) 
+
+3
+sentence: ARAD2 sza {d}iszkur
+POS:(ARAD2,N) (sza,N) ({d}iszkur,NE) 
+
+4
+sentence: ia-am-s,i2-at-nu-u2
+POS:(ia-am-s,i2-at-nu-u2,N) 
+
+5
+sentence: dumu a-li2-wa-aq-rum
+POS:(dumu,N) (a-li2-wa-aq-rum,N) 
+
+6
+sentence: ARAD2 sza {d}...
+POS:(ARAD2,N) (sza,N) ({d}...,NE) 
+
+7
+sentence: ur-{d}nanna
+POS:(ur-{d}nanna,NE) 
+
+8
+sentence: dumu {d}suen-i-qi2-sza-am
+POS:(dumu,N) ({d}suen-i-qi2-sza-am,NE) 
+
+9
+sentence: i-ri {d}su-he2-zi
+POS:(i-ri,N) ({d}su-he2-zi,NE) 
+
+10
+sentence: {d}nin-sza3-tuk-x
+POS:({d}nin-sza3-tuk-x,NE) 
+
+11
+sentence: za-ri-a-nu-u2
+POS:(za-ri-a-nu-u2,N) 
+
+12
+sentence: dumu sa-ma-nu
+POS:(dumu,N) (sa-ma-nu,N) 
+
+13
+sentence: ARAD2 sza {d}ku7
+POS:(ARAD2,N) (sza,N) ({d}ku7,NE) 
+
+14
+sentence: 4(iku) GAN2 DUR2-HAR sar
+POS:(4(iku),N) (GAN2,N) (DUR2-HAR,N) (sar,N) 
+
+15
+sentence: 1(u) uruda a-ru12-da ma-na
+POS:(1(u),NU) (uruda,N) (a-ru12-da,N) (ma-na,N) 
+
+16
+sentence: 4(asz) ku3 gin2
+POS:(4(asz),NU) (ku3,N) (gin2,N) 
+
+17
+sentence: sa10 GAN2-kam
+POS:(sa10,N) (GAN2-kam,N) 
+
+18
+sentence: 6(asz) sze gur
+POS:(6(asz),NU) (sze,N) (gur,N) 
+
+19
+sentence: nig2-diri
+POS:(nig2-diri,N) 
+
+20
+sentence: nita-tur
+POS:(nita-tur,N) 
+
+21
+sentence: dam-ni
+POS:(dam-ni,N) 
+
+22
+sentence: i7-hi-li-su3
+POS:(i7-hi-li-su3,N) 
+
+23
+sentence: lu2 sa10 gu7-me
+POS:(lu2,N) (sa10,N) (gu7-me,N) 
+
+24
+sentence: 4(asz) siki ma-na
+POS:(4(asz),NU) (siki,N) (ma-na,N) 
+
+25
+sentence: 1(asz) tug2 aktum
+POS:(1(asz),NU) (tug2,N) (aktum,N) 
+
+26
+sentence: 1(asz) tug2 ib2-du3
+POS:(1(asz),NU) (tug2,N) (ib2-du3,N) 
+
+27
+sentence: 2(asz) i3 sila3
+POS:(2(asz),NU) (i3,N) (sila3,N) 
+
+28
+sentence: 1(asz) nig2-sag-kesz2
+POS:(1(asz),NU) (nig2-sag-kesz2,N) 
+
+29
+sentence: 2(asz) ninda
+POS:(2(asz),NU) (ninda,N) 
+
+30
+sentence: nig2-ba
+POS:(nig2-ba,N) 
+
+31
+sentence: ur-{d}en-lil2
+POS:(ur-{d}en-lil2,NE) 
+
+32
+sentence: DI-{d}utu
+POS:(DI-{d}utu,NE) 
+
+33
+sentence: HAR-tu
+POS:(HAR-tu,N) 
+
+34
+sentence: ba-da-da
+POS:(ba-da-da,N) 
+
+35
+sentence: ur-{d}lamma
+POS:(ur-{d}lamma,NE) 
+
+36
+sentence: lu2 ki-inim-ma-me
+POS:(lu2,N) (ki-inim-ma-me,N) 
+
+37
+sentence: il2
+POS:(il2,N) 
+
+38
+sentence: ur-{d}nin-unu{ki}
+POS:(ur-{d}nin-unu{ki},NE) 
+
+39
+sentence: lu2 GAN2 sa10-me
+POS:(lu2,N) (GAN2,N) (sa10-me,N) 
+
+40
+sentence: dingir-a-zu
+POS:(dingir-a-zu,N) 
+
+41
+sentence: engar-bi
+POS:(engar-bi,N) 
+
+42
+sentence: ig-gi-nu-gi4
+POS:(ig-gi-nu-gi4,N) 
+
+43
+sentence: dub-sar-bi
+POS:(dub-sar-bi,N) 
+
+44
+sentence: ku3 2/3(|NINDA2x(SZE.2(ASZ))|)
+POS:(ku3,N) (2/3(|NINDA2x(SZE.2(ASZ))|),NU) 
+
+45
+sentence: 1(asz) i3 sila3
+POS:(1(asz),NU) (i3,N) (sila3,N) 
+
+46
+sentence: nig2-ba-ni
+POS:(nig2-ba-ni,N) 
+
+47
+sentence: ensi2-bi
+POS:(ensi2-bi,N) 
+
+48
+sentence: inim-ma-ni
+POS:(inim-ma-ni,N) 
+
+49
+sentence: 6(asz) uruda ma-na
+POS:(6(asz),NU) (uruda,N) (ma-na,N) 
+
+50
+sentence: sa10 GAN2
+POS:(sa10,N) (GAN2,N) 
+
+51
+sentence: 4(iku) GAN2-bi
+POS:(4(iku),N) (GAN2-bi,N) 
+
+52
+sentence: 4(asz) uruda ma-na
+POS:(4(asz),NU) (uruda,N) (ma-na,N) 
+
+53
+sentence: nig2-diri
+POS:(nig2-diri,N) 
+
+54
+sentence: 2(asz) sze lid2-ga
+POS:(2(asz),NU) (sze,N) (lid2-ga,N) 
+
+55
+sentence: nig2-ba
+POS:(nig2-ba,N) 
+
+56
+sentence: 2(asz) siki ma-na
+POS:(2(asz),NU) (siki,N) (ma-na,N) 
+
+57
+sentence: tug2
+POS:(tug2,N) 
+
+58
+sentence: 1(asz) me-gal2 tug2
+POS:(1(asz),NU) (me-gal2,N) (tug2,N) 
+
+59
+sentence: 2(u) ninda
+POS:(2(u),NU) (ninda,N) 
+
+60
+sentence: 2(u) gug2
+POS:(2(u),NU) (gug2,N) 
+
+61
+sentence: 3(asz) kur2 tu7(|HIxDISZ|)
+POS:(3(asz),NU) (kur2,N) (tu7(|HIxDISZ|),NU) 
+
+62
+sentence: 3(asz) kur2 |LAGABx(HA.A)|
+POS:(3(asz),NU) (kur2,N) (|LAGABx(HA.A)|,N) 
+
+63
+sentence: 1(asz) i3 sila3
+POS:(1(asz),NU) (i3,N) (sila3,N) 
+
+64
+sentence: ur-{d}en-lil2
+POS:(ur-{d}en-lil2,NE) 
+
+65
+sentence: ama(LAK769)-ma
+POS:(ama(LAK769)-ma,N) 
+
+66
+sentence: lugal-du10-NU2
+POS:(lugal-du10-NU2,NE) 
+
+67
+sentence: lu2 sa10 gu7
+POS:(lu2,N) (sa10,N) (gu7,N) 
+
+68
+sentence: 2(barig) sze
+POS:(2(barig),N) (sze,N) 
+
+69
+sentence: 1(u) ninda
+POS:(1(u),NU) (ninda,N) 
+
+70
+sentence: 1(u) gug2
+POS:(1(u),NU) (gug2,N) 
+
+71
+sentence: 2(asz) kur2 tu7
+POS:(2(asz),NU) (kur2,N) (tu7,N) 
+
+72
+sentence: 2(asz) kur2 |LAGABx(HA.A)|
+POS:(2(asz),NU) (kur2,N) (|LAGABx(HA.A)|,N) 
+
+73
+sentence: szesz-a-ra2-nu2
+POS:(szesz-a-ra2-nu2,N) 
+
+74
+sentence: szesz lu2
+POS:(szesz,N) (lu2,N) 
+
+75
+sentence: 1(asz) bahar4
+POS:(1(asz),NU) (bahar4,N) 
+
+76
+sentence: 1(asz) x-ri
+POS:(1(asz),NU) (x-ri,N) 
+
+77
+sentence: 1(asz) DI-utu
+POS:(1(asz),NU) (DI-utu,N) 
+
+78
+sentence: 1(asz) mes-u4-ba
+POS:(1(asz),NU) (mes-u4-ba,N) 
+
+79
+sentence: 1(asz) gaba-szu
+POS:(1(asz),NU) (gaba-szu,N) 
+
+80
+sentence: 1(asz) a2-nu-kusz2
+POS:(1(asz),NU) (a2-nu-kusz2,N) 
+
+81
+sentence: 1(asz) dingir-a-zu
+POS:(1(asz),NU) (dingir-a-zu,N) 
+
+82
+sentence: engar
+POS:(engar,N) 
+
+83
+sentence: 1(asz) dingir-lu2-mah
+POS:(1(asz),NU) (dingir-lu2-mah,N) 
+
+84
+sentence: nimgir
+POS:(nimgir,N) 
+
+85
+sentence: 1(asz) amar-szuba3
+POS:(1(asz),NU) (amar-szuba3,N) 
+
+86
+sentence: 1(asz) ku-li-li
+POS:(1(asz),NU) (ku-li-li,N) 
+
+87
+sentence: gudu4
+POS:(gudu4,N) 
+
+88
+sentence: 1(asz) ur2-mud
+POS:(1(asz),NU) (ur2-mud,N) 
+
+89
+sentence: lu2 ki-inim
+POS:(lu2,N) (ki-inim,N) 
+
+90
+sentence: 2(barig) sze
+POS:(2(barig),N) (sze,N) 
+
+91
+sentence: 5(asz) ninda
+POS:(5(asz),NU) (ninda,N) 
+
+92
+sentence: 1(u) gug2
+POS:(1(u),NU) (gug2,N) 
+
+93
+sentence: 1(asz) 1/2(DISZ) kur2 tu7
+POS:(1(asz),NU) (1/2(DISZ),NU) (kur2,N) (tu7,N) 
+
