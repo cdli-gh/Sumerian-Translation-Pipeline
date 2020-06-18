@@ -2,7 +2,9 @@ Fast text embeddings can be trained after cloning (https://github.com/facebookre
 
 
 $ git clone https://github.com/facebookresearch/fastText.git
+
 $ cd fastText
+
 $ pip install .
 
 
