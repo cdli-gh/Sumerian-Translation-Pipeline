@@ -9,7 +9,6 @@ $ pip install .
 
 
 
-For Training
-
+# For Training -
 
 Word_Embeddings/fasttext skipgram -input CDLI_Data/Sumerian_monolingual_processed.txt -output Word_Embeddings/sumerian_fasttext_100.txt
