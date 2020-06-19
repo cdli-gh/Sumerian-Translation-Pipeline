@@ -10,7 +10,7 @@ Contains Two folders
 ### 1. CDLI_DATA
 It contains Raw Sumerian Data taken from CDLI Dataset https://github.com/cdli-gh/data which is processed and converted to Monolingual Sumerian sentences. Further description is provided in the CDLI_DATA Folder.
 ### 2. Dataset  
-The training data is extracted from https://github.com/cdli-gh/mtaac_gold_corpus. The conll files are extracted to be used for Named Entity Recgonation and POS tagging. Cleaned Data repo contains the final data in csv format containg columns (Text, NER tag and/or POS tag) which can be used directly for the model. 
+The training data is extracted from https://github.com/cdli-gh/mtaac_gold_corpus. The conll files are extracted to be used for Named Entity Recgonation and POS tagging. This Repository contains the final data in csv format containg columns (Text, NER tag and/or POS tag) which can be used directly for the model. 
 
 
 # AIM
