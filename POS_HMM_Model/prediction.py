@@ -3,6 +3,7 @@ import pickle
 import re
 import pandas
 from tqdm import tqdm
+import argparse
 
 Input = 'CDLI_Data/sumerian_demo_mono.txt'
 Output = 'Output/Pos_tagged_sentences_HMM.txt'
@@ -50,7 +51,7 @@ def Openfile(filename):
 
 
 def Savefile(Monolingual_sumerian,POS_list):
-    with open(Output, 'w') as f:
+    with open(args.output, 'w') as f:
         for i in range(len(POS_list)):
             f.write("%s\n" %str(i+1))
             f.write("sentence: %s\n" %Monolingual_sumerian[i])
@@ -59,7 +60,7 @@ def Savefile(Monolingual_sumerian,POS_list):
     
     
 def main():
-    Monolingual_sumerian=Openfile(Input)
+    Monolingual_sumerian=Openfile(args.input)
     
     df=pd.read_csv('Dataset/POSTAG_training_ml.csv')
     tagged_sentence=Preparing_tagged_data(df)
@@ -80,10 +81,23 @@ def main():
     
     Prediction=Predict_Data(Monolingual_sumerian,train_tagged_words,tags_df)
     POS_list=POSLIST(Monolingual_sumerian,Prediction)
-    print("Saving_file "+Output)
+    print("Saving_file "+args.output)
     Savefile(Monolingual_sumerian,POS_list)
     
         
 if __name__=='__main__':
+    
+    parser = argparse.ArgumentParser()
+    
+    parser.add_argument("-i","--input",help="Location of the Input text file to be  predicted", default="CDLI_Data/sumerian_demo_mono.txt")
+    parser.add_argument("-o","--output",help="Location of output text file(Result)", default='Output/Pos_tagged_sentences_HMM.txt')
+    args=parser.parse_args()
+    
+    print("\n")
+    print("Input file is ", args.input)
+    print("Output file will be ", args.output)
+    print("\n")
+    
     main()
+
 

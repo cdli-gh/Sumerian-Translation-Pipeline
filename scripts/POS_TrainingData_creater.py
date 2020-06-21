@@ -43,7 +43,7 @@ def process_training(data):
     return data
 
 df=process_training(df)
-df=df.rename(columns={'FORM':'WORD','XPOSTAG':'POS'})
+df=df.rename(columns={'FORM':'FORM','XPOSTAG':'XPOSTAG'})
 
 print('final dataset is \n')
 print(df.head(10))

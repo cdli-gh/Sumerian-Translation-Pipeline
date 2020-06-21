@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn_crfsuite import metrics
 from sklearn_crfsuite import scorers
 from collections import Counter
+import argparse
 import pprint, time
 import re
 
@@ -16,11 +17,11 @@ def Preparing_tagged_data(df):
     temp=[]
     for i in range(len(df)):
         if df['ID'][i]==c:
-            temp.append((df['WORD'][i],df['POS'][i]))
+            temp.append((df['FORM'][i],df['XPOSTAG'][i]))
         else:
             tagged_sentence.append(temp)
             temp=[]
-            temp.append((df['WORD'][i],df['POS'][i]))
+            temp.append((df['FORM'][i],df['XPOSTAG'][i]))
             c+=1
     tagged_sentence.append(temp)
     for i in range(len(tagged_sentence)):
@@ -138,6 +139,7 @@ def TestData(test_set,train_bag,tags_df):
 
     end = time.time()
     difference = end-start
+    
     print("Time taken in seconds: ", difference)
 
 
@@ -149,7 +151,7 @@ def TestData(test_set,train_bag,tags_df):
     
 
 def main():
-    df=pd.read_csv('Dataset/POSTAG_training_ml.csv')
+    df=pd.read_csv(args.input)
     tagged_sentence=Preparing_tagged_data(df)
     #printing details
     printing_details(tagged_sentence)
@@ -183,4 +185,14 @@ def main():
     
     
 if __name__=='__main__':
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG)",default="Dataset/POSTAG_training_ml.csv")
+    
+    args=parser.parse_args()
+    
+    print("\n")
+    print("Input file is ", args.input)
+    print("\n")
+
     main()

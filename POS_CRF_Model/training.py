@@ -1,6 +1,7 @@
 import nltk
 import numpy as np
 import pandas as pd
+import argparse
 from sklearn.model_selection import train_test_split
 from nltk.tokenize import word_tokenize
 from sklearn_crfsuite import CRF
@@ -19,11 +20,11 @@ def Preparing_tagged_data(df):
     temp=[]
     for i in range(len(df)):
         if df['ID'][i]==c:
-            temp.append((df['WORD'][i],df['POS'][i]))
+            temp.append((df['FORM'][i],df['XPOSTAG'][i]))
         else:
             tagged_sentence.append(temp)
             temp=[]
-            temp.append((df['WORD'][i],df['POS'][i]))
+            temp.append((df['FORM'][i],df['XPOSTAG'][i]))
             c+=1
     tagged_sentence.append(temp)
     return tagged_sentence
@@ -55,9 +56,8 @@ def word_list(sentence):
 
 def prepareData(tagged_sentences):
     X,y=[],[]
-    for sentence in tagged_sentences:
+    for index,sentence in enumerate(tagged_sentences):
         single_sentence_feature=[]
-        
         # Preparing features of all words of a single sentence/phrase
         for i in range(len(sentence)):
             #word list of sentence
@@ -85,7 +85,8 @@ def TestData(crf, X_train,y_train,X_test,y_test):
 
 
 def main():
-    df=pd.read_csv('Dataset/POSTAG_training_ml.csv')
+
+    df=pd.read_csv(args.input)
     tagged_sentence=Preparing_tagged_data(df)
     #printing details
     printing_details(tagged_sentence)
@@ -109,7 +110,7 @@ def main():
     
     print("Saving Model .....")
     # Save the Model to file in the current working directory
-    Pkl_Filename = "Saved_Models/POS_CRF_Model.pkl"  
+    Pkl_Filename = args.output
     with open(Pkl_Filename, 'wb') as file:
         pickle.dump(crf, file)
         
@@ -120,5 +121,19 @@ def main():
     
     
 if __name__=='__main__':
+    
+    
+    parser = argparse.ArgumentParser()
+    
+    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG)",default="Dataset/POSTAG_training_ml.csv")
+    parser.add_argument("-o","--output",help="Location of model weights to be saved",default="Saved_Models/POS_CRF_Model.pkl")
+    
+    args=parser.parse_args()
+    
+    print("\n")
+    print("Input file is ", args.input)
+    print("Output file is ", args.output)
+    print("\n")
+    
     main()
     
