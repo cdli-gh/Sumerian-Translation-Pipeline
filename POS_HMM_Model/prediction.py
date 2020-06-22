@@ -89,7 +89,7 @@ if __name__=='__main__':
     
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("-i","--input",help="Location of the Input text file to be  predicted", default="CDLI_Data/sumerian_demo_mono.txt")
+    parser.add_argument("-i","--input",help="Location of the Input text file to be  predicted", default="CDLI_Data/sumerian_demo.txt")
     parser.add_argument("-o","--output",help="Location of output text file(Result)", default='Output/Pos_tagged_sentences_HMM.txt')
     args=parser.parse_args()
     
