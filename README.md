@@ -3,6 +3,16 @@ The project aims to translate and provide detailed information(POS tagging, Name
 
 The tags/symbols(ORACC Version) for NER and POS can be observed from here - https://cdli-gh.github.io/guides/guide_tagsets.html
 
+
+## Requirements
+
+- Python 3.5.2 or higher
+- NumPy
+- Pandas
+- Keras
+- Tensorflow
+
+
 ## Project structure
 
 ```
@@ -58,6 +68,10 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
    |__sumerian_random.py --> code to extract 150 random sentences from 1.5M Sumerian_monolingual_processed.txt
 
 ```
+
+
+
+
 
 ### Mentor:
 
