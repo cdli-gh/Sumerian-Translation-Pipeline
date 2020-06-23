@@ -59,7 +59,6 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 
 ```
 
-### Possible Mentors:
+### Mentor:
 
 1. Ravneet Punia
-2. Niko Schenk
