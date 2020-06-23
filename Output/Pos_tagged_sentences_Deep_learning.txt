@@ -1,6 +1,6 @@
 1
 sentence: sag-ki hu-mu-ra-ab-zalag-ge
-POS:(sag-ki,NE) (hu-mu-ra-ab-zalag-ge,NE) 
+POS:(sag-ki,N) (hu-mu-ra-ab-zalag-ge,NE) 
 
 2
 sentence: ki na-sa6-ta
