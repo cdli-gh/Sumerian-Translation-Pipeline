@@ -11,6 +11,7 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 - Pandas
 - Keras
 - Tensorflow
+- crf keras (pip3 install git+https://www.github.com/keras-team/keras-contrib.git)
 
 
 ## Project structure
@@ -69,9 +70,68 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 
 ```
 
+## Usage
+Clone the Repo https://github.com/cdli-gh/Sumerian-NER.git
 
+### 1. Hidden Markov Model (POS_HMM)
+No need to train. To evaluate/run use HMM.py. It calculates probability without saving weights.
+```
+$ Python3 POS_HMM_Model/HMMs.py
+HMMs.py [-h] [-i INPUT]
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+                        Location of the Input training file in the specific
+                        format (csv file with columns ID FORM XPOSTAG)
+```
+### 2. Conditional Random Field (POS_CRF_Model)
+Uses Sumerian Features, can be modified with the subject knowledge. Weights of CRF models are saved in Saved_Model.
+```
+$ python3 POS_CRF_Model/training.py
+training.py [-h] [-i INPUT] [-o OUTPUT]
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+                        Location of the Input training file in the specific
+                        format (csv file with columns ID FORM XPOSTAG)
+  -o OUTPUT, --output OUTPUT
+                        Location of model weights to be saved
+```
+### 3. Bidirectional LSTM Neural Network (Bi_LSTM_Model)
+Deep learning model, uses fasttext word-embeddings, weights are saved as model.h5 in Saved_Model.  
+```
+$ Python3 POS_Bi_LSTM/POS_Deep_learning.py
+POS_Deep_learning.py [-h] [-i INPUT] [-e EMBEDDING] [-o OUTPUT]
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+                        Location of the Input training file in the specific
+                        format (csv file with columns ID FORM XPOSTAG)
+  -e EMBEDDING, --embedding EMBEDDING
+                        Location of sumerian word embeddings
+  -o OUTPUT, --output OUTPUT
+                        Location of model weights to be saved
+```
 
+## Predictions
+Since weights are saved, we can directly use all three for models directly for predictions.   
+```
+prediction.py [-h] [-i INPUT] [-s SAVED] [-o OUTPUT]
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+                        Location of the Input text file to be predicted
+  -s SAVED, --saved SAVED
+                        Location of saved CRF weights in .pkl format
+  -o OUTPUT, --output OUTPUT
+                        Location of output text file(Result)
 
+Any Model can be used for the predictions for any txt file. Here we used Dataset/sumerian_demo.txt as input file.  
+
+$ python3 POS_HMM_Model/prediction.py
+$ python3 POS_CRF_Model/prediction.py
+$ python3 POS_Bi_LSTM/prediction.py
+```
 
 ### Mentor:
 
