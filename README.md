@@ -34,25 +34,35 @@ The training data is extracted from https://github.com/cdli-gh/mtaac_gold_corpus
         
 |__ Output/ --> Results of POS using different models (CRF,HMM,Bi_LSTM) on 150 randomly selected sumerian sentences
 
-|__ embeddings
-        |__ get_glove_embeddings.sh --> script for downloading GloVe6B 100-dimensional word embeddings
-        |__ get_fasttext_embeddings.sh --> script for downloading Fasttext word embeddings
-|__ pretrained/
-        |__ tagger_NER.hdf5 --> tagger for NER, BiLSTM+CNN+CRF trained on NER-2003 shared task, English
-src/
-|__utils/
-   |__generate_tree_description.py --> import os
-   |__generate_ft_emb.py --> generate predefined FastText embeddings for dataset
-|__models/
-   |__tagger_base.py --> abstract base class for all types of taggers
-   |__tagger_birnn.py --> Vanilla recurrent network model for sequences tagging.
-   |__tagger_birnn_crf.py --> BiLSTM/BiGRU + CRF tagger model
-   |__tagger_birnn_cnn.py --> BiLSTM/BiGRU + char-level CNN tagger model
-   |__tagger_birnn_cnn_crf.py --> BiLSTM/BiGRU + char-level CNN  + CRF tagger model   
-|__data_io/   
-   |__data_io_connl_ner_2003.py --> input/output data wrapper for CoNNL file format used in  NER-2003 Shared Task dataset
-   |__data_io_connl_pe.py --> input/output data wrapper for CoNNL file format used in Persuassive Essays dataset
-   |__data_io_connl_wd.py --> input/output data wrapper for CoNNL file format used in Web Discourse dataset
+|__ POS_Bi_LSTM
+        |__ POS_Deep_learning.py --> Bidirectional LSTM Neural network model trained with fasttext word embeddings 
+        |__ prediction.py --> python file use to predict output of deep neural network
+
+|__ POS_CRF_Model
+        |__ Sumerian_CRF_features.py --> set of rules/features to identify POS tags for sumerian languages 
+        |__ training.py --> conditional random field model including abouve feature set to identify pos taggs for sumerian language 
+        |__ prediction.py --> python file use to predict output of CRF model
+
+|__ POS_HMM_Model
+        |__ POS_Deep_learning.py --> Hidden markov model based on emission and transition probabilities   
+        |__ prediction.py --> python file use to predict output of HMM model
+        
+|__ Saved_Model/ --> Saved weights of above three models, output can be predicted using these without training the models 
+
+|__ TextAugmentation/
+        |__ Raw/
+            |__ Raw_NER_POS_data.csv/ --> Extracted and processed sumerian conll files using
+            |__ pndictionary.csv/ --> raw dataset which contains sumerian names and associated named entities 
+        |__ pndictioanry_processed.csv / --> processed pndictionary.csv using emission pndictionary_process.py 
+        |__ pndictionary_process.py / --> python code used to process raw dictionary and convert in usable form
+        |__ textdata_augmentation.py/ --> Python code for text augmentation, used raw human annotated dataset of 3500 phrase and converted to 22500 phrases using pndictioanry_processed.csv and Raw_NER_POS_data.csv
+
+|__ Word_Embeddings/ --> Sumerian word embeddings(word2vec,fasttext) and code to train the word embeddings on Sumerian_monolingual_processed.txt
+
+|__scripts/
+   |__CDLI_conll_extracter.py --> code to extract POS and Raw_POS_NER datset from CDLI conll files 
+   |__POS_TrainingData_creater.py --> code to creat POS_Training dataset 
+   |__sumerian_random.py --> code to extract 150 random sentences from 1.5M Sumerian_monolingual_processed.txt
 
 ```
 
