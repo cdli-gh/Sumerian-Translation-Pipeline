@@ -23,10 +23,17 @@ The training data is extracted from https://github.com/cdli-gh/mtaac_gold_corpus
         |__ Sumerian_translated.txt/ --> Sumerian Parallel En-Su data extracted from CDLI raw data using extract.py
         |__ Sumerian_untranslated.txt/ --> Sumerian Monolingual data extracted from CDLI raw data using extract.py
         
+|__ Dataset/
+        |__ Raw/
+            |__ CDLI conll files, human annotated data, taken from CDLI/mtacc_gold_corpus
+        |__ Augmented_POSTAG_training_ml.csv/ --> Augmented POS tag training Data using Named dictionary and POS_training_ml.csv, generated after applying TextAugmentation
+        |__ Augmented_RAW_NER_POS.csv/ --> Augmented Raw training Data include POS and NER using Named dictionary and POS_training_ml.csv generated after applying TextAugmentation
+        |__ POSTAG_training_ml.csv/ --> POS tagging dataset created from 'Dataset/Raw_NER_POS_data.csv' using scripts/POS_TrainingData_creater.py
+        |__ Raw_NER_POS_data.csv/ --> Extracted and processed sumerian conll files using scripts/CDLI_conll_extracter.py 
+        |__ sumerian_demo.txt/ --> Randomly extracted 150 sentences for the manual testing  of modeles from 1.5M sumerian text, code used - scripts/sumerian_random.py 
         
-        
-        
-|__ docs/ --> documentation
+|__ Output/ --> Results of POS using different models (CRF,HMM,Bi_LSTM) on 150 randomly selected sumerian sentences
+
 |__ embeddings
         |__ get_glove_embeddings.sh --> script for downloading GloVe6B 100-dimensional word embeddings
         |__ get_fasttext_embeddings.sh --> script for downloading Fasttext word embeddings
@@ -47,6 +54,7 @@ src/
    |__data_io_connl_pe.py --> input/output data wrapper for CoNNL file format used in Persuassive Essays dataset
    |__data_io_connl_wd.py --> input/output data wrapper for CoNNL file format used in Web Discourse dataset
 
+```
 
 ### Possible Mentors:
 
