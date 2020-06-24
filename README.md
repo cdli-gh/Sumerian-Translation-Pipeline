@@ -9,9 +9,10 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 - Python 3.5.2 or higher
 - NumPy
 - Pandas
+- Sklearn
 - Keras
 - Tensorflow
-- crf keras (pip3 install git+https://www.github.com/keras-team/keras-contrib.git)
+- CRF keras (pip3 install git+https://www.github.com/keras-team/keras-contrib.git)
 
 
 ## Project structure
