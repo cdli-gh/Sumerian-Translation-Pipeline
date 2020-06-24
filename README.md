@@ -10,6 +10,7 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 - numPy
 - pandas
 - sklearn
+- sklearn_crfsuite
 - matplotlib
 - tqdm
 - keras
@@ -74,7 +75,9 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 ```
 
 ## Usage
-Clone the Repo https://github.com/cdli-gh/Sumerian-NER.git
+Clone the Repo https://github.com/cdli-gh/Sumerian-NER.git \
+Install requirments- \
+$sh requirments.sh 
 
 ### 1. Hidden Markov Model (POS_HMM)
 No need to train. To evaluate/run use HMM.py. It calculates probability without saving weights.
