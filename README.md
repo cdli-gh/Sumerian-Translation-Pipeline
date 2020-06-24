@@ -10,6 +10,7 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 - numPy
 - pandas
 - sklearn
+- sklearn_crfsuite
 - matplotlib
 - tqdm
 - keras
