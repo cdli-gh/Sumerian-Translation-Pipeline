@@ -125,7 +125,7 @@ if __name__=='__main__':
     
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG)",default="Dataset/POSTAG_training_ml.csv")
+    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format(csv file with columns ID FORM XPOSTAG)",default="Dataset/Augmented_POSTAG_training_ml.csv")
     parser.add_argument("-o","--output",help="Location of model weights to be saved",default="Saved_Models/POS_CRF_Model.pkl")
     
     args=parser.parse_args()
