@@ -103,11 +103,12 @@ def main():
 if __name__=='__main__':
     
     
+    
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("-i","--input",help="Location of the Input text file to be  predicted", default="Dataset/sumerian_demo.txt")
-    parser.add_argument("-s","--saved",help="Location of saved CRF weights in .pkl format", default="Saved_Models/POS_CRF_Model.pkl" )
-    parser.add_argument("-o","--output",help="Location of output text file(Result)", default='Output/Pos_tagged_sentences_crf.txt')
+    parser.add_argument("-i","--input",help="Location of the Input text file to be  predicted", default="Sumerian-NER/Dataset/sumerian_demo.txt")
+    parser.add_argument("-s","--saved",help="Location of saved CRF weights in .pkl format", default="Sumerian-NER/Saved_Models/POS_CRF_Model.pkl" )
+    parser.add_argument("-o","--output",help="Location of output text file(Result)", default='Sumerian-NER/Output/Pos_tagged_sentences_crf.txt')
     
     args=parser.parse_args()
     
