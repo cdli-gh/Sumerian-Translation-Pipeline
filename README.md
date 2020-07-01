@@ -12,7 +12,7 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 - sklearn
 - sklearn_crfsuite
 - matplotlib
-- tqdm
+- tqdm>=4.46.1
 - keras
 - tensorflow
 - CRF keras (pip3 install git+https://www.github.com/keras-team/keras-contrib.git)
