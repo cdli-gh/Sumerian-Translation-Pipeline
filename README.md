@@ -153,18 +153,18 @@ $ Python3 {POS_Models/NER_Models}/{POS_Bi_LSTM_CRF/NER_Bi_LSTM_CRF}/training.py
 
 
 ### Predictions
-Since weights are saved, we can directly use all models directly for predictions.   
+Since weights are saved, we can use all models directly for predictions.   
 ```
 $ Python3 {POS_Models/NER_Models}/{Choice from the above models}/prediction.py
   -h, --help            show this help message and exit
   -i INPUT, --input INPUT
                         Location of the Input text file to be predicted
   -s SAVED, --saved SAVED
-                        Location of saved CRF weights in .pkl format
+                        Location of saved weights in .pkl or .h5 format
   -o OUTPUT, --output OUTPUT
                         Location of output text file(Result)
 
-Any Model can be used for the predictions for any txt file. Here we used Dataset/sumerian_demo.txt as input file.
+Any Model can be used for the predictions for any txt file. Here we used Dataset/sumerian_demo.txt as input file. which contains 150 random sentences from 1.5M sumerian text.
 ```
 
 
