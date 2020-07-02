@@ -39,24 +39,37 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
         |__ POSTAG_training_ml.csv/ --> POS tagging dataset created from 'Dataset/Raw_NER_POS_data.csv' using scripts/POS_TrainingData_creater.py
         |__ Raw_NER_POS_data.csv/ --> Extracted and processed sumerian conll files using scripts/CDLI_conll_extracter.py 
         |__ sumerian_demo.txt/ --> Randomly extracted 150 sentences for the manual testing  of modeles from 1.5M sumerian text, code used - scripts/sumerian_random.py 
-        
+
+|__NER_Models/         
+        |__ NER_CRF_Model
+                |__ NER_CRF_features.py --> set of rules/features to identify NER tags for sumerian languages 
+                |__ training.py --> conditional random field model including abouve feature set to identify NER taggs for sumerian language 
+                |__ prediction.py --> python file use to predict output of CRF model
+
 |__ Output/ --> Results of POS using different models (CRF,HMM,Bi_LSTM) on 150 randomly selected sumerian sentences
 
-|__ POS_Bi_LSTM
-        |__ POS_Deep_learning.py --> Bidirectional LSTM Neural network model trained with fasttext word embeddings 
-        |__ prediction.py --> python file use to predict output of deep neural network
+|__POS_Models/
+        |__ POS_Bi_LSTM
+                |__ training.py --> Bidirectional LSTM Neural network model trained with word2vec embeddings 
+                |__ prediction.py --> python file use to predict output of deep neural network
+                
+        |__ POS_Bi_LSTM_CRF
+                |__ training.py --> Bidirectional LSTM Neural network with CRF integrated, trained with word2vec embeddings 
+                |__ prediction.py --> python file use to predict output of deep neural network
+                
+        |__ POS_CRF_Model
+                |__ POS_CRF_features.py --> set of rules/features to identify POS tags for sumerian languages 
+                |__ training.py --> conditional random field model including abouve feature set to identify pos taggs for sumerian language 
+                |__ prediction.py --> python file use to predict output of CRF model
 
-|__ POS_CRF_Model
-        |__ Sumerian_CRF_features.py --> set of rules/features to identify POS tags for sumerian languages 
-        |__ training.py --> conditional random field model including abouve feature set to identify pos taggs for sumerian language 
-        |__ prediction.py --> python file use to predict output of CRF model
-
-|__ POS_HMM_Model
-        |__ POS_Deep_learning.py --> Hidden markov model based on emission and transition probabilities   
-        |__ prediction.py --> python file use to predict output of HMM model
+        |__ POS_HMM_Model
+                |__ training.py --> Hidden markov model based on emission and transition probabilities   
+                |__ prediction.py --> python file use to predict output of HMM model
         
-|__ Saved_Model/ --> Saved weights of above three models, output can be predicted using these without training the models 
-
+|__ Saved_Model/ --> Saved weights of above models, output can be predicted using these without training the models 
+        |__ POS/
+        |__ NER/
+        
 |__ TextAugmentation/
         |__ Raw/
             |__ Raw_NER_POS_data.csv/ --> Extracted and processed sumerian conll files using
