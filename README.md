@@ -92,51 +92,70 @@ Clone the Repo https://github.com/cdli-gh/Sumerian-NER.git \
 Install requirments- \
 $sh requirments.sh 
 
-### 1. Hidden Markov Model (POS_HMM)
-No need to train. To evaluate/run use HMM.py. It calculates probability without saving weights.
+
+### Pipeline
+Run Sumerian Translation Pipeline to extract information about POS, NER and Machine Translation   
 ```
-$ Python3 POS_HMM_Model/HMMs.py
-HMMs.py [-h] [-i INPUT]
-optional arguments:
-  -h, --help            show this help message and exit
-  -i INPUT, --input INPUT
-                        Location of the Input training file in the specific
-                        format (csv file with columns ID FORM XPOSTAG)
-```
-### 2. Conditional Random Field (POS_CRF_Model)
-Uses Sumerian Features, can be modified with the subject knowledge. Weights of CRF models are saved in Saved_Model.
-```
-$ python3 POS_CRF_Model/training.py
-training.py [-h] [-i INPUT] [-o OUTPUT]
-optional arguments:
-  -h, --help            show this help message and exit
-  -i INPUT, --input INPUT
-                        Location of the Input training file in the specific
-                        format (csv file with columns ID FORM XPOSTAG)
-  -o OUTPUT, --output OUTPUT
-                        Location of model weights to be saved
-```
-### 3. Bidirectional LSTM Neural Network (Bi_LSTM_Model)
-Deep learning model, uses fasttext word-embeddings, weights are saved as model.h5 in Saved_Model.  
-```
-$ Python3 POS_Bi_LSTM/POS_Deep_learning.py
-POS_Deep_learning.py [-h] [-i INPUT] [-e EMBEDDING] [-o OUTPUT]
-optional arguments:
-  -h, --help            show this help message and exit
-  -i INPUT, --input INPUT
-                        Location of the Input training file in the specific
-                        format (csv file with columns ID FORM XPOSTAG)
-  -e EMBEDDING, --embedding EMBEDDING
-                        Location of sumerian word embeddings
-  -o OUTPUT, --output OUTPUT
-                        Location of model weights to be saved
+usage: pipeline.py [-h] [-i INPUT]
+                   [-p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}]
+                   [-n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}]
+                   [-t {Transformer}] [-o OUTPUT]
+                   
+  -i INPUT,
+          Location of the Input ATF File
+  -p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}
+                        POS Model to be used out of the above choices 
+  -n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}
+                        NER Model to be used from above the choices
+  -t {Transformer}
+                        Machine Translation Model to be used from above choices 
+  -o OUTPUT
+                        Location of output Directory/Folder
 ```
 
-## Predictions
-Since weights are saved, we can directly use all three for models directly for predictions.   
+
+## POS and NER MODELS
+
+### Training
+#### 1 Hidden Markov Model (POS_HMM)
+No need to train. To evaluate/run use HMM.py. It calculates probability without saving weights.
 ```
-prediction.py [-h] [-i INPUT] [-s SAVED] [-o OUTPUT]
-optional arguments:
+$ Python3 POS_Models/POS_HMM/training.py
+  -i INPUT,     Location of the Input training file in the specific
+                format (csv file with columns ID FORM XPOSTAG)
+```
+#### 2. Conditional Random Field (CRF_Model)
+Uses Sumerian Features, can be modified with the subject knowledge. Weights of CRF models are saved in Saved_Model. There are different files for sumerian POS features and sumerian NER features
+```
+$ Python3 {POS_Models/NER_Models}/{POS_CRF/NER_CRF}/training.py
+  -i INPUT,      Location of the Input training file in the specific
+                 format (csv file with columns ID FORM XPOSTAG/NER)
+  -o OUTPUT,     Location of the model weights to be saved
+```
+#### 3. Bidirectional LSTM Neural Network (Bi_LSTM_Model)
+Deep learning model, used word2vec/fasttext word-embeddings, weights are saved in .h5 format in Saved_Model.  
+```
+$ Python3 {POS_Models/NER_Models}/POS_Bi_LSTM/training.py
+  -i INPUT,      Location of the Input training file in the specific
+                 format (csv file with columns ID FORM XPOSTAG)
+  -e EMBEDDING,  Location of sumerian word embeddings
+  -o OUTPUT,     Location of model weights to be saved
+```
+#### 4. Bidirectional LSTM Neural Network CRF (Bi_LSTM_CRF_Model)
+Integrated Deep learning and conditional random field model, uses word2vec/fasttext word-embeddings, weights are saved in .h5 format in Saved_Model..  
+```
+$ Python3 {POS_Models/NER_Models}/{POS_Bi_LSTM_CRF/NER_Bi_LSTM_CRF}/training.py
+  -i INPUT,      Location of the Input training file in the specific
+                 format (csv file with columns ID FORM XPOSTAG)
+  -e EMBEDDING,  Location of sumerian word embeddings
+  -o OUTPUT,     Location of model weights to be saved
+```
+
+
+### Predictions
+Since weights are saved, we can directly use all models directly for predictions.   
+```
+$ Python3 {POS_Models/NER_Models}/{Choice from the above models}/prediction.py
   -h, --help            show this help message and exit
   -i INPUT, --input INPUT
                         Location of the Input text file to be predicted
@@ -145,12 +164,9 @@ optional arguments:
   -o OUTPUT, --output OUTPUT
                         Location of output text file(Result)
 
-Any Model can be used for the predictions for any txt file. Here we used Dataset/sumerian_demo.txt as input file.  
-
-$ python3 POS_HMM_Model/prediction.py
-$ python3 POS_CRF_Model/prediction.py
-$ python3 POS_Bi_LSTM/prediction.py
+Any Model can be used for the predictions for any txt file. Here we used Dataset/sumerian_demo.txt as input file.
 ```
+
 
 ### Mentor:
 
