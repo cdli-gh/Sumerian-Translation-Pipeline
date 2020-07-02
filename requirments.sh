@@ -3,7 +3,7 @@ pip3 install pandas
 pip3 install matplotlib
 pip3 install sklearn
 pip3 install sklearn_crfsuite
-pip3 install tqdm
+pip3 install tqdm==4.46.1
 pip3 install Keras
 pip3 install tensorflow
 pip3 install git+https://www.github.com/keras-team/keras-contrib.git
