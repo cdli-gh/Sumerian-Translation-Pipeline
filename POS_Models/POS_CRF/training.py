@@ -91,7 +91,7 @@ def main():
     #printing details
     printing_details(tagged_sentence)
     
-    train_set, test_set = train_test_split(tagged_sentence,test_size=0.1,random_state=42)
+    train_set, test_set = train_test_split(tagged_sentence,test_size=0.05,random_state=7)
     
     #print("Number of Sentences in Training Data ",len(train_set))
     #print("Number of Sentences in Testing Data ",len(test_set))
@@ -102,7 +102,7 @@ def main():
     algorithm='lbfgs',
     c1=0.01,
     c2=0.1,
-    max_iterations=100,
+    max_iterations=1000,
     all_possible_transitions=True)
     
     crf.fit(X_train, y_train)

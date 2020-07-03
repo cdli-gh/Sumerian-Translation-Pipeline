@@ -36,7 +36,15 @@ def features(sentence,index):
 
     d['distorted_word_2'] = 1 if re.search(r'\.\.\.',sentence[index]) else 0
 
-    d['Is_number_form_1'] = 1 if re.search(r'\d+\(\.+\)',word) else 0
+    d['Is_number_form_1'] = 1 if re.search(r'\d+\(.+\)',word) else 0
+    
+    d['Is_number_inword'] = 1 if re.search(r'\d',word) else 0
+    
+    d['Is_Verb'] = 1 if re.search(r'a\d',word) else 0
+    
+    d['Is_Verb_1'] = 1 if re.search(r'a-a',word) else 0
+    
+    d['Is_Verb_2'] = 1 if re.search(r'z-z',word) else 0
         
     d['Is_child_left'] = 1 if left=='dumu' else 0
     
@@ -76,7 +84,7 @@ def features(sentence,index):
     
     d['Is_PN_7'] = 1 if right=='zarin' else 0
     
-    d['Is_quantity'] = 1 if re.search(r'\d+\(\w+\)',left) else 0
+    #d['Is_quantity'] = 1 if re.search(r'\d+\(\w+\)',left) else 0
     
     d['Is_month'] = 1 if left=='iti' else 0
     
@@ -110,3 +118,4 @@ if __name__=='__main__':
     print("Features/Rules for sumerian POS tagging")
 
     
+

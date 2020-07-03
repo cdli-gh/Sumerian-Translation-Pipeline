@@ -14,7 +14,10 @@ def POSLIST(Monolingual_sumerian,Prediction):
         l=Monolingual_sumerian[i].split()
         POS=""
         for j in range(len(l)):
-            POS=POS+"("+l[j]+","+Prediction[i][j]+")"+" "
+            if(re.search(r'\d+\(.+\)',l[j])):
+                POS=POS+"("+l[j]+","+"NU"+")"+" "
+            else:    
+                POS=POS+"("+l[j]+","+Prediction[i][j]+")"+" "
         print('POS:'+POS)
         my_list.append(POS)
         print()
@@ -49,8 +52,8 @@ def Openfile(filename):
 def Savefile(Monolingual_sumerian,POS_list):
     with open(args.output, 'w') as f:
         for i in range(len(POS_list)):
-            #f.write("%s\n" %str(i+1))
-            #f.write("sentence: %s\n" %Monolingual_sumerian[i])
+            f.write("%s\n" %str(i+1))
+            f.write("sentence: %s\n" %Monolingual_sumerian[i])
             f.write("POS:%s\n\n" % POS_list[i])
     print()
     

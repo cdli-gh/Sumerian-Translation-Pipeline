@@ -151,7 +151,7 @@ def main():
     print ('Maximum sequence length:', MAX)
     word2idx,idx2word,tag2idx,idx2tag= preparedicts(df)
     X,y=prepareData(sentences,word2idx,tag2idx)
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1,random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.05,random_state=7)
     
     print("Dataset dimentions \n")
     print(X_train.shape,y_train.shape)

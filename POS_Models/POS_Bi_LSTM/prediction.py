@@ -107,13 +107,16 @@ def Predict_Testtag(loaded_model,X,Monolingual_sumerian,idx2tag):
 
 def POSLIST(Monolingual_sumerian,Prediction):
     my_list=[]
-    for i in range(len(Monolingual_sumerian)):
+    for i in tqdm(range(len(Monolingual_sumerian))):
         print(i+1)
         print("sentence: "+Monolingual_sumerian[i])
         l=Monolingual_sumerian[i].split()
         POS=""
         for j in range(len(l)):
-            POS=POS+"("+l[j]+","+Prediction[i][j]+")"+" "
+            if(re.search(r'\d+\(.+\)',l[j])):
+                POS=POS+"("+l[j]+","+"NU"+")"+" "
+            else:    
+                POS=POS+"("+l[j]+","+Prediction[i][j]+")"+" "
         print('POS:'+POS)
         my_list.append(POS)
         print()
