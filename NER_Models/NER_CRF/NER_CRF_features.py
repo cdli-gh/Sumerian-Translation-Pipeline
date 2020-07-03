@@ -24,6 +24,20 @@ def features(sentence,index):
     
     ###### ------- Rules/Features to Identify POS Tags  -------#######
     
+    d['Is_ON_1'] = 1 if re.search(r'{gesz}',word) else 0
+    
+    d['Is_ON_2'] = 1 if re.search(r'{gi}',word) else 0
+    
+    d['Is_ON_3'] = 1 if re.search(r'{tug2}',word) else 0
+    
+    d['Is_ON_4'] = 1 if re.search(r'{munus}',word) else 0
+    
+    d['Is_ON_5'] = 1 if re.search(r'{u2}',word) else 0
+    
+    d['Is_ON_6'] = 1 if re.search(r'{kusz}',word) else 0
+    
+    d['Is_ON_7'] = 1 if re.search(r'{uruda}',word) else 0 
+    
     d['Is_first_word'] = 1 if index==0 else 0
 
     d['Is_last_word'] = 1 if index==len(sentence)-1 else 0
@@ -36,7 +50,15 @@ def features(sentence,index):
 
     d['distorted_word_2'] = 1 if re.search(r'\.\.\.',sentence[index]) else 0
 
-    d['Is_number_form_1'] = 1 if re.search(r'\d+\(\.+\)',word) else 0
+    d['Is_number_form_1'] = 1 if re.search(r'\d+\(.+\)',word) else 0
+    
+    d['Is_number_inword'] = 1 if re.search(r'\d',word) else 0
+    
+    d['Is_Verb'] = 1 if re.search(r'a\d',word) else 0
+    
+    d['Is_Verb_1'] = 1 if re.search(r'a-a',word) else 0
+    
+    d['Is_Verb_2'] = 1 if re.search(r'z-z',word) else 0
         
     d['Is_child_left'] = 1 if left=='dumu' else 0
     
@@ -66,20 +88,6 @@ def features(sentence,index):
     
     d['Is_SN'] = 1 if re.search(r'{ki}',word) else 0
     
-    d['Is_ON_1'] = 1 if re.search(r'{gesz}',word) else 0
-    
-    d['Is_ON_2'] = 1 if re.search(r'{gi}',word) else 0
-    
-    d['Is_ON_3'] = 1 if re.search(r'{tug2}',word) else 0
-    
-    d['Is_ON_4'] = 1 if re.search(r'{munus}',word) else 0
-    
-    d['Is_ON_5'] = 1 if re.search(r'{u2}',word) else 0
-    
-    d['Is_ON_6'] = 1 if re.search(r'{kusz}',word) else 0
-    
-    d['Is_ON_7'] = 1 if re.search(r'{uruda}',word) else 0   
-    
     d['Is_determinative'] = 1 if re.search(r'{',word) else 0
     
     d['Is_PN_5'] = 1 if re.search(r'lugal',word) else 0
@@ -90,7 +98,7 @@ def features(sentence,index):
     
     d['Is_PN_7'] = 1 if right=='zarin' else 0
     
-    d['Is_quantity'] = 1 if re.search(r'\d+\(\w+\)',left) else 0
+    #d['Is_quantity'] = 1 if re.search(r'\d+\(\w+\)',left) else 0
     
     d['Is_month'] = 1 if left=='iti' else 0
     
@@ -124,3 +132,4 @@ if __name__=='__main__':
     print("Features/Rules for sumerian POS tagging")
 
     
+

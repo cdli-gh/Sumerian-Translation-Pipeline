@@ -92,7 +92,7 @@ def main():
     #printing details
     printing_details(tagged_sentence)
     
-    train_set, test_set = train_test_split(tagged_sentence,test_size=0.1,random_state=42)
+    train_set, test_set = train_test_split(tagged_sentence,test_size=0.05,random_state=7)
     
     #print("Number of Sentences in Training Data ",len(train_set))
     #print("Number of Sentences in Testing Data ",len(test_set))
