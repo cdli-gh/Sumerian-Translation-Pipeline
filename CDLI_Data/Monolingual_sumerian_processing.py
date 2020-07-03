@@ -57,7 +57,7 @@ for i in range(len(Original_sumerian_mono)):
         processed_summerian.append(text)
         
         
-savefile('Sumerian_monolingual_original.txt',Original_sumerian_mono)
+#savefile('Sumerian_monolingual_original.txt',Original_sumerian_mono)
 savefile('Sumerian_monolingual_processed.txt',processed_summerian)
     
     

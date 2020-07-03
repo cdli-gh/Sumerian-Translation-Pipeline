@@ -1,10 +1,30 @@
+1
+sentence: su-mu-ra-pi2
 NER:(su-mu-ra-pi2,PN) 
+2
+sentence: dumu ia-szu-ub-dingir
 NER:(dumu,O) (ia-szu-ub-dingir,PN) 
+3
+sentence: ARAD2 sza {d}iszkur
 NER:(ARAD2,O) (sza,O) ({d}iszkur,DN) 
+4
+sentence: ia-am-s,i2-at-nu-u2
 NER:(ia-am-s,i2-at-nu-u2,PN) 
+5
+sentence: dumu a-li2-wa-aq-rum
 NER:(dumu,O) (a-li2-wa-aq-rum,PN) 
+6
+sentence: ARAD2 sza {d}...
 NER:(ARAD2,O) (sza,O) ({d}...,O) 
+7
+sentence: ur-{d}nanna
 NER:(ur-{d}nanna,PN) 
+8
+sentence: dumu {d}suen-i-qi2-sza-am
 NER:(dumu,O) ({d}suen-i-qi2-sza-am,PN) 
+9
+sentence: i-ri {d}su-he2-zi
 NER:(i-ri,PN) ({d}su-he2-zi,PN) 
+10
+sentence: {d}nin-sza3-tuk-x
 NER:({d}nin-sza3-tuk-x,PN) 
