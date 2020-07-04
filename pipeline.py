@@ -67,17 +67,19 @@ def Pipeline_start(lines):
 def Pipeline_end(lines):
     pipeline_result=[]
     
-    POS=OPEN(output_dir+'pos_pipeline.txt')
-    NER=OPEN(output_dir+'ner_pipeline.txt')
+    #POS=OPEN(output_dir+'pos_pipeline.txt')
+    #NER=OPEN(output_dir+'ner_pipeline.txt')
     tr_en=OPEN(output_dir+'trans_pipeline.txt')
+    #pos_index=2;
     index=0
     for i,line in enumerate(lines):
         pipeline_result.append(line)
         if len(line)>0 and line[0] not in stopping_chars:
-            #pipeline_result.append(POS[index])
-            #pipeline_result.append(NER[index])
+            #pipeline_result.append(POS[pos_index])
+            #pipeline_result.append(NER[pos_index])
             pipeline_result.append('#tr.en:'+tr_en[index])
             index+=1
+            #pos_index+=3
             
     return pipeline_result
 
