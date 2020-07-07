@@ -37,6 +37,7 @@ def processing_1(text_line):
     x = re.sub(r"\!", "", x)
     x = re.sub(r"@c", "", x)
     x = re.sub(r"@t", "", x)
+    x = re.sub(r",", "", x)
     #x=re.sub(r"(x)+","x",x)
     x = re.sub(r"\?", "", x)
     x = x.split()
@@ -92,9 +93,6 @@ def main():
     Pipeline=Pipeline_start(lines)
     savefile(output_dir+'pipeline.txt',Pipeline)
     
-    subprocess.run('python3 POS_CRF_Model/prediction.py -i ATF_OUTPUT/pipeline.txt -o ATF_OUTPUT/pipeline1.txt',shell=True)
-    
-    
     
     #POS MODEL
     print("Running Part of speech Model for Sumerian Language")
@@ -108,6 +106,9 @@ def main():
     print("Running Translation Model for Sumerian Language")
     os.system(f'onmt_translate -model {trans_path} -src {output_dir}pipeline.txt -output {output_dir}trans_pipeline.txt -replace_unk -verbose')
     
+    #Converting POS_NER to conll
+    print("converting POS_NER to conll form")
+    os.system(f'python3 ATF_2_Conll/atf2conll_tags.py -i {input_path}')
     
         
     

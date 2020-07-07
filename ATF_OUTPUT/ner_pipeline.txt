@@ -8,8 +8,8 @@ NER:(dumu,O) (ia-szu-ub-dingir,PN)
 sentence: ARAD2 sza {d}iszkur
 NER:(ARAD2,O) (sza,O) ({d}iszkur,DN) 
 4
-sentence: ia-am-s,i2-at-nu-u2
-NER:(ia-am-s,i2-at-nu-u2,PN) 
+sentence: ia-am-si2-at-nu-u2
+NER:(ia-am-si2-at-nu-u2,PN) 
 5
 sentence: dumu a-li2-wa-aq-rum
 NER:(dumu,O) (a-li2-wa-aq-rum,PN) 

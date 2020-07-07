@@ -8,8 +8,8 @@ POS:(dumu,N) (ia-szu-ub-dingir,NE)
 sentence: ARAD2 sza {d}iszkur
 POS:(ARAD2,N) (sza,N) ({d}iszkur,NE) 
 4
-sentence: ia-am-s,i2-at-nu-u2
-POS:(ia-am-s,i2-at-nu-u2,NE) 
+sentence: ia-am-si2-at-nu-u2
+POS:(ia-am-si2-at-nu-u2,NE) 
 5
 sentence: dumu a-li2-wa-aq-rum
 POS:(dumu,N) (a-li2-wa-aq-rum,NE) 

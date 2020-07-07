@@ -2,7 +2,7 @@ import os
 import click
 from stat import ST_MODE, S_ISREG
 import argparse
-from convertor import ATFCONLConvertor
+from converter import ATFCONLConvertor
 from text2tag import TAGCLASS
 from pyoracc.atf.common.atffile import check_atf
 
