@@ -28,7 +28,7 @@ $sh requirments.sh
 Download Machine Translation Saved models and put those weights in Translation_Models folder, go through README.md file in Translation_Model forlder for downlads and use.   
 
 
-### Pipeline
+## Pipeline
 Run Sumerian Translation Pipeline to extract information about POS, NER and Machine Translation   
 ```
 usage: pipeline.py [-h] [-i INPUT]
