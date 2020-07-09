@@ -24,9 +24,8 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
 Install requirments by simply running .sh file- \
 $sh requirments.sh 
-
 ###### Note -
-Download Machine Translation Model weights and put it in Translation_Models folder
+Download Machine Translation Saved models and put those weights in Translation_Models folder, go through README.md file in Translation_Model forlder for downlads and use.   
 
 
 ### Pipeline
