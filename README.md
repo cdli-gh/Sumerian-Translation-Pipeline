@@ -25,7 +25,7 @@ Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
 Install requirments by simply running .sh file- \
 $sh requirments.sh 
 
-###### Note - \
+###### Note -
 Download Machine Translation Model weights and put it in Translation_Models folder
 
 
