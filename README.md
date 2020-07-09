@@ -29,7 +29,7 @@ Download Machine Translation Saved models and put those weights in Translation_M
 
 
 ## Pipeline
-Run Sumerian Translation Pipeline to extract information about POS, NER and Machine Translation   
+Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation    
 ```
 usage: pipeline.py [-h] [-i INPUT]
                    [-p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}]
