@@ -19,7 +19,7 @@ for i in range(len(df)):
     NE="O"
     if k in l1:
         NE=k
-        df['XPOSTAG'][i]='NE'
+        df['XPOSTAG'][i]=NE
     l.append(NE)
     
         

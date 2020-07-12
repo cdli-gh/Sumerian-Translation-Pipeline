@@ -27,7 +27,9 @@ class TAGCLASS:
             for j in range(len(pos_text)):
                 pos_tag=pos_text[j].split(',')[1]
                 ner_tag=ner_text[j].split(',')[1]
-                if(pos_tag=='NE' and ner_tag!='O'):
+                if (pos_tag=='NE' and ner_tag=='O'):
+                	taglist.append('PN')
+                elif (pos_tag=='NE'):
                     taglist.append(ner_tag)
                 elif(pos_tag=='O'):
                     taglist.append(" ")
