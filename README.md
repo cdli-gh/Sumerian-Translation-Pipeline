@@ -32,7 +32,7 @@ python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
 - OpenNMT-py (to use Machine Translation Models)
 
 ## Pipeline
-Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation    
+Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation. Since the weights are already saved, any model can be used directly without training.    
 ```
 usage: pipeline.py [-h] [-i INPUT]
                    [-p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}]
