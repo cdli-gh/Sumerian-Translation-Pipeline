@@ -7,12 +7,12 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 ## Usage
 Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
 Install requirments by simply running requirments.sh file- \
-Run pipeline.py with input ATF file, and the results will be in ATF_OUTPUT folder 
+Run pipeline.py file with the ATF input file, the results will be in ATF_OUTPUT folder 
 ```
 git clone https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git
 cd Sumerian-Translation-Pipeline
 sh requirments.sh
-python3 pipeline.py -i ATF_INPUT/demo.atf
+python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
 ```
 
 ## Requirements
