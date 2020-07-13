@@ -103,7 +103,7 @@ def main():
     algorithm='lbfgs',
     c1=0.01,
     c2=0.1,
-    max_iterations=500,
+    max_iterations=1000,
     all_possible_transitions=True)
     
     crf.fit(X_train, y_train)
