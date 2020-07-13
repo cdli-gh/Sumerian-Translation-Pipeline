@@ -28,31 +28,12 @@ def Savefile(Monolingual_sumerian,POS_list):
     print()
 
     
-def preparedicts(df):
-    vocab=list(df["FORM"].values)
-    f = open(args.embedding)
-    for line in f:
-        values = line.split()
-        word = values[0]
-        vocab.append(word)
-    vocab=sorted(list(set(vocab)))
-    vocab.append("<end>")
-    vocab.append("UNK")
+def preparedicts():
+    with open("POS_Models/POS_Bi_LSTM_CRF/Sumerian_Vocab.pkl",'rb') as f:
+    	vocabulary=pickle.load(f)
+    word2idx,idx2word,tag2idx,idx2tag=vocabulary
     
-    tags = sorted(list(set(df["XPOSTAG"].values)))
-    tags.append("<e>")
-    
-    word2idx=OrderedDict() 
-    idx2word=OrderedDict() 
-    tag2idx=OrderedDict() 
-    idx2tag=OrderedDict() 
-    word2idx = {w: i for i, w in enumerate(vocab)}
-    idx2word = {i: w for w, i in word2idx.items()}
-    tag2idx = {t: i for i, t in enumerate(tags)}
-    idx2tag = {i: w for w, i in tag2idx.items()}
-    
-    return word2idx,idx2word,tag2idx,idx2tag   
-    
+    return word2idx,idx2word,tag2idx,idx2tag  
 
 
 def preparetestData(sentences,word2idx):
@@ -76,8 +57,6 @@ def pred2label(pred,idx2tag):
         for p in pred_i:
             p_i = np.argmax(p)
             tag=idx2tag[p_i]
-            if tag=="<e>":
-                tag="NE"
             out_i.append(tag)
         out.append(out_i)
     return out
@@ -119,8 +98,7 @@ def main():
     loaded_model = load_model('Saved_Models/Bi_LSTM_CRF.h5',custom_objects={'CRF':CRF, 
                                                   'crf_loss':crf_loss, 
                                                   'crf_viterbi_accuracy':crf_viterbi_accuracy})
-    df=pd.read_csv(Input_path)
-    word2idx,idx2word,tag2idx,idx2tag= preparedicts(df)
+    word2idx,idx2word,tag2idx,idx2tag= preparedicts()
     X=preparetestData(Monolingual_sumerian,word2idx)
     Prediction=Predict_Testtag(loaded_model,X,Monolingual_sumerian,idx2tag)
     POS_list=POSLIST(Monolingual_sumerian,Prediction)
@@ -137,7 +115,7 @@ def main():
 if __name__=='__main__':
     # max sentence length is set to 50
     MAX=50
-    Input_path='Dataset/Augmented_POSTAG_training_ml.csv'
+    #Input_path='Dataset/Augmented_POSTAG_training_ml.csv'
     #Embedding_path='Word_Embeddings/sumerian_word2vec_50.txt'
     
     parser = argparse.ArgumentParser()
@@ -145,7 +123,6 @@ if __name__=='__main__':
     parser.add_argument("-i","--input",help="Location of the Input text file to be  predicted", default="Dataset/sumerian_demo.txt")
     parser.add_argument("-s","--saved",help="Location of saved CRF weights in .h5 format", default="Saved_Models/POS/POS_Bi_LSTM_CRF.h5" )
     parser.add_argument("-o","--output",help="Location of output text file(Result)", default='Output/POS_Bi_LSTM_CRF.txt')
-    parser.add_argument("-e","--embedding",help="Location of the embedding file", default="Word_Embeddings/sumerian_word2vec_50.txt")
     
     args=parser.parse_args()
     

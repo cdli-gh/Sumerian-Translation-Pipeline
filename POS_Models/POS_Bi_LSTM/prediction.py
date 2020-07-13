@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
 import argparse
+import pickle
+import re
 from collections import OrderedDict 
 from keras.models import load_model
 from keras.preprocessing.sequence import pad_sequences
@@ -20,35 +22,16 @@ def Openfile(filename):
 def Savefile(Monolingual_sumerian,POS_list):
     with open(args.output, 'w') as f:
         for i in range(len(POS_list)):
-            #f.write("%s\n" %str(i+1))
-            #f.write("sentence: %s\n" %Monolingual_sumerian[i])
+            f.write("%s\n" %str(i+1))
+            f.write("sentence: %s\n" %Monolingual_sumerian[i])
             f.write("POS:%s\n" % POS_list[i])
     print()
 
     
-def preparedicts(df):
-    vocab=list(df["FORM"].values)
-    f = open(Embedding_path)
-    for line in f:
-        values = line.split()
-        word = values[0]
-        vocab.append(word)
-    vocab=sorted(list(set(vocab)))
-    vocab.append("<end>")
-    vocab.append("UNK")
-    
-    tags = sorted(list(set(df["XPOSTAG"].values)))
-    tags.append("<e>")
-    
-    word2idx=OrderedDict() 
-    idx2word=OrderedDict() 
-    tag2idx=OrderedDict() 
-    idx2tag=OrderedDict() 
-    word2idx = {w: i for i, w in enumerate(vocab)}
-    idx2word = {i: w for w, i in word2idx.items()}
-    tag2idx = {t: i for i, t in enumerate(tags)}
-    idx2tag = {i: w for w, i in tag2idx.items()}
-    
+def preparedicts():
+    with open("POS_Models/POS_Bi_LSTM/Sumerian_Vocab.pkl",'rb') as f:
+    	vocabulary=pickle.load(f)
+    word2idx,idx2word,tag2idx,idx2tag=vocabulary
     return word2idx,idx2word,tag2idx,idx2tag   
     
 
@@ -88,8 +71,6 @@ def pred2label(pred,idx2tag):
         for p in pred_i:
             p_i = np.argmax(p)
             tag=idx2tag[p_i]
-            if tag=="<e>":
-                tag="NE"
             out_i.append(tag)
         out.append(out_i)
     return out
@@ -107,7 +88,7 @@ def Predict_Testtag(loaded_model,X,Monolingual_sumerian,idx2tag):
 
 def POSLIST(Monolingual_sumerian,Prediction):
     my_list=[]
-    for i in tqdm(range(len(Monolingual_sumerian))):
+    for i in range(len(Monolingual_sumerian)):
         print(i+1)
         print("sentence: "+Monolingual_sumerian[i])
         l=Monolingual_sumerian[i].split()
@@ -129,8 +110,8 @@ def main():
 
     Monolingual_sumerian=Openfile(args.input)
     loaded_model = load_model(args.saved)
-    df=pd.read_csv(Input_path)
-    word2idx,idx2word,tag2idx,idx2tag= preparedicts(df)
+    #df=pd.read_csv(Input_path)
+    word2idx,idx2word,tag2idx,idx2tag= preparedicts()
     X=preparetestData(Monolingual_sumerian,word2idx)
     Prediction=Predict_Testtag(loaded_model,X,Monolingual_sumerian,idx2tag)
     POS_list=POSLIST(Monolingual_sumerian,Prediction)
@@ -147,8 +128,8 @@ def main():
 if __name__=='__main__':
     # max sentence length is set to 50
     MAX=50
-    Input_path='Dataset/Augmented_POSTAG_training_ml.csv'
-    Embedding_path='Word_Embeddings/sumerian_word2vec_50.txt'
+    #Input_path='Dataset/Augmented_POSTAG_training_ml.csv'
+    #Embedding_path='Word_Embeddings/sumerian_word2vec_50.txt'
     
     
     parser = argparse.ArgumentParser()

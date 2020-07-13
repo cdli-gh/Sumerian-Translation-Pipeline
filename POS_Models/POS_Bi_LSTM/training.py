@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib
 import numpy as np
 import pandas as pd
+import pickle
 from sklearn_crfsuite import metrics
 from collections import OrderedDict 
 import matplotlib.pyplot as plt
@@ -47,7 +48,7 @@ def prepareData(sentences,word2idx,tag2idx):
 
 def preparedicts(df):
     vocab=list(df["FORM"].values)
-    f = open(Embedding_path)
+    f = open(args.embedding)
     for line in f:
         values = line.split()
         word = values[0]
@@ -68,6 +69,11 @@ def preparedicts(df):
     tag2idx = {t: i for i, t in enumerate(tags)}
     idx2tag = {i: w for w, i in tag2idx.items()}
     
+    print("\n Saving Vocab as a list of josn files \n")
+    vocabulary=[word2idx,idx2word,tag2idx,idx2tag]
+    with open('POS_Models/POS_Bi_LSTM/Sumerian_Vocab.pkl', 'wb') as f:
+    	pickle.dump(vocabulary,f)
+    	
     return word2idx,idx2word,tag2idx,idx2tag
 
 
@@ -82,8 +88,8 @@ def embeddings(word2idx):
         embeddings_index[word] = coefs
     f.close()
     print('Loaded %s word vectors.' % len(embeddings_index))
-    
-    embedding_matrix = np.zeros((len(word2idx), 100))
+    print("dimention is",len(coefs))
+    embedding_matrix = np.zeros((len(word2idx), len(coefs)))
     for i,word in enumerate(word2idx.keys()):
         embedding_vector = embeddings_index.get(word)
         if embedding_vector is not None:
@@ -96,7 +102,7 @@ def embeddings(word2idx):
 
 def BUILD_MODEL(X,MAX,n_words,n_tags,embedding_matrix):
     input_word = Input(shape = (MAX))
-    model=Embedding(input_dim=n_words,input_length=X.shape[1], output_dim=100, weights=[embedding_matrix],trainable=True, mask_zero=True)(input_word)
+    model=Embedding(input_dim=n_words,input_length=X.shape[1], output_dim=embedding_matrix.shape[1], weights=[embedding_matrix],trainable=True, mask_zero=True)(input_word)
     model=Bidirectional(LSTM(64, return_sequences=True, dropout=0.2, recurrent_dropout=0.2))(model)
     out=TimeDistributed(Dense(n_tags, activation ='softmax'))(model)
     model = Model(input_word, out)
@@ -162,16 +168,16 @@ def main():
     history = model.fit(X_train, y_train, epochs=5, batch_size=32,validation_split=0.1,verbose=0, callbacks=[TqdmCallback(verbose=1)])
     
     evaluate_model(history)
-    print("Saving model at ",saved_path)
-    model.save(args.output)
     TestData(model,X_test,y_test,idx2tag)
+    print("Saving model at ",args.output)
+    model.save(args.output)
     
     
 if __name__=='__main__':
     MAX=50
-    Input_path='Dataset/Augmented_POSTAG_training_ml.csv'
-    Embedding_path='Word_Embeddings/sumerian_fasttext_100.txt'
-    saved_path='Saved_Models/model.h5'
+    #Input_path='Dataset/Augmented_POSTAG_training_ml.csv'
+    #Embedding_path='Word_Embeddings/sumerian_word2vec_50.txt'
+    #saved_path='Saved_Models/POS/POS_Bi_LSTM.h5'
     
     parser = argparse.ArgumentParser()
     

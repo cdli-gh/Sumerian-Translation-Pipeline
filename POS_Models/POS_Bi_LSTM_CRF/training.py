@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib
 import numpy as np
 import pandas as pd
+import pickle
 from sklearn_crfsuite import metrics
 from collections import OrderedDict 
 import matplotlib.pyplot as plt
@@ -69,6 +70,11 @@ def preparedicts(df):
     tag2idx = {t: i for i, t in enumerate(tags)}
     idx2tag = {i: w for w, i in tag2idx.items()}
     
+    print("\n Saving Vocab as a list of josn files \n")
+    vocabulary=[word2idx,idx2word,tag2idx,idx2tag]
+    with open('POS_Models/POS_Bi_LSTM_CRF/Sumerian_Vocab.pkl', 'wb') as f:
+    	pickle.dump(vocabulary,f)
+    	
     return word2idx,idx2word,tag2idx,idx2tag
 
 
@@ -165,9 +171,9 @@ def main():
     history = model.fit(X_train, y_train, epochs=5, batch_size=32,validation_split=0.1, callbacks=[TqdmCallback(verbose=1)])
     
     evaluate_model(history)
+    TestData(model,X_test,y_test,idx2tag)
     print("Saving model at ",args.output)
     model.save(args.output)
-    TestData(model,X_test,y_test,idx2tag)
     
     
 if __name__=='__main__':
