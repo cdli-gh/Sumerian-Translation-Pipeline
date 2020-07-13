@@ -4,6 +4,17 @@ The project aims to translate and provide detailed information(POS tagging, Name
 The tags/symbols(ORACC Version) for NER and POS can be observed from here - https://cdli-gh.github.io/guides/guide_tagsets.html
 
 
+## Usage
+Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
+Install requirments by simply running requirments.sh file- \
+Run pipeline.py with input ATF file, and the results will be in ATF_OUTPUT folder 
+```
+git clone https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git
+cd Sumerian-Translation-Pipeline
+sh requirments.sh
+python3 pipeline.py -i ATF_INPUT/demo.atf
+```
+
 ## Requirements
 
 - Python 3.5.2 or higher
@@ -19,14 +30,6 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 - click
 - git+https://git@github.com/cdli-gh/pyoracc.git@master#egg=pyoracc
 - OpenNMT-py (to use Machine Translation Models)
-
-## Usage
-Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
-Install requirments by simply running .sh file- \
-$sh requirments.sh 
-###### Note -
-Download Machine Translation Saved models and put those weights in Translation_Models folder, go through README.md file in Translation_Model forlder for downlads and use.   
-
 
 ## Pipeline
 Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation    
