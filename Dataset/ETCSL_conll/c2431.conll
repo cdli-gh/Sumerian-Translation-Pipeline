@@ -1,0 +1,413 @@
+# Amar-Suena and Enki's temple (Amar-Suena A)
+
+# 
+
+# 
+
+# c2431.A.1
+1	{d}alad	alad	N	guardian deity	_
+2	X	X	_	X	_
+3	...	...	_	...	_
+
+# c2431.A.2
+1	{d}amar-{d}/suen\	amar-suen-na	N:RN	Amar-Suena	proper
+2	...	...	_	...	_
+3	cag4	cag4	N	heart	_
+4	mu-un\-X	X	_	X	_
+5	...	...	_	...	_
+
+# c2431.A.3
+1	lu2	lu2	N	person	_
+2	{urud}ha-zi-in-na	ha-zi-in	N	type of axe	_
+3	e2{!}-e	e2	N	house(hold)	_
+4	KU	KU	_	KU	_
+5	X	X	_	X	_
+6	...	...	_	...	_
+
+# c2431.A.4
+1	{d}amar-{d}suen-na	amar-suen-na	N:RN	Amar-Suena	proper
+2	ec3-e(source: SUM)	ec3	N	shrine	_
+3	abzu-a	abzu	N:TN	Abzu	proper
+4	...	...	_	...	_
+
+# c2431.A.5
+1	kug-sig17	kug-sig17	N	gold	_
+2	du3-a	du3	V	to erect	_
+3	{na4}za-gin3	za-gin3	N	lapis lazuli	_
+4	cu	cu	N	hand	_
+5	tag	tag	V	to touch	_
+6	X	X	_	X	_
+7	...	...	_	...	_
+
+# c2431.A.6
+1	e2-e	e2	N	house(hold)	_
+2	du3-u3-de3	du3	V	to erect	_
+3	cu-ni	cu	N	hand	_
+4	mu-un-[jar	jar	V	to place	_
+
+# c2431.A.7
+1	{d}amar-{d}suen-na	amar-suen-na	N:RN	Amar-Suena	proper
+2	lugal-e	lugal	N	king	_
+3	e2-e	e2	N	house(hold)	_
+4	du3-u3-[de3	du3	V	to erect	_
+5	cu-ni	cu	N	hand	_
+6	mu-un-[jar	jar	V	to place	_
+
+# c2431.A.8
+1	lugal-/e{?}	lugal	N	king	_
+2	uj3\-e	uj3	N	people	_
+3	ba-da-an-bal	bal	V	to turn over	_
+4	kur-ra	kur	N	(mountain) land	_
+5	X	X	_	X	_
+6	...	...	_	...	_
+
+# c2431.A.9
+1	e2-e	e2	N	house(hold)	_
+2	mu	mu	N	year	_
+3	1-kam-ma	1-kam-ma	NU:ordinal	1st	_
+4	ba-an-cub	cub	V	to fall	_
+5	ki-bi-ce3	ki	N	place	_
+6	nu-/mu\-[un-gi4	gi4	V	to return	_
+
+# c2431.A.10
+1	{d}amar-suen-na	amar-suen-na	N:RN	Amar-Suena	proper
+2	me	me	N	essence	_
+3	nam-lugal-la-na	nam-lugal	N	kingship	_
+4	X	X	_	X	_
+5	...	...	_	...	_
+
+# c2431.A.11
+1	mu	mu	N	year	_
+2	2-kam-ma	2-kam-ma	NU:ordinal	2nd	_
+3	ba\-[an]-cub	cub	V	to fall	_
+4	ki-bi-ce3	ki	N	place	_
+5	nu-mu-/un\-[gi4	gi4	V	to return	_
+
+# c2431.A.12
+1	{d}amar-{d}suen-na	amar-suen-na	N:RN	Amar-Suena	proper
+2	lu-bu-uc-tum	lu-bu-uc-tum	N	clothing	_
+3	nam-/lugal\-[la-ka]-ni	nam-lugal	N	kingship	_
+4	tug2-mu-dur7-ra	tug2-mu-dur7-ra	N	dirty textile	_
+5	ba-an-[X	X	_	X	_
+
+# c2431.A.13
+1	mu	mu	N	year	_
+2	3-kam-ma	3-kam-ma	NU:ordinal	3rd	_
+3	ba-an-cub	cub	V	to fall	_
+4	ki-bi-ce3	ki	N	place	_
+5	nu-mu-/un\-[gi4	gi4	V	to return	_
+
+# c2431.A.14
+1	{d}amar-{d}/suen-na\	amar-suen-na	N:RN	Amar-Suena	proper
+2	jic-kin2-kin2-na	jic-gana2	N	birch?	_
+3	jickim-/bi	jickim	N	sign	_
+4	nu]-/bur2{?}\-ru	bur2	V	to release	_
+
+# c2431.A.15
+1	mu	mu	N	year	_
+2	4-kam-/ma	4-kam-ma	NU:ordinal	4th	_
+3	ba-an]-cub	cub	V	to fall	_
+4	ki-bi-ce3	ki	N	place	_
+5	nu-mu-un-gi4	gi4	V	to return	_
+
+# c2431.A.16
+1	abgal-e	abgal	N	sage	_
+2	dug4-ga	dug4	V	to say	_
+3	u3\-na-dug4	dug4	V	to say	_
+4	jic-hur	jic-hur	N	design	_
+5	e2-e	e2	N	house(hold)	_
+6	pa	pa	N	branch	_
+7	e3	e3	V	to go out or in	_
+8	nu-mu-un-ak-e	ak	V	to do	_
+
+# c2431.A.17
+1	mu	mu	N	year	_
+2	5-kam-ma	5-kam-ma	NU:ordinal	5th	_
+3	ba-an-cub	cub	V	to fall	_
+4	ki-bi-ce3	ki	N	place	_
+5	nu-mu-un-gi4	gi4	V	to return	_
+
+# c2431.A.18
+1	ec3-e	ec3	N	shrine	_
+2	abzu-am3	abzu	N:TN	Abzu	proper
+3	kalag-ga-ce3	kalag	V	to be strong	_
+4	cu	cu	N	hand	_
+5	mu-ra-ra-e-ne	ra	V	to beat	_
+
+# c2431.A.19
+1	mu	mu	N	year	_
+2	6-kam-ma	6-kam-ma	NU:ordinal	6th	_
+3	ba-an-cub	cub	V	to fall	_
+4	ki-bi-ce3	ki	N	place	_
+5	nu-mu-un-gi4	gi4	V	to return	_
+
+# c2431.A.20
+1	jic-hur	jic-hur	N	design	_
+2	e2-e	e2	N	house(hold)	_
+3	mu-un-kij2-kij2-e	kij2	V	to seek	_
+4	nu-mu-ni-in-pad3-de3	pad3	V	to find	_
+
+# c2431.A.21
+1	mu	mu	N	year	_
+2	7-kam-ma	7-kam-ma	NU:ordinal	7th	_
+3	ba-an-cub	cub	V	to fall	_
+4	ki-bi-ce3	ki	N	place	_
+5	nu-mu-un-gi4	gi4	V	to return	_
+
+# c2431.A.22
+1	{d}en-ki-ke4	en-ki	N:DN	Enki	proper
+2	e2-bi-ce3	e2	N	house(hold)	_
+3	e2	e2	N	house(hold)	_
+4	nu-me-a	me	V	to be	_
+5	ba-an-na-dug4	dug4	V	to say	_
+
+# c2431.A.23
+1	mu	mu	N	year	_
+2	8-kam-ma	8-kam-ma	NU:ordinal	8th	_
+3	e2	e2	N	house(hold)	_
+4	du3-u3-de3	du3	V	to erect	_
+5	cu-ni	cu	N	hand	_
+6	mu-un-jar	jar	V	to place	_
+
+# c2431.A.24
+1	mu	mu	N	year	_
+2	9-kam-ma-ta	9-kam-ma	NU:ordinal	9th	_
+3	{d}amar-{d}/suen\	amar-suen-na	N:RN	Amar-Suena	proper
+4	lugal-e	lugal	N	king	_
+
+# c2431.A.25
+1	e2-udun-na	e2-udun-na	N:TN	E-uduna	proper
+2	en{?}	en	N	lord	_
+3	gal-an-zu	gal-an-zu	AJ	wise	_
+4	HAR-ra-gin7	HAR	_	HAR	_
+5	ba-du3	du3	V	to erect	_
+
+# c2431.A.26
+1	ud-ba	ud	N	day(light)	_
+2	en-e	en	N	lord	_
+3	e2	e2	N	house(hold)	_
+4	ni2-te-na-ka	ni2-te-a-ni	PD:reflexive	himself, herself	_
+
+# c2431.A.27
+1	en	en	N	lord	_
+2	gal	gal	V	to be big	_
+3	{d}en-ki	en-ki	N:DN	Enki	proper
+4	ki-bi	ki	N	place	_
+5	ba-da-an-hul{?}	hul	V	to be bad	_
+
+# c2431.A.28
+1	X\-a-ni	X	_	X	_
+2	mu-un-DU.DU	DU	V	DU	_
+3	(...)	...br	_	...br	_
+
+# c2431.A.29
+1	kuc2{?}-a	kuc2	V	to be tired	_
+2	ki-a	ki	N	place	_
+3	DU.DU	DU	_	DU	_
+4	gaba	gaba	N	chest	_
+5	X	X	_	X	_
+6	...	...	_	...	_
+7	X	X	_	X	_
+8	X	X	_	X	_
+9	...	...	_	...	_
+
+# c2431.A.30
+1	a-a	a-a	N	father	_
+2	{d}/en\-[ki]	en-ki	N:DN	Enki	proper
+3	eridug{ki}{ ?}	eridug	N:SN	Eridug	proper
+4	...	...	_	...	_
+5	mu]-un-/dim2{?}	dim2	V	to create	_
+6	...	...	_	...	_
+
+# c2431.A.31
+1	sukkal-a-ni	sukkal	N	minister	_
+2	...	...	_	...	_
+3	GI{?}-GI{?}	GI	_	GI	_
+4	gal{?}	gal	V	to be big	_
+5	mu-[...	...	_	...	_
+6	nu-kuc2{?}	kuc2	V	to be tired	_
+7	...	...	_	...	_
+8	X	X	_	X	_
+9	IL2	IL2	_	IL2	_
+10	...	...	_	...	_
+
+# c2431.A.32
+1	...	...	_	...	_
+2	X	X	_	X	_
+3	...	...	_	...	_
+
+# 
+1	unknown no. of lines missing	_	_	_	_
+
+# 
+
+# 
+
+# c2431.B.1
+1	X	X	_	X	_
+2	JIRI3	JIRI3	_	JIRI3	_
+3	sud\-su3-ud	sud	V	to be distant	_
+4	X	X	_	X	_
+5	...	...	_	...	_
+
+# c2431.B.2
+1	saj	saj	N	head	_
+2	kece2	kece2	V	to bind	_
+3	ki	ki	N	place	_
+4	dajal-la	dajal	V	to be wide	_
+5	...	...	_	...	_
+
+# c2431.B.3
+1	{d}en-ki-ke4	en-ki	N:DN	Enki	proper
+2	igi	igi	N	eye	_
+3	il2-la-a-/ni	il2	V	to raise	_
+4	...	...	_	...	_
+
+# c2431.B.4
+1	e2-bi	e2	N	house(hold)	_
+2	um-ta-e3-a	e3	V	to go out or in	_
+3	abzu{?}\-a	abzu	N	underground water	_
+4	...	...	_	...	_
+
+# c2431.B.5
+1	ud-ba	ud	N	day(light)	_
+2	nam-lu2-ulu3	nam-lu2-ulu3	N	humanity	_
+3	cu	cu	N	hand	_
+4	nu-sag9-ga	sag9	V	to be good	_
+5	DI	DI	_	DI	_
+6	nam	nam	N	destiny	_
+7	...	...	_	...	_
+
+# c2431.B.6
+1	jizzal	jizzal	N	hearing	_
+2	sud-a	sud	V	to be distant	_
+3	inim	inim	N	word	_
+4	jectug2	jectug2	N	ear	_
+5	nu-/dug4{?}	dug4	V	to say	_
+6	...	...	_	...	_
+
+# c2431.B.7
+1	ba\-DUN-DUN	DUN-DUN	V	DUN-DUN	_
+2	umbin	umbin	N	horny outgrowth	_
+3	ru-gu2-ni	ru-gu2	V	to face	_
+4	nu-du8-e	du8	V	to spread	_
+
+# c2431.B.8
+1	cag4	cag4	N	heart	_
+2	hul	hul	V	to be bad	_
+3	dim2-dim2	dim2	V	to create	_
+4	nij2-erim2	nij2-erim2	N	fraudulent action	_
+5	ak-ak	ak	V	to do	_
+6	sag9-ga	sag9	V	to be good	_
+
+# c2431.B.9
+1	{d}amar-{d}suen-na	amar-suen-na	N:RN	Amar-Suena	proper
+2	e2	e2	N	house(hold)	_
+3	{d}en-lil2-la2-ce3	en-lil2	N:DN	Enlil	proper
+4	du3-u3-de3	du3	V	to erect	_
+
+# 
+1	unknown no. of lines missing	_	_	_	_
+
+# 
+
+# 
+
+# c2431.seg3.1
+1	en	en	N	lord	_
+2	...	...	_	...	_
+3	X	X	_	X	_
+4	X	X	_	X	_
+5	...	...	_	...	_
+
+# c2431.seg3.2
+1	e2	e2	N	house(hold)	_
+2	{d}en-ki-ka3-ce3	en-ki	N:DN	Enki	proper
+3	du3-u3-de3	du3	V	to erect	_
+4	mac2-e	mac2	N	(kid) goat	_
+5	cu	cu	N	hand	_
+6	mu-un-gid2-da-a	gid2	V	to be long	_
+
+# c2431.seg3.3
+1	mac2-bi-ta	mac2	N	(kid) goat	_
+2	e2	e2	N	house(hold)	_
+3	du3-a	du3	V	to erect	_
+4	nu-mu-na-ab-be2	dug4	V	to say	_
+5	cu-ni	cu	N	hand	_
+6	la{?}\-ba-ci-in-[jar	jar	V	to place	_
+
+# c2431.seg3.4
+1	lugal-e	lugal	N	king	_
+2	mu-ni	mu	N	name	_
+3	ud	ud	N	day(light)	_
+4	su3-ra2-ce3	sud	V	to be distant	_
+5	ja2-ja2-[de3	jar	V	to place	_
+6	...	...	_	...	_
+
+# c2431.seg3.5
+1	{d}amar-{d}suen	amar-suen-na	N:RN	Amar-Suena	proper
+2	mu-ni	mu	N	name	_
+3	ud	ud	N	day(light)	_
+4	su3-/ra2\-[ce3	sud	V	to be distant	_
+5	ja2-ja2-de3	jar	V	to place	_
+6	mu\-[...	...	_	...	_
+
+# c2431.seg3.6
+1	X	X	_	X	_
+2	mu	mu	N	name	_
+3	e2	e2	N	house(hold)	_
+4	{d}en-ki-/ke4\	en-ki	N:DN	Enki	proper
+5	...	...	_	...	_
+
+# 
+1	unknown no. of lines missing	_	_	_	_
+
+# 
+
+# 
+
+# c2431.seg4.1
+1	en	en	N	lord	_
+2	nun	nun	N	prince	_
+3	gal-an-zu	gal-an-zu	AJ	wise	_
+4	X	X	_	X	_
+5	...	...	_	...	_
+6	BI{?}	BI	_	BI	_
+7	X	X	_	X	_
+8	...	...	_	...	_
+
+# c2431.seg4.2
+1	X	X	_	X	_
+2	...	...	_	...	_
+
+# 
+1	unknown no. of lines missing	_	_	_	_
+
+# 
+
+# 
+
+# c2431.E.1
+1	lu2{?}	lu2	N	person	_
+2	URUD	URUD	_	URUD	_
+3	HA	HA	_	HA	_
+4	RI{?}	RI	_	RI	_
+5	X	X	_	X	_
+6	IN{?}	IN	_	IN	_
+7	...	...	_	...	_
+8	cag4	cag4	N	heart	_
+9	...	...	_	...	_
+10	BA	BA	_	BA	_
+11	X	X	_	X	_
+12	X	X	_	X	_
+13	...	...	_	...	_
+
+# c2431.E.2
+1	{d}amar-{d}/suen\	amar-suen-na	N:RN	Amar-Suena	proper
+2	lugal	lugal	N	king	_
+3	nam-tar-/ra{?}\-ni	nam-tar	N	destiny	_
+4	cag4-bi	cag4	N	heart	_
+5	(...)	...br	_	...br	_
+6	nu-mu-un-ba-ba	ba	V	to allot	_
+
+

@@ -1,0 +1,308 @@
+# The lament for Urim
+
+# c222.A.1
+1	tur3-ra-na	tur3	N	animal stall	_
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+2	amac-a-na	amac	N	sheepfold	_
+3	lil2-e	lil2	N	ghost	_
+
+# c222.A.2
+1	am-e	am	N	wild bull	_
+2	tur3-ra-na	tur3	N	animal stall	_
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.3
+1	u3-mu-un	en	N	lord	emesal
+2	kur-kur-ra-ke4	kur	N	(mountain) land	_
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.4
+1	{d}mu-ul-lil2-le	en-lil2	N:DN	Enlil	proper
+2	ec3-e	ec3	N	shrine	_
+3	nibru{ki}-a	nibru	N:SN	Nibru	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.5
+1	dam-a-ni	dam	N	spouse	_
+2	{d}nin-lil2-le	nin-lil2	N:DN	Ninlil	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.6
+1	{d}nin-lil2-le	nin-lil2	N:DN	Ninlil	proper
+2	e2-bi	e2	N	house(hold)	_
+3	ki-ur3-ra	ki-ur3	N:TN	Ki-ur	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.7
+1	nin	nin	N	lady	_
+2	kec3{ki}-a-ke4	kec3	N:SN	Kec	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.8
+1	ga-ca-an-mah-e	nin-mah	N:DN	Ninmah	proper
+2	e2-bi	e2	N	house(hold)	_
+3	kec3{ki}-a	kec3	N:SN	Kec	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.9
+1	mu-lu	lu2	N	person	emesal
+2	i3-si-in{ki}-na-ke4	isin2	N:SN	Isin	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.10
+1	ga-ca-an-i3-si-in{ki}-na-ke4	nin-isin2-na	N:DN	Ninisina	proper
+2	ec3	ec3	N	shrine	_
+3	e2-gal-mah-a	e2-gal-mah	N:TN	Egal-mah	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac\-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.11
+1	nin	nin	N	lady	_
+2	ki	ki	N	place	_
+3	unug{ki}-ga-ke4	unug	N:SN	Unug	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac]-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.12
+1	ga-ca-an-an-na-ke4	inana	N:DN	Inana	proper
+2	e2-bi	e2	N	house(hold)	_
+3	ki	ki	N	place	_
+4	unug{ki}-ga	unug	N:SN	Unug	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+5	amac-a-na	amac	N	sheepfold	_
+6	lil2]-e	lil2	N	ghost	_
+
+# c222.A.13
+1	{d}nanna	nanna	N:DN	Nanna	proper
+2	urim2{ki}-ma	urim2	N:SN	Urim	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2]-e	lil2	N	ghost	_
+
+# c222.A.14
+1	{d}suen-e	suen	N:DN	Suen	proper
+2	e2-kic-nu-jal2-la	e2-kic-nu-jal2	N:TN	E-kic-nu-jal	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.15
+1	dam-a-ni	dam	N	spouse	_
+2	ga-ca-an-gal-e	nin-gal	N:DN	Ningal	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.16
+1	ga-ca-an-gal-e	nin-gal	N:DN	Ningal	proper
+2	agrun-kug-ga-na	agrun-kug	N:TN	Agrun-kug	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.17
+1	am	am	N	wild bull	_
+2	uru2-ze2-ba{ki}-ke4	eridug	N:SN	Eridug	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.18
+1	{d}am-an-ki-ke4	en-ki	N:DN	Enki	proper
+2	e2-bi	e2	N	house(hold)	_
+3	uru2-ze2-ba{ki}-ke4	eridug	N:SN	Eridug	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# 
+
+# 
+
+# c222.A.18A
+1	ga-ca-an-X-[...]	nin-...	N:DN	Nin-...	proper
+2	e2-ba	e2	N	house(hold)	_
+3	la-ra-ag{ki}-a	la-ra-ag	N:SN	Larag	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# 
+
+# c222.A.19
+1	{d}cara	cara2	N:DN	Cara	proper
+2	e2-mah-a	e2-mah	N:TN	E-mah	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.20
+1	{d}ud-sahar-ra	ud-sahar-ra	N:DN	Ud-sahara	proper
+2	e2-bi	e2	N	house(hold)	_
+3	umma{ki}-a	umma	N:SN	Umma	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.21
+1	{d}ba-u2	ba-u2	N:DN	Bau	proper
+2	uru2-kug-ga	iri-kug	N:SN	Iri-kug	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.22
+1	a	a	N	water	_
+2	dug4-ga	dug4	V	to say	_
+3	ama5-na	e2-mi2	N	woman\	_
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.23
+1	dumu-a-ni	dumu	N	child	_
+2	{d}ab-ba-u2	ab-ba-u2	N:DN	Ab-Bau	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.24
+1	{d}ab-ba-u2	ab-ba-u2	N:DN	Ab-Bau	proper
+2	ma-gu2-en-na-ke4	ma-gu2-en-na	N:TN	Ma-gu-ena	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.25
+1	{d}lamma	lamma	N	guardian deity	_
+2	e2	e2	N	house(hold)	_
+3	kug-ke4	kug	AJ	shining	_
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.26
+1	{d}lamma-e	lamma	N	guardian deity	_
+2	e2-tar-sir2-sir2-ra	e2-tar-sir2-sir2	N:TN	E-tar-sirsir	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.27
+1	um-ma	um-ma	N	experienced woman	_
+2	lagac{ki}-ke4	lagac	N:SN	Lagac	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.28
+1	{d}ma-ze2-ze2-be2	ja2-tum3-dug3	N:DN	Jatumdug	proper
+2	e2-bi	e2	N	house(hold)	_
+3	lagac{ki}-ke4	lagac	N:SN	Lagac	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.29
+1	mu-lu	lu2	N	person	emesal
+2	nijin6{ki}-ke4	nijin6	N:SN	Nijin	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.30
+1	ga-ca-an	nin	N	lady	emesal
+2	gu-la	gal	V	to be big	_
+3	e2-bi	e2	N	house(hold)	_
+4	sirara3{ki}	sirara6	N:SN	Sirara	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+5	amac-a-na	amac	N	sheepfold	_
+6	lil2-e	lil2	N	ghost	_
+
+# c222.A.31
+1	mu-lu	lu2	N	person	emesal
+2	ki-nir-ca-ba{ki}-ke4	ki-nir-ca	N:SN	Kinirca	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.32
+1	{d}dumu-zid-abzu	dumu-zid-abzu	N:DN	Dumuzid-abzu	proper
+2	e2-bi	e2	N	house(hold)	_
+3	ki-nir-ca-ba{ki}-ke4	ki-nir-ca	N:SN	Kinirca	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+# c222.A.33
+1	mu-lu	lu2	N	person	emesal
+2	gu2-ab-ba{ki}-ke4	gu2-ab-ba	N:SN	Gu-aba	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+3	amac-a-na	amac	N	sheepfold	_
+4	lil2-e	lil2	N	ghost	_
+
+# c222.A.34
+1	ga-ca-an-mar-ki-ke4	nin-mar-ki	N:DN	Ninmarki	proper
+2	ec3	ec3	N	shrine	_
+3	gu2-ab-ba{ki}-ke4	gu2-ab-ba	N:SN	Gu-aba	proper
+1	muc3	muc3	N	face	_
+2	mi-ni-in-ga	de6	V	to carry	emesal
+4	amac-a-na	amac	N	sheepfold	_
+5	lil2-e	lil2	N	ghost	_
+
+
+# Print sources
+
+
