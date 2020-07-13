@@ -1,0 +1,450 @@
+1
+sentence: sag-ki hu-mu-ra-ab-zalag-ge
+NER:(sag-ki,O) (hu-mu-ra-ab-zalag-ge,O) 
+2
+sentence: ki na-sa6-ta
+NER:(ki,O) (na-sa6-ta,PN) 
+3
+sentence: iti szu-numun-ta
+NER:(iti,O) (szu-numun-ta,O) 
+4
+sentence: 3(disz) gin2 i3 2(disz) gin2 naga
+NER:(3(disz),O) (gin2,O) (i3,O) (2(disz),O) (gin2,O) (naga,O) 
+5
+sentence: ba-de6
+NER:(ba-de6,O) 
+6
+sentence: mu us2-sa ki-masz{ki} ba-hul
+NER:(mu,O) (us2-sa,O) (ki-masz{ki},SN) (ba-hul,O) 
+7
+sentence: 1(asz) gu4 ab2
+NER:(1(asz),O) (gu4,O) (ab2,O) 
+8
+sentence: 1(barig) 1(ban2) 5(disz) 1(disz) 1/2(disz) geme2-{d}szul-pa-e3 dumu-ni
+NER:(1(barig),O) (1(ban2),O) (5(disz),O) (1(disz),O) (1/2(disz),O) (geme2-{d}szul-pa-e3,PN) (dumu-ni,O) 
+9
+sentence: 1(asz) 2(ban2) nam-nin-...
+NER:(1(asz),O) (2(ban2),O) (nam-nin-...,PN) 
+10
+sentence: dumu ur-{d}nansze
+NER:(dumu,O) (ur-{d}nansze,PN) 
+11
+sentence: gu4 udu niga u2-sa
+NER:(gu4,O) (udu,O) (niga,O) (u2-sa,DN) 
+12
+sentence: e2 kiszib3-ba-kam
+NER:(e2,O) (kiszib3-ba-kam,O) 
+13
+sentence: 1(disz) du-du-am3 u3 lugal-ba-tuku
+NER:(1(disz),O) (du-du-am3,PN) (u3,O) (lugal-ba-tuku,PN) 
+14
+sentence: {d}nin-sun2
+NER:({d}nin-sun2,DN) 
+15
+sentence: nig2-du7-e pa mu-na-e3
+NER:(nig2-du7-e,O) (pa,O) (mu-na-e3,O) 
+16
+sentence: 2(ban2) ...
+NER:(2(ban2),O) (...,O) 
+17
+sentence: dub-sar
+NER:(dub-sar,O) 
+18
+sentence: 1(disz) {munus}asz2-gar3
+NER:(1(disz),O) ({munus}asz2-gar3,O) 
+19
+sentence: 8(disz) sila3 4(disz) gin2 tab-be-li2 u3 dan-num2
+NER:(8(disz),O) (sila3,O) (4(disz),O) (gin2,O) (tab-be-li2,PN) (u3,O) (dan-num2,PN) 
+20
+sentence: dumu lu2-ga
+NER:(dumu,O) (lu2-ga,PN) 
+21
+sentence: ur-kalam na-gada i3-dab5
+NER:(ur-kalam,PN) (na-gada,O) (i3-dab5,O) 
+22
+sentence: 1(disz) munu4 si-e3
+NER:(1(disz),O) (munu4,O) (si-e3,PN) 
+23
+sentence: 1(u) 2(disz) gaszam
+NER:(1(u),O) (2(disz),O) (gaszam,PN) 
+24
+sentence: 2(gesz2) 3(u) 7(disz) udu 1(disz) sila3
+NER:(2(gesz2),O) (3(u),O) (7(disz),O) (udu,O) (1(disz),O) (sila3,O) 
+25
+sentence: dub-sar
+NER:(dub-sar,O) 
+26
+sentence: 5(disz) 1/2(disz) ma-na 5(disz) gin2 siki tug2 guz-za 3(disz)-kam us2
+NER:(5(disz),O) (1/2(disz),O) (ma-na,O) (5(disz),O) (gin2,O) (siki,O) (tug2,O) (guz-za,O) (3(disz)-kam,O) (us2,O) 
+27
+sentence: 5(ban2) 1(u) ba-at-ri
+NER:(5(ban2),O) (1(u),O) (ba-at-ri,PN) 
+28
+sentence: 2(disz) sila3 nig2-ar3-ra saga
+NER:(2(disz),O) (sila3,O) (nig2-ar3-ra,O) (saga,O) 
+29
+sentence: 4(u) ka-dug ku3-babbar
+NER:(4(u),O) (ka-dug,O) (ku3-babbar,O) 
+30
+sentence: e2-masz-sze3
+NER:(e2-masz-sze3,O) 
+31
+sentence: ur-ma-ma lu2 bu3
+NER:(ur-ma-ma,PN) (lu2,O) (bu3,O) 
+32
+sentence: iti pa4-u2-e
+NER:(iti,O) (pa4-u2-e,MN) 
+33
+sentence: szunigin 1(disz) la2-ia3
+NER:(szunigin,O) (1(disz),O) (la2-ia3,O) 
+34
+sentence: 4(ban2) nin-tesz2-mu
+NER:(4(ban2),O) (nin-tesz2-mu,PN) 
+35
+sentence: 1(disz) szul-lu5 nu-{gesz}kiri6
+NER:(1(disz),O) (szul-lu5,PN) (nu-{gesz}kiri6,O) 
+36
+sentence: n gu2 siki tug2 guz-za du
+NER:(n,O) (gu2,O) (siki,O) (tug2,O) (guz-za,O) (du,O) 
+37
+sentence: ... nin-a-zu
+NER:(...,O) (nin-a-zu,PN) 
+38
+sentence: szunigin 7(disz) gu4 mu 2(disz)
+NER:(szunigin,O) (7(disz),O) (gu4,O) (mu,O) (2(disz),O) 
+39
+sentence: {d}inanna
+NER:({d}inanna,DN) 
+40
+sentence: dumu ur-e2-ninnu
+NER:(dumu,O) (ur-e2-ninnu,PN) 
+41
+sentence: 1(disz) i3-li2-an-dul3
+NER:(1(disz),O) (i3-li2-an-dul3,PN) 
+42
+sentence: 3(disz) gin2 i3 2(disz) gin2 naga
+NER:(3(disz),O) (gin2,O) (i3,O) (2(disz),O) (gin2,O) (naga,O) 
+43
+sentence: 1(barig) ama-na
+NER:(1(barig),O) (ama-na,PN) 
+44
+sentence: szunigin 8(disz) dumu 1(ban2) 5(disz) sila3-ta
+NER:(szunigin,O) (8(disz),O) (dumu,O) (1(ban2),O) (5(disz),O) (sila3-ta,O) 
+45
+sentence: din |SZE.NUN&NUN|{+i-ti-sze-x}
+NER:(din,O) (|SZE.NUN&NUN|{+i-ti-sze-x},O) 
+46
+sentence: iti ezem-{d}dumu-zi
+NER:(iti,O) (ezem-{d}dumu-zi,MN) 
+47
+sentence: szu ba-an-ti
+NER:(szu,O) (ba-an-ti,O) 
+48
+sentence: du11-ga-ni si bi2-sa2
+NER:(du11-ga-ni,O) (si,O) (bi2-sa2,O) 
+49
+sentence: 1(u) 8(disz) gurusz gub-ba la2-ia3 1(u) 5(disz)
+NER:(1(u),O) (8(disz),O) (gurusz,O) (gub-ba,O) (la2-ia3,O) (1(u),O) (5(disz),O) 
+50
+sentence: kasz-de2-a ur-{d}iszkur ensi2 ha-ma-zi2{ki}
+NER:(kasz-de2-a,O) (ur-{d}iszkur,PN) (ensi2,O) (ha-ma-zi2{ki},SN) 
+51
+sentence: mu-na-ba-al
+NER:(mu-na-ba-al,PN) 
+52
+sentence: lu2-kal-la
+NER:(lu2-kal-la,PN) 
+53
+sentence: sza3-ge engar
+NER:(sza3-ge,O) (engar,O) 
+54
+sentence: 4(barig) ama-masz-min3
+NER:(4(barig),O) (ama-masz-min3,PN) 
+55
+sentence: lugal an-ub-da limmu2-ba
+NER:(lugal,O) (an-ub-da,GN) (limmu2-ba,O) 
+56
+sentence: szunigin 3(gesz2) 4(asz) 3(barig) 2(ban2) gur
+NER:(szunigin,O) (3(gesz2),O) (4(asz),O) (3(barig),O) (2(ban2),O) (gur,O) 
+57
+sentence: 5(asz) zi3
+NER:(5(asz),O) (zi3,O) 
+58
+sentence: 2(disz) sila3 ur3-re-ba-du7
+NER:(2(disz),O) (sila3,O) (ur3-re-ba-du7,PN) 
+59
+sentence: ki e2 {d}nanna
+NER:(ki,O) (e2,O) ({d}nanna,DN) 
+60
+sentence: 1(asz) us2 e2-engur-ka
+NER:(1(asz),O) (us2,O) (e2-engur-ka,PN) 
+61
+sentence: bahar3-e-ne szu ba-ab-ti
+NER:(bahar3-e-ne,PN) (szu,O) (ba-ab-ti,O) 
+62
+sentence: mu us2-sa bad3 ma-da ba-du3
+NER:(mu,O) (us2-sa,O) (bad3,O) (ma-da,O) (ba-du3,O) 
+63
+sentence: ... gur
+NER:(...,O) (gur,O) 
+64
+sentence: ur-e2-an-na
+NER:(ur-e2-an-na,PN) 
+65
+sentence: 5(disz) gu2 {u2}nin9
+NER:(5(disz),O) (gu2,O) ({u2}nin9,O) 
+66
+sentence: 1(u) 2(asz) ur-gu-la
+NER:(1(u),O) (2(asz),O) (ur-gu-la,PN) 
+67
+sentence: dub-sar
+NER:(dub-sar,O) 
+68
+sentence: iti GAN2-masz
+NER:(iti,O) (GAN2-masz,MN) 
+69
+sentence: dumu nin-iri-ni-sze3
+NER:(dumu,O) (nin-iri-ni-sze3,PN) 
+70
+sentence: sza13-dub-ba-ka
+NER:(sza13-dub-ba-ka,PN) 
+71
+sentence: dumu ba-zi
+NER:(dumu,O) (ba-zi,PN) 
+72
+sentence: mu ur-bi2-lum{ki} ba-hul-sze3
+NER:(mu,O) (ur-bi2-lum{ki},SN) (ba-hul-sze3,O) 
+73
+sentence: lagasz{ki}-ke4
+NER:(lagasz{ki}-ke4,O) 
+74
+sentence: ki-la2-bi 2(asz) gu2 2(u) 4(disz) ma-na
+NER:(ki-la2-bi,O) (2(asz),O) (gu2,O) (2(u),O) (4(disz),O) (ma-na,O) 
+75
+sentence: sa2-du11 {d}nin-sun2
+NER:(sa2-du11,O) ({d}nin-sun2,DN) 
+76
+sentence: diri x tug2 guz-za x
+NER:(diri,O) (x,O) (tug2,O) (guz-za,O) (x,O) 
+77
+sentence: 1(disz) udu
+NER:(1(disz),O) (udu,O) 
+78
+sentence: szunigin 4(bur3) n GAN2
+NER:(szunigin,O) (4(bur3),O) (n,O) (GAN2,O) 
+79
+sentence: tug2 ki-la2 tag-ga
+NER:(tug2,O) (ki-la2,O) (tag-ga,O) 
+80
+sentence: mu ma-da za-ab-sza-li{ki} ba-hul
+NER:(mu,O) (ma-da,O) (za-ab-sza-li{ki},SN) (ba-hul,O) 
+81
+sentence: giri3 ri-ib-hu-ti
+NER:(giri3,O) (ri-ib-hu-ti,PN) 
+82
+sentence: mu en ga-esz5{ki}
+NER:(mu,O) (en,O) (ga-esz5{ki},SN) 
+83
+sentence: iti diri me-ki-gal2 u2-sa
+NER:(iti,O) (diri,O) (me-ki-gal2,O) (u2-sa,O) 
+84
+sentence: 1(disz) udu niga 4(disz)-kam us2
+NER:(1(disz),O) (udu,O) (niga,O) (4(disz)-kam,O) (us2,O) 
+85
+sentence: szesz-da-da sanga
+NER:(szesz-da-da,DN) (sanga,O) 
+86
+sentence: x x-na-sze3 ba-ra-da-du-de3-en
+NER:(x,O) (x-na-sze3,O) (ba-ra-da-du-de3-en,O) 
+87
+sentence: 1(asz) geme2 3(ban2)
+NER:(1(asz),O) (geme2,O) (3(ban2),O) 
+88
+sentence: lugal uri5{ki}-ma
+NER:(lugal,O) (uri5{ki}-ma,SN) 
+89
+sentence: 2(ban2) ga-ar3
+NER:(2(ban2),O) (ga-ar3,O) 
+90
+sentence: {d}gesztin-an-na
+NER:({d}gesztin-an-na,DN) 
+91
+sentence: {d}szul-gi
+NER:({d}szul-gi,RN) 
+92
+sentence: 4(disz)
+NER:(4(disz),O) 
+93
+sentence: szunigin 2(asz) 3(ban2) nig2-ar3-ra saga gur
+NER:(szunigin,O) (2(asz),O) (3(ban2),O) (nig2-ar3-ra,O) (saga,O) (gur,O) 
+94
+sentence: ki szu-{d}nin-kar-ak-ta
+NER:(ki,O) (szu-{d}nin-kar-ak-ta,PN) 
+95
+sentence: 1(disz) kusz udu a-gar gu7-a
+NER:(1(disz),O) (kusz,O) (udu,O) (a-gar,O) (gu7-a,O) 
+96
+sentence: ki {d}iszkur-illat-ta
+NER:(ki,O) ({d}iszkur-illat-ta,PN) 
+97
+sentence: ugula ur-{d}nin-su
+NER:(ugula,O) (ur-{d}nin-su,PN) 
+98
+sentence: kiszib3 ur-{d}nun-gal
+NER:(kiszib3,O) (ur-{d}nun-gal,PN) 
+99
+sentence: ganun ka i7 tum-al-ta
+NER:(ganun,O) (ka,O) (i7,O) (tum-al-ta,WN) 
+100
+sentence: 1(gesz2) 3(u) 3(asz) gesztin gal-gal
+NER:(1(gesz2),O) (3(u),O) (3(asz),O) (gesztin,O) (gal-gal,O) 
+101
+sentence: 1(asz) kinda
+NER:(1(asz),O) (kinda,PN) 
+102
+sentence: 2(u) 3(ban2) gur 5(disz) sila3 sze du
+NER:(2(u),O) (3(ban2),O) (gur,O) (5(disz),O) (sila3,O) (sze,O) (du,O) 
+103
+sentence: dab6-ru-um{ki}-ma ba-an-sa6
+NER:(dab6-ru-um{ki}-ma,PN) (ba-an-sa6,PN) 
+104
+sentence: u3 gag
+NER:(u3,O) (gag,O) 
+105
+sentence: 5(asz) 3(barig) 2(ban2) ur-{d}ba-ba6 dumu ur-nig2
+NER:(5(asz),O) (3(barig),O) (2(ban2),O) (ur-{d}ba-ba6,PN) (dumu,O) (ur-nig2,PN) 
+106
+sentence: dumu lugal-{gesz}kiri6
+NER:(dumu,O) (lugal-{gesz}kiri6,PN) 
+107
+sentence: 1(disz) sila4 kiszib3 ur-{d}en-ki kuruszda
+NER:(1(disz),O) (sila4,O) (kiszib3,O) (ur-{d}en-ki,PN) (kuruszda,O) 
+108
+sentence: dumu-munus-a-ni
+NER:(dumu-munus-a-ni,O) 
+109
+sentence: an-na-ag2
+NER:(an-na-ag2,PN) 
+110
+sentence: iti nesag
+NER:(iti,O) (nesag,O) 
+111
+sentence: naga-bi 1(barig) 1(ban2) 1/2(disz) sila3
+NER:(naga-bi,O) (1(barig),O) (1(ban2),O) (1/2(disz),O) (sila3,O) 
+112
+sentence: giri3 lu2-{d}nanna dumu ba-ba
+NER:(giri3,O) (lu2-{d}nanna,PN) (dumu,O) (ba-ba,PN) 
+113
+sentence: iti ezem-{d}...
+NER:(iti,O) (ezem-{d}...,PN) 
+114
+sentence: szu-{d}suen
+NER:(szu-{d}suen,PN) 
+115
+sentence: zi-ga
+NER:(zi-ga,O) 
+116
+sentence: RU-lugal-me
+NER:(RU-lugal-me,PN) 
+117
+sentence: mu mu-na-sa4
+NER:(mu,O) (mu-na-sa4,O) 
+118
+sentence: ka ba-ab-kesz2
+NER:(ka,O) (ba-ab-kesz2,O) 
+119
+sentence: mar-sa-asz mu-kux(DU)
+NER:(mar-sa-asz,O) (mu-kux(DU),O) 
+120
+sentence: u4 1(u) 3(disz)-sze3 ka-sahar-ta
+NER:(u4,O) (1(u),O) (3(disz)-sze3,O) (ka-sahar-ta,O) 
+121
+sentence: 2(asz) MI-si4-ad
+NER:(2(asz),O) (MI-si4-ad,PN) 
+122
+sentence: mu ki-masz{ki} u3 hu-ur5-ti{ki} ba-hul
+NER:(mu,O) (ki-masz{ki},SN) (u3,O) (hu-ur5-ti{ki},SN) (ba-hul,O) 
+123
+sentence: 1(esze3) 4(iku)
+NER:(1(esze3),O) (4(iku),O) 
+124
+sentence: 5(asz) sze gur lugal
+NER:(5(asz),O) (sze,O) (gur,O) (lugal,O) 
+125
+sentence: 1/3(disz) ma-na x gin2 ku3 sze x x
+NER:(1/3(disz),O) (ma-na,O) (x,O) (gin2,O) (ku3,O) (sze,O) (x,O) (x,O) 
+126
+sentence: baharx(EDIN)-ri
+NER:(baharx(EDIN)-ri,PN) 
+127
+sentence: iti 1(disz)-kam
+NER:(iti,O) (1(disz)-kam,O) 
+128
+sentence: 6(disz) 1/2(disz) gin2 6(disz) sze ku3
+NER:(6(disz),O) (1/2(disz),O) (gin2,O) (6(disz),O) (sze,O) (ku3,O) 
+129
+sentence: iti {d}dumu-zi-sze3
+NER:(iti,O) ({d}dumu-zi-sze3,DN) 
+130
+sentence: ugula ur-mes
+NER:(ugula,O) (ur-mes,PN) 
+131
+sentence: {d}nin-gir2-su
+NER:({d}nin-gir2-su,DN) 
+132
+sentence: gesztu2 dagal nig2-nam gal-le-esz zu
+NER:(gesztu2,O) (dagal,O) (nig2-nam,O) (gal-le-esz,O) (zu,O) 
+133
+sentence: gu-nigin2-bi 7(gesz2) 2(u) 7(disz) 5/6(disz)
+NER:(gu-nigin2-bi,O) (7(gesz2),O) (2(u),O) (7(disz),O) (5/6(disz),O) 
+134
+sentence: an-nu-ni-tum
+NER:(an-nu-ni-tum,DN) 
+135
+sentence: 2(u) {uruda}gur10 a-ra2 2(disz)-kam
+NER:(2(u),O) ({uruda}gur10,O) (a-ra2,O) (2(disz)-kam,O) 
+136
+sentence: ka-ma-ri2{ki}-ta
+NER:(ka-ma-ri2{ki}-ta,O) 
+137
+sentence: 2(bur3) 1(esze3) la2 1/2(iku)
+NER:(2(bur3),O) (1(esze3),O) (la2,O) (1/2(iku),O) 
+138
+sentence: udu 1(asz)-sze3
+NER:(udu,O) (1(asz)-sze3,O) 
+139
+sentence: 1(disz) a-kal-la dumu e2-an-ne2
+NER:(1(disz),O) (a-kal-la,PN) (dumu,O) (e2-an-ne2,PN) 
+140
+sentence: sipa gu4 niga
+NER:(sipa,O) (gu4,O) (niga,O) 
+141
+sentence: 1(barig) e2-ki-bi
+NER:(1(barig),O) (e2-ki-bi,PN) 
+142
+sentence: sa2-du11 ki-a-nag sza3-ba-na-sig szabra
+NER:(sa2-du11,O) (ki-a-nag,O) (sza3-ba-na-sig,PN) (szabra,O) 
+143
+sentence: gaba-ri
+NER:(gaba-ri,O) 
+144
+sentence: giri3 a-gu-a-ni dub-sar
+NER:(giri3,O) (a-gu-a-ni,PN) (dub-sar,O) 
+145
+sentence: 1(gesz2) 1(u) 1(disz) x gur
+NER:(1(gesz2),O) (1(u),O) (1(disz),O) (x,O) (gur,O) 
+146
+sentence: 1(asz) udu {d}en-...
+NER:(1(asz),O) (udu,O) ({d}en-...,PN) 
+147
+sentence: 1(asz) ni-ni
+NER:(1(asz),O) (ni-ni,PN) 
+148
+sentence: lu2-kal-la
+NER:(lu2-kal-la,PN) 
+149
+sentence: e2-muhaldim-sze3
+NER:(e2-muhaldim-sze3,O) 
+150
+sentence: szunigin 4(asz) ansze ...
+NER:(szunigin,O) (4(asz),O) (ansze,O) (...,O) 

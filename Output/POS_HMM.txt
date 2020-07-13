@@ -1,0 +1,600 @@
+1
+sentence: sag-ki hu-mu-ra-ab-zalag-ge
+POS:(sag-ki,N) (hu-mu-ra-ab-zalag-ge,N) 
+
+2
+sentence: ki na-sa6-ta
+POS:(ki,N) (na-sa6-ta,NE) 
+
+3
+sentence: iti szu-numun-ta
+POS:(iti,N) (szu-numun-ta,N) 
+
+4
+sentence: 3(disz) gin2 i3 2(disz) gin2 naga
+POS:(3(disz),NU) (gin2,N) (i3,N) (2(disz),NU) (gin2,N) (naga,N) 
+
+5
+sentence: ba-de6
+POS:(ba-de6,V) 
+
+6
+sentence: mu us2-sa ki-masz{ki} ba-hul
+POS:(mu,N) (us2-sa,V) (ki-masz{ki},NE) (ba-hul,V) 
+
+7
+sentence: 1(asz) gu4 ab2
+POS:(1(asz),NU) (gu4,N) (ab2,N) 
+
+8
+sentence: 1(barig) 1(ban2) 5(disz) 1(disz) 1/2(disz) geme2-{d}szul-pa-e3 dumu-ni
+POS:(1(barig),N) (1(ban2),N) (5(disz),NU) (1(disz),NU) (1/2(disz),NU) (geme2-{d}szul-pa-e3,NE) (dumu-ni,N) 
+
+9
+sentence: 1(asz) 2(ban2) nam-nin-...
+POS:(1(asz),NU) (2(ban2),N) (nam-nin-...,N) 
+
+10
+sentence: dumu ur-{d}nansze
+POS:(dumu,N) (ur-{d}nansze,NE) 
+
+11
+sentence: gu4 udu niga u2-sa
+POS:(gu4,N) (udu,N) (niga,V) (u2-sa,N) 
+
+12
+sentence: e2 kiszib3-ba-kam
+POS:(e2,N) (kiszib3-ba-kam,N) 
+
+13
+sentence: 1(disz) du-du-am3 u3 lugal-ba-tuku
+POS:(1(disz),NU) (du-du-am3,N) (u3,CNJ) (lugal-ba-tuku,NE) 
+
+14
+sentence: {d}nin-sun2
+POS:({d}nin-sun2,NE) 
+
+15
+sentence: nig2-du7-e pa mu-na-e3
+POS:(nig2-du7-e,N) (pa,N) (mu-na-e3,N) 
+
+16
+sentence: 2(ban2) ...
+POS:(2(ban2),N) (...,O) 
+
+17
+sentence: dub-sar
+POS:(dub-sar,N) 
+
+18
+sentence: 1(disz) {munus}asz2-gar3
+POS:(1(disz),NU) ({munus}asz2-gar3,N) 
+
+19
+sentence: 8(disz) sila3 4(disz) gin2 tab-be-li2 u3 dan-num2
+POS:(8(disz),NU) (sila3,N) (4(disz),NU) (gin2,N) (tab-be-li2,NE) (u3,CNJ) (dan-num2,NE) 
+
+20
+sentence: dumu lu2-ga
+POS:(dumu,N) (lu2-ga,NE) 
+
+21
+sentence: ur-kalam na-gada i3-dab5
+POS:(ur-kalam,N) (na-gada,N) (i3-dab5,V) 
+
+22
+sentence: 1(disz) munu4 si-e3
+POS:(1(disz),NU) (munu4,N) (si-e3,V) 
+
+23
+sentence: 1(u) 2(disz) gaszam
+POS:(1(u),NU) (2(disz),NU) (gaszam,N) 
+
+24
+sentence: 2(gesz2) 3(u) 7(disz) udu 1(disz) sila3
+POS:(2(gesz2),NU) (3(u),NU) (7(disz),NU) (udu,N) (1(disz),NU) (sila3,N) 
+
+25
+sentence: dub-sar
+POS:(dub-sar,N) 
+
+26
+sentence: 5(disz) 1/2(disz) ma-na 5(disz) gin2 siki tug2 guz-za 3(disz)-kam us2
+POS:(5(disz),NU) (1/2(disz),NU) (ma-na,N) (5(disz),NU) (gin2,N) (siki,N) (tug2,N) (guz-za,V) (3(disz)-kam,NU) (us2,V) 
+
+27
+sentence: 5(ban2) 1(u) ba-at-ri
+POS:(5(ban2),N) (1(u),NU) (ba-at-ri,N) 
+
+28
+sentence: 2(disz) sila3 nig2-ar3-ra saga
+POS:(2(disz),NU) (sila3,N) (nig2-ar3-ra,N) (saga,V) 
+
+29
+sentence: 4(u) ka-dug ku3-babbar
+POS:(4(u),NU) (ka-dug,N) (ku3-babbar,N) 
+
+30
+sentence: e2-masz-sze3
+POS:(e2-masz-sze3,N) 
+
+31
+sentence: ur-ma-ma lu2 bu3
+POS:(ur-ma-ma,N) (lu2,N) (bu3,N) 
+
+32
+sentence: iti pa4-u2-e
+POS:(iti,N) (pa4-u2-e,NE) 
+
+33
+sentence: szunigin 1(disz) la2-ia3
+POS:(szunigin,N) (1(disz),NU) (la2-ia3,N) 
+
+34
+sentence: 4(ban2) nin-tesz2-mu
+POS:(4(ban2),N) (nin-tesz2-mu,N) 
+
+35
+sentence: 1(disz) szul-lu5 nu-{gesz}kiri6
+POS:(1(disz),NU) (szul-lu5,N) (nu-{gesz}kiri6,N) 
+
+36
+sentence: n gu2 siki tug2 guz-za du
+POS:(n,NU) (gu2,N) (siki,N) (tug2,N) (guz-za,V) (du,V) 
+
+37
+sentence: ... nin-a-zu
+POS:(...,O) (nin-a-zu,NE) 
+
+38
+sentence: szunigin 7(disz) gu4 mu 2(disz)
+POS:(szunigin,N) (7(disz),NU) (gu4,N) (mu,N) (2(disz),NU) 
+
+39
+sentence: {d}inanna
+POS:({d}inanna,NE) 
+
+40
+sentence: dumu ur-e2-ninnu
+POS:(dumu,N) (ur-e2-ninnu,N) 
+
+41
+sentence: 1(disz) i3-li2-an-dul3
+POS:(1(disz),NU) (i3-li2-an-dul3,N) 
+
+42
+sentence: 3(disz) gin2 i3 2(disz) gin2 naga
+POS:(3(disz),NU) (gin2,N) (i3,N) (2(disz),NU) (gin2,N) (naga,N) 
+
+43
+sentence: 1(barig) ama-na
+POS:(1(barig),N) (ama-na,N) 
+
+44
+sentence: szunigin 8(disz) dumu 1(ban2) 5(disz) sila3-ta
+POS:(szunigin,N) (8(disz),NU) (dumu,N) (1(ban2),N) (5(disz),NU) (sila3-ta,N) 
+
+45
+sentence: din |SZE.NUN&NUN|{+i-ti-sze-x}
+POS:(din,N) (|SZE.NUN&NUN|{+i-ti-sze-x},N) 
+
+46
+sentence: iti ezem-{d}dumu-zi
+POS:(iti,N) (ezem-{d}dumu-zi,NE) 
+
+47
+sentence: szu ba-an-ti
+POS:(szu,N) (ba-an-ti,V) 
+
+48
+sentence: du11-ga-ni si bi2-sa2
+POS:(du11-ga-ni,NE) (si,O) (bi2-sa2,N) 
+
+49
+sentence: 1(u) 8(disz) gurusz gub-ba la2-ia3 1(u) 5(disz)
+POS:(1(u),NU) (8(disz),NU) (gurusz,N) (gub-ba,V) (la2-ia3,N) (1(u),NU) (5(disz),NU) 
+
+50
+sentence: kasz-de2-a ur-{d}iszkur ensi2 ha-ma-zi2{ki}
+POS:(kasz-de2-a,N) (ur-{d}iszkur,NE) (ensi2,N) (ha-ma-zi2{ki},NE) 
+
+51
+sentence: mu-na-ba-al
+POS:(mu-na-ba-al,N) 
+
+52
+sentence: lu2-kal-la
+POS:(lu2-kal-la,NE) 
+
+53
+sentence: sza3-ge engar
+POS:(sza3-ge,N) (engar,N) 
+
+54
+sentence: 4(barig) ama-masz-min3
+POS:(4(barig),N) (ama-masz-min3,N) 
+
+55
+sentence: lugal an-ub-da limmu2-ba
+POS:(lugal,N) (an-ub-da,N) (limmu2-ba,NU) 
+
+56
+sentence: szunigin 3(gesz2) 4(asz) 3(barig) 2(ban2) gur
+POS:(szunigin,N) (3(gesz2),NU) (4(asz),NU) (3(barig),N) (2(ban2),N) (gur,N) 
+
+57
+sentence: 5(asz) zi3
+POS:(5(asz),NU) (zi3,N) 
+
+58
+sentence: 2(disz) sila3 ur3-re-ba-du7
+POS:(2(disz),NU) (sila3,N) (ur3-re-ba-du7,N) 
+
+59
+sentence: ki e2 {d}nanna
+POS:(ki,N) (e2,N) ({d}nanna,NE) 
+
+60
+sentence: 1(asz) us2 e2-engur-ka
+POS:(1(asz),NU) (us2,V) (e2-engur-ka,N) 
+
+61
+sentence: bahar3-e-ne szu ba-ab-ti
+POS:(bahar3-e-ne,N) (szu,N) (ba-ab-ti,V) 
+
+62
+sentence: mu us2-sa bad3 ma-da ba-du3
+POS:(mu,N) (us2-sa,V) (bad3,N) (ma-da,N) (ba-du3,V) 
+
+63
+sentence: ... gur
+POS:(...,O) (gur,N) 
+
+64
+sentence: ur-e2-an-na
+POS:(ur-e2-an-na,N) 
+
+65
+sentence: 5(disz) gu2 {u2}nin9
+POS:(5(disz),NU) (gu2,N) ({u2}nin9,N) 
+
+66
+sentence: 1(u) 2(asz) ur-gu-la
+POS:(1(u),NU) (2(asz),NU) (ur-gu-la,N) 
+
+67
+sentence: dub-sar
+POS:(dub-sar,N) 
+
+68
+sentence: iti GAN2-masz
+POS:(iti,N) (GAN2-masz,NE) 
+
+69
+sentence: dumu nin-iri-ni-sze3
+POS:(dumu,N) (nin-iri-ni-sze3,N) 
+
+70
+sentence: sza13-dub-ba-ka
+POS:(sza13-dub-ba-ka,N) 
+
+71
+sentence: dumu ba-zi
+POS:(dumu,N) (ba-zi,V) 
+
+72
+sentence: mu ur-bi2-lum{ki} ba-hul-sze3
+POS:(mu,N) (ur-bi2-lum{ki},NE) (ba-hul-sze3,V) 
+
+73
+sentence: lagasz{ki}-ke4
+POS:(lagasz{ki}-ke4,NE) 
+
+74
+sentence: ki-la2-bi 2(asz) gu2 2(u) 4(disz) ma-na
+POS:(ki-la2-bi,N) (2(asz),NU) (gu2,N) (2(u),NU) (4(disz),NU) (ma-na,N) 
+
+75
+sentence: sa2-du11 {d}nin-sun2
+POS:(sa2-du11,N) ({d}nin-sun2,NE) 
+
+76
+sentence: diri x tug2 guz-za x
+POS:(diri,N) (x,O) (tug2,N) (guz-za,V) (x,O) 
+
+77
+sentence: 1(disz) udu
+POS:(1(disz),NU) (udu,N) 
+
+78
+sentence: szunigin 4(bur3) n GAN2
+POS:(szunigin,N) (4(bur3),N) (n,NU) (GAN2,N) 
+
+79
+sentence: tug2 ki-la2 tag-ga
+POS:(tug2,N) (ki-la2,N) (tag-ga,V) 
+
+80
+sentence: mu ma-da za-ab-sza-li{ki} ba-hul
+POS:(mu,N) (ma-da,N) (za-ab-sza-li{ki},NE) (ba-hul,V) 
+
+81
+sentence: giri3 ri-ib-hu-ti
+POS:(giri3,N) (ri-ib-hu-ti,N) 
+
+82
+sentence: mu en ga-esz5{ki}
+POS:(mu,N) (en,N) (ga-esz5{ki},NE) 
+
+83
+sentence: iti diri me-ki-gal2 u2-sa
+POS:(iti,N) (diri,N) (me-ki-gal2,N) (u2-sa,N) 
+
+84
+sentence: 1(disz) udu niga 4(disz)-kam us2
+POS:(1(disz),NU) (udu,N) (niga,V) (4(disz)-kam,NU) (us2,V) 
+
+85
+sentence: szesz-da-da sanga
+POS:(szesz-da-da,NE) (sanga,N) 
+
+86
+sentence: x x-na-sze3 ba-ra-da-du-de3-en
+POS:(x,O) (x-na-sze3,N) (ba-ra-da-du-de3-en,N) 
+
+87
+sentence: 1(asz) geme2 3(ban2)
+POS:(1(asz),NU) (geme2,N) (3(ban2),N) 
+
+88
+sentence: lugal uri5{ki}-ma
+POS:(lugal,N) (uri5{ki}-ma,NE) 
+
+89
+sentence: 2(ban2) ga-ar3
+POS:(2(ban2),N) (ga-ar3,N) 
+
+90
+sentence: {d}gesztin-an-na
+POS:({d}gesztin-an-na,NE) 
+
+91
+sentence: {d}szul-gi
+POS:({d}szul-gi,NE) 
+
+92
+sentence: 4(disz)
+POS:(4(disz),NU) 
+
+93
+sentence: szunigin 2(asz) 3(ban2) nig2-ar3-ra saga gur
+POS:(szunigin,N) (2(asz),NU) (3(ban2),N) (nig2-ar3-ra,N) (saga,V) (gur,N) 
+
+94
+sentence: ki szu-{d}nin-kar-ak-ta
+POS:(ki,N) (szu-{d}nin-kar-ak-ta,NE) 
+
+95
+sentence: 1(disz) kusz udu a-gar gu7-a
+POS:(1(disz),NU) (kusz,N) (udu,N) (a-gar,N) (gu7-a,N) 
+
+96
+sentence: ki {d}iszkur-illat-ta
+POS:(ki,N) ({d}iszkur-illat-ta,NE) 
+
+97
+sentence: ugula ur-{d}nin-su
+POS:(ugula,N) (ur-{d}nin-su,NE) 
+
+98
+sentence: kiszib3 ur-{d}nun-gal
+POS:(kiszib3,N) (ur-{d}nun-gal,NE) 
+
+99
+sentence: ganun ka i7 tum-al-ta
+POS:(ganun,N) (ka,N) (i7,N) (tum-al-ta,N) 
+
+100
+sentence: 1(gesz2) 3(u) 3(asz) gesztin gal-gal
+POS:(1(gesz2),NU) (3(u),NU) (3(asz),NU) (gesztin,N) (gal-gal,N) 
+
+101
+sentence: 1(asz) kinda
+POS:(1(asz),NU) (kinda,N) 
+
+102
+sentence: 2(u) 3(ban2) gur 5(disz) sila3 sze du
+POS:(2(u),NU) (3(ban2),N) (gur,N) (5(disz),NU) (sila3,N) (sze,N) (du,V) 
+
+103
+sentence: dab6-ru-um{ki}-ma ba-an-sa6
+POS:(dab6-ru-um{ki}-ma,NE) (ba-an-sa6,NE) 
+
+104
+sentence: u3 gag
+POS:(u3,CNJ) (gag,N) 
+
+105
+sentence: 5(asz) 3(barig) 2(ban2) ur-{d}ba-ba6 dumu ur-nig2
+POS:(5(asz),NU) (3(barig),N) (2(ban2),N) (ur-{d}ba-ba6,NE) (dumu,N) (ur-nig2,N) 
+
+106
+sentence: dumu lugal-{gesz}kiri6
+POS:(dumu,N) (lugal-{gesz}kiri6,NE) 
+
+107
+sentence: 1(disz) sila4 kiszib3 ur-{d}en-ki kuruszda
+POS:(1(disz),NU) (sila4,N) (kiszib3,N) (ur-{d}en-ki,NE) (kuruszda,N) 
+
+108
+sentence: dumu-munus-a-ni
+POS:(dumu-munus-a-ni,N) 
+
+109
+sentence: an-na-ag2
+POS:(an-na-ag2,N) 
+
+110
+sentence: iti nesag
+POS:(iti,N) (nesag,NE) 
+
+111
+sentence: naga-bi 1(barig) 1(ban2) 1/2(disz) sila3
+POS:(naga-bi,N) (1(barig),N) (1(ban2),N) (1/2(disz),NU) (sila3,N) 
+
+112
+sentence: giri3 lu2-{d}nanna dumu ba-ba
+POS:(giri3,N) (lu2-{d}nanna,NE) (dumu,N) (ba-ba,N) 
+
+113
+sentence: iti ezem-{d}...
+POS:(iti,N) (ezem-{d}...,NE) 
+
+114
+sentence: szu-{d}suen
+POS:(szu-{d}suen,NE) 
+
+115
+sentence: zi-ga
+POS:(zi-ga,N) 
+
+116
+sentence: RU-lugal-me
+POS:(RU-lugal-me,NE) 
+
+117
+sentence: mu mu-na-sa4
+POS:(mu,N) (mu-na-sa4,N) 
+
+118
+sentence: ka ba-ab-kesz2
+POS:(ka,N) (ba-ab-kesz2,N) 
+
+119
+sentence: mar-sa-asz mu-kux(DU)
+POS:(mar-sa-asz,N) (mu-kux(DU),N) 
+
+120
+sentence: u4 1(u) 3(disz)-sze3 ka-sahar-ta
+POS:(u4,N) (1(u),NU) (3(disz)-sze3,NU) (ka-sahar-ta,N) 
+
+121
+sentence: 2(asz) MI-si4-ad
+POS:(2(asz),NU) (MI-si4-ad,N) 
+
+122
+sentence: mu ki-masz{ki} u3 hu-ur5-ti{ki} ba-hul
+POS:(mu,N) (ki-masz{ki},NE) (u3,CNJ) (hu-ur5-ti{ki},NE) (ba-hul,V) 
+
+123
+sentence: 1(esze3) 4(iku)
+POS:(1(esze3),N) (4(iku),N) 
+
+124
+sentence: 5(asz) sze gur lugal
+POS:(5(asz),NU) (sze,N) (gur,N) (lugal,N) 
+
+125
+sentence: 1/3(disz) ma-na x gin2 ku3 sze x x
+POS:(1/3(disz),NU) (ma-na,N) (x,O) (gin2,N) (ku3,N) (sze,N) (x,O) (x,O) 
+
+126
+sentence: baharx(EDIN)-ri
+POS:(baharx(EDIN)-ri,N) 
+
+127
+sentence: iti 1(disz)-kam
+POS:(iti,N) (1(disz)-kam,NU) 
+
+128
+sentence: 6(disz) 1/2(disz) gin2 6(disz) sze ku3
+POS:(6(disz),NU) (1/2(disz),NU) (gin2,N) (6(disz),NU) (sze,N) (ku3,N) 
+
+129
+sentence: iti {d}dumu-zi-sze3
+POS:(iti,N) ({d}dumu-zi-sze3,NE) 
+
+130
+sentence: ugula ur-mes
+POS:(ugula,N) (ur-mes,NE) 
+
+131
+sentence: {d}nin-gir2-su
+POS:({d}nin-gir2-su,NE) 
+
+132
+sentence: gesztu2 dagal nig2-nam gal-le-esz zu
+POS:(gesztu2,N) (dagal,V) (nig2-nam,N) (gal-le-esz,N) (zu,N) 
+
+133
+sentence: gu-nigin2-bi 7(gesz2) 2(u) 7(disz) 5/6(disz)
+POS:(gu-nigin2-bi,N) (7(gesz2),NU) (2(u),NU) (7(disz),NU) (5/6(disz),NU) 
+
+134
+sentence: an-nu-ni-tum
+POS:(an-nu-ni-tum,NE) 
+
+135
+sentence: 2(u) {uruda}gur10 a-ra2 2(disz)-kam
+POS:(2(u),NU) ({uruda}gur10,N) (a-ra2,N) (2(disz)-kam,NU) 
+
+136
+sentence: ka-ma-ri2{ki}-ta
+POS:(ka-ma-ri2{ki}-ta,NE) 
+
+137
+sentence: 2(bur3) 1(esze3) la2 1/2(iku)
+POS:(2(bur3),N) (1(esze3),N) (la2,V) (1/2(iku),N) 
+
+138
+sentence: udu 1(asz)-sze3
+POS:(udu,N) (1(asz)-sze3,NU) 
+
+139
+sentence: 1(disz) a-kal-la dumu e2-an-ne2
+POS:(1(disz),NU) (a-kal-la,NE) (dumu,N) (e2-an-ne2,N) 
+
+140
+sentence: sipa gu4 niga
+POS:(sipa,N) (gu4,N) (niga,V) 
+
+141
+sentence: 1(barig) e2-ki-bi
+POS:(1(barig),N) (e2-ki-bi,N) 
+
+142
+sentence: sa2-du11 ki-a-nag sza3-ba-na-sig szabra
+POS:(sa2-du11,N) (ki-a-nag,N) (sza3-ba-na-sig,N) (szabra,N) 
+
+143
+sentence: gaba-ri
+POS:(gaba-ri,N) 
+
+144
+sentence: giri3 a-gu-a-ni dub-sar
+POS:(giri3,N) (a-gu-a-ni,N) (dub-sar,N) 
+
+145
+sentence: 1(gesz2) 1(u) 1(disz) x gur
+POS:(1(gesz2),NU) (1(u),NU) (1(disz),NU) (x,O) (gur,N) 
+
+146
+sentence: 1(asz) udu {d}en-...
+POS:(1(asz),NU) (udu,N) ({d}en-...,NE) 
+
+147
+sentence: 1(asz) ni-ni
+POS:(1(asz),NU) (ni-ni,N) 
+
+148
+sentence: lu2-kal-la
+POS:(lu2-kal-la,NE) 
+
+149
+sentence: e2-muhaldim-sze3
+POS:(e2-muhaldim-sze3,N) 
+
+150
+sentence: szunigin 4(asz) ansze ...
+POS:(szunigin,N) (4(asz),NU) (ansze,N) (...,O) 
+
