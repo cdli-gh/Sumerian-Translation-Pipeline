@@ -15,7 +15,7 @@ sentence: dumu a-li2-wa-aq-rum
 POS:(dumu,N) (a-li2-wa-aq-rum,NE) 
 6
 sentence: ARAD2 sza {d}...
-POS:(ARAD2,N) (sza,N) ({d}...,O) 
+POS:(ARAD2,N) (sza,N) ({d}...,NE) 
 7
 sentence: ur-{d}nanna
 POS:(ur-{d}nanna,NE) 
@@ -24,7 +24,7 @@ sentence: dumu {d}suen-i-qi2-sza-am
 POS:(dumu,N) ({d}suen-i-qi2-sza-am,NE) 
 9
 sentence: i-ri {d}su-he2-zi
-POS:(i-ri,NE) ({d}su-he2-zi,NE) 
+POS:(i-ri,N) ({d}su-he2-zi,NE) 
 10
 sentence: {d}nin-sza3-tuk-x
 POS:({d}nin-sza3-tuk-x,NE) 

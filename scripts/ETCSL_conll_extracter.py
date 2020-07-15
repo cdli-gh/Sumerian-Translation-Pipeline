@@ -37,7 +37,7 @@ for conllfile in conllfiles:
                 c=""
                 d=""
                 a=line[0]
-                b=line[1].replace('[', '').replace(']', '').replace('<', '').replace('>','').replace('!', '').replace('?', '').replace('@c','').replace('@t','').replace('_','').replace(',','').replace('\\','').replace('/','')
+                b=line[1].replace('[', '').replace(']', '').replace('<', '').replace('>','').replace('!', '').replace('?', '').replace('@c','').replace('@t','').replace('_','').replace(',','').replace('\\','').replace('/','').replace('c','sz').replace('C','SZ').replace('j','g')
                 c=line[2]+"["+line[4]+"]"
                 d=line[3].split(':')[-1].replace('C','CNJ').replace('PD','DET').replace('I','J').replace('ADP','').replace('AUX','V').replace('NEG','').replace('ideophone','N').replace('cardinal','NU').replace('fraction','NU').replace('ordinal','NU').replace('demonstrative','DET').replace('indefinite','DET').replace('interrogative','DET').replace('nominal-relative','DET').replace('personal','DET').replace('reflexive','DET').replace('_','O').replace('X','O')
                 print(a+"\t"+b+"\t"+c+"\t"+d)
