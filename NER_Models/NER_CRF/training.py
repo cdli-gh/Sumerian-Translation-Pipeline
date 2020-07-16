@@ -20,11 +20,11 @@ def Preparing_tagged_data(df):
     temp=[]
     for i in range(len(df)):
         if df['ID'][i]==c:
-            temp.append((df['FORM'][i],df['NER'][i]))
+            temp.append((df['FORM'][i],df['XPOSTAG'][i]))
         else:
             tagged_sentence.append(temp)
             temp=[]
-            temp.append((df['FORM'][i],df['NER'][i]))
+            temp.append((df['FORM'][i],df['XPOSTAG'][i]))
             c+=1
     tagged_sentence.append(temp)
     return tagged_sentence
@@ -88,7 +88,7 @@ def main():
 
     df=pd.read_csv(args.input)
     tagged_sentence=Preparing_tagged_data(df)
-    df=df[['ID','FORM','NER']]
+    df=df[['ID','FORM','XPOSTAG']]
     #printing details
     printing_details(tagged_sentence)
     

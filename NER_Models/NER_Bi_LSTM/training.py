@@ -24,11 +24,11 @@ def Preparing_tagged_data(df):
     temp=[]
     for i in range(len(df)):
         if df['ID'][i]==c:
-            temp.append((df['FORM'][i],df['NER'][i]))
+            temp.append((df['FORM'][i],df['XPOSTAG'][i]))
         else:
             tagged_sentence.append(temp)
             temp=[]
-            temp.append((df['FORM'][i],df['NER'][i]))
+            temp.append((df['FORM'][i],df['XPOSTAG'][i]))
             c+=1
     tagged_sentence.append(temp)
     return tagged_sentence
@@ -57,7 +57,7 @@ def preparedicts(df):
     vocab.append("<end>")
     vocab.append("UNK")
     
-    tags = sorted(list(set(df["NER"].values)))
+    tags = sorted(list(set(df["XPOSTAG"].values)))
     tags.append("<e>")
     
     word2idx=OrderedDict() 
@@ -148,7 +148,7 @@ def TestData(model,X_test,y_test,idx2tag,label=None):
 
 def main():
     df= pd.read_csv(args.input)
-    df=df[['ID','FORM','NER']]
+    df=df[['ID','FORM','XPOSTAG']]
     print(df.head())
     sentences = Preparing_tagged_data(df)
     print ('Maximum sequence length:', MAX)
@@ -181,7 +181,7 @@ if __name__=='__main__':
     
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM NER)",default="Dataset/Augmented_NER_training_ml.csv")
+    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG)",default="Dataset/Augmented_NER_training_ml.csv")
     parser.add_argument("-e","--embedding",help="Location of sumerian word embeddings",default='Word_Embeddings/sumerian_word2vec_50.txt')
     parser.add_argument("-o","--output",help="Location of model weights to be saved",default="Saved_Models/NER/NER_Bi_LSTM.h5")
     
