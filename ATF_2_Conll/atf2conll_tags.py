@@ -4,7 +4,7 @@ from stat import ST_MODE, S_ISREG
 import argparse
 from converter import ATFCONLConvertor
 from text2tag import TAGCLASS
-from pyoracc.atf.common.atffile import check_atf
+#from pyoracc.atf.common.atffile import check_atf
 
 
 def file_process(infile, output_path, taglist, verbose=False):
@@ -12,12 +12,12 @@ def file_process(infile, output_path, taglist, verbose=False):
     print("\nouptput folder is {} \n".format(outfolder))
     if not os.path.exists(outfolder):
         os.makedirs(outfolder)
-    try:
-        click.echo('Info: Checking {0} with Pyoracc atfchecker. \n'.format(infile))
-        check_atf(infile, 'cdli', verbose)
-    except SyntaxError as err:
-        click.echo('Error in file{0} with Pyoracc atfchecker.'.format(infile))
-        click.echo('Syntax error: {0}'.format(err))
+#    try:
+#        click.echo('Info: Checking {0} with Pyoracc atfchecker. \n'.format(infile))
+#        check_atf(infile, 'cdli', verbose)
+#    except SyntaxError as err:
+#        click.echo('Error in file{0} with Pyoracc atfchecker.'.format(infile))
+#        click.echo('Syntax error: {0}'.format(err))
         
     print("\n PROCESSING ATF FILES \n")
     
