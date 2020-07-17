@@ -104,7 +104,11 @@ def main():
     
     #Translation MODEL
     print("Running Translation Model for Sumerian Language")
-    os.system(f'onmt_translate -model {trans_path} -src {output_dir}pipeline.txt -output {output_dir}trans_pipeline.txt -replace_unk -verbose')
+    if GPU==False:
+    	os.system(f'onmt_translate -model {trans_path} -src {output_dir}pipeline.txt -output {output_dir}trans_pipeline.txt -replace_unk -verbose')
+    else:
+    	os.system(f'CUDA_VISIBLE_DEVICES=0 onmt_translate -model {trans_path} -src {output_dir}pipeline.txt -output {output_dir}trans_pipeline.txt -replace_unk -verbose -gpu 0')
+    
     
     #Converting POS_NER to conll
     print("converting POS_NER to conll form")
@@ -126,6 +130,7 @@ if __name__=='__main__':
     parser.add_argument("-n","--ner",help="NER Model to be used from ['NER_CRF','NER_Bi_LSTM','NER_Bi_LSTM_CRF'] (Case_sensitive)", choices=['NER_CRF','NER_Bi_LSTM','NER_Bi_LSTM_CRF'],default="NER_CRF" )
     parser.add_argument("-t","--trans",help="Machine Translation Model to be used",choices=['Transformer'], default="Transformer" )
     parser.add_argument("-o","--output",help="Location of output Directory", default='ATF_OUTPUT/')
+    parser.add_argument("-g","--gpu",help="Use of GPU if avaliable", default=False)
     
     args=parser.parse_args()
     
@@ -134,6 +139,7 @@ if __name__=='__main__':
     ner_path='NER_Models/'+args.ner+'/prediction.py'
     trans_path='Translation_Models/'+args.trans+'.pt'
     output_dir=args.output
+    GPU=args.gpu
     
     print("\n")
     print("Input file is ", input_path)
@@ -141,6 +147,7 @@ if __name__=='__main__':
     print("NER Model path is ", ner_path)
     print("Translation Model path is ", trans_path)
     print("Output directory is", output_dir)
+    print("GPU", GPU)
     print("\n")
     
     main()
