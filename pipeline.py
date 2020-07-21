@@ -1,12 +1,27 @@
 import re
 import os
 import subprocess
+import unicodedata
 import argparse
 stopping_chars=["@", "#", "&", "$"]
 
 
 
+def is_number(s):
+    try:
+        float(s)
+        return True
+    except ValueError:
+        pass
 
+    try:
+        unicodedata.numeric(s)
+        return True
+    except (TypeError, ValueError):
+        pass
+
+    return False
+    
 def OPEN(filename):
     lines=[]
     with open(filename, "r") as f:
@@ -25,10 +40,11 @@ def savefile(filename,LIST):
 
 
 
-def processing_1(text_line):
+def processing_1(form):
+    form=form.replace('#', '').replace('[', '').replace(']', '').replace('<', '').replace('>', '').replace( '!', '').replace('?', '').replace('@c','').replace('@t','').replace('_','').replace(',','')
     #x = re.sub(r"\[\.+\]","unk",text_line)
     #x = re.sub(r"...","unk",x)
-    x = re.sub(r'\#', '', text_line)
+    '''x = re.sub(r'\#', '', text_line)
     x = re.sub(r"\_", "", x)
     x = re.sub(r"\[", "", x)
     x = re.sub(r"\]", "", x)
@@ -46,14 +62,17 @@ def processing_1(text_line):
     if k:
         return x
     else:
-        return ""  
+        return "" '''
+    if(len(form)==0):
+        form="..." 
+    return form 
                     
             
             
 def Pipeline_start(lines):            
     Pipeline=[]
     for i,line in enumerate(lines):
-        if len(line)>0 and line[0] not in stopping_chars:
+        if len(line)>0 and is_number(line[0]):
             index=line.find(".")
             line=line[index+1:].strip()
             text=processing_1(line)
@@ -75,7 +94,7 @@ def Pipeline_end(lines):
     index=0
     for i,line in enumerate(lines):
         pipeline_result.append(line)
-        if len(line)>0 and line[0] not in stopping_chars:
+        if len(line)>0 and is_number(line[0]):
             #pipeline_result.append(POS[pos_index])
             #pipeline_result.append(NER[pos_index])
             pipeline_result.append('#tr.en:'+tr_en[index])
