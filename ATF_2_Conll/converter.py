@@ -31,7 +31,6 @@ def is_number(s):
 
 class ATFCONLConvertor:
     def __init__(self, inputFile, output_path, taglist, verbose):
-        self.index=0
         self.taglist=taglist
         self.inputFileName = inputFile
         self.outfolder = os.path.join(output_path, OUTPUT_FOLDER)
@@ -66,10 +65,12 @@ class ATFCONLConvertor:
             outputFile.writelines("# ID\tFORM\tSEGM\tXPOSTAG\tHEAD\tDEPREL\tMISC\n")
             for tok in self.tokens:
                 SEGM=" "
+                tag=" "
                 if (SEGM_dict.get(tok[1])!=None):
                     SEGM=SEGM_dict.get(tok[1])
-                outputFile.writelines(tok[0] + '\t' + tok[1] + '\t' + SEGM + '\t' + self.taglist[self.index] + '\n')
-                self.index+=1
+                if(self.taglist.get(tok[1])!=None):
+                    tag=self.taglist.get(tok[1])
+                outputFile.writelines(tok[0] + '\t' + tok[1] + '\t' + SEGM + '\t' + tag + '\n')
 
     def __clean(self, tokenList):
         outTokenlist = []
@@ -130,7 +131,7 @@ class ATFCONLConvertor:
                     click.echo(
                         'Warning: File {0}, Linenumber {1} : Unrecognized @ in {2}'.format(self.inputFileName,
                                                                                            linenumber, line))
-        elif line[0] != "#" and is_number(line[0]):
+        elif is_number(line[0]):
             linenumber = tokenizedLine[0].rstrip(".")
             tokensToProcess = tokenizedLine[1:]
             cleanTokensToProcess = self.__clean(tokensToProcess)
@@ -144,5 +145,19 @@ class ATFCONLConvertor:
                 form = cleanTokensToProcess[i]
                 form_clean = form.replace('#', '').replace('[', '').replace(']', '').replace('<', '').replace('>',
                                                                                                               '').replace(
-                    '!', '').replace('?', '').replace('@c','').replace('@t','').replace('_','').replace(',','')
+                    '!', '').replace('?', '').replace('@c','').replace('@t','').replace('_','').replace(',','')    
                 self.tokens.append((ID, form_clean))
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                

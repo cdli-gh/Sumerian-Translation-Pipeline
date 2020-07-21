@@ -11,7 +11,7 @@ def file_process(infile, output_path, taglist, verbose=False):
     outfolder = os.path.join(output_path, 'output_conll')
     print("\nouptput folder is {} \n".format(outfolder))
     if not os.path.exists(outfolder):
-        os.makedirs(outfolder)
+    	os.makedirs(outfolder)
 #    try:
 #        click.echo('Info: Checking {0} with Pyoracc atfchecker. \n'.format(infile))
 #        check_atf(infile, 'cdli', verbose)
@@ -38,8 +38,9 @@ def check_and_process(pathname, output_path, taglist, verbose=False):
 
 def main(input_path, output_path, verbose):
     POS_INPUT='ATF_OUTPUT/pos_pipeline.txt'
-    NER_INPUT='ATF_OUTPUT/ner_pipeline.txt'    
-    Obj=TAGCLASS(POS_INPUT,NER_INPUT)
+    NER_INPUT='ATF_OUTPUT/ner_pipeline.txt'
+    rawpipeline='ATF_OUTPUT/pipeline.txt'    
+    Obj=TAGCLASS(POS_INPUT,NER_INPUT,rawpipeline)
     taglist=Obj.tag2list()
     
     if os.path.isdir(input_path):
