@@ -3,10 +3,9 @@ import json
 
 class TAGCLASS:
     
-    def __init__(self,pos_input,ner_input,pipeline):
+    def __init__(self,pos_input,ner_input):
         self.pos_input=pos_input
         self.ner_input=ner_input
-        self.pipeline=pipeline
         self.tagdict=dict()
     
     def OPEN(self,filename):
@@ -23,17 +22,12 @@ class TAGCLASS:
         POS=[POS[i] for i in range(2,len(POS),3)]
         NER=self.OPEN(self.ner_input)
         NER=[NER[i] for i in range(2,len(NER),3)]
-        pipe=self.OPEN(self.pipeline)
         for i in range(len(POS)):
-            text=pipe[i].split(" ")
-            print(text)
-            print(POS[i])
-            print(NER[i])
+            text=POS[i].lstrip('POS:').split(" ")
             pos_text=POS[i].lstrip('POS:').replace('(','').replace(')','').split(" ")
             ner_text=NER[i].lstrip('NER:').replace('(','').replace(')','').split(" ")
             for j in range(len(pos_text)):
-                tag=" "
-                word=text[j]
+                word=text[j][1:-1].split(",")[0]
                 pos_tag=pos_text[j].split(',')[1]
                 ner_tag=ner_text[j].split(',')[1]
                 if (pos_tag=='NE' and ner_tag=='O'):
@@ -57,12 +51,10 @@ class TAGCLASS:
         
         
         
-        
 if __name__=='__main__':
     
     POS_INPUT='ATF_OUTPUT/pos_pipeline.txt'
     NER_INPUT='ATF_OUTPUT/ner_pipeline.txt'
-    pipeline='ATF_OUTPUT/pipeline.txt'
     Obj=TAGCLASS(POS_INPUT,NER_INPUT,pipeline)
     taglist=Obj.tag2list()
     with open('ATF_2_Conll/tag_dict.json', 'w', encoding='utf-8') as f:

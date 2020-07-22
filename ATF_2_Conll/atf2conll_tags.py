@@ -37,10 +37,9 @@ def check_and_process(pathname, output_path, taglist, verbose=False):
 
 
 def main(input_path, output_path, verbose):
-    POS_INPUT='ATF_OUTPUT/pos_pipeline.txt'
-    NER_INPUT='ATF_OUTPUT/ner_pipeline.txt'
-    rawpipeline='ATF_OUTPUT/pipeline.txt'    
-    Obj=TAGCLASS(POS_INPUT,NER_INPUT,rawpipeline)
+    POS_INPUT=output_path+'/pos_pipeline.txt'
+    NER_INPUT=output_path+'/ner_pipeline.txt'    
+    Obj=TAGCLASS(POS_INPUT,NER_INPUT)
     taglist=Obj.tag2list()
     
     if os.path.isdir(input_path):
