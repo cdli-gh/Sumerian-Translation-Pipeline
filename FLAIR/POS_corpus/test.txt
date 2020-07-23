@@ -1,0 +1,14682 @@
+usz2	V
+lugal-men	NE
+
+{d}suen-i-din-nam	NE
+gu3	N
+zid	AJ
+mi-ni-de2-za-na	V
+nam-til3	N
+he2-na-X	O
+
+si	N
+im-ma-sa2	V
+{d}a-nun-na	NE
+u3	N
+di-de3	V
+im-ma-szu4-szu4-ge-esz2	V
+gu3-de2-a	NE
+lu2	N
+e2	N
+du3-a-ke4	V
+e2-a	N
+dusu-bi	N
+men	N
+kug	AJ
+sag-ga2	N
+mu-ni-gal2	V
+usz	N
+mu-gar	V
+a2-gar	N
+ki	N
+im-mi-tag	V
+sa2	V
+mu-sig10	V
+szeg12-ga	N
+gu	N
+bi2-dub2	V
+e2-a	N
+sa2	V
+2-nam	NU
+nam-mi-sig10	V
+gu	N
+{dug}ba	N
+sag	N
+gal2-la-am3	V
+e2-a	N
+sa2	V
+3-am3	NU
+nam-mi-sig10	V
+anzud2{muszen}	NE
+amar-a	N
+a2	N
+pag-am3	V
+e2-a	N
+sa2	V
+4	NU
+nam(RI)-mi-sig10	V
+nemurx(PIRIJ.TUR)	N
+pirig	N
+husz-a	V
+gu2-da	N
+la2-am3	V
+e2-a	N
+sa2	V
+5-am3	NU
+nam-mi-sig10	V
+an	N
+nisig	N
+su-lim	N
+il2-la-am3	V
+e2-a	N
+sa2	V
+6-am3	NU
+nam-mi-sig10	V
+ud	N
+sa2-dug4-ga	N
+hi-li	N
+guru3-am3	V
+e2-a	N
+sa2	V
+7	NU
+nam-mi-sig10	V
+e2-ninnu	NE
+i3-ti	N
+ud	N
+zal-la	V
+kalam	N
+si-am3	V
+gisz-kan4-na	N
+im-ga2-ga2-ne	V
+an	N
+nisig-ga	N
+men	N
+il2-la-am3	V
+gisz-kan4-na-ta	N
+ba-ta-tusz	V
+e2	N
+mah	V
+an-da	N
+gu2	N
+la2-am3	V
+e2	N
+mu-du3	V
+gisz-e	N
+im-ma-szub	V
+ambar	N
+{d}nanna	NE
+sag	N
+kesze2	V
+{d}en-ki-ka-kam	NE
+e2	N
+hur-sag-gin7	N
+im-mu2-mu2-ne	V
+dugud-gin7	V
+an-szag4-ge	N
+im-mi-ni-ib2-dirig-dirig-ne	V
+gud-gin7	N
+si	N
+im-mi-ib2-il2-il2-ne	V
+gisz-gana2	N
+abzu-gin7	N
+kur-kur-ra	N
+sag	N
+ba-ni-ib2-il2-ne	V
+e2-e	N
+hur-sag-gin7	N
+an	N
+ki-a	N
+sag	N
+an-sze3	N
+mi-ni-ib2-il2	V
+erin	N
+duru5	V
+ki	N
+u2	N
+rib	V
+mu2-a-am3	V
+e2-ninnu	NE
+szeg12	N
+ki-en-gi-ra2-ka	NE
+hi-li	N
+mu-ni-ib2-du8-du8	V
+e2-a	N
+gisz	N
+im-ga2-ga2-ne	V
+uszum	N
+abzu	N
+tesz2-ba	N
+ed2-de3-dam	V
+KA	O
+an-na	N
+im-mi-ib2-u3-u3-dam	V
+musz-mah	N
+hur-sag-ga2	N
+nam	N
+ak-am3	V
+e2	N
+gi	N
+guru5-bi	V
+musz	N
+kur-ra	N
+tesz2-ba	N
+nu2-am3	V
+sa-tu-bi	N
+erin	N
+duru5	V
+ha-szu-ur2-ra	N
+szu	N
+he2-tag-ga-am3	V
+aga3	N
+erin	N
+igi	N
+u6	N
+di-bi-a	V
+erin	N
+babbar2	AJ
+im-ga2-ga2-ne	V
+szim	N
+zid	AJ
+i3-he-nun-ka	N
+mi2	N
+ba-ni-ib2-e-ne	V
+e2	N
+im-du8-a-bi	N
+he-nun	N
+abzu	N
+szu	N
+tag-ga-am3	V
+A.JAR.KA-bi	N
+im-szi-ib2-suru5-ne	V
+esz3	N
+e2-ninnu	NE
+szu	N
+E2xBAD{}	O
+an-na-ka	NE
+gar-gar-a-am3	V
+ensi2-ke4	N
+e2	N
+mu-du3	V
+mu-mu2	V
+kur	N
+gal-gin7	V
+mu-mu2	V
+temen	N
+abzu-bi	N
+dim	N
+gal-gal	V
+ki-a	N
+mi-ni-sig9-sig9	V
+{d}en-ki-da	NE
+e2-an-gur4-ra-ka	NE
+szag4	N
+mu-di3-ni-ib2-kusz2-u3	V
+temen	N
+an-na	N
+ur-sag-am3	N
+e2-e	N
+im-mi-dab6	V
+ki-a-nag	N
+digir-re-ne-ka	N
+a	N
+im-na8-na8-a	V
+e2-ninnu	NE
+dim	N
+gal	V
+mu-gen6	V
+abgal2-bi	N
+mu-du3	V
+iri-na	N
+{gisz}asal2	N
+dug3-bi	V
+mu-du3	V
+gissu-bi	N
+mu-la2	V
+{gisz}szar2-ur3-bi	NE
+urin	N
+gal-gin7	V
+lagasz{ki}-da	NE
+im-da-sig9	V
+szu-ga-lam	NE
+ki	N
+husz-ba	V
+im-mi-ni-gar	V
+su	N
+zig3	V
+bi2-du8-du8	V
+barag	N
+gir2-nun-na	NE
+ki	N
+
+iri	N
+kur2-ra	V
+tum12{muszen}-gin7	N
+sze	N
+mi-in-sza4	V
+
+1(u)	NU
+9(disz)	NU
+sar	N
+6(disz)	NU
+gin2	N
+kab2-ku5	N
+ka-gu4-gu-sag-ga2	NE
+
+al-di-di-de3-en	V
+nu-kusz2-u3-de3-en	V
+
+8(disz)	NU
+gurusz	N
+ugula	N
+ku-ku-KA	NE
+
+si	N
+sa2-sa2-e-ra	V
+
+1(ban2)	N
+zi3	N
+u4	N
+2(disz)-kam	NU
+
+a2	N
+erin2-bi	N
+u4	N
+1(gesz'u)	NU
+6(gesz2)	NU
+3(disz)	NU
+2/3(disz)-kam	NU
+
+al-ba-an-ni-du11	NE
+
+giri3	N
+lu2-ur2-ra-ni	NE
+
+abula	N
+a-ga-de3{ki}-ka	NE
+a-gin7	AV
+kusz2	V
+mi-ni-ib-gal2	V
+
+a2-zu	N
+sa-par3-gin7{}	N
+hul-du	AJ
+X	O
+X	O
+X	O
+X	O
+mu-un-kud	V
+
+im-dug-ge	N
+{na4}szu-gin7	N
+
+lugal	N
+eb-la{ki}	NE
+gu2-du8-a{ki}	NE
+
+na-gada-zu	N
+u8	N
+me-a	AV
+sila4	N
+tur-tur	V
+me-a	AV
+
+giri3	N
+{d}utu-a-zu	NE
+
+kiszib3	N
+gu-u2-u2	NE
+sza13-dub-ba	N
+
+...	O
+1(ban2)	N
+sze-ba	N
+...-du	O
+
+mu	N
+{d}gu-za	N
+{d}szara2-du6	NE
+ba-dim2	V
+
+1(disz)	NU
+sila4	N
+{d}nin-dar	NE
+
+ud5-de3	N
+nig2-ar3-ra	N
+bi2-ib2-gu7-en	V
+
+kiszib3	N
+i-zu-a-ri2-ik	NE
+
+giri3	N
+i-pi4-iq-na-ni	NE
+
+lu2	N
+iri-sze3	N
+mu-un-gi4-gi4-a	V
+ki	N
+mu-szi-kig2-kig2	V
+
+ki	N
+i-di3-la	NE
+
+lu2-{d}igi-ma	NE
+aga3-us2-gal	N
+
+{d}en-ki-ke4	NE
+nig2	N
+nam-munus-a	N
+szu	N
+gal	V
+ba-ni-in-du7	V
+
+...	O
+nin-{d}ba-ba6	NE
+
+ur-bi2-lum{ki}-ma-ke4-ne	NE
+szu	N
+ba-ti	V
+
+szeg9-bar	N
+{gisz}asal2-gin7	N
+
+pa	N
+ga-am3-e3	V
+su-lum	N
+mar-am3	V
+
+ud-sakar	N
+gibil-am3	V
+ug3-e	N
+pa	N
+am3-...-e3	V
+
+nin-ab-ba-x	NE
+kuruszda	N
+
+1(disz)	NU
+sila4	N
+ASZ-ur4	N
+ba-usz2	V
+
+e2-e	N
+kur	N
+erin-na	N
+nu-me-a	V
+
+...	O
+{d}inana-ka	NE
+ki-bur2-re	N
+...	O
+
+2(u)	NU
+ku6	N
+
+1(ban2)	N
+szesz	N
+ur-li-si4-na	NE
+
+kiszib3	N
+gir2-su-ki-du10	NE
+
+ugu{}-gu10-usz	N
+am3-kum2-e-sze	V
+
+ur-{d}dumu-zi-da	NE
+
+musz3-a-ni	N
+hur-ru-um	N
+kur-ra-ka	N
+ud	N
+mu-na-ga2-ga2	V
+
+...	O
+in	N
+ba-dub-ba	V
+ki	N
+ba-sur-ra-a-ba	V
+
+2(disz)	NU
+{d}szu-{d}suen-an-dul3	NE
+dumu	N
+{d}szu-{d}suen-dingir	NE
+
+masz2	N
+su4	V
+masz2-ud5	N
+masz2	N
+2-a-bi	NU
+sag-du-bi	N
+sze-gin7	N
+um-ta-a-dub	V
+
+{d}en-ki	NE
+{d}a-sa-lim	NE
+u3	CNJ
+digir-dumu	N
+eridug{ki}-ga{}	NE
+...	O
+
+X	O
+X	O
+(X)-ke4	O
+an-na-ab-be2	V
+
+umusz-ga2	N
+i-ni-in-tar	V
+inim-ga2	N
+i-ni-in-sig10-ge-am3	V
+
+kiszib3	N
+KU-KU-zi	NE
+
+nu-ur2-ha-ba	NE
+
+szag4-ga-ni	N
+giri17-ba	N
+nu-gal2-la	V
+
+sze	N
+musz5	N
+ud	N
+50-am3	NU
+nu-gal2-la-am3	V
+
+...	O
+musz-giri2	N
+
+PA	N
+...-gar	NE
+
+dub-sar	N
+lugal	N
+e2	N
+szu-szum2-ma	N
+
+kiszib3	N
+hi-ir	NE
+
+iri	N
+me	N
+dug3-dug3-ga	V
+barag	N
+mah	V
+nam-lugal-la	N
+
+giri3	N
+szesz-a-na	NE
+sukkal	N
+
+X	O
+ab	N
+hu-luh-ha	V
+i-zi	N
+zig3-ga-am3	V
+me-lem4-bi	N
+husz-a	V
+
+sahar	N
+kaskal-la	N
+giri3-ni	N
+mu-un-si	V
+mu-un-e3	V
+
+e2	N
+kug	N
+{na4}za-gin3-na	N
+ki	N
+gar-ra	V
+
+ki	N
+a-da-a-da	NE
+
+dumu	N
+tur-zu	V
+dumu	N
+lugal-la-gin7	N
+mu-da{}-ak{}-a	V
+
+ki	N
+an-ne2-e-x	NE
+
+...	O
+lugal-sze3{}	N
+he2-em-szi-ni-gal2	V
+
+{d}dumu-zid-de3	NE
+eg2	N
+a-ra-li-ka	NE
+mu-ni-in-dab5-be2-ne	V
+
+{d}szul-gi	NE
+kur	N
+gul-gul	V
+kalam	N
+ge-en-ge-en	V
+
+hu-ba-szesz	NE
+
+giri3	N
+i3-u3-sza	NE
+
+e-te-al-pu3-{d}da-gan	NE
+lu2	N
+kas4	N
+
+nam-lugal-zu	N
+du-ri2	N
+he2-em	V
+
+inim	N
+nig2-{d}ba-ba6	NE
+
+lugal-kun5	NE
+dub-sar	N
+maszkim	N
+
+ur-sag	N
+{d}szul-pa-e3	NE
+za-e	DET
+lugal-bi-me-en	N
+
+1(disz)	NU
+gur	N
+pu-us2:sa{ki}	NE
+
+ki	N
+li-lum	NE
+
+BU{}	O
+...	O
+
+ug3	N
+gal-gal-la{}-gu10-ne	V
+ma-ra-an-...	O
+
+ur	N
+masz2{}-sze3	N
+na-ab-be2-a	V
+
+gi6	N
+u3-na	N
+ad	N
+na-an-di-ni-ib-gi4-gi4	V
+
+...-zu	O
+gu2	N
+pesz-a	V
+...-me-en{}	O
+
+lugal	N
+zabala3{ki}-ma	NE
+...-ab-ba{ki}	NE
+
+u-ba-ru-um	NE
+
+kug	AJ
+{d}inana-ke4	NE
+gu2{}	N
+mu-na-ni-ib2-gi-gi	V
+
+e2	N
+{d}en-lil2-la2	NE
+pa-har	N
+addir	N
+(X)	O
+
+me	N
+szar2-bi	V
+mi-ni-ib-si	V
+ag2	V
+X	O
+...	O
+
+i3-dub	N
+a-sza3	N
+zalag-ga-x	NE
+
+|PU3.SZA|-e2-kur-ru	NE
+
+ki	N
+mi-it-har-isz	NE
+
+nig2-gi4-mu	NE
+dumu	N
+nig2-gu4	NE
+
+{d}inana	NE
+me	N
+gal-gal-la	V
+barag	N
+kug-ge	AJ
+si-a	V
+
+u3	CNJ
+tuku{}	V
+du8	V
+en	N
+zu	V
+...	O
+
+si-ma-num2{ki}	NE
+
+nig2-dab5	N
+gesz-kin-ti	N
+ki	N
+lu2-amar-ku3	NE
+
+{d}en-ki	NE
+lugal	N
+abzu-ke4	N
+nam	N
+im-mi-ib-tar-re	V
+
+en-te-en	N
+kug	AJ
+nam-ta-...	O
+
+nam-til3-la	N
+u2	CNJ
+szudu3	N
+A	O
+X	O
+...	O
+
+i-ne-esz2{}	AV
+kug-ga	AJ
+na-an-ga{}-mu-na-ab-sig10-ge-en	V
+me-e	DET
+nin9-ni-gen	N
+
+giri3	N
+ku3-{d}nin-ga2	NE
+
+ki-ig	N
+ag2	V
+ku7-ku7-dam	V
+
+...	O
+X	O
+GA-ar	O
+
+ki	N
+an-na-gu	NE
+
+ama{}	N
+ga-an-nam	V
+X	O
+ki-bal	N
+in-X	O
+X	O
+
+mu	N
+igi-ba-szu-szu	NE
+{d}nanna(SZESZ)	NE
+ba-hun	V
+
+X	O
+X	O
+(X)	O
+X	O
+X	O
+SAR	O
+dalla	V
+me	N
+kur-ra	N
+
+lu-bi-gu10	N
+lu-bi-gu10	N
+lu-bi-gu10	N
+
+...	O
+E	O
+BI-gu10	O
+nu-un-til3	V
+
+ninda	N
+he2-gal2	N
+{d}nin-kilim	N
+ib2-gu7	V
+
+digir	N
+im	N
+ar3-ar3-re-ne	V
+zi-bi	N
+inim	N
+am3-ma-gar-re-ne	V
+
+giri3	N
+nin-ib2-si-a	NE
+szar2-ra-ab-du	N
+
+gu4	N
+
+lugal-me-en	N
+ni2	N
+ba-ra-ba-da-te	V
+su	N
+ba-ra-ba-da-zig3	V
+
+u5{muszen}	N
+kug	AJ
+szilam	N
+babbar	AJ
+a	N
+bar-ra	N
+a	N
+bi2-in-nag	V
+
+nin	N
+gal	V
+ki-ur3-ra	NE
+ama	N
+{d}nin-lil2	NE
+X-ra	O
+hul2-la	V
+mu-ni-ib-DU	V
+
+a-sza3	N
+a-sag-du3-du-{d}ig-alim	NE
+
+giri3	N
+lugal-nig2-szu-nir	NE
+
+a-sza3	N
+za3-bar-nin	NE
+
+u3-mu-un-gu10	N
+e2	N
+ga2-nun-na	N
+me-e	DET
+du5-mu-ra-di-di-in	V
+
+a	NE
+
+...	O
+ga2-ga2	V
+
+...-da	O
+mi-ni{}-...	O
+
+kug	N
+kalag-ga	V
+la2	V
+ka	N
+kalag-ga	V
+sam2	V
+
+1(disz)	NU
+masz-da3	N
+nin-me-te-na	NE
+
+giri3	N
+szu-e3-a-asz	NE
+
+zid-du	AJ
+e2-gal-la	N
+{d}utu	NE
+nam-mi-DU	V
+sza-mu-na-e3	V
+
+nu-gig-ge	N
+a-a-ni	N
+{d}suen-da	NE
+
+u3	CNJ
+a-sza3	N
+i7	N
+ambar-ra-ka	NE
+
+{d}en-ki	NE
+lugal	N
+abzu-ke4	N
+nam	N
+nam-mi-ib2-tar-re	V
+
+an-za-am	N
+i3-dur2-dur2	V
+{d}dumu-zid	NE
+nu-un-til3	V
+amasz	N
+lil2-la2	N
+al-du3	V
+
+1(gesz2)	NU
+2(u)	NU
+udu	N
+1(disz)	NU
+1/2(disz)	NU
+sila3	N
+1(gesz2)	NU
+5(disz)	NU
+udu	N
+1(disz)	NU
+sila3	N
+sze-bi	N
+3(barig)	N
+5(disz)	NU
+sila3	N
+ma-an-gi	NE
+
+e2	N
+X	O
+gal2-u3	V
+du14	N
+ga-e-da-ak	V
+ulutim2	N
+{ugu}ugu4-bi	N
+
+e2-duru5	N
+uri5(AB)-ma{ki}	NE
+
+dumu	N
+nu-u8{}-gin7	V
+2	NU
+ganun{}	N
+kug-babbar	N
+ma-an-szum2-mu-usz	V
+
+gud-gin7	N
+mur-ga2	N
+eme	N
+ZU	O
+JA2{}	O
+...	O
+
+dumu	N
+la-na	NE
+kuruszda	N
+
+...-ni	O
+an	N
+ki-bi	N
+dug3-dug3	V
+
+2(barig)	N
+3(ban2)	N
+lugal-za3-ge	NE
+
+nin-gu10	N
+szag4-zu	N
+ama	N
+kalam-ma-ka	N
+
+henbur2-sze3	N
+a-ra-sag9	V
+
+sza-ra-ad	NE
+
+ul-masz{ki}	NE
+igi-nim	N
+KAB.LAH4	N
+kalam-ma	N
+
+ki	N
+da-da-ha-ma-ti	NE
+
+giri3	N
+nin-lu2-gi-na	NE
+
+mussa-tur	N
+ta	DET
+mu-un-i-ra-bi	V
+
+nam-lagar	N
+ba-e-de6	V
+
+lugal-ban3-da	NE
+lu2	N
+numun-e	N
+ki	N
+ag2-am3	V
+szu	N
+nu-um-ma-gid2-de3	V
+
+dumu	N
+nin-x-gal2	NE
+
+dumu	N
+pa-x-a	NE
+
+an-da	NE
+{d}en-lil2-da	NE
+mu-e-da{}-sa2	V
+zag	N
+gal-bi	V
+mu-e-dur2-ru-e{}	V
+
+{na4}szuba-na	N
+{na4}szuba	N
+gal-gal-bi	V
+guru7-sze3	N
+na-du3{}-du3	V
+
+en-e	N
+u8	J
+bi2-in-dug4	V
+sahar-ra	N
+ba-an-da-tusz	V
+
+mu	N
+us2-sa	V
+en7-ku6{ki}	NE
+ba-hul	V
+
+ze2-ba	V
+{na4}bur-ra	N
+im-ma-szesz4	V
+
+szesz	N
+pa-lu5	NE
+
+ki	N
+me-zu	NE
+
+szah2	N
+nig2-gur11	N
+szu-{d}inanna	NE
+dumu-munus	N
+lugal	N
+
+ki	N
+i-din-i3-tug2	NE
+
+{gisz}szinig-e	N
+bar-ta	N
+dili-bi	AJ
+i3-du3	V
+
+kiszib3	N
+dingir-zi-zi	NE
+
+digir{}	N
+lu2-u18-lu	N
+szag4-gal-la-ni	N
+nam-ba-ab-tah-e	V
+
+giri3	N
+lugal-al-ni-szi	NE
+
+{d}nin-igi-zi-bar	NE
+
+8(disz)	NU
+sila3	N
+4(disz)	NU
+gin2	N
+nin-za3	NE
+u3	CNJ
+nin-zu2-si-igi-KU	NE
+
+{d}en-ki	NE
+ABxA-szag4	N
+kug-ta	AJ
+giri3-zu-sze3	N
+im-mi-in-gar	V
+
+iri{ki}-gibil-am3	NE
+al-dur2-ru-ne-esz	V
+
+...	O
+X	O
+ba-ni-ib-be2-e	V
+
+ma2-gur8	N
+an-na-gin7	N
+zalag-ga-zu-sze3	V
+giri17	N
+szu	N
+ha-ra-ab-gal2-le	V
+
+1(disz)	NU
+gu4	N
+zuh-a	V
+tu-ga	NE
+dub-sar	N
+szu	N
+ba-ra	V
+
+ti-gi4-lu{muszen}	N
+suhusz	N
+dar-ra	V
+zu2	N
+kesze2	V
+...	O
+
+un-ku5-esz	NE
+
+X	O
+sag	N
+sig7	V
+hi-li	N
+gur3-ru	V
+KISZI4{}-KISZI4{}	O
+{na4}za-gin3-a	N
+
+ka	N
+sag9-sag9-ge	V
+inim	N
+i3-szid-e	V
+
+i-lu	N
+sipad	N
+zid	AJ
+ba-dab5-ba-na	V
+ud	N
+mi-ni-ib-zal-e	V
+
+...	O
+szag4	N
+hul2-la	V
+ha-ra-ab-gar-re-ne	V
+
+nam-tar-ib2-gu-ul	NE
+
+ur-sag-e	N
+szag4(ZU)-gar-ta	N
+i3-gam	V
+
+dumu	N
+...-ARAD2	NE
+
+a2	N
+u4-du8-a	N
+dumu-gi7	N
+sza3-gu4	N
+x	O
+
+nig2	N
+sag9-ga-ni	V
+igi{}	N
+he2{}-...	O
+
+szu	N
+nam-usz2-ta	N
+kar-ra	N
+X	O
+UL	O
+...	O
+
+ge26-e	DET
+pa5	N
+1(DISZ)-am3	NU
+za-e	DET
+pa5	N
+1(DISZ)-am3	NU
+ensi2	N
+pa5	N
+1(DISZ)-am3	NU
+
+e2	N
+adab{ki}	NE
+musz3-za	N
+e2	N
+bi2-in-gub	V
+barag-za	N
+dur2	N
+bi2-in-gar	V
+
+a-bi2-a-bi2-ih	NE
+
+x	O
+x	O
+x	O
+ki	N
+lu2-...-na-x	NE
+
+{gisz}gu2-usz	N
+za-mi2-a	N
+kam-ma	V
+sag9-ga	V
+mi-ni-zu	V
+
+nig2	N
+e2	N
+de5-de5-ga	V
+agrig-e	N
+an-hul2	V
+
+aratta{ki}-a	NE
+lul-e	V
+me-a	AV
+he2-en-de3-dib-e	V
+
+giri3	N
+ku6-a	N
+a	N
+lu3-lu3	V
+gur-ra	V
+
+lu2-igi-pesz2	NE
+
+ki	N
+DI-u2-a	NE
+
+mu	N
+{gesz}gu-za	N
+...-mu-usz	NE
+ba-dim2	V
+
+1(disz)	NU
+gu4	N
+niga	V
+
+1(asz)	NU
+2(disz)	NU
+gur	N
+kiszib3	N
+lu2-mah-sag-ub3{ki}	NE
+
+murub4{}	N
+X	O
+mah{}	V
+TA	O
+HA{}	O
+RA{}	O
+...	O
+
+szu	N
+zid	AJ
+digir-ra-na-sze3	N
+szu	N
+X	O
+X	O
+X	O
+...	O
+
+gu3	N
+mur-re	V
+lu2-lul-e	N
+tug2	N
+szi-bir7-bir7-e	V
+
+lugal	N
+abzu-sze3	N
+du-a-ni	V
+giri3	N
+mu-na-ga2-ga2	V
+
+nin	N
+sag	N
+
+nam	N
+im-ma-an-tar-esz	V
+
+ab-ba-gi-na	NE
+gu2-ab-ba{ki}-ke4-ne	NE
+
+ki	N
+da-zi-gi4-na	NE
+
+nu-esz3	N
+x-ba-kam	NE
+
+lugal-lu2-sa6-sa6	NE
+
+ne	N
+ba-ni-in-su-ub-ba	V
+
+X	O
+{d}nanna	NE
+mi2	N
+ga-e-dug4	V
+
+{d}nin-a-zi-mu2-a-me-esz2	NE
+
+lu2	N
+bar-bar-re	NE
+muhaldim-ra	N
+
+...-in{}-sag3	V
+e2-gal	N
+im-sig10-sig10	V
+
+gidim-ma-ni	N
+X	O
+...	O
+X	O
+...	O
+
+2-kam-ma-sze3	NU
+igi	N
+kesze2-da-zu-sze3	V
+nu-ra-ni-ib-gi4-gi4	V
+
+ki	N
+hu-ha	NE
+
+an-ni-ad	NE
+
+2(barig)	N
+3(ban2)	N
+u3-sar	NE
+
+a2	N
+ur-da-mu	NE
+
+4(disz)	NU
+i-din-i-szum	NE
+
+ge26-e	DET
+iri-gu10-sze3	N
+ga-gen	V
+a-a-gu10-sze3	N
+ga-an-szi-gen	V
+
+nam-til3	N
+ia{}-u3-tud	V
+
+{d}gilgamesz2	NE
+nir-gal2	AJ
+unug{ki}-ga	NE
+
+gu	N
+na-la2-e-ne	V
+masz	N
+mu-un-sar-sar-ne	V
+
+{d}marduk	NE
+he2-til3-e	V
+
+sipad-de3	N
+e-ze2-ni	N
+ma-a-a-ba	N
+mu-da-ab-szub	V
+
+ur-{d}ku3-nun	NE
+
+geme2-{d}dumu-zi-da-sze	NE
+maszkim	N
+
+ki	N
+bu3-{d}da-gan	NE
+
+gisz-gid2-da-gu10	N
+szu	N
+ha-ba-ab-ti	V
+
+2(disz)	NU
+nin-gi7	NE
+dumu	N
+nin-gub-ba	NE
+
+2(barig)	N
+3(ban2)	N
+a-du-du	NE
+
+ma-sukkal-di	NE
+aszgab	N
+
+X	O
+X	O
+ki	N
+{d}en-lil2	NE
+...	O
+
+irigal-am3	N
+{gisz}al	N
+sag	N
+ki-a	N
+tum2-ma	V
+
+1(disz)	NU
+sag	N
+munus	N
+ur-{d}nin-men	NE
+mu-ni-im	N
+
+a-sza3	N
+u3-x-ku-tum	NE
+
+i3-la2-la2	NE
+
+mu	N
+bu-du-ur2	NE
+{d}adad	NE
+unu{ki}-ga	NE
+ba-hun	V
+
+ki	N
+zi-gur8-da	NE
+
+ansze-bal-a-gin7	N
+he2-ni-ib2-sar-re-X	V
+
+kiszib3	N
+kir-ri-am6	NE
+
+lu2	N
+dimgul	N
+ra	V
+igi	N
+bi2-du8-a	V
+
+sag-bi	N
+gu	N
+dili-a	AJ
+mu-un-ed2-de3-a	V
+mu-un-ne-ed3-de3-a	V
+mu-un-ni-ib-du8	V
+
+he2-du7	N
+e2-kur-ra	NE
+di-kud	N
+
+ma-da-bi	N
+nu-ub-ta-be4	V
+ud-bi	N
+nu-gal2-la	V
+
+4(u)	NU
+udu	N
+szimaszgi	N
+
+zah3	V
+szu-i	NE
+
+ur-{d}ama-iri-da	NE
+dumu	N
+er2-du8-a	NE
+
+...	O
+szub-ba	V
+ga-am3-mi-ib-kur9	V
+
+a	N
+szag4-ga	N
+szu	N
+ba-ni-in-ti	V
+a	N
+{d}en-ki-ka3-ka	NE
+
+ki-bi-na-ni-ba-ri	NE
+sukkal	N
+lugal	N
+
+u3-tud-da	V
+dumu-sag	N
+an	NE
+kug-ga-me-en	AJ
+
+{kusz}masz-li-um-e	N
+nig2-si-sa2-e	N
+
+sze-ba	N
+u3	CNJ
+a-sza3	N
+pi-li-ha-ka	NE
+
+nin{}	N
+...	O
+
+unu2	N
+gal-ba	V
+szul	N
+zid	AJ
+mu	N
+pad3-da	V
+{d}nu-nam-nir-ra-ka	NE
+...	O
+
+ubur	N
+ab2	N
+zid-da-ka	AJ
+ga	N
+gu7-a-ar	V
+
+mu	N
+zi-li-li2	NE
+{d}szara2-anzu	NE
+ba-hun	V
+
+nitah	N
+usu-tuku	AJ
+lirum-ma-me-en	N
+
+dumu	N
+ba-NI-a	NE
+
+X	O
+{d}nin-X	NE
+hu-mu-ni-ib-dib2-dib2-be2	V
+
+en	N
+{d}nin-urta	NE
+X	O
+gul{}	V
+kur	N
+ad6-esz	N
+mu-un-ak	V
+
+e2-nam-til3-la-ka	NE
+gal2	V
+ha-ma-ab-taka4	V
+
+dingir-sza3-ge-pa3-da-hur-sag	NE
+
+a	N
+zid	AJ
+{gud}ninda2	N
+
+kiszib3	N
+zi-bi2-bi2-a-nu	NE
+
+ur-{d}ni-nagar	NE
+x-musz	O
+
+mu-im-ma	N
+ze2-da-zu-sze3	N
+i3-SAR	V
+...	O
+
+a-na-ab-e2-a	NE
+gurdub-sze3	N
+gen-na	V
+
+ki	N
+AN-AMA	NE
+
+kur-kur	N
+{gisz}kab-gin7	N
+a-ba-da-ab-gal2-en-na	V
+
+e2-i3-li2	NE
+
+mu	N
+u3-da-ga	NE
+ba-hul	V
+
+inim	N
+{d}en-lil2-la2	NE
+nig2	N
+gu-la-am3	V
+sag-za	N
+an-dul3-esz2	N
+he2-em-ak	V
+
+mu	N
+he2-gal2-la	N
+ki-bi-sze3	N
+ma-zal-le-da	V
+
+...	O
+3(ban2)	N
+5(disz)	NU
+sila3	N
+{d}nin-usz-gi-da	NE
+
+silim-mi	NE
+gaba-ta	N
+
+dumu	N
+szi-ni-na-nu-um	NE
+
+{gisz}ma2	N
+kug-gin7	N
+{gisz}ma2	N
+sze-gin7	N
+
+e2	N
+kug-ga-ni-sze3	AJ
+dug3-bi	V
+mu-un-ga2-ga2	V
+
+{d}nin-nisig	NE
+sag9-ga-e	V
+
+mu	N
+wa-da-al-tum	NE
+ba-hul	V
+
+u4	N
+7(disz)-kam	NU
+
+a-sza3	N
+ur-ga2-da	NE
+
+dumu-munus-zu	N
+X	O
+X-ne-a	O
+ma-ra-X	O
+X	O
+
+ki	N
+me-szesz-szesz	NE
+
+{gi}ub-zal	N
+iri-bi-da	N
+nam-da-DI	V
+nam-gurusz	N
+dug3-ga-am3	V
+
+siskur2	N
+giri3	N
+igi-e2-duru5	NE
+igi-du8	N
+
+mu	N
+musz-u2-szu-ku6-sa-gu2-gal	NE
+en	N
+{d}nanna	NE
+ba-hun	V
+
+a-sza3	N
+sag-ki-he-gal2	NE
+
+ki	N
+a-li-ih	NE
+
+{d}suen-e	NE
+a-a	N
+ugu-ni-ra	V
+mu-na-ni-ib-gi4-gi4	V
+
+1(barig)	N
+ur-{d}lamma-ra	NE
+simug	N
+
+gurusz3	N
+bur2-bur2	V
+lu2	N
+X	O
+...	O
+
+ur-da-szar2	NE
+i3-dab5	V
+
+ge26-e	DET
+gesztin	N
+lu-lu-me-en	V
+gu7	V
+nag	V
+gal-gal-me-en	V
+
+kasz	N
+si-im	V
+{dug}lahtan-na	N
+de2-a-zu	V
+
+ama-gu10	N
+{d}ga-sza-an-gal-e	NE
+lul-la-sze3	V
+ta	DET
+mu-na-ab-gub-be2-en	V
+
+i-ne-esz2	AV
+{d}utu	NE
+ud	N
+ne-e-a	DET
+ur5	DET
+he2-en-na-nam-ma-am3	V
+
+5(gesz2)	NU
+2(u)	NU
+7(disz)	NU
+udu	N
+niga	V
+us2	V
+
+lagasz{ki}-ka	NE
+
+ug3	N
+szar2-ra-zu	V
+kurum7	N
+ak-da-bi	V
+{d}utu-gin7	NE
+igi-zu-sze3	N
+i3-dib-be2	V
+
+{lu2}sipad-ra	N
+tur3-ra	N
+an-szi-DU{}	V
+
+{d}en-lil2	NE
+szag4{}-zu	N
+mu-un-na-dim2	V
+
+X	O
+(X)	O
+lu2	N
+szub-ba	V
+na-an-gar	V
+
+siskur2	N
+u4-sakar	N
+e2-ku6-nu-gu7	NE
+
+udu-gu10	N
+ka	N
+u2-gu7	N
+ga-me-szi-gar	V
+
+{d}nin-gal	NE
+
+ku6	N
+a-KUD	N
+du3	V
+ze2	N
+me-ze2-bi	N
+gar-ra	V
+
+tilla2	N
+...	O
+
+ki	N
+ur-{d}ba-ba6-ta	NE
+
+sa6-ga-tur	NE
+
+{d}suen-e	NE
+{gisz}ma2-gur8	N
+im-nu2-e	V
+
+ki	N
+ni2-gal-eb2-gu-la	NE
+
+X	O
+(X)	O
+X	O
+larsam{ki}	NE
+e3-ni-ib	V
+
+ugnim-bi	N
+{gisz}tukul-ta	N
+he2-em-ta-ga2-ar	V
+
+gidru	N
+ud	N
+ul-le2-a-ka	N
+zi	N
+nam-til3-la-zu	N
+hu-mu-ni-ib2-sikil-le	V
+
+ki	N
+MIN-{d}nin-lil2	NE
+
+gi6	N
+MASZ-a	NU
+e2	N
+sag	N
+gar-ra	V
+szu{}	N
+...	O
+
+...	O
+{d}en-lil2-la2-ra	NE
+KA	O
+...	O
+dug4-ga-ni{}	V
+...	O
+
+en-na-bi-sze3-am3{}	N
+su{}-zu	N
+nu-ra-sag9-ge-en-e-sze	V
+
+geme2-iri-sag	NE
+kuruszda	N
+
+galam-e	V
+azag{}-sze3	N
+ama-ni	N
+nu-un-gu7{}	V
+
+e2	N
+lu2	N
+ur3-ra	V
+
+...	O
+KU	O
+mah	V
+ba-e-de6	V
+
+sze	N
+sig9-ga	V
+gidru-sze3	N
+nu2-a-da	V
+nig2-kud	N
+sza-ra-ab-ak-e	V
+
+1(barig)	N
+sze-ba	N
+lugal-tu5	NE
+
+dumu	N
+geme2-lam-ma	NE
+
+{gisz}gi-musz	N
+gig2	V
+a-szag4-ga	N
+ri-a	V
+
+guru7	N
+si-...	NE
+
+1(asz)	NU
+1(barig)	N
+iri-szu-GAM-du3-a	NE
+
+a-ma-ru	N
+kur-bi-ta	N
+ed3-de3	V
+
+szeg12	N
+e2-kur-ra	NE
+hu-mu-ni-ta-ta-hab	V
+
+mussa	N
+nig2	N
+5	NU
+mussa	N
+nig2	N
+10	NU
+he2-me-en	V
+
+{d}szu-{d}suen-ta	NE
+
+1(disz)	NU
+udu	N
+niga	V
+ba-usz2	V
+
+iti	N
+sze-sag-ku5-sze3	NE
+
+buru4{muszen}-e	N
+i3-il2-il2	V
+a2-bi	N
+nu-sud-sud-dam	V
+
+munus-e	N
+szag4	N
+X	O
+mu-un-na-te	V
+
+1(disz)	NU
+gukkal	N
+lu2-us2-gi-na	NE
+
+kiszib3	N
+sipa-an-ne2-...	NE
+
+e2	N
+{d}nin-hur-sag-ga2	NE
+ki	N
+sumur-ra	V
+du3-a	V
+
+{d}nin-isin2{si}-na-ra	NE
+nam-mah-a-ni	N
+ga-am3-dug4	V
+
+geme2-e2-gibil	NE
+
+kun4-bi	N
+uszumgal	N
+ka	N
+du8-a	V
+lu2-sze3	N
+nu2-a	V
+
+dumu	N
+szesz-kal-la-kam	NE
+
+ninda	N
+gesztin-da	N
+ma-da-du-du-nam	V
+
+nin-du11-ge-du7	NE
+i3-dab5	V
+
+i-szar-dingir	NE
+
+an-ne2	NE
+SI{}	O
+sag-bi	N
+giri3	N
+ki	N
+mu-...	O
+sza-mu-ra-ab-dug4{}	V
+
+...	O
+amasz-ta	N
+...	O
+
+masz2-ansze	N
+nig2-zi-gal2	N
+edin-na	N
+
+sze-ba-ni	N
+ul4-la-bi	V
+al-til-la	V
+
+izi	N
+ten-ten	V
+ba-e-de6	V
+
+mu	N
+us2-sa	V
+babila2{ki}-ka	NE
+ba-hul	V
+
+arhusz2	N
+tuku	V
+X	O
+(X)	O
+sag	N
+gig2-ga	V
+kug	AJ
+{d}nin-isin2{si}-na	NE
+nig2-nam-ma-ni	DET
+pa	N
+e3	V
+X	O
+
+lugal-x-masz	NE
+
+2(disz)	NU
+ma-har-...	NE
+dumu	N
+la-ga-x-x	NE
+
+ur-sag	N
+ka-ga14-ni	N
+ka	N
+uszumgal-la-kam	N
+
+{u2}numun2-bi	N
+{gi}en3-bar	N
+sumun2-bi	V
+nig2	N
+izi	N
+sag3-ge	V
+nig2	N
+an-ta	N
+ed2-de3	V
+
+munu4	N
+ki-szar2-ra	N
+a	N
+ba-ni-in-si	V
+
+ga2-la	N
+nam-ba-an-dag-ge	V
+
+pa-bi	N
+i-ku5-ru-ne	V
+zu2	N
+bi-kesze2-re-ne	V
+
+lu2	N
+AN	O
+ni2	N
+bulug5-ga2	V
+igi	N
+bi2-du8-a	V
+
+an-ra	NE
+ne-sag	N
+mu-un-na-an-gub	V
+sizkur	N
+mu-na-ab-be2	V
+
+i3-si-in{ki}	NE
+kur	N
+dilmun{ki}	NE
+nu-me-a	V
+{gisz}gisznimbar-ta	N
+ba-an-tud	V
+
+ga-sza-an-an-na	NE
+e-duru2-sze3	N
+tusz-tusz	V
+
+{gisz}gag-e	N
+du3-du3{}	V
+...	O
+
+2(ban2)	N
+lu2-ziz2-da-ba-lu5	NE
+
+e2-kur	NE
+e2	N
+{d}en-lil2-la2-sze3	NE
+giri3-ni	N
+dili	AJ
+mu-un-gub	V
+
+en-{d}nin-gir2-su-ki-ag2	NE
+
+giri3	N
+uz-e-gar-ra	NE
+
+{ugu2}ugu4-bi	N
+kur-bi-ta	N
+ed3-de3	V
+ed2-de3	V
+
+da-da{ki}	NE
+
+szah2	N
+PI	O
+BA	O
+...	O
+
+4(disz)	NU
+amar-{d}da-ni	NE
+
+gu2-a-zu	V
+
+sza3	N
+e2	N
+{d}nin-ildux(NAGAR)-ma	NE
+
+dumu	N
+bu2-lu5-lu5	NE
+
+{d}en-lil2-zi-sza3-gal2	NE
+
+ur-sag	N
+dumu	N
+{d}nin-gal-la	NE
+bur2-bur2-babbar	N
+szi-mu-e-szi-ib-za	V
+
+2(barig)	N
+3(ban2)	N
+lu2-sig-il2-la	NE
+
+hur-sag	N
+zubi-sze3	NE
+he2-bi2-in-ed3-de3	V
+
+nun{}	N
+...	O
+
+lu2-an-sza-na	NE
+
+{d}nin-ka-si	NE
+...	O
+
+en3	N
+tar-re	V
+
+9(bur3)	N
+2(esze3)	N
+1(iku)	N
+GAN2	N
+gi-lugal	NE
+
+X	O
+X	O
+e-da-gu7{}	V
+til-e-da-gin7	V
+
+siskur2	N
+u4-sakar	N
+e2-gal-edin	NE
+
+ki	N
+ur-an-si4-na	NE
+ba-zi	V
+
+1(u)	NU
+1(disz)	NU
+gurusz	N
+ugula	N
+gu-zi-mu	NE
+
+2(disz)	NU
+be6-li2-li2	NE
+
+u3	CNJ
+da-an-si	NE
+
+3(asz)	NU
+a-gu-gu	NE
+
+8(asz)	NU
+giri3	N
+zu-gi	NE
+
+nitalam-zu	N
+{d}ama-uszumgal-an-na	NE
+
+ta2-bur-PA-tum	NE
+i3-dab5	V
+
+{d}nin-gisz-zid-da	NE
+idim	V
+hur	AV
+nu-mu-un-gi4-gi4	V
+szu	N
+suh3-a	V
+di-de3	V
+
+...	O
+X	O
+JA2{}	O
+...	O
+
+nig2	N
+szag4	N
+hul2-hul2	V
+{d}nin-lil2-la2-ka	NE
+
+gud-alim	NE
+sahar	N
+me3-ka-ni	N
+nam-ta-an-e3	V
+
+nigir-a-ni	N
+en	N
+{d}hendur-sag-ga2	NE
+a2-bi	N
+mu-da-an-ag2	V
+
+2(barig)	N
+3(ban2)	N
+in-tu-esz	NE
+
+ki	N
+za3-ga-lam-ma	NE
+
+a-a	N
+{d}nanna	NE
+za3-mi2	N
+
+1(asz)	NU
+ur-li-kar	NE
+
+iti	N
+ezem-{d}nin-a-zu	NE
+
+na4	N
+tur-re	V
+na4	N
+gu-la-ar	V
+szu	N
+ba-an-zig3-ga	V
+
+gu2	N
+i7	N
+u3-sur-ma2-gur8-ra	NE
+
+e2-kur-ra	NE
+ad-da	N
+sag	N
+e2-gal-la-zu	N
+i3-me-a	V
+
+...	O
+X	O
+JA2	O
+X	O
+...	O
+
+ki	N
+AN-AN-ka-ka-TAR	NE
+
+ud	N
+zalag-ga	V
+ud	N
+{d}utu	NE
+di-kud	N
+nig2	N
+X	O
+...	O
+
+geme2-bi	N
+1(u)	NU
+3(disz)	NU
+1/3(disz)-am3	NU
+
+ab-ba-saga	NE
+
+4(disz)	NU
+ab-ba	NE
+
+{d}nun-gal-e-ne	NE
+dirig-ba	V
+
+mu	N
+gesz	N
+ig	N
+ka2	N
+du10-us2	N
+lugal-ka-sze3	N
+
+2(disz)	NU
+gin2	N
+ku3	N
+giri3	N
+{d}en-lil2-la2-mu	NE
+
+guru5-usz	N
+bur2-bur2	V
+
+kun-zi-da	N
+i7	N
+i7-ni-nam{ki}	NE
+gub-ba	V
+
+sag-men	N
+kug-sig17-ga	N
+mu-na-ni-in-gal2	V
+
+szu-gu-ub-ba	NE
+
+dumu	N
+ki	N
+ag2-ga2-a-ni	V
+
+u4	N
+1(u)	NU
+3(disz)	NU
+n	NU
+ba-zal	V
+
+en3	N
+im-ma-szi-tar	V
+nu-siki	N
+lu2	N
+nig2-tuku	AJ
+nu-mu-na-gar	V
+nu-mu-su	N
+lu2	N
+a2-tuku	AJ
+nu-na-gar	V
+e2	N
+ibila	N
+nu-tuku	V
+dumu-munus-bi	N
+i3-bi-lu-ba	N
+mi-ni-kur9	V
+ud	N
+nig2-si-sa2	N
+mu-na-ta-e3	V
+nig2-erim2	N
+i3-{d}utu	N
+gu2-bi	N
+giri3	N
+bi2-us2	V
+iri-e	N
+{d}utu-gin7	NE
+ki-sza-ra	N
+im-ma-ta-a-e3	V
+sag-ga2-ni-a	N
+gur	N
+im-mi-dar	V
+igi	N
+an	NE
+kug-ga-ke4	AJ
+ne-te-ni	DET
+bi2-zu	V
+gud-gin7	N
+sag	N
+il2-la	V
+mu-ku4-ku4	V
+esz3	N
+e2-ninnu-a	NE
+gud	N
+du7	V
+masz2	N
+du7-e	V
+gisz	N
+bi2-tag	V
+bur	N
+an-na	N
+mu-gub	V
+ten	N
+mu-ni-de2-de2	V
+uszumgal	N
+kalam-ma	N
+ti-gi4-a	N
+mu-gub	V
+a2-la2	N
+ud-dam	N
+szeg12	N
+mu-na-ab-gi4	V
+ensi2	N
+zag-e3-a	N
+nam-mi-gub	V
+iri-ni	N
+u6	N
+mu-e	V
+gu3-de2-a	NE
+...	O
+
+ha-la-a	NE
+lu2	N
+kas4	N
+
+ka	N
+tuku	V
+lul	V
+{kusz}lu-ub2-a-ni	N
+sa2	V
+im-dug4	V
+
+mu	N
+us2-sa	V
+e2-GIR3	NE
+ba-hul	V
+
+{d}suen	NE
+dumu	N
+ki	N
+ag2-ga2	V
+{d}en-lil2-la2	NE
+
+a-sza3	N
+lugal	N
+
+mu	N
+kur-ra-igi-gal2	NE
+ba-du3	V
+
+ur-gu2-de2-na	NE
+sipa	N
+szah2	N
+
+si	N
+ba-ab-sa2-e	V
+
+za-ba-al-li2	NE
+i3-dab5	V
+
+sukkal	N
+geme2-{d}nin-gir2-su-ka	NE
+szu	N
+ba-ti	V
+
+szegx(IM.A)	N
+an-na	N
+ud	N
+gal2-la-gin7	V
+
+e2-gal	N
+abzu-ta	N
+e2-la2-e{}	N
+...	O
+igi	N
+mu-un-ba-...	V
+
+inim-lugal	NE
+
+{gisz}al	N
+
+ud-ba	N
+{d}gilgamesz2	NE
+dumu-gir15-ra	N
+szag4-ga-ni	N
+arhusz	N
+ba-ni-in-tuku	V
+
+DI	O
+...	O
+
+a-sza3	N
+te-szu-i-ne	NE
+
+e2	N
+{d}ab-ba-u2	NE
+
+X	O
+X	O
+X	O
+X	O
+X	O
+X	O
+ma-mu-de3	N
+...	O
+
+bar-zu-sze3	N
+{tug2}zulumhi	N
+sud-de3	V
+ba-ab-du7-u3	V
+
+in-szi-wi-ir	NE
+
+szu-ni-i3-sa6	NE
+lu2	N
+azlag2	N
+
+dumu	N
+nimgir-esz3-a-DU	NE
+szusz3	N
+
+mu	N
+en	N
+{d}en-x-lu	NE
+masz-e	N
+i3-pa3	V
+
+ki	N
+i3-li2-ba-asz-ti	NE
+dumu	N
+isz-bu-ga-ru	NE
+
+{d}suen	NE
+uszum	N
+sag-kal	AJ
+kur	N
+un3-ta	V
+ug3	N
+ud	N
+ga2-ga2	V
+
+a-bi-da-ba	NE
+ensi2	N
+gir2-su{ki}	NE
+i3-dab5	V
+
+lugal-me-en3	N
+szu	N
+iri-ga2	N
+ga-am3-gi4	V
+
+arad-da-ni	N
+en-ki-du10-e	NE
+gu3	N
+mu-na-de2-e	V
+
+a-szag4	N
+dib-be2-da-zu-ne	V
+
+2(disz)	NU
+ur-e2-sag-il2-la	NE
+
+nim-sahar-ra	N
+{gi}kid-asz-rin	N
+ba-e-sig9	V
+
+iszib	N
+{d}szara2	NE
+
+ki	N
+nam	N
+tar-re-da	V
+nam	N
+szi-im-da-ab-tar-re-en	V
+
+4(u)	NU
+5(disz)	NU
+gurusz	N
+u4	N
+1(disz)-sze3	NU
+a2	N
+{d}utu-AN	NE
+szu	N
+a2	N
+silim-ma	V
+du11-ga	V
+
+aga3-us2	N
+lugal	N
+ki	N
+szu-{d}nin-lil2	NE
+gen-na	V
+
+ze2-ba	V
+kal-la-gu10	V
+lal3-e	N
+da-ag2-e-ga	V
+
+2(barig)	N
+3(ban2)	N
+lu2-sipa-da	NE
+
+nig2-nam-zu	DET
+{gisz}banszur	N
+sikil-la-za	V
+
+hi-li	N
+sag-ki-na	N
+szu	N
+ba-ni-in-ti	V
+
+mu	N
+u-pi5{ki}-ka	NE
+ba-hul	V
+
+giri3	N
+{d}nanna-zi-sza3-gal2	NE
+
+kab2-ku5	N
+amar-gi7	NE
+
+{gisz}dimgul-zu-u3	N
+uz3-sag	N
+an-na	N
+KA{}	O
+i-i-me-en3	V
+
+ki	N
+nin-sila-na	NE
+
+{d}nansze	NE
+nin9	N
+za3-mi2	N
+dug4-ga	V
+{d}a-nun-na-ke4-ne	NE
+
+{d}lugal-ki-sun5-na	NE
+{d}lugal-ki-bur2-ra	NE
+nin9-sze3	N
+igi	N
+bar-ra	V
+gu3	N
+mu-un-na-de2-e	V
+
+kiszib3-bi	N
+3(disz)-am3	NU
+kiszib3	N
+dingir-gi7	NE
+
+1(disz)	NU
+gu4	N
+...	O
+
+mu	N
+szu-x-bi	NE
+ba-hun	V
+
+gam-e-gu10	V
+1	NU
+12	NU
+gig4-am3	N
+
+i7	N
+a-ga-am-ur-ku5-da	NE
+
+gen-na	V
+zabar-szu-ga2	N
+gal:simug-sze3	N
+tum2-mu-na-ni-ib	V
+
+ur2-na{ki}	NE
+u3	CNJ
+nibru{ki}-ta	NE
+gen-na	V
+
+5(u)	NU
+gur	N
+giri3	N
+nig2-x-...	NE
+kiszib3	N
+esz3-e-ki-ag2	NE
+
+X-zu-e-ne-ka	O
+me-te-asz	N
+he2-im-mi-gal2	V
+
+an-dul3-e	N
+lugal-la	N
+za-e	DET
+a-na-asz	AV
+nu-ub-sze-ge-en	V
+
+masz2	N
+su4	V
+masz2-da-ri-a	N
+gaba-na	N
+i-im-tab	V
+
+en3-tukum-sze3	CNJ
+e2-gal-la	N
+u3-mu-e-DU.DU	V
+ug3-e	N
+u6-e	N
+me-e	V
+
+2(disz)	NU
+ni-iri-{d}szul-gi	NE
+dumu	N
+ni-szu	NE
+
+nam-sun5-na-da	N
+a-ba	DET
+in-da-sa2	V
+sag9-ga	V
+an-szi-gal2	V
+
+ki	N
+zu-bu-usz	NE
+
+lugal	N
+mu	N
+pad3-da	V
+{d}en-lil2-le	NE
+nam	N
+bal-a-ni	N
+nam-he2	N
+
+ki	N
+lu2-{d}ur-{d}szara2	NE
+
+{d}isz-me-{d}da-gan-me-en	NE
+sa-ra-gu10	V
+he2-sag9	V
+
+an-e2	NE
+
+u2	N
+dam-gu10	N
+na-ma-ab-il2-i-(X)	V
+pe-en-ze2-er-gu10	N
+u-gun3	N
+la-ba-ak-e	V
+
+ud	N
+re-ta	DET
+(X)	O
+{d}utu	NE
+UNU	O
+{d}en-lil2-la2	NE
+
+{d}isztaran	NE
+ki-en-gi-ra	NE
+szag4-ta	N
+nig2-nam	DET
+zu-u3	V
+
+kan4	N
+abul-la-ka	N
+mu-ni-in-dab5-be2-esz	V
+
+ki	N
+{d}szara2-a-kam	NE
+
+1(gesz2)	NU
+udu	N
+ki	N
+lugal-e-i3-zu	NE
+
+unu{ki}-ta	NE
+ki	N
+{d}nin-im-DU-ka	NE
+
+tab	N
+mu-szi-in-kur9-ra-ni	V
+ninim-ma-ni	N
+hu-mu-un-te	V
+
+er2	N
+1(DISZ)-e	NU
+a-nir	N
+1(DISZ)-e	NU
+
+4(disz)	NU
+gurusz	N
+ugula	N
+lu2-gir-gi4-lu	NE
+
+ur-{d}nin-mar-ki-ka	NE
+dub-sar	N
+um-mi-a	N
+
+2(barig)	N
+3(ban2)	N
+e2-x-x-x	NE
+
+nu-banda3	N
+lugal-ab-ba-mu	NE
+
+kur	N
+dilmun{ki}	NE
+kug-ga-am3	AJ
+kur	N
+dilmun	NE
+sikil-am3	V
+
+1(u)	NU
+1(disz)	NU
+gurusz	N
+
+6	NU
+gud	N
+niga	AJ
+60	NU
+20	NU
+udu	N
+udu-nitah2	N
+niga	AJ
+nig2-zu2-gub-sze3	N
+in-gar{}	V
+
+ka	N
+du3-a	V
+nig2-a2-zig3	N
+dug4-ga	V
+gu2-bi	N
+nu-mu-un-szi-ib-zig3	V
+
+MUNUS-MUNUS{muszen}-e	N
+ni2-bi-sze3	DET
+er2	N
+im-szi-sze8-sze8	V
+
+giri3	N
+us2-sa-zu-ne	V
+ug3	N
+
+nig2-ur2-limmu2	N
+tuku-e	V
+u3	N
+nu-um-szi-ku-ku	V
+
+szir3	N
+DI	O
+...	O
+
+aga	N
+kug-sig17	N
+sag-za	N
+ma-ra-ni-in-gen6	V
+szu	N
+zid	AJ
+ma-ra-ni-in-du7	V
+
+ki	N
+en3-na-mu-tar	NE
+
+dumu	N
+a2-dara3	NE
+
+kur-ra	N
+u3-tud-da-me-en	V
+kur-ra	N
+a2-gal2-me-en	AJ
+
+a-ma-ru	N
+zig3-ga	V
+gaba-szu-gar	N
+nu-tuku	V
+
+mussa-tur	N
+USZ	O
+X	O
+X	O
+
+2(disz)	NU
+ur-{d}bil4-ga-mes	NE
+dumu	N
+ur-{d}dam-gal-nun-na	NE
+
+2-kam-ma-sze3	NU
+nu-gig-ra	N
+bad3-tibira{ki}	NE
+mi-ni-in-szum2	V
+
+...	O
+X	O
+{d}iszkur	NE
+X	O
+IN	O
+NU	O
+sze	N
+e2-kur-ra	NE
+szu	N
+X	O
+la2-bi	V
+...	O
+
+iti	N
+ezem-{d}szul-gi-ta	NE
+
+ur-su-ga-lam-ma	NE
+
+1(asz)	NU
+3(barig)	N
+ur-{d}nirah	NE
+
+kug	N
+{na4}za-gin3-na	N
+u3-mu-un-me	N
+he2-me-en	V
+
+lu2-erim2	N
+lu2	N
+hul-gal2	AJ
+szu-bi	N
+la-ba-ra-e3	V
+
+uru2	N
+tur-re	V
+lugal-bi-ir	N
+amar	N
+szi-in-ga-an-u3-tud	V
+
+giri3	N
+ur-diri	NE
+szar2-ra-ab-du	N
+
+a-sza3	N
+{d}nin-lil2	NE
+
+bulug	N
+kug-sig17	N
+{na4}kiszib3	N
+za-gin3-na	N
+u3-mu-un-e	N
+ag2	N
+ma-an-ba	V
+
+{d}utu-e2-x-ha-ti	NE
+
+ud	N
+zal-le	V
+in-zu-ta	V
+ki	N
+gal-la	V
+ba-ra-da-ni-in-sug2-ge-en-za-na	V
+
+szuku	N
+diri	V
+i7	N
+i7-idigna	NE
+4(ban2)	N
+3(disz)	NU
+1/3(disz)-ta	NU
+
+usu-gu10	N
+ur-sag-ra	N
+u3-mu-na-te	V
+
+udu-bi	N
+2(gesz2)	NU
+2(disz)-am3	NU
+
+nig2-dab5	N
+aga3	N
+lugal	N
+ki	N
+ma-da	NE
+
+{gisz}kiri6	N
+{gisz}mesz3-a	N
+gurun	N
+il2-la-gu10	V
+hi-li-zu	N
+ze2-ba-am3	V
+
+dumu	N
+nin-nam-mah-su	NE
+
+mu	N
+uri5{ki}-a	NE
+ba-hul	V
+
+1(gesz2)	NU
+2(u)	NU
+9(disz)	NU
+udu	N
+1(disz)	NU
+sila3	N
+sze-bi	N
+3(barig)	N
+3(ban2)	N
+gu3-zi-de2-a	NE
+
+nin-dub-su3	NE
+i3-dab5	V
+
+X	O
+eg2	N
+zal-la-bi	V
+X	O
+bi2-ak	V
+
+id2	N
+hal-hal-la	V
+a-ki-ta	N
+su3-ud-bi-sze3	V
+kur-sze3	N
+
+...	O
+gu3	N
+nun	N
+mi-ni-ib2-be2-ne	V
+
+dumu	N
+X	O
+X	O
+{d}en-lil2-la2-me-en	NE
+
+ap-ki-da	NE
+
+ab	N
+szesz-kur	NE
+
+4	NU
+la2-e	V
+hasz2	N
+gid2-gid2-i	V
+
+mah-bi	V
+gu7-gu7	V
+ba-zal	V
+szag4-za	N
+hul-bi	V
+sur-sur	V
+
+a-ra2	N
+3-a-kam	NU
+tum-ma-al{ki}	NE
+ba-szub	V
+
+1(gesz2)	NU
+udu	N
+ki	N
+a-bu-ni-ta	NE
+
+ud	N
+im-zal	V
+inim	N
+im-szar2-szar2	V
+
+X	O
+tur{}	V
+mu{}-da-dug3	V
+...	O
+tab{}	V
+mu-un-da-...	O
+
+nigin3-gar	NE
+ki	N
+kug-ga-kam-ma	AJ
+ga2-ga2	V
+
+2(disz)	NU
+re-i3-si-in	NE
+dumu	N
+ri-ze2-dingir	NE
+
+ud	N
+amar-e	N
+im-ta-e3	V
+amar-e	N
+ba-an-gam	V
+
+ugula	N
+mi-na-ar-ni	NE
+
+e2-ga2-gisz-szu2-a	NE
+ki-tusz{}	N
+szag4	N
+hul2-la	V
+e2-gal	N
+ni2	N
+guru3-na	V
+
+szu-da-zu	NE
+
+szu-sar	N
+szu	N
+gurx(|SZE.KIN|)-a	V
+
+e2-lu2-...	NE
+dam-gar3	N
+
+siki-ur2-gu10	N
+ga2-an-suh3{}-suh3-a-gin7	V
+
+si-i3-tum	N
+ur-{d}nin-sun2-ka	NE
+
+lugal-gu10	N
+gisz-gi	N
+dagal	V
+mu-e-szum2	V
+nunuz	N
+ki	N
+ha-ba-ni-ib-tag	V
+
+alan	N
+sud	V
+tuku	V
+sag-du	N
+tuku	V
+tesz2-bi	N
+tur5-ra	V
+gaba	N
+ba-ri	V
+
+sipa-{d}nin-gir2-su-i3-pa3	NE
+
+kasz	N
+nu-zu	V
+
+ensi2	N
+gal	V
+{d}en-lil2-la2	NE
+nir	N
+an	N
+ki-da	N
+zag	N
+sza4-a	V
+
+ka-hu-uh-uh-gu4	NE
+szu	N
+ba-ti	V
+
+{d}nin-urta	NE
+ensi2	N
+gal	V
+{d}en-lil2-la2	NE
+
+{d}lamma-e	N
+e2-tar-sir2-sir2-ra	NE
+
+na-bi2-{d}suen	NE
+u3	CNJ
+na-sa6	NE
+
+di4-di4-la2	V
+inim-inim-ma	N
+he2-du7	N
+kasz	N
+hu-mu-un-ku7-ku7-de3-ne	V
+
+ugula	N
+u3-lu-lu	NE
+
+ugula	N
+ba-za-za-ti	NE
+
+2(gesz2)	NU
+gur	N
+a-sza3	N
+u2-ki-mun-mu2-a	NE
+
+szesz-zu	N
+a-na	DET
+bi2-in-dug4	V
+a-na	DET
+bi2-in-tah	V
+
+{urud}tun3	N
+gal-gin7	V
+bad3	N
+DUB{}	O
+ga-szub-szub	V
+ama-gu10	N
+hu-mu-da-an-zu	V
+
+...-be2-e	O
+szu-ga2	N
+ba-ni-in-dab5-be2	V
+KA	O
+JISZ	O
+BI	O
+RA-RA	O
+
+lugal	N
+mu	N
+pad3	V
+...	O
+
+szunigin	N
+1(ban2)	N
+1(disz)	NU
+sila3	N
+kasz	N
+szunigin	N
+7(disz)	NU
+sila3	N
+ninda	N
+
+2(disz)	NU
+lugal-inim-zi-da	NE
+
+ge26-e	DET
+ki	N
+lu2{}-zu	N
+ga-mu-re-pad3	V
+a-na-am3	DET
+nig2-ba-gu10-um	N
+
+mu	N
+re-a-ta	DET
+mu	N
+nam	N
+ba-tar-ra-ba	V
+
+a-sza3	N
+in-hul-la-a	NE
+
+{urud}dur10-tab-ba	N
+mu-na-an-bar-re-ia-ka	V
+szu	N
+he2-...	O
+
+a-sza3	N
+gesz-NI-gaba-UD-li	NE
+
+ki	N
+ur-ge6-par4-ta	NE
+
+ka5-a	N
+
+til-lu-ug	N
+sa12-ti-um{ki}	NE
+...	O
+
+dumu	N
+ur-bara2-se3-ga	NE
+
+ama-ni	N
+sila-a	N
+X-asz	O
+LA	O
+X	O
+X	O
+
+me-ni	N
+e2-a-na	N
+u3-da-an-de6	V
+e2-a-ni-ta	N
+ba-ra-szub-ba	V
+
+ur-sag-gu10-ne	N
+igi	N
+mu-un-suh-suh-u3-ne	V
+sag5-sag5-en-ze2-en	V
+
+en	N
+ni2	N
+guru6	V
+an	N
+ki	N
+kalam-ma	N
+pa	N
+e3-a	V
+
+kab2-ku5	N
+a-e-bar-ka	NE
+tir-sze3	N
+
+a2-bi-sze3{}	N
+ha-ba-e-re-a-ed3	V
+
+ku3-an	N
+lugal-{d}en-ki	NE
+
+e-ne	N
+di-bi	V
+
+mu-kux(DU)	N
+e2-sza3-ga	NE
+sanga	N
+
+nin	N
+me-ni-da	N
+me	N
+nu-sa2-a	V
+{d}nisaba	NE
+za3-mi2	N
+
+ki	N
+lugal-pa-...	NE
+
+lugal	N
+|PU3.SZA|-isz-da-gan	NE
+ga-esz-sza	NE
+
+...	O
+nam-en-bi	N
+ak-de3	V
+mu-un-...	V
+
+a-al-x-x	NE
+
+zi	N
+ama	N
+ugu-ga2	V
+{d}nin-sumun2-ka	NE
+a-a-ga2	N
+kug	AJ
+{d}lugal-ban3-da	NE
+
+ki	N
+ni-AN-bi2-i3-lum	NE
+
+uz-tur(GAG)	NE
+
+3(asz)	NU
+il-{d}suen	NE
+
+szag4	N
+inim-gal2	AJ
+kug	AJ
+zid-de3	AJ
+si-a-ni	V
+nam-de6	V
+
+ki	N
+lu2-{d}e2-an-ka	NE
+ba-zi	V
+
+hu-wa-wa	NE
+dur2	N
+im-ma-gar	V
+er2	N
+im-ma-an-pad3	V
+szex(SIG7)-szex(SIG7)	N
+i3-ga2-ga2	V
+
+edin	N
+bar-rim4	N
+ki	N
+a	N
+nu-gal2-la	V
+
+{gisz}erin	N
+{gisz}szu-ur2-men5	N
+{gisz}za-ba-lum	N
+{gisz}taszkarin	N
+
+1(szar2)	N
+1(bur'u)	N
+1(bur3)	N
+1(iku)	N
+1/2(iku)	N
+1/4(iku)	N
+GAN2	N
+
+kalag-ga	V
+kur	N
+gaba	N
+nu-gi4-me-en	V
+
+2(disz)	NU
+ur-kas4-di	NE
+
+2(barig)	N
+ama-ha-ma-ti	NE
+engar	N
+
+ud	N
+lu2-kur2	N
+im-durunx(KU.KU)-na-a	V
+ugu-bi-sze3	N
+nu-ub-gar	V
+nu-ub-dug4	V
+u3-nu-ub-zu	V
+
+um-ma	N
+sag-bur-ru	NE
+ur-bar-ra	N
+a-ta	N
+im-ta-an-e3	V
+im-ta-an-ed3	V
+
+...	O
+nam	N
+tar{}-ra{}	V
+
+X	O
+X	O
+su-ul{}-pa3-e-a-gin7{}	NE
+SI-en-da-hu-la	V
+
+ki	N
+nin-szesz	NE
+
+a-ri-x-a-ri	NE
+
+a-sza3	N
+igi-iri-sag-ga2	NE
+
+2(disz)	NU
+lugal-an-na	NE
+
+kug-bi	N
+kug-dim2-e	N
+im-dim2-e	V
+
+e2-za	N
+he2-bi2-gub-be2-en	V
+ud	N
+na-me	DET
+nig2	N
+
+arhusz	N
+zi	N
+til-le-a-ni	V
+zag-ga	N
+i3-szub-be2	V
+
+dumu	N
+nin-hi-li	NE
+
+szesz	N
+a-na-ni-ne-ka	NE
+
+1(asz)	NU
+saga	V
+lugal-ma2-gur8-re	NE
+
+...-a-ur4-ur4	V
+mu-da{}-ab-ZA	V
+
+PA	N
+kinda-gal	NE
+
+5(u)	NU
+6(asz)	NU
+sze	N
+gur	N
+lugal	N
+
+iri-gu10	N
+{kur}dilmun{ki}	NE
+nu-me-a	V
+{gisz}gisznimbar	N
+ba-mu2	V
+
+(X)	O
+X	O
+sig7-ga-ba	V
+lu2	N
+nu-ku4-ku4-da	V
+
+tug2	N
+gig2-ga-ni	V
+ha-ma-ab-szum2-mu	V
+
+ugula	N
+ur-{d}szu-{d}suen	NE
+
+ki	N
+{d}nanna-dalla	NE
+
+{d}utu	NE
+an-na-ta	N
+inim	N
+mu-ni-ib-gi4-gi4	V
+
+{d}inana{}	NE
+...	O
+tug2-ba13	N
+la2	V
+AN-ra	O
+...	O
+kur-ra	N
+ba-e-a-il2	V
+
+a-hu-ni	NE
+
+nam-erim2	N
+ga-bi2-...	O
+
+ki	N
+eb-ku-sza-ta	NE
+
+u3	CNJ
+di-mi	NE
+
+1(u)	NU
+ku6	N
+nig2-ki	N
+gur	N
+bar-ta-dub-ba	NE
+
+4(asz)	NU
+du	V
+lugal-nar	NE
+
+sze	N
+sag-bi	N
+e2-kur	NE
+za-gin3-sze3	N
+ge26-e	DET
+ma-ra-e{}-gin7{}	V
+
+dumu	N
+ku-ga-a	NE
+
+ki	N
+tu-ra:am-i3-li2	NE
+aszgab-ta	N
+
+mu	N
+en	N
+eridu{ki}	NE
+ba-a-hun	V
+
+{gisz}mar-gu10	N
+gu2-un	N
+u3-un-ku-ku-ru	V
+{gisz}mar-gu10-ta	N
+ba-ra-ed2-de3-en-e-sze	V
+
+za-a-gen6-nam	DET
+al-di-me-en-e-sze	V
+...	O
+
+gu7	V
+nag	V
+gal-gal-e	V
+ba-tusz-en	V
+
+6(asz)	NU
+4(barig)	N
+3(ban2)	N
+sze	N
+gur	N
+lugal	N
+
+ukusz2-gin7	N
+ki	N
+dug3	V
+hu-mu-dar{}-e-sze	V
+
+UR	O
+PI	O
+BA	O
+...	O
+
+nitalam3	N
+ki	N
+ag2-zu	V
+en	N
+{d}pa-bil2-sag-ge26	NE
+
+szah2	N
+ninda	N
+pax(PAD)-ra2	V
+mu-un-il2	V
+
+ni2-zuh	N
+e2	N
+buru3-buru3	V
+{gisz}ig	N
+gub-bu	V
+za-ra	N
+suh-u3	V
+
+2-kam-ma-asz	NU
+agargara	N
+id2-da	N
+i-ni-in-szub-bu-usz	V
+
+en	N
+gesztug2-ga	N
+lugal	N
+{d}en-ki	NE
+
+4(disz)	NU
+sar	N
+kab2-ku5	N
+gigir-x-{d}utu	NE
+
+ki	N
+ki-ur2-en-kal	NE
+
+ha-la-ni	NE
+di-ku5-bi-me	N
+
+lu2-tur	N
+gisz3	N
+im-mi-in-dug4	V
+
+{id2}idigna	NE
+{id2}buranun-na	NE
+tesz2	N
+gu7-u3-da	V
+
+sza3	N
+e2-unu{ki}-ta-mu-zu	NE
+
+si	N
+sa2	V
+IM-bi	O
+en-na	N
+
+lugal-zar-x	NE
+umma{ki}	NE
+
+szu-esz-dar	NE
+szu	N
+ba-ti	V
+
+2(disz)	NU
+dug	N
+saga	V
+AN-gu2-gu2-mu	NE
+
+abzu	N
+{d}en-ki-ke4	NE
+ul-la	V
+bi2-in-tum2-mu	V
+
+x-szu-bi	NE
+
+ki	N
+lugal-nig2-be-du10	NE
+
+2(barig)	N
+3(ban2)	N
+geme2-{d}lugal-zi-da	NE
+
+zi-ga	N
+ma-asz-hu-un-da-hi-li	NE
+kuruszda	N
+
+{d}en-ki	NE
+igi	N
+1	NU
+il2-la-ni	V
+kur-szag4-ge	N
+di-di	V
+
+ab-ba-sa6-ga-kam	NE
+
+ki	N
+e2-ur2-bi-du10-ta	NE
+
+a-sza3	N
+a-u2-da-gu-la	NE
+
+lu2-ur-dingir	NE
+
+3(u)	NU
+u8	N
+2(u)	NU
+udu	N
+
+geme2-an-da-ba-ra-NE	NE
+
+...	O
+ma-al-la-zu	V
+...-gu10	O
+
+lu2	N
+kin-gi4-a	N
+...-ku3-zu	NE
+
+kiszib3	N
+{d}x-ISZ-mun-na	NE
+
+nig2-nin-mu-x	NE
+gaba-ta	N
+
+ur-esz3-lil2-la	NE
+
+sze	N
+am3-mi-ib2-su-ub-be2	V
+
+ur-e2-kikken	NE
+i3-dab5	V
+
+kiszi6-bar{muszen}-gu-ru-ug{muszen}	N
+su4-a	V
+tug2-gun4-na	N
+gisz-gi-a	N
+la2-a	V
+
+e2-gu3-nun	NE
+
+1(disz)	NU
+{munus}asz2-gar3	N
+{d}nansze-ama-mu	NE
+nu-banda3	N
+
+sza3-gal	N
+udu	N
+niga	V
+sa2-du11	N
+
+nam	N
+kur-ra-sze3	N
+hu-mu-ra-ni-in-DU-en{}	V
+
+{d}a-ba4	NE
+digir	N
+a-ga-de3{ki}-ke4	NE
+
+{gisz}taszkarin	N
+hi-li	N
+X	O
+(X)	O
+du8-a-me-en	V
+
+bu-ga-ti	NE
+
+ba-ak-i3-li2	NE
+ugula	N
+kuruszda	N
+
+i7	N
+gibil	V
+i7-nun-na	NE
+
+1(asz)	NU
+1(ban2)	N
+gur	N
+kiszib3	N
+ka-la-mu	NE
+
+dumu	N
+ur-sukkal	NE
+szusz3	N
+
+aszkud2-zu	N
+...	O
+
+ugula	N
+nin-szud3	NE
+
+2(barig)	N
+3(ban2)	N
+a-a-dingir-mu	NE
+
+kab2-ku5	N
+{d}nin-mar{ki}-in-pa3	NE
+
+lu2	N
+igi	N
+bar-ra-ka-ni	V
+lu2-al	N
+li-bi2-dirig	V
+
+ze2-ru-la	NE
+
+...	O
+nam-lugal	N
+ba-mu	V
+
+{d}gilgamesz2	NE
+en-sze3	AV
+i3-nu2-de3-en	V
+
+mu	N
+en	N
+{d}nin-pu2-KA	NE
+ba-a-hun-sze3	V
+
+{d}ba-u2	NE
+e2-tar-sir2-sir2	NE
+an-ne2	N
+gar-ra-za	V
+
+4(disz)	NU
+giri3-ni	NE
+
+i3-dub	N
+a-sza3	N
+{d}amar-{d}suen-ki-ag2-{d}nin-gir2-su	NE
+
+nin-sza3-zu	NE
+i3-dab5	V
+
+um-ma	N
+{d}bi-lu-lu	NE
+szag4-ga-ni	N
+mu-hul2-e	V
+
+1(barig)	N
+lu2-bil3-ga	NE
+ad-kup4	N
+
+an-na	N
+ba-an-zig3	V
+
+1(gesz2)	NU
+4(u)	NU
+8(asz)	NU
+sze	N
+gur	N
+lugal	N
+
+2(gesz2)	NU
+gur	N
+a-sza3	N
+a-ka-sahar-gu-la	NE
+
+gen	V
+nin9	N
+ki	N
+ag2-gu10	V
+szag4-gu10	N
+he2-em-hul2-le	V
+
+kiszib3	N
+na-na-u3	NE
+
+kur	N
+gal	V
+{d}en-lil2-ra	NE
+buru14	N
+he2-gal2-la	N
+ku4-ku4	V
+
+{gisz}tukul	N
+me3	N
+a2-zu-sze3	N
+he2-em-mi-gi4	V
+
+{gisz}a-da-ma2-bi	N
+kur	N
+szim	N
+{gisz}erin-na-sze3	N
+
+amar-ku3	NE
+
+...	O
+mu-da-gal2	V
+
+nin-geme2-dumu-ni	NE
+
+ib2-ba	V
+nu-te-en-te-en	V
+dumu	N
+gal	V
+{d}suen-na	NE
+
+1(u)	NU
+2(disz)	NU
+2/3(disz)	NU
+sar	N
+kab2-ku5	N
+za-ha-din-na	NE
+
+ugula	N
+lu2-ga-ga	NE
+
+e	N
+sa-dur2-ra	N
+a-sza3	N
+{d}nin-e2-gun3-a	NE
+
+PA	N
+ur-sze-il2-la2	NE
+
+giri3	N
+ur-ASZ-gal-szu4-gan-na	NE
+szar2-ra-ab-du	N
+
+ama-gu10	N
+{d}dur7-tur-gu10	NE
+inim	N
+he2-em-me	V
+
+er3-ra-ba-dan	NE
+dub-sar	N
+
+ki	N
+ur5	N
+sag9-ge	V
+giszbun	N
+nig2	N
+dug3-ga	V
+
+2(barig)	N
+3(ban2)	N
+zi-x	NE
+
+ad-da	NE
+elam	NE
+
+{d}udug	N
+edin-na	N
+{d}lamma	N
+edin-na	N
+
+3(disz)	NU
+a-gesz	NE
+
+szuku	N
+nu-tuku	V
+a-ka-du3-da	NE
+
+igi	N
+ni2	N
+te-a	V
+na-bar-bar-re	V
+
+dingir-ab-gu	NE
+i3-dab5	V
+
+gi-na-ab-tum	NE
+maszkim	N
+
+giri3	N
+ka-ba-lum	NE
+
+e2	N
+nam	N
+tar-re-dam	V
+
+masz-da	N
+x	O
+
+...	O
+lu2-bi{}	N
+nu-zu-gin7	V
+
+en-ama	NE
+...	O
+
+2(asz)	NU
+2(barig)	N
+nin-uru	NE
+
+mu	N
+e2-sar	NE
+ba-du3	V
+
+2(barig)	N
+3(ban2)	N
+{d}szara2-kam	NE
+
+2(barig)	N
+3(ban2)	N
+{d}ma-mi-hi-li-su3	NE
+
+X-gu10	O
+he2{}-X	O
+...	O
+
+{d}nin-lil2	NE
+nitalam	N
+kug	AJ
+inim-ma-ni	N
+szag4-ga	N
+
+ba-u5-a-ba	V
+ba-u5-a-ba	V
+
+e2-ki-bi	NE
+
+{d}asar	NE
+{d}nin-gesz-zi-da-ka	NE
+
+...	O
+MI{}	O
+digir	N
+gal-gal-e-ne	V
+en	N
+gal	V
+mah	V
+an-na	N
+...	O
+
+nig{}	N
+dub-sar-ra-gin7	N
+a-szag4-ga	N
+nam-sag-ga2	N
+al-ak-e	V
+
+e2-suhur	N
+si	N
+{d}nanna-a-ta	NE
+
+ugu2	N
+{d}szu-nir-gal2	NE
+ba-a-gar	V
+
+in-ga-hul2-e	V
+ama	N
+lu2-kar-ra-kam	N
+
+lu2-{d}nin-ur4-sza3	NE
+3(disz)	NU
+lu2-{d}nin-...-ka	NE
+
+kur-kur-re	N
+silim-silim-bi	V
+ba-kur2	V
+a-szag4	N
+a-gar3	N
+mah	V
+a-esztub{ku6}	N
+dagal-la-gin7	V
+
+ud-bi-a	N
+murub4	N
+{id2}buranun-na-ka	NE
+ki	N
+bi2-in-dar	V
+
+...	O
+X	O
+ul-le2-a-sze3	N
+
+...	O
+X	O
+szu-a	N
+mi-ni-ib-bal-e-ne	V
+
+ki	N
+ur-{d}en-lil2-la2	NE
+
+...	O
+X	O
+X	O
+...	O
+szu-luh	N
+kug-ga	AJ
+tum2-ma	V
+
+dumu	N
+i3-di3-a	NE
+
+munus	N
+zid	AJ
+ni2	N
+pa	N
+e3-a	V
+kalam-ma-me-en	N
+
+szul-gi	NE
+sipad	N
+zid	AJ
+ki-en-gi-ra-ke4	NE
+giri3-ni	N
+bad	V
+...	O
+
+buru14	N
+ezen	N
+gal	V
+{d}en-lil2-la2-X	NE
+sag	N
+an-sze3	N
+mi-ni-il2	V
+
+ki	N
+nig2-ba-ka	N
+um-ma-te-a-ra	V
+
+ugu2	N
+dingir-ik-sur2	NE
+ba-a-gar	V
+
+a	N
+zid-da	AJ
+numun	N
+zid-da	AJ
+
+siki	N
+giri17-gu10	N
+nu-lum-ma-me-en	V
+
+{d}iszkur-tug2	NE
+
+{d}inana	NE
+er9-a-zu	V
+mu-un-na-szum2	V
+lugal-am3	N
+
+me	N
+zid-da	AJ
+IGI	O
+X	O
+X	O
+ga2-RI-ga2-me-en	V
+
+gud3	N
+us2-sa-a-gu10	V
+ba-ni-in-suh3-suh3	V
+
+hur-sag	N
+gal	V
+{gisz}mesz3	N
+an-da	N
+mu2-a	V
+
+gisz-bur2	N
+mah	V
+il2	V
+dumu	N
+nun-na	N
+
+sag	N
+us2	V
+nu-til3-le-de3	V
+
+2(disz)	NU
+gin2	N
+igi-4(disz)-gal2	NU
+ku3	N
+
+1(gesz2)	NU
+4(u)	NU
+giri3	N
+AN-gesztin	NE
+
+1(gesz2)	NU
+gurusz	N
+ugula	N
+dam-ku-um	NE
+
+hur-sag	N
+3-kam-ma	NU
+in-di3-in-bal	V
+{gisz}erin	N
+szag4-ga-ni	N
+nu-mu-ni-in-pad3	V
+
+alan	N
+kug-sig17	N
+ud	N
+dug3-ga	V
+tud-da	V
+...	O
+
+e2-gal-la	N
+zi	N
+su3-ud-gal2	AJ
+he2-en-da-an-gal2	V
+
+...	O
+GAN2	N
+3(asz)	NU
+1(barig)	N
+
+me	N
+mu-e-ur4	V
+me	N
+gaba-za	N
+bi2-tab	V
+
+mu	N
+a-a-x-x	NE
+{d}inanna	NE
+ba-hun	V
+
+nin-abzu-a	NE
+dub-sar	N
+maszkim	N
+
+szul-me-en	N
+sipad	N
+zid-gu10	AJ
+mu-da-ib2	V
+igi	N
+erim2	N
+mu-un-du8	V
+
+{d}inana	NE
+ur-sag-ga2	N
+X	O
+bi2-in-gar	V
+me-zu	N
+an-na	N
+mu-un-dirig-dam	V
+
+u2-za-ar-ub-te	NE
+gub-ba	V
+
+i7	N
+a-sza3-{d}inanna-ka	NE
+
+{d}GESZ-x	NE
+sanga	N
+
+ur-sag-me-en	N
+szu	N
+nam{}-tar{}-ra	NE
+X	O
+a	J
+gig	V
+...	O
+
+lu2	N
+gi	N
+duru5	V
+ak-gin7	V
+lu2-lu2-u3-ra	N
+
+{d}lamma	N
+sag9-ga	V
+kur	N
+me	N
+sikil-la-sze3	V
+
+u4-su13	NE
+
+mu	N
+...	O
+{d}...	O
+
+3(asz)	NU
+2(barig)	N
+sze	N
+gur	N
+lugal	N
+
+{d}nin-e2-gal-la	NE
+PA{}	O
+...	O
+
+a-sza3	N
+nin-sag-gal	NE
+
+id2-da	N
+a-esztub	N
+szum2-ma-da-ab	V
+urim2{ki}	NE
+ga-gen	V
+
+uszumgal	N
+ka	N
+du8-a	V
+ni2	N
+gal	V
+erin2-na-me-en	N
+
+en3	N
+tar	V
+
+urim2{ki}-ma	NE
+e2-dilmun-na	NE
+ma-a-kam	DET
+
+sag9-ga-gu10	V
+lu2	N
+hul	V
+dim2-ma-gu10	V
+
+mu	N
+ab-ba-sa6-ga	NE
+{d}nin-dub	NE
+ba-hun	V
+
+ug3-bi	N
+a	N
+nir-gal2	AJ
+na8-na8-de3	V
+
+2(gesz2)	NU
+u8	N
+bar-gal2	N
+
+amar-e	N
+a-ba-kam	DET
+amar-e	N
+a-ba-am3	DET
+ba-an-de6	V
+
+ad-da	N
+a	J
+dam-gu10	N
+nu-di-de3	V
+
+ki	N
+gub-ba-me-a	V
+nam-ba-e-de3-gub-bu-nam	V
+
+...	O
+kug{}	AJ
+DU	O
+pirig	N
+an-sze3	N
+tud-da	V
+
+4(disz)	NU
+sar	N
+kab2-ku5	N
+en-ga2-la2-ka-a	NE
+
+2(asz)	NU
+2(barig)	N
+3(ban2)	N
+sa2-du11	N
+
+e2-gi4-a	N
+e2	N
+uszbar-ra-ka	N
+um-ta-an-e3-esz	V
+
+ur-gin7	N
+ki	N
+si-im-si-im	V
+ak-zu-sze3	V
+na-an-ga-ba-e-da-du-e	V
+igi-zu	N
+ki-gu10-usz-sze3	N
+
+dug{}	N
+i3	N
+li2-ka-ni	AJ
+id2-gin7	N
+u3-bi2-in-X	O
+
+...	O
+ud	N
+du7-du7-gin7	V
+tesz2-bi	N
+mu-un-du7-du7	V
+
+9(bur3)	N
+2(esze3)	N
+1(iku)	N
+GAN2	N
+lugal-ku3-zu	NE
+
+di4-di4-la2	V
+zi-bi-da	N
+kar-ra-ba	V
+
+kiszib3	N
+da-da-ga	NE
+
+kug	AJ
+{d}inana-ra	NE
+dumu-gu10-ur2	N
+ga-na-ab-szum2	V
+ba-ra-...	O
+
+hur-sag-ga2	N
+a-na	DET
+mu-un-ma-al	V
+a-na	DET
+ga-gu7-un-de3-en	V
+
+ki	N
+ki-na-na-sal	NE
+
+1(disz)	NU
+dug	N
+dida	N
+1(ban2)	N
+zi3	N
+iri-ni-kusz2-u3	NE
+lu2	N
+kin-gi4-a	N
+
+szar-ru-um-be2-li2	NE
+szabra	N
+i3-dab5	V
+
+esz3-esz3-a-ne-ne-a	N
+ga-am3-ak	V
+
+dumu	N
+lu2-iri-am3	NE
+
+1(ban2)	N
+5(disz)	NU
+a-bil-{d}suen	NE
+
+2(disz)	NU
+na-ga	NE
+
+lugal-gu10	N
+kug-sig17	N
+kug-babbar	N
+kug-sig17	N
+{na4}za-gin3	N
+kug-babbar	N
+kug-sig17	N
+digir-re-e-ne	N
+digir	N
+gal-gal	V
+in-ne-dim2-dim2-ma	V
+
+ur-{d}nin-mah	NE
+i3-dab5	V
+
+szesz	N
+|PU3.SZA|-ma	NE
+
+ugula	N
+ur-masz	NE
+szusz3	N
+
+ur-gir15-re	N
+e2	N
+ganba-sze3	N
+
+ugu	N
+galam-e	V
+kalam-ma	N
+KA	O
+mu-ni-in-DU	V
+
+{d}me-...	NE
+kuruszda	N
+
+gesztug2	N
+ki-bal	N
+X	O
+X	O
+al-...	O
+
+a-sza3	N
+gu2	N
+i7	N
+id2-{d}nin-mu-du	NE
+
+bu3-gu-szum	NE
+i3-dab5	V
+
+a2-bil2-la-tum	NE
+
+1(bur3)	N
+1(esze3)	N
+2(iku)	N
+GAN2	N
+a-sza3	N
+gir4-u	NE
+
+3(disz)	NU
+{d}x-...	NE
+
+MU	O
+...	O
+X	O
+szu	N
+ga2-ra	DET
+me	N
+dab5	V
+
+...	O
+a2	N
+sud-sud-de3	V
+i-sza2-di-hu	O
+
+ki	N
+za-ki-na-ti	NE
+
+sza3	N
+a2	N
+u4-da	N
+
+ki	N
+A2-u2	NE
+
+i3	N
+ab2	N
+kug-ge	AJ
+ga	N
+ab2-szilam-ma	N
+
+e2-gud-du7-szar2	NE
+{na4}nir2	N
+kug-ga	AJ
+lugal-bi	N
+u5-a	V
+
+za-e	DET
+ki-gu10	N
+nam-mu-ni-in-pad3-de3	V
+
+nir-i3-da-gal2	NE
+
+1(disz)	NU
+udu	N
+niga	V
+{d}nusku	NE
+
+ki	N
+nin-hi-li-an-na-ka	NE
+
+mu	N
+us2-sa	V
+nu-tur{ki}	NE
+ba-hul	V
+
+sipad	N
+zid	AJ
+i-lu	N
+nig2-me-gar	N
+ni2-ta-a-ni	DET
+mi-ni-ib-be2	V
+
+sipad	N
+zid	AJ
+e2-an-na-ta	NE
+mu-un-e3	V
+igi	N
+nu-mu-ni-in-du8	V
+
+an-usan{an}-na	N
+dalla	V
+e3-a-na	V
+
+u3	CNJ
+sza3-x	NE
+
+X	O
+X	O
+palil	AJ
+digir-re-e-ne	N
+giszkim-til3	N
+an-na	NE
+
+si	N
+sa2-e-dam	V
+
+1(disz)	NU
+sila4	N
+ip-pa2-li2-is	NE
+
+{d}en-ki-ke4	NE
+mu	N
+dug3	V
+an-na-ra	N
+inim	N
+mu-na-ni-ib-gi4-gi4	V
+
+...-da{}	O
+dagal{}	V
+X	O
+X	O
+(X)-X-an{}-tum3	V
+
+ki-gal	N
+sig10-ge5	V
+{gisz}gu-za	N
+suhusz	N
+gen6-na	V
+
+lugal-szu	NE
+
+kan4-zu	N
+ur-mah	N
+lu2	N
+ni2	N
+szu	N
+ti-a	V
+
+ma2-gi4-lum	NE
+X	O
+abzu-ka-ni	N
+nam-ta-an-e3	V
+
+eg2	N
+a-ra-li-ka	NE
+ga-an-szub	V
+ki-gu10	N
+na-ab-pad3-de3	V
+
+kiszib3	N
+{d}nin-du6-hul2-{d}utu	NE
+dub-sar	N
+
+nig2-gig	N
+{d}nin-urta-kam	NE
+
+1(disz)	NU
+udu	N
+...	O
+e2	N
+{d}...	NE
+
+u8	N
+sila4	N
+na-an-tu-ud	V
+u8	N
+udu-utua2	N
+na-an-tu-ud	V
+
+lu2-kasz	NE
+
+ug3	N
+nam-lugal-la-sze3	N
+nam	N
+dug3	V
+mu-un-tar	V
+
+{d}utu	NE
+di	N
+X	O
+X	O
+gisz	N
+nu-um-mi-in-la2	V
+a	J
+lugal-gu10	N
+mu-un-si	V
+
+dumu	N
+na(ni)	V
+gu5-li	N
+na	V
+szir3-ru	NE
+edin-lil2-la2	N
+
+nin-mu-uszurx(|LAL2.TUG2|)-mu	NE
+
+en-te-en-e	N
+u8-e	N
+sila4	N
+bi2-in-tu-ud	V
+ud5-de3	N
+masz2	N
+ba-an-szum2	V
+
+5(u)	NU
+gur	N
+giri3	N
+a-bi2-la-ti	NE
+kiszib3	N
+a-bil3-gi	NE
+
+ki	N
+lu2-igi-x-dim2-ma	NE
+
+3(asz)	NU
+ur-li-si-na	NE
+
+kiszib3	N
+...-e2-nig2	NE
+
+sag-ki	N
+zalag	V
+igi	N
+zid	AJ
+il2-la-na	V
+
+ur-...-NI	NE
+i3-dab5	V
+
+giri3	N
+ur-a2-dam	NE
+
+...	O
+X	O
+gesztug2	N
+ud	N
+zal-la	V
+szu	N
+du7	V
+
+hur-sag	N
+giri17-zal-la	N
+gu3	N
+mi-ni-in-il2	V
+
+lu2	N
+gal-gal	V
+ma-da-za	N
+lu2	N
+in-ne-szi-in-gi4	V
+
+i3-na-ab{ki}	NE
+iri-da-e-ne	N
+gu	N
+na-la2-e-ne	V
+
+X	O
+szag4{}	N
+A{}	O
+X	O
+lu2{}	N
+MU{}	O
+...	O
+
+mu	N
+us2-sa	V
+a-gaz{ki}	NE
+ba-hul	V
+
+u3-zu-nu-x-um	NE
+
+igi	N
+{d}en-lil2-la2-sze3	NE
+szag4	N
+e2-kur-ra	NE
+
+{d}szul-gi	NE
+nita	N
+kal-ga	V
+
+bar-zu	N
+giszkim	N
+gen6-na-a-zu	V
+ha-ra-dug3	V
+
+{d}i-bi2-{d}suen	NE
+szu	N
+mah-a-ni	V
+im-dab{}	V
+
+X	O
+X-da-ka	O
+ba-hul{}	V
+...	O
+
+3(disz)	NU
+al-x-...	NE
+
+gu2	N
+i7	N
+si-sa2	NE
+
+{d}pa4-x	NE
+
+{d}nuska	NE
+en	N
+nun-e	N
+pad3-da	V
+zid-de3-esz	AJ
+bi2-in-gub-en	V
+
+nam-lugal-la{}	N
+sag-bi-sze3	N
+e3-me-en3	V
+
+dumu	N
+{d}kar-ra-DU	NE
+kuruszda	N
+
+3(asz)	NU
+saga	V
+ku3-ge	NE
+
+...	O
+X	O
+X	O
+KI	O
+...	O
+
+dumu	N
+en-mi2-us2-sa	NE
+
+ki	N
+lu2-{d}nin-szubur-ta	NE
+
+nig2	N
+KU-ba	O
+kasz3	N
+nig2	N
+DI	O
+i3-ib-sur-ra	V
+
+nin	N
+gal	V
+a-zu	N
+mah	V
+sag	N
+gig2-ga	V
+
+ka	N
+du3-du3-e	V
+kiszib	N
+i3-il2-il2	V
+
+gesztug2	N
+nam-galam-ma	N
+sag-e-esz	N
+rig7-ga	V
+...	O
+
+1(asz)	NU
+saga	V
+1(asz)	NU
+du	V
+i-ta2-ri2-ik	NE
+
+lul-ka-ni-la-ba-ki	NE
+ra2-gaba	N
+maszkim	N
+
+za3-gu-na	NE
+
+ki	N
+nu-un-kig2	V
+
+kab2-ku5	N
+igi-u8-udu-a{ki}	NE
+gub-ba	V
+
+2(disz)	NU
+sila4	N
+szu-{d}ma-mi	NE
+sanga	N
+
+ki-gub-ba-ni-sze3	N
+
+ur-bad3-dab5	NE
+
+kiszib3	N
+{d}nin-iri-ni-sze3-sag-da	NE
+sza13-dub-ba	N
+
+sze-bi	N
+kur-kur-ra	N
+nam-il2-e	V
+
+ki	N
+e-la-la-a	NE
+
+giri3-{d}x	NE
+
+mu	N
+{d}iszkur-ba-ni	NE
+
+nam-nin-ni-du10	NE
+gudu4	N
+
+ni2	N
+na-an-teg3-ge26-e-en	V
+szu	N
+ki-a	N
+sig10-bi2-ib	V
+
+ba-ra-ad-i3-li2	NE
+
+9(bur3)	N
+2(esze3)	N
+1(iku)	N
+GAN2	N
+ugur2-tur-igi-e2-duru5	NE
+
+mu	N
+us2-sa	V
+sa-x{ki}	NE
+ba-hul	V
+
+szu-um-du-um-gu10	N
+ka-za	N
+u3-ba-e-ni-dab5	V
+
+kab2-ku5	N
+nunuz-u2-ga	NE
+
+nig2-na	N
+de5-ga	V
+gisz-bi	N
+dug4-ga-zu	V
+
+dumu	N
+{d}ama-ra-zu	NE
+
+kiszib3	N
+ur-{d}sze3-ri5-da	NE
+
+...	O
+KU	O
+na-ab-be2-a	V
+
+{d}uszumgal-an-na	NE
+gu2-ga2-a	N
+gu2-da	N
+ba-an-la2	V
+...	O
+
+lu2	N
+szu	N
+sug4-ga-ka	V
+kadra-ni	N
+ur5-sze3	DET
+nir	N
+mu-un-gal2	V
+
+mu	N
+ku3	N
+masz	N
+a-sza3-ga	N
+szuku	N
+ensi2-ka-sze3	N
+
+kiszib3	N
+nam-sza3-tam	N
+geme2-pu2-sag	NE
+
+{d}ri-im-{d}suen	NE
+mu	N
+pad3-da	V
+an-e	NE
+{d}en-lil2-le	NE
+
+a-sza3	N
+{u2}ad2	NE
+
+|PU3.SZA|-er3	NE
+
+mu	N
+{d}gu-za	N
+{d}nin-si-sa2	NE
+ba-dim2	V
+
+kiszib3	N
+nin-bar-bi2	NE
+nu-banda3-gu4	N
+
+kusz2-a	V
+gar-ra-bi	V
+er2-sze3	N
+ba-ab-be2-ne	V
+
+kasz{}	N
+X-ni	O
+sig5	V
+szim	N
+{gisz}erin-da	N
+hi-a	V
+
+...	O
+X	O
+X	O
+DU	O
+...	O
+
+x-la-ni	NE
+
+dumu	N
+asz-me-...	NE
+
+giri3	N
+lugal-igi-husz-sza	NE
+
+3(disz)	NU
+{d}inanna-KA	NE
+
+ambar-ra	N
+kiri8-tab{ki}-a-ke4	NE
+nunuz	N
+ki	N
+ha-ba-ni-ib-tag	V
+
+...	O
+har-ra-an	N
+dib-dib-ba	V
+a-na	DET
+me-a-bi	V
+
+barag	N
+ki	N
+lagasz{ki}-ka	NE
+
+arad2-arad2	N
+X	O
+i3-na-ab{ki}-ke4-ne	NE
+
+dumu	N
+sipa-ki-ni	NE
+szusz3	N
+
+balag	N
+di	V
+szeg12-ba	N
+e-ne	DET
+ba-dur2-ru-ne-esz	V
+
+da-e-ru-a	N
+HAR-HAR	O
+...	O
+
+sag-gu10	N
+ba-suh3	V
+
+3(disz)	NU
+a-ni-me-esz2	NE
+
+{d}en-ki-ke4	NE
+ma2-ta	N
+im-ta-gid2-de3	V
+im-da-la2	V
+X	O
+...	O
+
+dili-zu-ne	AJ
+kaskal	N
+na-an-ni-du-un	V
+
+ki	N
+da-a-zi-te	NE
+
+aga	N
+szu-si	N
+gisz-gu3-di	N
+gal-gal-la	V
+zag-bi-sze3	N
+ba-ab-til-la	V
+
+X	O
+ub-a-ke4	N
+ub-e	N
+hu-mu-ri-in-sza4	V
+
+ki	N
+unug{ki}-sze3	NE
+nidba	N
+gal-gal-la-me-en	V
+
+ki	N
+nin-a-x-x-nin-x-x	NE
+
+ig-bi-dingir	NE
+sukkal	N
+lugal	N
+
+ki	N
+{d}nin-pu2-mah	NE
+
+1(disz)	NU
+sila4	N
+hu-x	NE
+sukkal	N
+Kir-ra	NE
+
+en	N
+dug4-ga-ni	V
+nig2	N
+ka	N
+ba-a-ni	V
+nig2	N
+nu-kur2-ru-dam	V
+
+gaba	N
+mu-un-ri	V
+gaba	N
+mu-un-ri	V
+im-hur-an-ni	O
+
+a-szag4-ga	N
+a2-zu	N
+dugud-bi	V
+mu-un-...	O
+
+ki	N
+ur-zu(SU)	NE
+
+pu3-ku3	NE
+
+ud	N
+X	O
+X	O
+nam-zal	V
+eresz2{ki}-sze3	NE
+giri3-ni	N
+na-am3-mi-gub	V
+
+IM	O
+X	O
+X	O
+X	O
+...	O
+X	O
+
+tukum-bi	CNJ
+{d}hendur-sag-ke4	NE
+dam	N
+tuku-tuku-da	V
+mu-na-ab-be2	V
+
+eb-la2	NE
+
+ka5-a	N
+szag4	N
+ba-ab-su{}	V
+X	O
+
+X	O
+X-e	O
+lal3-gin7	N
+i3-nun	N
+...	O
+
+siskur2	N
+giri3	N
+nin-nidba	NE
+igi-du8	N
+
+2-kam-ma-sze3	NU
+muszen	N
+lu2	N
+kadra	N
+kadra-a	N
+na-ak-e	V
+
+ab2	N
+kug	AJ
+{d}nanna-ke4	NE
+mi2	N
+dug4-ga	V
+szul	N
+{d}suen	NE
+za3-mi2	N
+
+{d}inana	NE
+...-gi4-gi4	V
+
+szesz	N
+{d}gilgamesz2	NE
+gu-la-me-en	V
+
+dumu	N
+ka	N
+silim-ma	V
+{d}nu-nam-nir-ra	NE
+X	O
+...	O
+
+1(disz)	NU
+um-mi-esz18-dar	NE
+
+mi2	N
+zid	AJ
+dug4-ga	V
+digir	N
+lu2	N
+hur-sag	N
+a-re-esz	N
+dib-ba-am3	V
+
+{d}suen-e	NE
+szu-luh-e	N
+
+lugal-gu2-tuku	NE
+
+kiszib3	N
+1(u)	NU
+4(disz)	NU
+ba-ba-hul	NE
+
+lugal	N
+na-gar3{ki}	NE
+na-wa-ar{ki}	NE
+
+dim3-me-er	N
+buru5{muszen}-me-esz	N
+me-e	DET
+mu-tin-gen	N
+
+ki	N
+ur-x-...	NE
+
+ud5-de3	N
+amasz-a	N
+sag	N
+mu-da-ab-sag3	V
+
+a2	N
+an-ba9-ra2-a	V
+bar-ra-ni-sze3	N
+...	O
+
+kur	N
+gu2-erim2-gal2-la-zu	AJ
+ud	N
+husz-gin7	V
+du7-zu-ne	V
+
+4(gesz2)	NU
+2(u)	NU
+masz2	N
+
+ki	N
+ka-u2-ga	NE
+
+ub-da	N
+4	NU
+ug3	N
+ki	N
+gar-ra	V
+
+lugal-ur4-ra-ni	NE
+kuruszda	N
+
+lu2-kur2	N
+i3-durun-na-a	V
+usu-gu10	N
+im-til	V
+lu2-kur2	N
+me3-sze3	N
+a2-a-ni	N
+im-til	V
+
+ki	N
+ur-inanna	NE
+
+2(barig)	N
+szuku	N
+diri	V
+ma2	N
+hun-ga2	V
+gu-lu5-lu5	NE
+
+3(u)	NU
+{gi}kaskal	N
+ninda	N
+1(barig)-ta	N
+
+{d}nansze	NE
+ninda	N
+i3	N
+nunuz	N
+dalla-ka	V
+
+{d}x-e2-a	NE
+
+a2-bi	N
+u4	N
+2(gesz2)-kam	NU
+
+1(disz)	NU
+sila4	N
+lugal-a2-zi-da	NE
+sukkal	N
+
+ab2-la-la-a	NE
+nu-banda3-gu4	N
+
+dumu	N
+szesz-a-ma-ti	NE
+
+a-sza3	N
+gibil	V
+ku-li	NE
+
+lugal-zu	N
+a-a-ni	N
+...	O
+
+gesztug2-ga-a-ni	N
+na-an-gub	V
+
+giri3	N
+igi-sa6	NE
+sukkal	N
+
+e2	N
+{d}en-lil2-la2	NE
+szag4-zu	N
+ten-te-en	V
+bar-zu	N
+nam	N
+tar-ra	V
+
+X	O
+ZI	O
+X	O
+a2	N
+mah	V
+szum2-ma-me-en	V
+
+szag4	N
+de3-em-hug-e	V
+bar	N
+de3-em-hug-e	V
+
+x	O
+x	O
+x	O
+ki	N
+{d}ma-an-isz-di2-su	NE
+
+gisz-ki-im	N
+li-ig-in-ne	V
+u2-gu-zi-esz-sze	N
+me-e-ra-am-gi	V
+...	O
+
+a-gar3	N
+gal-gal-e	V
+kig2-gi4-a-asz	N
+gi4-gi4	V
+gud-de3	N
+gana2	N
+ga2-ga2	V
+
+kab2-ku5	N
+a-{gesz}banszur	NE
+
+nam	N
+tar-ra	V
+digir-re-e-ne-sze3	N
+igi-ni	N
+mu-ni-gal2	V
+
+uru-du10	NE
+szabra(AL)	N
+
+sag9-ga-asz	V
+ge26-e	DET
+nu-gu7-e-sze	V
+
+ur-nam2-mah	NE
+nu-banda3	N
+
+kun-zi-da	N
+i7	N
+{gesz}kiri6-a-ab-ba-ka	NE
+gub-ba	V
+
+me	N
+lu-lu-a	V
+me	N
+dirig-ga-bi	V
+pa	N
+e3	V
+mah	V
+ak-bi	V
+
+nig2	N
+ak-ak-da-ni	V
+ab-szi-kur2-ru	V
+gar-bi	V
+nig2	N
+nu-zu	V
+
+zi	N
+an-na	N
+i3-pad3	V
+
+mu	N
+{d}na-ra-am-{d}suen	NE
+lugal	N
+
+...-da-an-ur3	V
+
+ur3-re-ba-du7	NE
+sukkal	N
+
+{gisz}ninda2-zu	N
+me-am3	AV
+gurud-da-bi	V
+
+...	O
+szub{}-be2	V
+ba-da-an-nu2	V
+
+umusz	N
+ki	N
+ga2-ga2	V
+hi-li	N
+nam-munus-e-ne	N
+ba-e-de6	V
+
+gissu-ta	N
+ud-sze3	N
+am3-ed2-e	V
+
+{d}nanna	NE
+{d}utu-gin7	NE
+an-na	N
+gub-ba-na	V
+
+...	O
+sag-tab-a-ni	N
+he2-a	V
+
+ugula	N
+da-gi-zi	NE
+
+1(ban2)	N
+5(disz)	NU
+nin-u2-szim	NE
+...	O
+
+ki	N
+uru-zi	NE
+
+ud-ba	N
+gesztug2	N
+dagal	V
+mud	V
+digir	N
+szar2-szar2	V
+gal2-gal2	V
+
+a-sza3	N
+kin-U-e-gar	NE
+
+kab2-ku5	N
+su3-GAN2-{d}nin-dar-a	NE
+gub-ba	V
+
+1(disz)	NU
+ha-ba-lu5-ge2-me-esz2	NE
+
+dur{muszen}	N
+dur	N
+...	O
+
+ugula	N
+ur-du6-ab2-li-ba	NE
+
+simx(GIG)-simx(GIG)-ma	N
+szu	N
+kum2	V
+mu-na-ak-e	V
+
+4(barig)	N
+ki	N
+lu2-sa6-i3-dab5	NE
+...-ta	O
+
+ki	N
+ur-{d}AD-x	NE
+
+...	O
+X	O
+...	O
+ba-nu2	V
+hur	AV
+nu-mu-e-da-an-zi-zi	V
+
+X	O
+bad3	N
+kalam-ma-ka	N
+ma-ra-szi-nigin2{}	V
+...	O
+
+aratta{ki}	NE
+u8	N
+sag2-gin7	V
+he2-em	V
+kaskal-bi	N
+kur	N
+ki-bal	N
+he2-em	V
+
+an	N
+...	O
+
+abzu	NE
+men	N
+gal	V
+eridug{ki}	NE
+esz3	N
+hal-ha-la	V
+
+ki	N
+lu2-da-gi-na	NE
+
+2(disz)	NU
+en-gi7	NE
+
+{d}inana	NE
+tur3	N
+sza-mu-u8-mu-da-hul2-le	V
+
+mu	N
+szu-szu-mu-dar	NE
+
+i3-lum-ra-bi2	NE
+i3-dab5	V
+
+zu2-si-ka	NE
+
+2(disz)	NU
+gu4-lah6	NE
+dumu	N
+ur-masz2	NE
+
+lugal-gu10	N
+mu-zu	N
+ga-am3-pad3-da-de3	V
+
+u3-mu-un	N
+an-na	N
+u3-mu-un	N
+ni2	N
+gur3-ru	V
+u3-mu-un	N
+kur-sze3	N
+ga-ba-e-da-u5	V
+
+lam-ma	NE
+sagi	N
+maszkim	N
+
+giri3	N
+lu2-kal-la	NE
+
+X	O
+(X)	O
+kan4	N
+e2-gal-la	N
+X-am3	O
+ba-ra-sig9-ga	V
+
+lul-da	V
+mu	N
+a2-na	N
+mu	N
+abzu-na	N
+in-pad3	V
+
+ma-sum	NE
+bar-ba-na-zu{ki}	NE
+
+...	O
+ga-mu-un-dul-dul	V
+
+e2	N
+zid-du	AJ
+erim2-du	AJ
+igi	N
+gal2	V
+hul	V
+szu-bi	N
+nu-e3	V
+
+a	N
+lu2	N
+zid-de3	AJ
+ri-a	V
+{d}en-lil2	NE
+mu-i-i	V
+
+gidru-ga2	N
+ur2-bi	N
+me	N
+nam-nun-na-ka	N
+
+gu-za-la2	N
+an	NE
+{d}en-lil2-la2-me-en	NE
+
+1(disz)	NU
+sa6-ga-sa6-ga	NE
+
+ki	N
+lugal-{d}szul-gi	NE
+
+1(disz)	NU
+tug2	N
+ur-x-gi-x	NE
+iszib	N
+
+1(disz)	NU
+geme2-dumu-ni-sze3	NE
+
+kalag-ga	V
+giszkim-til3	N
+{d}en-lil2-la2	NE
+
+kiszib3	N
+kid-la2	NE
+
+ki	N
+bu-ga-ku-um	NE
+
+e2	N
+umma{ki}	NE
+musz3-za	N
+e2	N
+bi2-in-gub	V
+barag-za	N
+dur2	N
+bi2-in-gar	V
+
+sipad	N
+nig2-si-sa2-a	N
+tud-da-me-en3	V
+
+{d}nin-urta	NE
+{gisz}mesz3	N
+pa	N
+mul	V
+dagal-la	V
+...	O
+
+mu2-sar-e	N
+a	N
+sig10-sig10-ge5-da-ni	V
+
+1(u)	NU
+5(disz)	NU
+udu	N
+u2	N
+bar-su-ga	V
+
+dub3-tuku	N
+kasz4	V
+di-me-en	V
+{tum9}mir	N
+DU-me-en	V
+
+{na4}zu2	N
+sal-la	V
+izi	N
+bi2-in-...	O
+
+5-kam-ma	NU
+amasz	N
+tur3	N
+kur9-ra-ni	V
+
+zag-du8	N
+{gisz}si-gar-bi	N
+zid2	N
+dub-dub-bu	V
+nig2-na-e	N
+gar-ra	V
+
+...	O
+lu2{}	N
+mu{}-DU{}	V
+
+ugula	N
+{d}amar-en-zi-mu	NE
+
+za-e	DET
+abzu-ta	N
+za3-mi2	N
+dug4-ga-zu-ne	V
+
+GAN2	N
+sza3-mu-zu	NE
+
+dumu	N
+ur-a-mir-za	NE
+kuruszda	N
+
+BIR-HAR-tur-re	NE
+gu3	N
+mu-na-de2-e	V
+
+ba-ra-szum2-mu-un-de3-en	V
+nam-barag	N
+sag	N
+gig2	V
+mu-zu	N
+zag	N
+an	N
+...	O
+
+1(disz)	NU
+sila4	N
+lugal-u5-a	NE
+
+8(disz)	NU
+sila3	N
+4(disz)	NU
+gin2	N
+lu2-ab-u2-ka	NE
+
+dim3-me-er	N
+gal-gal-e-ne	V
+i-bi2-bi	N
+sza-mu-un-gub-en	V
+
+e2{}	N
+mu-gal2{}	V
+la-ba-ra-e3	V
+nir	N
+X	O
+mu-na-gal2	V
+
+igi-6(disz)-gal2	NU
+1(u)	NU
+5(disz)	NU
+sze	N
+apin-la2	N
+pu2-ta	NE
+szuku	N
+GIR3-e-ne	NE
+gab2-ra	N
+
+8(asz)	NU
+giri3	N
+ur-in-dub-ba	NE
+
+kiszib3	N
+szi-ba-ra-aq	NE
+
+szesz	N
+tab-ba-bi	V
+a-ma-i-ra-ta	V
+
+szag4-bi	N
+ka	N
+giri2	N
+kig2-a	V
+ka	N
+garasz2-a-ka	N
+
+al	N
+di	V
+...	O
+E	O
+sze	N
+sze-ga	V
+
+nam-zid-tar-ra	NE
+mu-gu10-um	N
+
+mu	N
+szu-ga2	N
+mu-un-dab5	V
+unug{ki}-sze3	NE
+ba-an-ni-kur9	V
+
+kiszib3	N
+a-bi2-UD	NE
+u3	CNJ
+a-bi2-zi-im-ti-da-zi-bi-im	NE
+nagar	N
+
+1(disz)	NU
+udu	N
+a-hi-ia3-bi2	NE
+x	O
+x	O
+
+ugula	N
+szesz-kal-la	NE
+
+ki	N
+lu2-{d}szu-nir	NE
+
+mu	N
+{d}szu-{d}suen	NE
+lugal-e	N
+na-ru2-a-mah	N
+uszum:gal	NE
+{d}nin-mug-ga	NE
+
+lugal	N
+ha-bu-um{ki}	NE
+he2-szu-um-ma{ki}	NE
+
+{d}nin-unug-ke4	NE
+e2-ta	N
+nu-e3	V
+e2-ta	N
+nam-ta-ab-e3	V
+
+nig2-erim2-e	N
+a2-bi	N
+he2-bi2-ib2-kusz2-u3	V
+{d}utu	NE
+me-da	AV
+tum3	V
+
+en-he2-du7-an-na	NE
+...	O
+
+mu-kux(DU)	N
+e-ki-na	NE
+
+{d}nansze	NE
+gisz-ur3-gin7	N
+e2	N
+zid-da	AJ
+im-ma-an-gur3-ru-nam	V
+
+4-kam-ma	NU
+us2-bi	V
+sza-ra-da-gub	V
+
+me-na-am3	AV
+al-ed3-de3	V
+al-gu7-e-sze	V
+
+{d}nanna	NE
+en	N
+X	O
+...	O
+
+du5-mu-zid-ra	NE
+a	N
+mu-na-tu17-a-gin7	V
+
+i3-dub	N
+a-sza3	N
+{d}szara2-za	NE
+
+{d}ama-uszum-gu10	NE
+gu2-da	N
+ga2-la2-e-en-de3-en	V
+
+mu	N
+lugal-nam-tar-re2	NE
+{d}inanna	NE
+ba-hun	V
+
+giri3	N
+ur-ha-ia3	NE
+
+lugal-e	N
+...	O
+
+nin	N
+ni2	N
+guru3	V
+mah	V
+zu	V
+an	N
+ki	N
+nam-nir-ra	N
+szu	N
+du7	V
+
+lugal	N
+ambar{ki}	NE
+du8-du8-li2{ki}	NE
+
+i-za-ri2-iq	NE
+gaba-ta	N
+
+{d}lugal-ki-bur2-ra	NE
+ga-be2-de3-u5	V
+szesz-gu10	N
+da2-de3-u5	V
+
+dingir-{d}szara2	NE
+
+szunigin	N
+sze-bi	N
+2(gesz'u)	NU
+2(gesz2)	NU
+3(u)	NU
+2(disz)	NU
+5(ban2)	N
+3(disz)	NU
+sila3	N
+gur	N
+
+inim	N
+bu3-a	NE
+
+2(disz)	NU
+DUB-alal	NE
+dumu	N
+bu-la-mu	NE
+
+digir	N
+e2-gal-la	N
+nu-mu-X	O
+...	O
+
+|PU3.SZA|-pa-e3	NE
+
+{d}szul-gi-ka	NE
+
+kan4	N
+iri-kug{ki}-sze3	NE
+gal2-la-za	V
+
+mu-lu	N
+dug4-ga-ra	V
+u3-na-e-ni-X	O
+
+ugula	N
+szu-i3-li9	NE
+
+ki	N
+{d}nanna-gu2-gal	NE
+
+kiszib3	N
+su2-su2-wa-da-ar	NE
+
+nig2-dab5	N
+e2	N
+ku3-dim2	N
+ur3-ra-ka	V
+ki	N
+iri-na-nin-bi	NE
+
+kiszib3-bi	N
+2(disz)	NU
+kiszib3	N
+igi-a-zi	NE
+
+8(asz)	NU
+2(barig)	N
+la2	V
+1(disz)	NU
+ziz2	N
+gur	N
+
+...	O
+nin-digir	N
+masz2-e	N
+dab5-ba	V
+ba-ug5-ge	V
+(X)	O
+X-ta	O
+
+ur-ku3-nun-na-ka-bi	NE
+
+dumu	N
+{d}nin-szubur(SZUL)-an-dul3	NE
+ARAD2-zu	N
+
+...	O
+u8{}-gin7	N
+...	O
+
+ab-ba-ab-ba-ne	NE
+engar	N
+
+alan	N
+nig2-gen6-na	N
+he2-en-ga-da{}-tah	V
+
+lu2-IM	N
+ib2-dab5{}-ba	V
+lu2	N
+gen6-na	V
+ba-an-dim2	V
+
+unken	N
+gar-ra-gu10	V
+ug3	N
+sag	N
+sig10-ga-gin7	V
+
+be-li2-ku-um-ad	NE
+i3-dab5	V
+
+szuku	N
+inim-{d}nin-e2-gal	NE
+szu-i2	N
+
+he2-gal2-bi	N
+ku6	N
+muszen	N
+ma-ra-ab-de6	V
+e2-kisz-nu-gal2-sze3	NE
+
+...	O
+lu2-{d}nin-dar-a	NE
+
+lu-banda3{da}	NE
+dumu	N
+lu2-x-{gesz}x	NE
+
+ka	N
+tuku	V
+e2-gal-la-sze3	N
+ba-ni-in-kur9	V
+
+szir3-ga2	N
+mul-an-gin7	N
+gu3	N
+im-de2-e-ne	V
+
+e2-gi4-a	N
+gal4-la	N
+lu2-kam	N
+
+u18-ru-ni	V
+giri17-zal	N
+ki	N
+us2-sa-am3	V
+
+2(barig)	N
+3(ban2)	N
+gazi	N
+u3-ba-ar-a	NE
+
+...	O
+PAP	O
+
+id2-zu	N
+ku6	N
+ku3-gal2	N
+nu-un-dab5	V
+kun-bi	N
+nu-sud-e	V
+
+lugal	N
+ba-bil2-la	NE
+nina-na	NE
+
+...	O
+X	O
+X	O
+en	N
+ug3	N
+ki-tusz-ba	N
+bi2-in-ge-en	V
+
+kiszib3	N
+i-bi2-lu-lu	NE
+
+lu-lu-gu-na	N
+lu-li-gu2-na	N
+lu-lu-bu-na	N
+dumu	N
+dumu-munus	N
+lugal-la	N
+i-lu	N
+he2-gal2-la-kam	N
+
+...	O
+X	O
+GA	O
+na-am3	V
+
+{u2}asz-tal2-tal2	N
+gisz-gi-ta	N
+numun-bi	N
+sal-sal-e	V
+
+gu2-du8-a	NE
+ki-en-gi-ra	NE
+gu2	N
+si-a	V
+nam-lu2-ulu3	N
+
+lugal-gu10	N
+nitalam-gu10	N
+...	O
+
+u3-mu-un-zu	N
+me-ta	AV
+ba-gen	V
+e-ne-ra	DET
+mu-un-na-ab-be2	V
+
+digir-digir	N
+a-nun-na	NE
+szi-im-ma-sug2-sug2-ge-esz	V
+
+...	O
+u2-lal3-a	N
+mu-un-du	V
+suhur{ku6}	N
+am3-gur-gur	V
+
+sipa	N
+iri-sa12-rig7{ki}-me	NE
+
+3(disz)	NU
+ur-{d}gu4-nu2	NE
+
+lugal-dug-gal2	NE
+
+lugal-gu10	N
+dumu-ni-ir	N
+ba-an-na-szum2	V
+
+la-NI	NE
+
+a-sza3	N
+ku-ra-lum	NE
+
+geme2-{d}ku3-zu	NE
+
+a-sza3	N
+ka-gu4-ku6-sag-ga2	NE
+
+...	O
+BI	O
+...	O
+
+lu2-szu-gal	NE
+szu	N
+ba-ti	V
+
+an-e	NE
+nir	N
+GI-ba	O
+{d}asz-im2-babbar	NE
+...	O
+
+nin9-e	N
+na-ag2	N
+szesz-na-sze3	N
+iri-a	N
+muszen-gin7	N
+im-ma-an-nigin2-nigin2	V
+
+du6-szuba-a	NE
+i-lu	N
+za-ra	DET
+i-lu	N
+du5-mu-ri-ib-dug4	V
+
+1(disz)	NU
+ha-bu3	NE
+dumu	N
+ha-bu3-bu3	NE
+ha-la-{d}x-x	NE
+
+kiszib3	N
+{d}nin-me3-{d}suen	NE
+nu-banda3	N
+
+SZE3	O
+bar-ra	N
+nin	N
+kur-ra	N
+he2-me-en	V
+arhusz	N
+hu-mu-ra-an-tuku-tuku	V
+
+X	O
+X	O
+sag-kul	N
+an-ne2	NE
+ki	N
+gar-ra	V
+
+giri3	N
+i3-num2-mi-a	NE
+
+en-suh-gir11-an-na-ke4	NE
+dug4-ga-ni	V
+nam-gu10	DET
+tah-a-ni	V
+nam-gu10	DET
+
+ur2	N
+kug	AJ
+ga-sza-an-na-ka{}-sze3	NE
+sag	N
+il2-la	V
+mu-un-gen	V
+
+2(disz)	NU
+ARAD2-e2-a	NE
+dumu	N
+dingir-ba-ni-mu	NE
+
+zah3	V
+nu-gi-ra-nu-um	NE
+
+bi2-sza-hi-lum	NE
+
+mu	N
+e2	N
+asar-re2	NE
+ba-du3	V
+
+8(disz)	NU
+sila3	N
+2(disz)	NU
+gin2	N
+lu2-ma2	NE
+
+X	O
+X	O
+X	O
+X	O
+X	O
+igi	N
+hu-mu-ni-bar-e	V
+
+lugal-iri-x	NE
+
+hu-wa-wa	NE
+...	O
+
+ba-sag9-ge-na-gu10	V
+ba-zil2-zil2-i-na-gu10	V
+
+lu2	N
+u3-bi2-in-us2	V
+kaskal	N
+MASZ-a-ka	NU
+ud-ne-ne	N
+ba-ni-X	O
+X	O
+
+ma-an-si-um	N
+{gisz}gu-za	N
+nam-lugal-la	N
+szum2-ma	V
+
+dumu	N
+ad-mu-a	NE
+
+ka5-a	N
+gu2	N
+gid2	V
+ama{}-na-sze3	N
+gesztug2-ga-ni	N
+in-gub-ma	V
+
+nam-tibira	N
+ba-e-de6	V
+
+szir3-szir3-ra	N
+he2-em-mi-dirig-dirig	V
+
+zi	N
+su3-ud-gal2	AJ
+en	N
+{d}nu-nam-nir-re	NE
+tud-da	V
+
+geme2-uszur4-mu	NE
+
+mu	N
+na-ab-sza-nu-um	NE
+en	N
+{d}nin-x{ki}	NE
+ba-a-hun	V
+
+lu2	N
+gi	NU
+szu	N
+sig-ra	V
+nam	N
+mi-ni-tar	V
+ninda	N
+mi-ni-in-szum2	V
+
+kur	N
+gi-sig-gin7	N
+dub2-bu	V
+...	O
+
+guru7	N
+kar-ansze	NE
+
+nimgir-an-ne2	NE
+
+kiszib3	N
+{d}nanna-nu-{gesz}kiri6	NE
+
+ama-gu10	N
+ama-zu-gin7	N
+in-ga-dim2	V
+
+muszen-zu	N
+{d}ha-ia3{muszen}	N
+he2-em	V
+
+a-sza3	N
+gir4-U	NE
+
+dumu	N
+igi-nin-sze3	NE
+
+{gisz}esi	N
+{gisz}ha-lu-ub2	N
+{gisz}haszhur	N
+{gisz}taszkarin-na-ka	N
+im-ma-ni-sag3-sag3	V
+
+szag4-da-ga-na	N
+mu-na-an-tusz	V
+
+en-e	N
+gana2	N
+zid-de3	AJ
+gu3	N
+ba-an-de2	V
+sze	N
+gu-nu	N
+ba-an-szum2	V
+
+ur-du6-ku3-ga-ka	NE
+dam-gar3	N
+
+1(ban2)	N
+5(disz)	NU
+{d}utu-ba-an-e11	NE
+
+mu	N
+e-ne	DET
+kur-sze3	N
+ed3-de3	V
+
+szuku	N
+diri	V
+i7	N
+u3-PI-iri-a	NE
+4(ban2)	N
+3(disz)	NU
+1/3(disz)-ta	NU
+
+tur5-ra	V
+dug3-ga-am3	V
+
+mar-tu	NE
+i3-gu7-e	V
+nig2	N
+szag4-bi	N
+nu-un-zu	V
+
+{d}nin-ka-si	NE
+dida	N
+gal	V
+szu	N
+tab-ba	V
+gal2-la-zu	V
+
+ki	N
+ur-{d}sir2-sir2	NE
+
+nig2	N
+nu-kur2-ru	V
+ka-ta	N
+e3-a-ni	V
+nam	N
+ul-sze3	N
+tar-re	V
+
+ki	N
+lu2-si-sa2	NE
+
+4(disz)	NU
+{d}en-ki-a-ri2-ik-tum	NE
+
+sipad	N
+lu2	N
+...	O
+
+en	N
+sag9-zu	V
+an-zag-sze3	N
+na-dul{}	V
+
+...	O
+X	O
+lugal-gu10	N
+...	O
+...	O
+
+ku3-an	N
+kin-{d}nanna	NE
+
+si	N
+ba-ni-sa2-sa2-esz	V
+
+...	O
+X	O
+ab-dab5-be2	V
+
+i3-li2-me-szum	NE
+i3-dab5	V
+
+giri3	N
+szu-pa-e3	NE
+
+ki-su7	N
+ka-ma-ri2	NE
+gub-ba	V
+
+gu	N
+NE	O
+LI	O
+X	O
+RI{}	O
+X	O
+u-mu-X	O
+X	O
+
+munus	N
+a	N
+nun-na-ke4	N
+mi2	N
+zid-de3-esz	AJ
+mu-un-e	V
+
+mu	N
+us2-sa	V
+sza-ri-it-hu-um{ki}	NE
+ba-hul	V
+
+dumu	N
+{d}nin-masz-ku3-ga	NE
+szusz3	N
+
+szag4-bal-bal-a	N
+eger	N
+ud-da-ka	N
+szu-a	N
+bal-e-de3	V
+
+{d}utu	NE
+mu-un-da-hul2	V
+
+{d}eb-gal	NE
+
+inim	N
+dug4-dug4-ga-e	V
+
+si	N
+u3-mu-ni-sa2	V
+
+kab2-ku5	N
+lugal-ku3-ga	NE
+
+kasz	N
+mu-un-nag{}	V
+zabar	N
+sila3	N
+gi4-bi-ib	V
+...	O
+
+giri3-szu-egir	NE
+
+lu2-bi	N
+e2	N
+a-a-na	N
+
+en3	N
+mu-un-na-tar-re	V
+
+ki	N
+nam	N
+tar-ra-sze3	V
+nu-ub-da-gen-na-asz	V
+nu-ub-da-JA2	V
+...	O
+
+geme2-{d}szara2	NE
+
+me-lem4-a-ni	N
+3-kam-ma	NU
+gisz-gi-sze3	N
+ba-an-szum2	V
+
+...	O
+tum2-ma{}	V
+
+7	NU
+dili-dili	AJ
+...	O
+KI	O
+X	O
+X	O
+MU{}	O
+...	O
+
+1(disz)	NU
+masz2-gal	N
+u2	N
+
+i3-dub	N
+a-sza3	N
+SZE3-he2-ma-du	NE
+
+a-sag-dub2-ba	NE
+umma{ki}	NE
+
+ab2	N
+zid	AJ
+{gud}ninda2	N
+amar	N
+kug-ge	AJ
+
+kiszib3	N
+nin-{d}szakkan2	NE
+
+a-sza3	N
+{d}szara2-hu-um-ma	NE
+
+du5-mu	N
+a2	N
+tal2-tal2-la-na	V
+he2-en-nu2	V
+
+ma	N
+in-di-ri	V
+ma	N
+in-di-ri	V
+...	O
+
+kindagal-gu10	N
+e2	N
+ni2	N
+gur3-ru	V
+ki-nu2-a	N
+ma-an-ga2-ga2	V
+
+2(disz)	NU
+na-ba-i3-si	NE
+
+giri3	N
+nu-gi4-ni-mu	NE
+
+ku-da-<nu>-um	NE
+szabra(AL)	N
+
+2(barig)	N
+im-ta-e3-esz	NE
+
+en3	N
+mu-e-tar-tar-re	V
+
+ur-sag	N
+(X)	O
+me3	N
+sumur-ra	V
+X	O
+sag	N
+mu-un-dub2-dub2-be2	V
+
+szu-gar3-la2-um	NE
+
+ud	N
+4(LIMMU5)-kam-ma	NU
+nag-su	NE
+{id2}EN-URU3-JAL2-ka	NE
+gu2	N
+{id2}ERIN2.NUN.NA-ka	NE
+gisz	N
+bi2-du3	V
+
+dub-sar3	N
+dumu	N
+i3-di3-{d}iszkur	NE
+szusz3	N
+
+...	O
+hul2	V
+
+{d}kar-ra-gub	NE
+
+gi	N
+szu-a	N
+u3-bi2-in-szu2	V
+
+lugal-x-sar	NE
+
+dumu-gu10	N
+
+ab-ba-...	NE
+
+ki	N
+ur-akkil	NE
+
+igi-{d}inanna	NE
+gaba-ta	N
+
+sag-{d}utu-zu	NE
+
+ugula	N
+esz-dar-iri-x	NE
+dam-gar3	N
+
+kiszib3	N
+zi-bi-tum	NE
+ugula	N
+ma2-lah5	N
+
+ud	N
+2-am3	NU
+itid	N
+2-am3	NU
+
+ku-kur	N
+...	O
+
+ur-in-x	NE
+
+i-{d}utu	N
+kur-ra	N
+im-ma-an-dab5	V
+
+{kusz}du10-gan	N
+ti-bala-a-sze3	N
+
+1(barig)	N
+sze-ba	N
+|PU3.SZA|-ma-ma-kam	NE
+
+sukkal-a-ni	N
+{d}nin-szubur-ra-ke4	NE
+eger-a-ni	N
+i3-im-gen	V
+
+kiszib3	N
+lu2-banda3{da}	NE
+
+dumu	N
+lu2-{d}szara2	NE
+
+szu-ra-ma-ti	NE
+
+{d}nanna	NE
+lugal-gu10	N
+e2-gal-la-na	N
+mu-na-du3	V
+
+...-lu2	O
+
+1(u)	NU
+ku6	N
+nig2-ki	N
+gur	N
+ni-la-lum	NE
+
+...-ba{}-ga2	O
+sag2	V
+nu-di-me-en	V
+
+sag-ki	N
+sahar-gi4-zu	N
+he2-du7	N
+...	O
+A	O
+X	O
+X	O
+TE{}	O
+dib-ba-me-en	V
+
+ki	N
+ur-UD-x-ka	NE
+
+giri17{}-bi	N
+ki	N
+sza-mu-X	O
+...	O
+ki-sze3	N
+szu	N
+ha-ra-ab-X-X	O
+
+abgal-x	NE
+gub-ba	V
+
+mah	V
+dug4-ga-ni-sze3	V
+an	N
+ki	N
+tuku4{}-tuku4{}	V
+X	O
+...	O
+
+ubur	N
+an	N
+sud-ag2	V
+gal2	V
+hu-mu-ra-ab-taka4	V
+szegx(IM.A)	N
+an-na	N
+hu-mu-ra-ab-szeg3	V
+
+{d}en-lil2-le	NE
+
+ur-{d}gesz-za-mun-na	NE
+
+dumu	N
+lu2	N
+ur2-zu-ne-ne	N
+nu2-a	V
+me	N
+dumu	N
+kal-la-gu10	V
+
+sza3	N
+e2	N
+lugal-di-de3	NE
+ra2-gaba	N
+
+x	O
+{d}er3-ra-ma-lik	NE
+
+lugal	N
+nu-il2-e	V
+en	N
+nu-u3-tud	V
+
+5(disz)	NU
+gin2	N
+ku3	N
+giri3	N
+kalam-he2-na-gi	NE
+
+ki-sikil	N
+{d}inana	NE
+sag	N
+nu-mu-e-de3-ga2-ga2	V
+
+ki	N
+ta2-hi-sze-en	NE
+
+tukum-bi	CNJ
+ba-an-ze2-ge	V
+...	O
+
+bi2-ki-na-zu	NE
+
+ab	N
+gur8-za-an	NE
+
+e2-{d}nisaba	NE
+
+mu	N
+e2	N
+{d}szara2	NE
+umma{ki}-ka	NE
+ba-du3	V
+
+mu	N
+uri2{ki}-ma-ge	NE
+ba-hul	V
+
+szuku	N
+diri	V
+i7	N
+i7-nina{ki}-sze3-du	NE
+4(ban2)	N
+3(disz)	NU
+1/3(disz)-ta	NU
+
+{d}inana	NE
+IM	O
+X	O
+u2	N
+ga	N
+nam-usz2-a	N
+lu2	N
+gu7-bi	V
+nu-til-le	V
+
+mas-su	N
+ki-en-gi-ra-ke4{}	NE
+(...)	O
+i3-nu2	V
+tur5-ra-am3	V
+
+2(disz)	NU
+lugal-kak-mah	NE
+
+X	O
+X	O
+X-ni-ta	O
+mu-ra-gal2	V
+
+{d}utu	NE
+an-na{}	N
+nu-um-ed2-e	V
+ud-de3	N
+i-si-isz	N
+im-la2	V
+
+kalam-ma	N
+ga-ba-ra-hum	N
+im-ma-an-szub	V
+nig2	N
+lu2	N
+nu-zu-a	V
+
+iri-za	N
+bad3	N
+gal-bi-me-en	V
+
+kasz4(DU)	V
+dug{}-...	N
+lugal	N
+...	O
+
+lugal	N
+mu	N
+7-am3	NU
+szu	N
+sag-ga2	N
+dug4-ga	V
+a-ba	DET
+igi	N
+im-mi-in-du8-a	V
+
+u3-mu-un-ra	N
+e2-kur-re	NE
+mu-da-ab-du7	V
+
+ba-usz2	V
+
+e2-mar-uru5-gu10-u3	N
+nig2	N
+ga-am3-ta-si	V
+
+dilmun{ki}	NE
+e2-gun2	N
+kar-ra	N
+kalam-ma-ka	N
+he2-a	V
+
+dingir-KA-na	NE
+
+digir-me-en3	N
+bi3-lu5-da	N
+nam-lugal-la2	N
+mu-ga2-ra-a	V
+szu	N
+hu-mu-ra-ab-du7-du7	V
+
+i7-dul9-la{ki}-ka	NE
+
+ansze	N
+szag4	N
+dirig-ke4	V
+in-nu-da	N
+gu2-ni	N
+am3-szi-la2	V
+
+sa-bu-um{ki}-sze3	NE
+du-ni	V
+
+...	O
+AN	O
+SZUB	O
+har-ra-an	N
+im-suh3	V
+szu	N
+nu-um-ma-ni10-ni10	V
+
+...	O
+aszgab	NE
+dumu-ni	N
+
+isz-me-{d}en-lil2	NE
+dam-gar3	N
+
+bala	N
+di-ne-{d}en-lil2-la2	NE
+
+sag-ki	N
+zalag-ga-ni	V
+mu-un-szi-in-bar	V
+nam-lugal	N
+ma(BA)-an-szum2	V
+
+ambar-ra	N
+ku6	N
+muszen	N
+gu3	N
+hu-mu-da-ra-ra	V
+
+sze	N
+u2-szim-{d}ba-ba6	NE
+mu-kux(DU)	N
+
+a-sza3	N
+a-ka-sahar	NE
+
+en-i3-lu	NE
+
+uszum	NE
+ur-sag	N
+sag	N
+dur2-ra-ka	N
+bi2-in-la2	V
+
+1(gesz'u)	NU
+2(gesz2)	NU
+3(u)	NU
+2(disz)	NU
+gab2-IL2	N
+
+pa	N
+mul-bi	V
+an-dul3-le-esz2	N
+hu-mu-u3-ak	V
+
+2(barig)	N
+lugal-sa6-i3-zu	NE
+engar	N
+
+ab-sza3-ga	NE
+
+nin-iri-ni	NE
+gaba-asz	N
+
+kiszib3	N
+a-za-ba-an	NE
+
+nigar{gar}-ki-du10-ka	NE
+lu2	N
+kas4	N
+
+dumu	N
+e2-{d}en-lil2-la2	NE
+
+e2-KA-nun-di	NE
+
+lu2	N
+sze	N
+ki-ta	N
+al-gub-bu-a	V
+lu2	N
+gesztug2-ga	N
+gub-ba-ab	V
+
+igi	N
+sipad-tur-re	N
+mu-e-szi-in-il2-e	V
+
+sig-ta	V
+igi-nim-sze3	N
+kur-kur-ra	N
+zu-am3	V
+
+a-a-gu10	N
+uru2-gu10	N
+ki-bi	N
+ha-ma-gi4-gi4	V
+
+1(disz)	NU
+gi	N
+kid2	N
+ma2	N
+ka-gir-ra	N
+
+ud5-de3	N
+masz2-bi	N
+mu-na-ab-...	O
+
+4(disz)	NU
+sar	N
+kab2-ku5	N
+gaba-he-gal2-gu-la	NE
+
+giri3	N
+er3-ra-ku-ra-ad	NE
+
+szu	N
+pe{}-el	V
+nu-ma-ak-e	V
+{d}lamma-bi	N
+nu-si-il	V
+
+2(asz)	NU
+2(barig)	N
+sze	N
+gur	N
+lugal	N
+
+buru14	N
+mah-gu10	V
+ni2-bi	DET
+il2-il2-i	V
+nig2-kud	N
+nu-ak-e	V
+
+{d}lugal-szudx(KA)-de3	NE
+ma2-gur8	N
+ri-da-ni	V
+szu	N
+gid2-de3	V
+
+e2-zi-sahar	NE
+
+ur-lu-ku3-zi-ni	NE
+szu	N
+ba-ti	V
+
+nu-hi-dingir	NE
+sipa	N
+szah2	N
+
+sa2-du11	N
+{d}sag-x-x	NE
+
+dumu	N
+ta	NE
+
+...-a	O
+NI	O
+...	O
+
+ku3-bi	N
+1(disz)	NU
+ma-na	N
+
+tug2	N
+na-an-su4-e	V
+tug2	N
+na-an-dara4-e	V
+
+{na4}za-gin3	N
+di4-di4-la2	V
+ur2-gu10	N
+ga-mu-na-ab-X	O
+ki-sze-er-ra	N
+ab-tuku-e	V
+
+...	O
+X	O
+lul-la	V
+ka-na	N
+a	N
+im-mi-ib-ri	V
+
+4(ban2)	N
+la2	V
+1(disz)	NU
+sila3	N
+lu2-sag-ub3{ki}	NE
+
+giri3	N
+nin-ensi2	NE
+dub-sar	N
+
+4(u)	NU
+pu2-si4-mu	NE
+
+szu	N
+dug4-ga-zu	V
+nig2	N
+szu	N
+nu-GAN-X	O
+a2	N
+ag2-ga2	V
+du3-du3-a-zu	V
+an	NE
+nu-mu-un-na-an-la2	V
+
+igi	N
+ur-mah-a-ka	N
+uzu	N
+al-gu7-e	V
+
+an	NE
+gal-da	V
+ki-nu2	N
+kug-ga	AJ
+mu-e-til	V
+
+lu2	N
+dam	N
+szub-ba	V
+dumu	N
+szub-ba-ne	V
+
+u2-si-an	N
+mul-mu	N
+tesz2-bi-sze3	N
+gur-ru-a-ba	V
+
+gir3-lam	N
+kug-ge	AJ
+sag	N
+sig10-ga-da	V
+
+dumu	N
+nin-ib2-ta-e3	NE
+
+...-da	O
+mu-ni-hal-na	V
+
+sipad-ra	N
+engar{}	N
+...	O
+
+{d}dam-gal-nun-ka	NE
+
+gud	N
+gi4-a	V
+udu	N
+gi4-a-bi-a	V
+
+X	O
+gesztin-e	N
+mi2	N
+de3-ga2-ab-be2	V
+
+gal5-la2	N
+ama	N
+nu-tuku	V
+ad-da	N
+ama	N
+nin9	N
+szesz	N
+dam	N
+dumu	N
+nu-tuku-me-esz	V
+
+umusz-gu10	N
+ba-an-ta-DU-un	V
+
+nu-nus	N
+digir	N
+nam-nin-na{}	N
+tum2	V
+an	N
+ki-e	N
+dirig	V
+
+dumu	N
+ur-ge6-par4	NE
+
+geme2	N
+e2-gal-la	N
+na-an-sa10-sa10-an	V
+giri3	N
+dur2-bi-sze3	N
+e2	N
+gal2-gal2-la-am3	V
+
+e-er-dingir	NE
+
+1(bur3)	N
+GAN2	N
+1(barig)	N
+i-sa3-ri2-ik	NE
+ma2-lah5	N
+
+e2-{na4}kinkin(HAR)-na	N
+du14	N
+he2-en-gal2	V
+
+...	O
+ni2	N
+gur3-ru	V
+u6	N
+di-de3	V
+gub-ba	V
+
+ugu-gu10-sze3	N
+igi-ni	N
+im-ma-szi-in-gar	V
+
+...	O
+X	O
+mu-un-na-X-X-ba	V
+
+3(ban2)	N
+e2	N
+u4	N
+2(u)	NU
+
+gisz	N
+ur3-ra-ab	V
+gisz	N
+gi4-a-ab	V
+gisz	N
+pesz-bi2-ib	V
+
+en	N
+gal	V
+{d}en-ki-ke4	NE
+gu3	N
+mu-un-na-de2-e	V
+
+...	O
+sig7-ga	V
+ba-tur	V
+...	O
+
+{gisz}banszur	N
+{d}en-lil2-la2-ka	NE
+ba-gal2-la	V
+
+edin-na	N
+mu-un-szub	V
+ad3-bi	N
+nu-ga2-ga2	V
+
+kiszib3	N
+lu2-{d}sud3	NE
+
+nun-e	N
+sukkal-a-ni	N
+{d}isimud-ra	NE
+gu3	N
+mu-na-de2-e	V
+
+a	N
+{d}en-bi2-lu-lu	NE
+ku3-gal2	N
+id2-da	N
+szag4	N
+mu-na-ni-ri	V
+
+e2-{d}dumu-zi	NE
+
+siki-bi	N
+1(asz)	NU
+gu2	N
+la2	V
+2(disz)	NU
+ma-na	N
+siki-gi	N
+
+mu	N
+X	O
+i3-ak	V
+
+geme2-{d}iszkur	NE
+
+X	O
+me	N
+szul	N
+digir-zu	N
+he2-du8	V
+
+szu	N
+ur-{d}ma-da	NE
+
+igi	N
+ur-da-gi4	NE
+
+a	N
+10{}	NU
+gur{}-am3	N
+ze2{}-bi	N
+mu-un-de2	V
+
+giri3	N
+a-du	NE
+
+gurusz	N
+dab5-ba-gin7	V
+a2-ni	N
+mu-un-la2-la2	V
+
+ki	N
+ur-GAN2-isz	NE
+
+mu	N
+kar2-har-ra{ki}	NE
+ba-hul	V
+
+{d}nu-nam-nir	NE
+en	N
+za-e-me-en	DET
+lugal	N
+za-e-me-en	DET
+
+ud	N
+mar-uru5-a	N
+szu	N
+tag	V
+dug4-ga	V
+
+igi	N
+engar-e	N
+mu-e-szi-in-il2-la	V
+
+lugal	N
+masz2-GAN2{ki}	NE
+mar-da-ma-ni-um{ki}	NE
+
+kig2-zu	N
+mi2	N
+zid	AJ
+ha-ra-ab-dug4	V
+
+ab2	N
+lu-a	V
+tur3	N
+lu-a-na	V
+
+...	O
+a-na	DET
+...-an-la2	V
+
+ama	N
+ugu-gu10	V
+en{}-gin7	N
+uzu	N
+X	O
+...	O
+
+kiszib3	N
+ur-{d}ma-ma	NE
+
+gud	N
+...	O
+gen-a	V
+gen-a	V
+{gisz}szudul-a	N
+gu2	N
+gar-i3	V
+
+gisz-dim3{}	N
+mar-uru5	N
+kug-sig17	N
+ur5	N
+zalag-zalag-ga-gu10	V
+me-am3	AV
+ga-mu-ri-in-pad3	V
+
+ki	N
+sza3-la2-tum	NE
+
+...	O
+X	O
+KU{}	O
+A	O
+
+mu	N
+ma-an-zi-da	NE
+
+a2	N
+6(disz)	NU
+sila3-ta	N
+
+ur-{d}nin-gir2-su-gu-la	NE
+
+dub3-tuku	N
+lirum-sze3	N
+gam-e-gin7	V
+
+1(asz)	NU
+3(barig)	N
+e2-i7-lu2-ru(SZA3)	NE
+
+dumu	N
+MUSZ2-du	NE
+
+mu	N
+dam	N
+u-ra-ku-um	NE
+
+1(gesz2)	NU
+2(u)	NU
+udu	N
+1(disz)	NU
+1/2(disz)	NU
+sila3	N
+1(gesz2)	NU
+2(disz)	NU
+udu	N
+1(disz)	NU
+sila3	N
+sze-bi	N
+3(barig)	N
+2(disz)	NU
+sila3	N
+
+kan4	N
+igi-szu-galam	NE
+ki	N
+nam	N
+tar-re-dam	V
+
+u5	N
+i3-sud-e	V
+ga	N
+i3-sud-e	V
+
+nisig	N
+ki-en-DU-na-gin7	N
+...	O
+
+dumu	N
+ur-ki-gu-la-me	NE
+
+ab-ba-gi-na	NE
+nina{ki}-du10-da	NE
+
+igi-bi	N
+igi	N
+unug{ki}-sze3	NE
+kig2-gi4-a-ar	N
+inim	N
+mu-na-ni-ib2-be2	V
+
+emeda(UM.ME)-ga-la2-zu(gu10)	N
+dumu	N
+ga	N
+gu7	V
+mah-bi	V
+in-ga-an-zu	V
+
+dumu	N
+gissu	NE
+
+ki	N
+gag-a-ku5-e-ne	NE
+
+a-bi2-na-ni	NE
+
+{kusz}e{}-sir2	N
+...	O
+
+iti	N
+dal	NE
+
+u3	J
+za-e	DET
+al-du-un-na-ni	V
+gu3	N
+i3-ra-ra-e-sze	V
+
+gu3	N
+tesz2-a	N
+sig10-ge5-NE-en-ze2-en	V
+
+{gisz}gigir	N
+an-na-gu10	N
+ki-gal-la	N
+he2-em-mi-in-gub-bu-de3	V
+
+uszum	N
+igi	N
+husz	V
+musz-szag4-tur3	N
+ki-bal-a	N
+usz11-bi	N
+...	O
+
+dumu	N
+nin-gin7-a-ba-dim2	NE
+
+...	O
+za-e{}	DET
+nin9	N
+ban3-da	AJ
+gurusz-a-gen	N
+za-e	DET
+nin-ni-gen	N
+
+lu2-tur	N
+ga	N
+nu-un-da-gu7-a	V
+ama-zu	N
+sumun2	N
+kurun-a	N
+
+lu-ub2{sar}	N
+gal-gal	V
+AGA{}	N
+gal-e	V
+kud-da	V
+du5-la2	V
+ga-rasz{sar}	N
+gid2-da	V
+
+lugal-mug	NE
+ugula	N
+kas4	N
+
+du14-de3	N
+ni2-zu	DET
+nam-ba-...	O
+
+i-ti-ib	NE
+
+bar-bi	N
+digir	N
+u19-ru-na	V
+sag	N
+nu-ga2-ga2-dam	V
+
+{d}be-ze2-la	NE
+kuruszda	N
+
+ki	N
+lugal-{d}alla-pa-e3	NE
+
+lugal-bi	N
+sipad	N
+ur-{d}za-ba4-ba4	NE
+
+X	O
+X	O
+X	O
+he2-eb2-su3-ud	V
+bal-zu	N
+ma2-gur8	N
+za-gin3	N
+szu{}	N
+he2-...	O
+
+1(u)	NU
+gu2	N
+siki	N
+a-ra2	N
+1(disz)-kam	NU
+
+ni2-zu	DET
+pirig	N
+na-nam	V
+ul-dab5	V
+sag	N
+na-nam	V
+
+X	O
+X	O
+(X)-ni-ta	O
+kur	N
+gam-e	V
+
+2(barig)	N
+1(ban2)	N
+6(disz)	NU
+sila3	N
+zi3	N
+kiszib3	N
+3(disz)	NU
+ur-{d}gu-nir	NE
+
+edin	N
+i-lu	N
+gar-u3	V
+ambar	N
+inim	N
+gar-u3	V
+
+ki	N
+dingir-en-nu	NE
+
+giri3	N
+da-da-ga	NE
+
+szunigin	N
+4(disz)	NU
+gin2	N
+naga	N
+
+{d}en-lil2	NE
+{d}nin-lil2-gin7	NE
+digir	N
+na-me	DET
+nu-dib2	V
+
+la-la	N
+tuku	V
+i3-lu-lam-ma	N
+ki	N
+ag2	V
+in-ga-me-na-ta	V
+
+i3-ba	N
+{d}szul-gi-sa-tu	NE
+
+mu	N
+ha-ma-zi2{ki}-ka	NE
+ba-hul	V
+
+i3	N
+li-gin7	AJ
+i3	N
+li{}-gin7	AJ
+i3-he-nun-na-gin7	N
+
+zi-ga	N
+geme2-x-x	NE
+kuruszda	N
+
+2(ban2)	N
+{d}lugal-gu4-a2-nun-gi	NE
+
+a2-gal2	AJ
+inim-ma-bi-ir	N
+gaba-ri-ni	N
+mu-zu	V
+
+id2-kur-ra-ke4	NE
+a	N
+nu-de2	V
+a-bi	N
+nu-mu-un-na-na8-na8	V
+za-e	DET
+ta	DET
+u5-de3	V
+
+3(disz)	NU
+gin2	N
+i3	N
+2(disz)	NU
+gin2	N
+naga	N
+...	NE
+
+1(u)	NU
+5(disz)	NU
+gurusz	N
+engar	N
+dumu-ni	N
+
+...	O
+X	O
+szu	N
+gid2{}	V
+...	O
+
+szegx(IM.A)	N
+sze	N
+gu-nu	N
+gal2	V
+
+mu	N
+lugal-en8-tar-sux(SZUM)	NE
+{d}inanna	NE
+ba-hun	V
+
+ne-mur	N
+dub	V
+ba-e-de6	V
+
+uri	NE
+he2-em	V
+dumu	N
+ki-en-gi-ra	NE
+he2-em	V
+
+en3	N
+tar-gu10	V
+i3-gal2	V
+
+ki	N
+igi-szu-la-ma	NE
+
+ki	N
+ur5-bi-sze3-ba-du11	NE
+
+szeg11	N
+gi4-bi-sze3	V
+kur-ra	N
+lu5-lu5-bi-a	NE
+ki	N
+mu-un-ra-ra-ra	V
+
+1(ban2)	N
+5(disz)	NU
+ur-nab3-mu-DU	NE
+
+PAP-ra-a2-gal2	NE
+i3-dab5	V
+
+1(asz)	NU
+saga	V
+1(asz)	NU
+du	V
+nin-u3-x-e-ki-ag2	NE
+
+da-lu2-ga2	NE
+
+3(asz)	NU
+
+szen-na	N
+dalla	V
+mu-na-ni-in-e3	V
+sipad	N
+zid	AJ
+szul-gi-ke4	NE
+
+szul	N
+{d}suen	NE
+iti6	N
+nig2	N
+giri17-zal	N
+ug3-e	N
+u6	N
+mu-e	V
+
+pirig	N
+zag	N
+3-gin7	NU
+kur	N
+u3-mu-tuku4-tuku4	V
+ki-bal	N
+mu-hul-(X)	V
+
+a-sza3	N
+ka-u2-ma-an	NE
+
+szu-tab	V
+ze2-ga2	V
+gi4-in	N
+...	O
+
+kab2-ku5	N
+szabra-sa6-ka	NE
+
+iri-da-e-ne	N
+gu	N
+na-la2-e-ne	V
+
+gu2	N
+i7	N
+e2-{d}lamma	NE
+
+kiszib3	N
+dingir-ra	NE
+
+{d}inana-ke4	NE
+ba-su	V
+nu-mu-e-dug4-ga	V
+e2-an-na-kam	NE
+im-da-an-kar-re-en	V
+
+sa-am-su-i-lu-na	NE
+za3-am-zu	N
+dug3-ga	V
+
+nig2-dab5	N
+dug	N
+tu7	N
+ki	N
+en-sza3-ku3-ge	NE
+
+gu5-li	N
+...	O
+
+ge26-e	DET
+ama-gu10	N
+ki	N
+ag2-ga2-ni-ta	V
+...	O
+
+e2-kin-ga2	NE
+szu	N
+ba-ti	V
+
+4(u)	NU
+5(disz)	NU
+gurusz	N
+u4	N
+1(disz)-sze3	NU
+a2	N
+be-li2-a-zu	NE
+sze	N
+ba-a	V
+
+nam-tar	N
+nam-he2	N
+gisz	N
+nam-tar	N
+gisz	N
+nam-he2	N
+
+dim3-me2-er	N
+szu	N
+dim2-dim2-ma-zu	V
+X	O
+gu2{}-bi	N
+im-tu10-tu10-ne	V
+
+ur-{d}namma	NE
+szul	N
+igi	N
+il2-la	V
+kur	N
+gal-e(UD)	V
+{d}en-lil2-la2-ke4	NE
+
+{d}nergal	NE
+{d}mesz3-lam-ta-e3-a	NE
+
+ugula	N
+{d}szu-nir-ra	NE
+
+1(u)	NU
+1(disz)	NU
+gurusz	N
+ugula	N
+geme2-{d}nin-da-ba-til	NE
+
+al-la-ke4-sa6-ga	NE
+
+3(asz)	NU
+ur-{d}szul-pa-e3	NE
+
+giri3	N
+ur-{d}da-mu	NE
+
+7(disz)	NU
+kid2	N
+saga	V
+x-ba	O
+esir2	N
+su-ba	N
+
+lu2-sukud-ra2	NE
+dumu	N
+nu-banda3	N
+
+dili-bi	AJ
+i3-du3	V
+dili-bi	AJ
+i3-du3	V
+
+nig2-szu	N
+{gisz}gigir2	N
+har-ra-an-na	N
+sig10-ga-me-en3	V
+
+an	NE
+lugal	N
+digir-re-e-ne-ke4	N
+
+X	O
+X	O
+gisz-dub-ba-ka	N
+LA	O
+X	O
+la2	V
+mu	N
+la-ba-an-sar	V
+
+1(asz)	NU
+saga	V
+szar2-szar2-gal	NE
+
+nig2-nam	DET
+sze-er-ka-an-ba	N
+igi	N
+su3-ud	V
+mi-ni-in-il2	V
+
+kal-la	NE
+gurdub-sze3	N
+gen-na	V
+
+zag-sze-ga2	N
+ki	N
+um-ma-ni-us2	V
+a	N
+{kusz}ummud-gin7	N
+u3-mu-nag	V
+
+{d}inana	NE
+nin	N
+an	N
+ki-ke4	N
+A	O
+
+kin	N
+szuku-ra	N
+engar	N
+nu-banda3-gu4	N
+u3	CNJ
+sza3-sahar	N
+
+ku-gara2-lum	NE
+
+tum2-mu-un-ze2-en	V
+ga-sza-an-zu-ne-ne	N
+...-zu{}-ne-ne	O
+ba-dab5	V
+
+9(bur3)	N
+2(esze3)	N
+1(iku)	N
+GAN2	N
+lugal-sukkal	NE
+
+2(disz)	NU
+sipa-a-du-nu2	NE
+
+...	O
+ur-{d}lugal-x	NE
+
+nibru{ki}	NE
+ki-ur3-ta	NE
+na-kasz4	V
+
+{gisz}bunig(SUG)	N
+nig2-silag-ga2-zu	N
+nig2-kud	N
+la-ba-ab-ak-e	V
+
+4(u)	NU
+kiszib3	N
+lu2-nigin9-ra	NE
+
+ku3-{d}nanna	NE
+sukkal	N
+
+2(asz)	NU
+
+{d}en-ki-ke4	NE
+en	N
+nam-til3-la	N
+nam-til3-la	N
+he2-eb-...	O
+
+nu-banda3	N
+la-gi16-sa-ni	NE
+
+i3-pa2-li2-is	NE
+
+X-sze3	O
+e2{}	N
+DU{}-de3	V
+
+iri	N
+{d}en-lil2-le	NE
+nam	N
+...	O
+
+gi6-par3	N
+esz3	N
+nun	N
+me	N
+kug-ga	AJ
+ud	N
+X	O
+zal-zal-le	V
+
+gi-dah-a	NE
+gub-ba	V
+
+tum2-mu-un-ze2-en	V
+tum2-mu-un-ze2-en	V
+nin9-gu10	N
+tum2-mu-un-ze2-en	V
+
+si	N
+sa2-a-da	V
+engar	N
+gud-ra-bi	N
+zag-ba	N
+gub-ba-da	V
+ansze	N
+nig2-tug2-bi	N
+il2-a-da	V
+a2-dab5	N
+sze	N
+si-bi	V
+eger-bi	N
+us2-sa-da	V
+dur9-e	N
+{urud}ha-X	N
+mah	V
+la2-a-da	V
+e2-kin2-kin2	N
+mah	V
+il2-la-da	V
+JA2	O
+DA	O
+JA2	O
+GADA+KID2.DU8	N
+e2	N
+geme2	N
+tur	V
+{d}nin-gir2-su-ka-ke4	NE
+...	O
+A-gin7	O
+...	O
+a-a-da	V
+...	O
+GI	O
+EN	O
+gar-e	V
+
+2(disz)	NU
+...-la	NE
+dumu	N
+...-{d}ba-ba6	NE
+
+usz-bar	N
+{tug2}aktum-za	N
+a2-gar-bi	N
+{tug2}bar-dul5-zu	N
+tuku5-u3	V
+
+3(ban2)	N
+
+X	O
+X	O
+A	O
+GA	O
+...-ra	O
+
+gisz-hur	N
+kur-kur-ra	N
+szu	N
+nu-bal-e-da	V
+
+ki	N
+a-ba-dingir-ga2-gin7	NE
+
+ge26-e	DET
+{d}inana-da	NE
+giri3	N
+babbar-ra-na	AJ
+inim	N
+mu-da-bal-e	V
+
+4(disz)	NU
+i-din	NE
+
+nam-lugal-la	N
+a2	N
+hu-mu-ni-mah	V
+
+u2-gu	N
+de2-a	V
+me-sze3-am3	AV
+i3-re7-esz-am3-e-sze	V
+
+dumu	N
+engar-ra-ra	N
+nig2	N
+nam-mu-ra-ra-an	V
+eg2	N
+pa5-zu	N
+sze3-em-ra	V
+
+lu2	N
+{gisz}ma2-addir-ra-ke4	N
+
+ki	N
+kug	AJ
+ki	N
+kal-kal-gu10	V
+mu-un-ed3-de3-NE	V
+
+nin-a-ka-zal	NE
+
+dam	N
+nu-il2	V
+dumu	N
+nu-il2	V
+
+nun-e	N
+nun	N
+uru16	V
+dirig	V
+gal	V
+mah-bi	V
+
+nu-mu-un-ne-eb{}-ur11-ru	V
+
+...	O
+X	O
+ZU	O
+LI-da	V
+engur	N
+hu-luh-e-da	V
+
+2(asz)	NU
+du	V
+szu-{d}bi2-li-li	NE
+
+lugal-nig2-sa6	NE
+maszkim	N
+
+X	O
+(X)	O
+X	O
+X	O
+du3	V
+ha-ba-ra-ab-TU{}-X	O
+X	O
+
+szu-{d}da-gan	NE
+
+kiszib3	N
+nin-lu-kal-kal	NE
+
+2(disz)	NU
+{d}szul-gi-da-balag	NE
+dumu	N
+{d}szul-gi-da-nir-gal2	NE
+
+{na4}du8-szi-a	N
+{na4}nir7	N
+{na4}za-gin3-na	N
+
+nu-uh2-dingir	NE
+
+lugal-AN-...	NE
+x	O
+x	O
+
+{d}tarah	NE
+abzu	N
+eridug{ki}-ta	NE
+szu-bi	N
+i3	N
+im-sikil-e	V
+
+(x)	O
+2(asz)	NU
+kiszib3	N
+NE-ri-isz-a-tal(HU)	NE
+
+1(barig)	N
+sze-ba	N
+ba-mu	NE
+
+{d}ri-im-{d}suen	NE
+mu	N
+pad3-da	V
+an	NE
+kug-ge	AJ
+nam	N
+gal	V
+an-na	N
+tar	V
+
+an	NE
+kug-ra	AJ
+ub-szu-kin-na-ka	NE
+
+igi-x	NE
+
+lugal-zu	N
+en	N
+kul-aba4{ki}-a-ra	NE
+szu-a	N
+gi4-mu-na-ab	V
+
+a-sza3	N
+gibil	V
+tul2-szu-i-ne	NE
+
+galga-a-ni	N
+e-ne-ra	DET
+mu-un-na-an-szum2	V
+
+{dug}szakir3	N
+nitalam3-zu-ke4	N
+gu3	N
+he2-em-me	V
+
+gud	N
+kur2-ra	V
+u2	N
+gu7-gu7	V
+gud	N
+ni2-ga2	DET
+u2-szim-e	N
+ba-nu2	V
+
+1(disz)	NU
+be-li2-i-szar	NE
+
+gal-gal-bi	V
+szu	N
+gi4-ta	V
+ga-am3-gi4	V
+
+geme2-{d}x-x	NE
+
+dumu	N
+lugal-he2-gal2-a	NE
+
+...	O
+urim2{}{ki}-sze3	NE
+X	O
+...	O
+
+1(ban2)	N
+5(disz)	NU
+ur-{d}li9-si4-na-ka	NE
+
+giri3	N
+ur-ki-dub	NE
+
+giri3	N
+lugal-ti-mu	NE
+ku3-dim2	N
+
+szu-gid2	N
+ki	N
+x-ki-a	NE
+ensi2	N
+iri-sa12-rig7{ki}-ta	NE
+
+zi	N
+aratta-ka	NE
+engur-ra	N
+he2-ni-in-til	V
+
+u3-ru-az{ki}	NE
+u3	CNJ
+nibru{ki}-ta	NE
+gen-na	V
+
+ki	N
+a-ba-a	NE
+
+nam-nun	N
+gal-la-ni	V
+su	N
+nam-mi-in-su-ub	V
+
+udu	N
+niga	AJ
+szag4	N
+mu-da-ab-la2-e	V
+
+nu-banda3	N
+{d}nagar-pa-e3	NE
+
+i7	N
+i7-ka-imin-na	NE
+
+giri3	N
+dingir-mu-dah	NE
+
+giszkim	N
+sag9-sag9-ga	V
+inim	N
+nig2	N
+szag4	N
+dug3-ga	V
+
+id2	N
+a-ba	N
+mu-un-na-ba-e-ne	V
+szu	N
+am3-ma-gid2-de3-en	V
+
+{u2}szumunda	N
+izi	N
+la2	V
+e-X	O
+...	O
+X	O
+
+ki	N
+lugal-e2-x-x	NE
+
+22	NU
+e2	N
+{d}nin-a-zu	NE
+esz3-nun-na{ki}	NE
+
+ur5-gin7	DET
+gid2-gid2	V
+sag	N
+gal2-a-me-en	V
+
+5(ban2)	N
+4(disz)	NU
+sila3	N
+dabin	N
+
+en-me-er-kar2	NE
+en-suh-gir11-an-na	NE
+a-da-min3	N
+dug4-ga	V
+
+{d}nin-lil2-ama	NE
+
+me-ta-am3	AV
+nam-zid-tar-ra	NE
+
+nig2-zu-a-ni	N
+pa	N
+nu-um-e3	V
+ka-ga14-ni	N
+ba-an-la2	V
+
+...	O
+mun	N
+mu-ni-in-ra	V
+
+{gisz}erin	N
+i3	N
+ze2-ba-gin7	V
+ir	N
+RU	O
+kug-gu10	AJ
+a-ba	DET
+MA	O
+BI	O
+...	O
+
+sig-sze3	V
+igi	N
+mu-un-il2	V
+digir	N
+un3-na	V
+kur	N
+ud	N
+e3-ke4-ne	V
+igi	N
+bi2-in-du8-ru	V
+
+inim	N
+siki-da-ki-ag2	NE
+
+sze	N
+nim	AJ
+X	O
+a	N
+szu-nim-bi	AJ
+dug4-ga-gu10-sze3	V
+
+dumu	N
+gir2-su{ki}	NE
+a	N
+il2{}-il2{}	V
+a-a-na	N
+u3	CNJ
+ama-na	N
+igi	N
+bi2-du8-am3	V
+igi	N
+i-ni-du8-am3	V
+a-na-gin7	AV
+an-ak	V
+
+1(u)	NU
+ug3-IL2	N
+1(asz)	NU
+gur-ta	N
+
+mu	N
+us2-sa	V
+szi-ma-num2{ki}	NE
+ba-hul	V
+
+ur-sal-LAGAB-x	NE
+lu2	N
+kas4	N
+
+4(u)	NU
+5(disz)	NU
+gurusz	N
+u4	N
+1(disz)-sze3	NU
+a2	N
+lugal-x-lim	NE
+szu	N
+a2	N
+silim-ma	V
+du11-ga	V
+
+an-sze3	N
+al-ti-ri2-gu7	N
+muszen	N
+digir-ra-am3	N
+
+{d}inana-ra	NE
+an	N
+tuku4-tuku4-e	V
+ki	N
+sag3-sag3-ge	V
+
+giri3	N
+e2-szar2-ra-du10	NE
+
+ad	N
+gi4-gi4	V
+a-da-da	N
+a-ra2-da	N
+kusz2-u3-me-en	V
+
+sag-ki	N
+husz	V
+{d}en-lil2-la2-ka	NE
+igi	N
+dub2-dub2-bu	V
+X	O
+(X)	O
+
+1/2(disz)	NU
+nimgir-di-de3	NE
+
+gud-de3	N
+sahar-ra	N
+gu3	N
+bi2-in-dug4	V
+
+ki	N
+ma2	NE
+
+kun-a-ni	N
+ba-an-ur3	V
+sila	N
+ba-ni-in-tusz	V
+
+tug2-gum-ma	N
+a2-za	N
+i-ib2-du3	V
+
+ur-{d}nusku	NE
+
+x	O
+la2	V
+1(disz)	NU
+kiszib3	N
+ra-szi	NE
+
+iri	N
+ama-gu10	N
+tud-da	V
+kul-aba{ki}	NE
+...	O
+
+inim	N
+dug4-ga-ni	V
+gu2-ni	N
+la-ba-szi-szub	V
+
+temen	N
+
+ar3-ar3-ra-zu	V
+...	O
+unu-na	N
+la-ba-e-nu2	V
+...	O
+
+dim3-szah2-gin7	N
+bid3-da	N
+ka-ga14-na	N
+al-sag3	V
+
+ki	N
+e-ma-an-sze-a	NE
+
+u3	CNJ
+a-sza3	N
+e2-gir-gi4-lu2	NE
+
+kiszib3	N
+kal-eden{ki}	NE
+
+dumu	N
+nam-tar-re	NE
+
+ninda	N
+ki-sig10-ga	N
+na-an-gu7-un-ze2-en	V
+
+digir	N
+gub-ba	V
+{d}lamma	N
+abzu	N
+lu2	N
+inim-gar	N
+sag9-ga-zu	V
+he2-a	V
+AB-e	N
+X	O
+X-a	O
+ud	N
+da-ri2-sze3	AJ
+
+2(u)	NU
+gab2-IL2	N
+ku6-sze6	N
+1(barig)	N
+3(ban2)-ta	N
+
+kiszib3	N
+ba-a-ad-da-ri2	NE
+
+1(disz)	NU
+tab-ba-al-i3-li2	NE
+
+lugal-nig2-nesag2	NE
+
+kug	AJ
+{d}lugal-ban3-da	NE
+giri2-ta	N
+ba-ra-an-szab	V
+
+dumu	N
+a-bi2-a-ti	NE
+x-x	O
+
+{d}nin-hi-li-su3	NE
+sukkal	N
+
+ur-mah-e	N
+a2-tah-zu	N
+gisz-gi	N
+lu-lu-am3	V
+
+dumu	N
+a2-ra-an	NE
+
+iri{ki}-ta	N
+dur2-ra-ni	N
+ba-ra-gen	V
+
+ki	N
+nin-szitim	NE
+
+a-dar-ra	N
+akszak{ki}-a-ka	NE
+mu2-a-bi	V
+dug3-ga-am3	V
+
+mu-na-dur2-ru-ne-esz	V
+...	O
+X	O
+...	O
+
+mu	N
+us2-sa	V
+nin-ki-...	NE
+{d}nin-dub-ka	NE
+ba-hun	V
+
+ki	N
+asz2-nun{ki}-ka	NE
+
+ugula	N
+ku6-us2-sa2	NE
+
+nam-gilim-ma	N
+a-zu-u3{}	N
+X	O
+X	O
+X	O
+
+4(disz)	NU
+szu-bu3-ul-tum	NE
+a-ri-a	N
+szu-da-ba	NE
+dumu	N
+szu-da-mar2	NE
+
+e2-szu-me-sza4	NE
+pa	N
+e3	V
+dib-dib-be2-da-ni	V
+
+a-sza3	N
+gibil-{d}nin-dar-a	NE
+
+...	O
+gal2-la	V
+e-ne	DET
+he2-en-na-nam-ma-am3	V
+
+2(barig)	N
+3(ban2)	N
+{d}szu-{d}suen-PI-zu-um-i-szar-re	NE
+
+gu7-gu7-da-bi	V
+...	O
+
+kiszib3	N
+{d}hur-sag-ga-lam-ma	NE
+
+nam-sipad	N
+kalam-ma-sze3	N
+mu-X-il2	V
+
+mar-uru5	N
+zig3-ga	V
+sahar	N
+hul	V
+bi2-ib-zig3	V
+
+ul4-la-bi	V
+ga2-nam-ma	V
+
+ki	N
+ur-{d}nin-nim-du6-ga	NE
+
+mi2	N
+dug4-ga	V
+kur	N
+gal	V
+{d}en-lil2-le	NE
+ki	N
+ag2	V
+an	NE
+kug-ga	AJ
+
+...-zu	O
+X	O
+um-ma-ri	V
+sag	N
+gig2-ga	V
+(...)	O
+IM{}	O
+en	N
+GIL	O
+
+ki	N
+lu2-uru11{ki}	NE
+
+e2	N
+szim-zu	N
+kur	N
+gesztin-na	N
+
+nig2	N
+sag	N
+{gisz}ma2	N
+nig2-sag	N
+ga-ra-ni-ib-szum2	V
+
+a-sza3	N
+SU-A-tur	NE
+
+{d}nu-musz-da	NE
+{d}mar-tu	NE
+hul2-la-e	V
+
+mu	N
+us2-sa	V
+{d}szu-{d}suen	NE
+lugal	N
+uri5{ki}-ma-ke4	NE
+bad3	N
+mar-tu	NE
+mu-ri-iq-ti-id-ni-im	NE
+mu-du3-a	V
+
+lu2-{d}nin-gir2-su-ka	NE
+sagi	N
+
+{d}en-ki	NE
+lugal	N
+abzu-ke4	N
+sa2	N
+pad3-de3	V
+inim-ma	N
+gal-zu-me-en	AJ
+...	O
+
+...	O
+X	O
+kig2	N
+til3-la	V
+kug-zu	AJ
+gal-an-zu-am3	AJ
+
+...	O
+me-e	DET
+en	N
+sag9-ga-gu10-ne	V
+
+szah2	N
+lu-hu-um-ma	N
+su3-am3{}	V
+
+kug	AJ
+{d}nin-i3-si-in-na	NE
+{tug2}{}nig2-la2	N
+sed4-de3	V
+ki-bi-sze3	N
+bi2-ib2-gi4{}-gi4{}	V
+
+ama	N
+sikil{}-sikil{}-la	V
+ma2-addir-ra	N
+a	N
+nu-tuku-me-en	V
+
+ki	N
+dug3-ga-am3	V
+e2	N
+im-ma-an-du3	V
+
+giri3	N
+nin-a-ni-sa6	NE
+
+gu2-bar	N
+za-gin3	N
+gur{}-gur-ra-ni	V
+i3	N
+li	AJ
+he2-em-su3-su3	V
+
+ga-zi-in-bu	N
+lugal-gu10	N
+ur-sag	N
+mu-bi-im	N
+
+4(disz)	NU
+sar	N
+kab2-ku5	N
+i3-gu	NE
+
+lugal-e	N
+en-e	N
+ama	N
+ugu-ne-ra	V
+A2	O
+KAL	O
+ISZ	O
+ta-a-ni-X	V
+id2-da	N
+NAJA-de3	O
+
+me-a-sag2	NE
+
+...	O
+X-ka	O
+a-na-asz-am3	AV
+nu-um-ga2-ga2-ne	V
+ad	N
+nu-um-gi4-gi4-ne	V
+
+...	O
+NE	O
+(X)	O
+A	O
+mu-da-zig3	V
+(...)	O
+
+kiszib3	N
+e2-{d}nin-sun2	NE
+
+ki	N
+a-ul4-gal-ka	NE
+
+mir-DU-na-ga2	N
+la-la	N
+hu-mu-szi-in-ak	V
+
+6(bur3)	N
+1(esze3)	N
+GAN2	N
+2(gesz2)	NU
+1(u)	NU
+5(asz)	NU
+gur	N
+
+eme	N
+munus-e	N
+bungu	N
+
+{d}dumu-zid-de3	NE
+e2	N
+um-ma	N
+{d}be-li-li-sze3	NE
+mu-un-dab5-be2-ne	V
+
+ug3-e	N
+u2	N
+nir-gal2	AJ
+gu7-u3-de3	V
+a	N
+dug3	V
+na8-na8-de3	V
+
+e2	N
+{gisz}erin-na	N
+EZEN	O
+KU-KU-a-ni	O
+en	N
+...	O
+
+1(asz)	NU
+1(ban2)	N
+gur	N
+kiszib3	N
+a-bu-x	NE
+
+{d}nin-gal	NE
+e2-zu-sze3	N
+ge26-e	DET
+ga-mu-ra-da-gen	V
+
+a-sza3	N
+ur2-ku3-ge	NE
+
+giri3	N
+ku-ba-ba	NE
+
+inim-{d}nin-gir2-su	NE
+
+ga-ar3	N
+gal-gal	V
+ga-ar3	N
+gazi	N
+ga-ar3	N
+tur-tur	V
+...	O
+
+...	O
+KI	O
+X	O
+...	O
+ud	N
+ul-le2-a-sze3	N
+
+ka-bi	N
+nu-gig-gin7	N
+an-szag4-ga	N
+gu3	N
+mu-un-dub2-dub2-be2	V
+i-sza-gu-um	O
+
+ur-gir15	N
+ur3-ra-sze3	N
+mu-un-ed3	V
+
+ki	N
+nu-zu	V
+husz-am3	V
+ur	N
+nu-zu	V
+tesz2-am3	N
+
+nu-mu-un-su	N
+dam-eger-ra-ni	N
+na-ab-be2-a	V
+
+du10-{d}ba-ba6	NE
+a-ta	N
+de6-a	V
+
+mu	N
+za-u3-pu	NE
+ba-hun	V
+
+szar2-ra	V
+sahar-ra	N
+la-ba-an-da-szar2-re-esz	V
+
+1(disz)	NU
+masz2	N
+lugal-amar-ku3	NE
+gudu4	N
+{d}nin-mar{ki}	NE
+x	O
+
+ki	N
+lu2-{d}utu-ta	NE
+
+{d}nanna	NE
+szid	V
+zu	V
+igi	N
+dug3	V
+hu-mu-ri-in-du8	V
+
+ab-ba-du-du	NE
+
+nin-gen	N
+X	O
+hi-li	N
+gur3-ru-gen	V
+
+erim2-gal2-la-ni	AJ
+szu	N
+im-ri-ri-e	V
+a2-ni	N
+la-ba-ra-e3	V
+
+lu2	N
+nin-bad3	NE
+sukkal	N
+
+tug2-szu-gur-ra	N
+men	N
+edin-na	N
+sag-ga2-na	N
+mu-un-gal2	V
+
+ama	N
+{d}nin-a-zu	NE
+i3-nu2-a-ra	V
+
+...	O
+{d}szul-gi-na-gir-ti	NE
+dumu	N
+ur-ab-ba-na	NE
+
+ur-su	NE
+
+iri-ga2	N
+2	NU
+gisz-gana2	N
+ga-ri-du3	V
+mu-zu	N
+he2-pad3-de3	V
+
+sipad	N
+sun5-na	V
+gu3	N
+zid	AJ
+mi-ni-de2-za-na	V
+nam-til3	N
+he2-na-...	O
+
+ansze-kur-da	N
+ki-nu2	N
+ak-a-zu-ne	V
+
+szul-gi	NE
+sipad	N
+zid	AJ
+ki-en-gi-ra-da	NE
+giri3-a	N
+ba-da-DU	V
+
+mu	N
+us2-sa	V
+hi-li-ab-zu	NE
+ba-hul	V
+
+i3-ba	N
+hal-li2	NE
+
+ur-...-gal	NE
+
+giri3-{d}szara2-i3-dab5	NE
+
+usu-tuku	AJ
+ba-da-an{}-kar	V
+
+ki-sa2-al	N
+ma-he	V
+ninda	N
+ba-ga2-ra-zu	V
+
+{gisz}dusu	N
+sahar-ra	N
+nu-luh-ha-e	V
+du14	N
+ga-nam	AV
+mu-da-mu2	V
+
+sag-du	N
+nu-tuku	V
+nam	N
+szi-ib-tar-re	V
+
+anzud{muszen}	NE
+an-ta	N
+i3-gen	V
+
+1/2(disz)	NU
+gin2	N
+apin-la2	N
+
+dub-szen-ga2-ke4-esz	N
+
+sipa	N
+udu-gi-ke4-ne	N
+
+{d}ri-im-{d}suen	NE
+lugal-gu10	N
+
+e2-kur-sze3	NE
+szu	N
+kesze2	V
+ba-szi-ak	V
+
+{d}nansze	NE
+lagasz{ki}-a	NE
+he2-gal2-la	N
+szu	N
+mu-un-da-an-pesz-e	V
+
+2(barig)	N
+szuku	N
+diri	V
+ma2	N
+hun-ga2	V
+gal-zu-da5-bu3-ul-si-in	NE
+
+ur-mah	N
+pirig	N
+...	O
+
+ki	N
+lu2-hu-rim3{ki}	NE
+
+da-sza	NE
+
+inim	N
+zu2	N
+kesze2-da	V
+nibru{ki}-me-en	NE
+
+{d}ri-im-{d}suen	NE
+lugal	N
+me-te-gal2	AJ
+he2-gal2	N
+szu	N
+du8-du8	V
+digir	N
+gal-gal-e-ne-ke4	V
+
+ki	N
+lugal-ad	NE
+
+ki	N
+en-e2-e-ba-du7	NE
+
+ki-la2-bi	N
+3(u)	NU
+ma-na	N
+
+lugal	N
+si-ma-num2{um}{ki}	NE
+si-ma-num{ki}	NE
+
+dim2-ma	N
+ma-da	N
+nu-ub-da-kur2-ra	V
+na	N
+de5	V
+mu-un-e	V
+
+...	O
+lugal-ga2	N
+ba-e-ni-...	O
+
+nigir-e	N
+sila-sila-a	N
+si	N
+gu3	N
+ba-ni-in-ra	V
+
+ga2-la	N
+nu-dag-ge	V
+
+inim-bi-ta	N
+sa-gin7	N
+im-da-an-sur	V
+
+nin-ab2-zi	NE
+dam-gar3-ra	N
+
+dumu	N
+ku-ne-a	NE
+
+X	O
+...	O
+(X)	O
+X	O
+RU	O
+X	O
+X	O
+(X)	O
+X-me-en	O
+
+{d}utu	NE
+X	O
+(X)	O
+sag-ga2	N
+mi-ni-in-gal2	V
+
+a-ba-am3	DET
+lag	N
+...	O
+
+nam-nin-digir	N
+ba-e-de6	V
+
+dumu	N
+in-ti-la	NE
+
+gi6-par4-ra	N
+{tug2}{}gada	N
+nam-mi-la2	V
+
+{gisz}gu-za	N
+nam-lugal-bi	N
+he2-en-na-gen6	V
+bal-bi	N
+he2-en-na-su3-ud	V
+
+ugula	N
+kal-i3-li2	NE
+
+kun-bi	N
+asila	N
+la2-da	V
+
+ama-sze-ab	NE
+
+1(disz)	NU
+gur	N
+lu2-{d}szul-gi-ra-ka	NE
+
+ki	N
+te-ru-sze-la-ah	NE
+
+lul	V
+du8-du8-u3-da	V
+he2-ni-ib-tum2-tum2-mu	V
+
+si	N
+sa2-sa2-de3	V
+ki	N
+dar	V
+ge-en-ge-en	V
+{d}inana	NE
+za-a-kam	DET
+
+si	N
+sa2	V
+ba-ra-an-zu-usz-am3	V
+
+AN	O
+ba-za	N
+{urud}szukur	N
+na-szum2{}-mu{}-un	V
+
+mu-ti-in-e	N
+ga-gu10	N
+ga-ga-gu10	N
+di-di	V
+du5-mu-u5-zu	V
+
+4(u)	NU
+la2	V
+1(disz)	NU
+udu	N
+szimaszgi	N
+
+gesz-i3-bi	N
+4(barig)	N
+3(ban2)	N
+
+gurusz	N
+szag4-gan-bi	AJ
+LU2-esz2	V
+ma-ra-ab-sar-re-esz	V
+
+ki	N
+i3-du8-be-li2-la-gal2	NE
+
+{d}a-nun-na-ke4-ne	NE
+na	N
+ba-an-de5-ge-esz-am3	V
+
+hul2-hul2-le-ga2	V
+dug3-dug3-ge-ga2	V
+
+X	O
+DI	O
+dug3-ge	V
+gu2	N
+...-de3	O
+
+nin-{i3}isin2{si}-na	NE
+dumu	N
+an-na-ke4	NE
+
+szah2	N
+lu-hu-um-ma	N
+su3-a	V
+
+dumu-sag	N
+inim	N
+u3-tud	V
+szir3	N
+kad4	V
+inim	N
+kad4-bi-im	V
+
+giri3	N
+{d}en-ki-nin-ul-gur3	NE
+
+e2-a	N
+nim-gin7	N
+mi-ni-ib-dal-dal-en	V
+
+ki	N
+giri3-{d}nansze-i3-dab5	NE
+
+1(asz)	NU
+gu2	N
+ne-sag-ga2	N
+sumun	V
+
+3(iku)	N
+1/4(iku)	N
+GAN2	N
+1(asz)	NU
+3(barig)	N
+diri	V
+HI-x	O
+
+tug2-szu-gur-ra	N
+men	N
+edin-na	N
+sag-ga2	N
+mu-ni-in-gal2	V
+
+pu2	N
+kalam-ma-ke4	N
+usz2	N
+bi2-ib-si-si	V
+
+kiszib3	N
+da-gi-...	NE
+
+{d}inana	NE
+lul-la	V
+munus-e-ne	N
+ge26-e	DET
+ga-ri-ib-zu-zu	V
+
+{d}nin-urta	NE
+a2	N
+nam-ur-sag-ga2	N
+szu	N
+du7-a-me-en	V
+
+JISZ	O
+X	O
+JAR	O
+X	O
+...	O
+
+gen-na	V
+{id2}surungal	NE
+...	O
+ma2	N
+an-na	N
+he2-em-da-ab-kar-re-ne	V
+
+ur	N
+gal-gal	V
+7(IMIN)-bi	NU
+ba-e-u5	V
+an-na	N
+ba-e-ed2-de3	V
+
+nig2-x	NE
+
+en-na	CNJ
+nu-sze-ga	V
+eme	N
+sig-ga	V
+nu2-a	V
+
+szu-ma-am3	NE
+
+3(disz)	NU
+pi2-ir-hu-um	NE
+
+kur	N
+gal	V
+a-a	N
+{d}en-lil2	NE
+za3-mi2	N
+
+ud-ba	N
+ki-ulutim2	N
+digir-re-e-ne-kam	N
+
+za-e-ne-ne	DET
+gal5-la2-ze2-en	N
+lu2	N
+zag-ga-ni	N
+gi-szukur-gin7	N
+
+2(disz)	NU
+udu	N
+niga	V
+ki-a-nag	N
+nin9-tesz2-mu	NE
+lukur	N
+lugal	N
+
+e2-mah	NE
+
+{gisz}kiri6	N
+gi6-edin-na	N
+giri3-ni	N
+bi2-in-gub	V
+
+e2	N
+{d}en-lil2-la2-ta	NE
+e3-ni	V
+
+{gisz}al-gar-sur9	N
+{gisz}sa-esz	N
+sa-bi2-tum	N
+
+ki	N
+geme2-lal3	NE
+
+ugula	N
+sag-ki-sa6	NE
+
+eridug{ki}-ta	NE
+a	N
+nam-iszib-ba-ka	N
+ni2-gu10	DET
+mi-ni-dadag	V
+
+szu	N
+sag9	V
+szu	N
+tam-tam-ma-ga2	V
+
+gisz3	N
+1	NU
+dug4-ga-ni	V
+
+e2	N
+{d}nansze-na	NE
+
+digir-be2-ne	N
+ki-tusz	N
+ba-ab-gar-ra	V
+
+lu2-zuh	N
+e2	N
+buru3-buru3-da	V
+mu-ni-in-dab5-be2-esz	V
+
+nin-ra-kisal	NE
+
+ugula	N
+{d}lamma-lugal-anzu{muszen}-babbar2	NE
+
+sag-kal{}	AJ
+kalam-ma	N
+en	N
+nun	N
+pa-de3	V
+he2-a	V
+
+{d}szu-{d}suen-na-ra-am-{d}en-lil2	NE
+i3-dab5	V
+
+X	O
+in-ga-hul2-a-kam	V
+X	O
+X	O
+X-am3	O
+al-KU	V
+
+u2	N
+dam-da	N
+ze2-eb	V
+u2	N
+dumu-da	N
+ze2-eb	V
+
+nin9	N
+tuku	V
+szesz-a-ni-ir	N
+a	N
+mu-na-de2-e	V
+
+muszen-me-en	N
+gud3	N
+sug4-ga-gu10	V
+...	O
+u3-um-DU	V
+ab-...	O
+
+nig2-dab5	N
+du6-ku3-ga	N
+kiszib3	N
+sag-{d}nanna-zu	NE
+
+e3-ne-bi	NE
+
+he2-til3-la	V
+
+a-sza3	N
+x-ul4-ul4	NE
+
+kig2-gi4-a	N
+en	N
+aratta{ki}-ra	NE
+u3-na-dug4	V
+u3-na-de3-tah	V
+
+X	O
+gi4{}-in{}-na-...	N
+
+id2	N
+a-gi6	N
+uru16	V
+lu-a	V
+gaba	N
+1{}	NU
+danna{na}-ta	N
+ib2-sa2	V
+szag4-bi	N
+nu-si-si	V
+
+dumu	N
+lu2-gurum2	NE
+
+kur-kur	N
+du3-a-bi	N
+la-ba-an-da-szu2-a	V
+
+1(ban2)	N
+szesz	N
+{d}szul-gi-i3-li2	NE
+
+lugal-gu10	N
+{d}en-ki	NE
+i3-gub-be-en	V
+ud-ul	AV
+a-ra-zu	N
+
+mi2-bi	N
+su3-ud-sze3	V
+ga-mu-u8-en-de3-en	V
+
+ugula	N
+sza3-ba-na-sig	NE
+
+u3-tud-da	V
+...	O
+tesz2	N
+mu-zu	N
+he2-i-i	V
+
+usu	N
+{gisz}apin	N
+1(DISZ)-e	NU
+a-szag4	N
+{gisz}bar-dili-bi	N
+u3-bi2-ak	V
+
+lu2	N
+nig2-tuku	AJ
+u2	N
+...-bi	O
+he2-gu7-e	V
+
+6(asz)	NU
+gur	N
+kiszib3	N
+{d}nin-eb-gal-ama	NE
+
+zabar-hu-um	NE
+gub-ba	V
+
+lugal	N
+{d}nam2-sag-ub3{ki}	NE
+gar-zi3-da{ki}	NE
+
+{d}nin-hur-sag-ga2-ke4	NE
+ki	N
+ag2-ga2-ni	V
+za-e-me-en	DET
+
+tir	N
+mah-a	V
+...	O
+
+a	N
+ru-a	V
+
+iti	N
+sze-sag11-ku5-sze3	NE
+
+3(disz)	NU
+giri3-lam	N
+x	O
+3(disz)	NU
+sila3-ta	N
+
+barag	N
+digir-re-e-ne	N
+mu	N
+dug3	V
+ib2-sa4-sa4-ne{}	V
+
+ni2	N
+gal-zu	V
+su	N
+zig3	V
+im-du8-du8	V
+...	O
+
+e-ne-eg3	N
+a-ra-dug4-ga-gu10	V
+gu2-zu	N
+la-ba-szi-szub	V
+
+lugal	N
+lu-lu	NE
+e2-unu{ki}	NE
+
+gu2-e-ta	N
+a-na-gin7-nam	AV
+in-kur9	V
+
+1(disz)	NU
+gu4	N
+2(u)	NU
+udu	N
+5(u)	NU
+2(disz)	NU
+masz2	N
+
+ki	N
+kar-masz	NE
+
+ama-gu10	N
+sag	N
+rig7	V
+...	O
+MU	O
+
+szag4	N
+zalag-zalag	V
+sipad	N
+{d}lamma	N
+kalam-ma	N
+mu-ni	N
+bi2-in{}-dug3	V
+
+2(asz)	NU
+2(barig)	N
+nin-igi	NE
+
+um{muszen}-gin7	N
+...	O
+
+{d}ama-{d}inana	N
+nam-NIR.PA-sze3	N
+ba-tuku-a-ba	V
+
+GA{}	O
+me-a	AV
+X	O
+X	O
+szag4{}	N
+...	O
+
+lu2	N
+izi	N
+la2	V
+igi	N
+bi2-du8-am3	V
+igi	N
+nu-mu-na-du8-am3	V
+
+mu	N
+babila	NE
+ba-hul	V
+
+a-sza3	N
+szu-na	NE
+
+1(ban2)	N
+kasz	N
+saga	V
+u4	N
+4(disz)-kam	NU
+
+gud	N
+lipisz-tuku	AJ
+me3-a	N
+gub-ba	V
+
+e2-e	N
+i3	N
+im-sikil-e	V
+sag	N
+ba-ab-ha-za	V
+a2-szu-giri3	N
+ba-an-KU-usz	V
+
+lu2-{d}x-{d}abzu	NE
+maszkim	N
+
+...	O
+lu2-kal-la-ka	NE
+
+me	N
+szu	N
+du7-a-zu	V
+
+lu2-ma2-gu-la	NE
+
+sag-gag	N
+gi-nindan	N
+iri{ki}	N
+du3-du3-u3-dam	V
+
+2(barig)	N
+3(ban2)	N
+u3-na-ab-sze-en6	NE
+
+dumu	N
+{d}ba-ba6-silim-mu	NE
+
+2(barig)	N
+1(ban2)	N
+6(disz)	NU
+sila3	N
+zi3	N
+kiszib3	N
+3(disz)	NU
+er3-ib	NE
+
+za3-mi2-gu10	N
+ka-ka-ga	N
+he2-ni-gar-gar	V
+
+me-lem4	N
+7-kam-ma	NU
+mu-na-til-la-ta	V
+
+szu	N
+mu-un-tag-ge	V
+nu-mu-un-na-an-zi-zi-i	V
+
+mu-un-na-te	V
+szag4	N
+hul2-la	V
+dirig-na	V
+inim	N
+mu-un-da-bal-e	V
+
+ud	N
+szu2-usz	V
+nig2-nam	DET
+tum3	V
+di	N
+gal-e-esz	V
+na-an-gar	V
+
+...	O
+er2	N
+gig-ga{}	V
+mu-un-ga2-ga2	V
+
+ka	N
+gal	V
+gu3-an-ne2-si-gin7	N
+mu-un-si-il-le	V
+
+{gisz}al	N
+gul-la-bi	V
+ki-in-...	N
+ba-ra-am3-mi-X	V
+X	O
+
+ki	N
+lugal-an-na-ab-tum2	NE
+
+gesztug2	N
+gizzal	N
+szu-luh	N
+kug-ga	AJ
+e2-DAG.KISIM5xX-ra	N
+ne-mur	N
+dub	V
+ga2	N
+udu	N
+ni2	N
+teg3-ge26	V
+nig2-me-gar	N
+kur-ku	N
+
+3(disz)	NU
+nu-ur2-a-a	NE
+
+{d}utu	NE
+sipad	N
+kalam-ma	N
+a-a	N
+sag	N
+gig2-ga	V
+
+ki	N
+bu-ru-uq	NE
+
+2(disz)	NU
+UD	NE
+
+ki	N
+da-x-x-{d}ba-ba6	NE
+
+a-sza3	N
+ta2-si-hu-um	NE
+
+giri3	N
+da-am-qu2-um	NE
+
+pesz10	N
+a-ab-ba-ka	N
+tud-da-a	V
+
+sipad-de3	N
+e2-a-ni	N
+sag	N
+li-bi2-in-ak-ni	V
+
+a-sza3	N
+nin-zi-iri-na	NE
+
+dumu	N
+KA-ga-li	NE
+szusz3	N
+
+lugal	N
+ni-da-ra-asz-pi2{ki}	NE
+NI-HI{ki}	NE
+
+a-sza3	N
+gu2	N
+i7	N
+a-sza3-u2-du-{d}nin-a-ra-li	NE
+
+X	O
+gi-in-zu	N
+di	V
+u3-mu-un-na	N
+me-e	DET
+...	O
+
+{d}en-sa6-ag	NE
+im-ma-ra-an-tu-ud	V
+
+lugal	N
+{d}en-ki-ra	NE
+e2-a	N
+ba-szi-in-kur9	V
+gu3	N
+mu-un-na-de2-e	V
+
+ninda-ni	N
+nig2-u2-zug4	N
+he2-a	V
+
+X	O
+X	O
+X	O
+lu2-sze3	N
+bar-bar-ra-me-en	V
+
+kab-lu5-li2-um	NE
+
+zid-du	AJ
+du{}-us2	N
+dab5-e	V
+erim2-du	AJ
+ha-lam-me	V
+
+8(asz)	NU
+giri3	N
+e2-gu4	NE
+
+lugal	N
+{d}ur-{d}za-ba4-ba4	NE
+{m}szar-ru-um-ki-in	NE
+digir-re-e-ne	N
+szu	N
+dug4-ga-ar	V
+
+me-a-am	N
+an-ne2	NE
+ma-ab-du3-da-a-ga2	V
+sun4-a-ni	N
+{na4}za-gin3-na	N
+
+...	O
+X-da{}	O
+
+sza3	N
+esz3	N
+{d}nigar{gar}	NE
+
+gan2-ne2	N
+gana2	N
+zid	AJ
+JA2	O
+u3-un-e3-en	V
+
+ul4-nu	NE
+
+i3-na-ab{ki}	NE
+iri-iri-a	N
+kur	N
+nam-nun-na-kam	N
+
+mu	N
+us2-sa	V
+isin2{si}{ki}-na	NE
+ba-hul	V
+
+{gisz}tir-ra	N
+gisz	N
+an	N
+ni2-bi	DET
+ma-ra-an-zi-zi	V
+
+{d}szul-gi-i3-ma	NE
+
+1(disz)	NU
+{gi}ma-an-x	N
+a2-bi	N
+u4	N
+1(disz)	NU
+
+X	O
+UB	O
+da-ri	AJ
+nig2	N
+us2-sa	V
+X	O
+...	O
+
+mu	N
+mah	V
+lugal-gu10	N
+sig	V
+igi-nim-ma	N
+...	O
+
+dumu	N
+ki-ag2-lu2	NE
+szusz3	N
+
+kiszib3	N
+hu-pi2-tum	NE
+
+ki	N
+a-lum-gun3-a	NE
+
+a-sza3	N
+a-gara2	NE
+i7	N
+nun-ta	N
+ka	N
+pu2-u-esz18-dar	NE
+
+ki-bal-da	N
+nam	N
+im-ma-da-an-kud	V
+
+mu	N
+mar-ha-szi{ki}-ka	NE
+ba-hul	V
+
+ur-ki-sal4-la	NE
+
+a2	N
+mas-su	N
+{gisz}ma2-zu	N
+ma-zu	N
+ma-zum	N
+{gisz}ma2-zu	N
+ma2-zu	N
+1(DISZ)	NU
+13	NU
+gig4-am3	N
+
+lugal-kur	NE
+
+3(asz)	NU
+du	V
+i-szar-li-i	NE
+
+lu2-dingir-ra	NE
+i3-dab5	V
+
+esz3-{d}nansze-da-hi-li-e-gar	NE
+gub-ba	V
+
+kur-re	N
+ni2-bi	N
+szag4	N
+ma-nigin2-nigin2-ne-esz	V
+gu2-ba	N
+giri3	N
+bi2-gub	V
+
+dumu	N
+inim-{d}nin-...	NE
+szusz3	N
+
+giri3	N
+geme2-usz-gid2-da	NE
+
+lu2-ulu3-bi	N
+lul	V
+u3-bi2-in-dug4	V
+i3-...	O
+
+kisal	N
+dagal	V
+X	O
+e2	N
+{d}inana-ka	NE
+
+szunigin	N
+5(disz)	NU
+sila3	N
+kasz	N
+saga	V
+szunigin	N
+5(disz)	NU
+sila3	N
+kasz	N
+
+X	O
+X	O
+am{}	N
+gal	V
+szu{}	N
+im-gid2-gid2-i	V
+
+ku6-gu10	N
+suhur-gal{ku6}-gu10	N
+he2-ga-me-da-an-ku4-ku4	V
+
+pu-ru-ru	NE
+
+{d}utu-bar	NE
+sipa	N
+szah2	N
+
+giri3	N
+lugal-masz-zu	NE
+u3	CNJ
+du-x	NE
+
+kig2	N
+gal	V
+kig2	N
+ki	N
+dug3	V
+ud	N
+nu-dib-be2	V
+
+ur-e	N
+...	O
+
+e2	N
+kasz-a-ka	N
+zabar	N
+JIRI3{}	O
+nag{}-a-ke4	V
+hu-mu-ra-X	O
+X-a-ze2-(X)	V
+
+lugal	N
+si-ma-num2{ki}	NE
+za-ab-sza-li	NE
+
+nitah-be2-e-ne	N
+munus-be2-e-ne	N
+har{}-ra{}-an	N
+...	O
+X	O
+nitah-bi	N
+ki	N
+szag4-ga-na-sze3	N
+i3{}-du-u3{}	V
+
+mu	N
+masz-bu4	NE
+
+2(disz)	NU
+udu	N
+niga	V
+ki-a-nag	N
+li-bur-{d}szu-{d}suen	NE
+lukur	N
+lugal	N
+
+si	N
+sa2-e	V
+zu2	N
+kesze2	V
+ak-da	V
+erim2	N
+dug4-ga{}	V
+...	O
+X	O
+...-da	O
+ur-sag	N
+barag	N
+kug-ga	AJ
+tusz-a-ra	V
+{d}nin-gir2-su-ra	NE
+e2-ninnu-a	NE
+inim-bi	N
+ku4-ku4-da	V
+{d}szakkan2	NE
+szeg9-bar	N
+sukkal	N
+e2-dug3-ga	NE
+sag-an-ni	N
+en	N
+{d}nin-gir2-su-ra	NE
+me-ni-da	N
+mu-na-da-dib-e	V
+a	N
+kug-ge-da	V
+naga	N
+sikil-e-da	V
+i3	N
+bur	N
+babbar2-ra	AJ
+naga	N
+E2.NUN-na-da	V
+gisz-nu2	N
+u2	N
+za-gin3	N
+ba-ra-ga-na	V
+u3	N
+dug3	V
+ku4-ku4-da	V
+e2-nu2	N
+e2-dug3-ga-ni-a	NE
+bar-ra	N
+ku4-ku4-da	V
+szag4-ga	N
+nu-e3-e3-da	V
+{d}kinda-zid	NE
+lu2	N
+e2-dug3-ga-kam	NE
+en	N
+{d}nin-gir2-su-ra	NE
+me-ni-da	N
+mu-na-da-dib-e	V
+{gisz}gigir	N
+kug	AJ
+an	N
+mul-a	V
+erin2-na-da	V
+{ansze}dur9{ur3}-bi	N
+pirig-kasz4-e-pad3-da	NE
+ansze-ba	N
+sig10-ga-da	V
+ansze	N
+sig-a	V
+ansze	N
+eridug{ki}-ga14	NE
+{ansze}dur9-da	N
+E2	O
+KA	O
+kur-kur	N
+kur9	V
+di-da	V
+lugal-bi	N
+{d}nin-gir2-su	NE
+hul2-la	V
+tum2-mu-da	V
+lu2	N
+ug-gin7	N
+szeg12	N
+gi4-a	V
+mar-uru5-gin7	N
+zig3-ga	V
+maszkim	N
+da-ga	V
+{d}nin-gir2-su-ka	NE
+{d}en-szeg12-nun	NE
+sipad	N
+ansze-ka-ni	N
+en	N
+{d}nin-gir2-su-ra	NE
+me-ni-da	N
+mu-na-da-dib-e	V
+i3	N
+hi-a-da	V
+gara2(BI)	N
+hi-a-da	V
+ud5	N
+kug	AJ
+ud5	N
+ga	N
+nag	V
+masz2-lulim	N
+ama	N
+{d}nin-gir2-su-ka	NE
+i3	N
+ga-bi	N
+esz3	N
+e2-ninnu-a	NE
+
+lu2-{d}szul-x-gi	NE
+nu-banda3-gu4	N
+
+kur-ra	N
+kur	N
+na-an-na-dub-be2	V
+
+n	NU
+n(barig)	N
+1(ban2)	N
+gur	N
+ki	N
+ab-ba-kal-la	NE
+
+u2-gu-e	N
+mu-un-de5	V
+
+dumu	N
+ur-nigar	NE
+
+e-ne-e-ne-gin7	DET
+
+e2-duru5	N
+a-ka3-de3	NE
+
+3(disz)	NU
+lugal-szar2-ur3	NE
+
+1(disz)	NU
+{munus}asz2-gar3	N
+niga	V
+nin-MI	NE
+
+u3-na	V
+ba-ba-ra	AJ
+ud	N
+X	O
+...	O
+
+2(disz)	NU
+nin9-hi-li2-a	NE
+dumu	N
+nita2-dam	NE
+
+4(u)	NU
+{d}szul-gi-zi-kalam-ma	NE
+
+mu	N
+us2-sa	V
+KA-e3{ki}	NE
+ba-hul	V
+
+dumu-gu10	N
+na	N
+ga-de5	V
+na	N
+de5-gu10	V
+he2-dab5	V
+
+me	N
+nam-en-na	N
+ba-ab-...	O
+
+2(asz)	NU
+2(barig)	N
+2(ban2)	N
+gur	N
+ki	N
+{d}isz-bi-er3-ra-i-ni-ib-an-ni-im	NE
+{d}isz-bi-er3-ra-i3-ni-ib-an-ni-im	NE
+
+zu-gur8-am3	NE
+dumu	N
+zu-la-lum-ma	NE
+
+ib2-gid2	V
+
+gi-ni-la-a	NE
+
+a-ra2	N
+sig-ge	V
+...	O
+RU	O
+mu-e-ni-dug4	V
+
+titab	N
+{gi}kid-mah-a	N
+barag2-ga-zu	V
+
+iti6	N
+ag2	N
+giri17-zal	N
+mu-lu-gu10-ra	N
+
+u3-mu-un-e	N
+
+u5-munu4{muszen}	N
+...	O
+
+...	O
+{d}inana	NE
+za-a-kam	DET
+
+giri3	N
+ur-NE	NE
+lu2	N
+kin-gi4-a	N
+lugal	N
+
+e2-gal	N
+gibil	V
+na-mu-un-du3-a-ni	V
+nu-mu-un-hul2-hul2-la-ni	V
+
+giri3	N
+nin-uru11{ki}	NE
+
+muszen-e	N
+an-na	N
+dub3	N
+mu-un-bad-bad-de3{}	V
+
+...	O
+AB{}	O
+DU	O
+
+ma2	N
+{d}nin-hur-sag-ga2-nin-kunga2-AH{ki}	NE
+
+a-a	N
+{d}en-ki	NE
+lugal	N
+abzu-a	N
+za3-mi2-zu	N
+dug3-ga	V
+
+iri{ki}	N
+a-na-du3-a-ba	V
+
+kiszib3	N
+{d}ba-ba6-da-lu2	NE
+
+sza3-dingir	NE
+umma{ki}	NE
+
+1(u)	NU
+2(asz)	NU
+sze	N
+gur	N
+kiszib3	N
+lugal-gu7	NE
+
+ur-sag-me-en	N
+{d}nin-urta	NE
+na-nam	V
+ur-sag	N
+kur	N
+nu-e3	V
+
+ku3-bi	N
+...-ta	O
+
+{d}en-lil2-le	NE
+sag-zu	N
+mu-un-il2	V
+
+...	O
+X	O
+im{}-ma-an-zu{}	V
+...-ib-us2	V
+
+X	O
+...-si-si-in	V
+
+ninda	N
+he2-gal2-e	N
+{d}nin-kilim	N
+ib2-gu7	V
+
+gurusz-ra	N
+a-nir	N
+gal2	V
+i-si-isz	N
+la2-la2-a-ni	V
+szag4	N
+digir-ra-na	N
+u3-mu-un-na-hug	V
+
+X	O
+X	O
+X-ka	O
+im-ma-an-tusz	V
+...	O
+
+{tum9}mar-tu	N
+lu2	N
+til3-ba	V
+dirig-ga	V
+
+in-nin9	N
+lugal-e	N
+ha-ra-an-ur11-ru	V
+
+e2-gal	N
+ud	N
+1(DISZ)	NU
+ama	N
+tud-da-am3	V
+
+2(disz)	NU
+ur-{d}nin-ur4-ra	NE
+dumu	N
+{d}a-ba-{d}en-lil2-gin7	NE
+
+kig2(tug2)	N
+in-szi-gi4-in4-nam	V
+nu-ub-da-gur{}-ra{}-am3	V
+
+sza-dug4-ga-ta	AV
+zi-gu10	N
+mu-ri-de6	V
+zag-gu10	N
+mu-ri-us2	V
+
+muszen-du3-e	N
+a2	N
+la2-ta	V
+mu-ni-ib-tum2-tum2-mu	V
+
+su8-ba	N
+{d}dumu-zid-de3	NE
+nitalam-a-ni-ir	N
+gu3	N
+mu-na-de2-e	V
+
+ki	N
+{d}utu-ma-sum	NE
+
+e2	N
+umusz	N
+gar	V
+gesztug2	N
+dirig-zu	V
+gal2	V
+bi2-taka4	V
+
+ki-sikil-e	N
+bar	N
+szesz-a-na-ka	N
+
+X	O
+(X)	O
+uru2{}	N
+szesz-gu10	N
+nu-un-til3	V
+LA	O
+MA-ta	O
+bi2-in-da-kud-de3	V
+
+inim	N
+X	O
+an-na-ka{}	NE
+{d}nanna	NE
+si-un3-na	N
+sag-ki	N
+ba-da-ni-in-gid2	V
+
+...	O
+KA-bi	O
+ba-an-na-te	V
+
+kiszib-gal2	N
+an	N
+ki-bi-da-me-en	N
+
+zi	N
+kalam-ma	N
+szum2-mu	V
+
+1(disz)	NU
+gukkal	N
+siskur2	N
+ma2	N
+{d}nin-tu-ka	NE
+
+szeg9-bar{}	N
+{gisz}{}asal2	N
+(X)	O
+
+pap-zu	N
+en	N
+ab	N
+kug-ga	AJ
+dar{muszen}	N
+
+gal	V
+nigir	N
+sila	N
+ur3-ra	N
+
+{na4}szuba	N
+ur11-ru	V
+{na4}szuba	N
+ur11-ru	V
+a-ba-a	DET
+mu-na-ur11-ru	V
+
+sipad	N
+szu-nim-ma	AJ
+engar	N
+szu-nim-ma	AJ
+
+zah3	V
+lu-ba	NE
+
+sipad-bi	N
+e2-gal-la	N
+ni2-te-na	DET
+lu2-erim2-e	N
+dab5-be2-de3	V
+
+a-szag4-ga-ni	N
+...	O
+
+...	O
+X	O
+lu2-ga	N
+mu-e-szi-du	V
+
+ki	N
+ur-dub-szen-ka	NE
+nin-ta	N
+
+u3	CNJ
+{d}nesag2	NE
+
+giri3	N
+sag-{d}ba-ba6-tuku	NE
+
+dub3-sa-za	N
+pu2	N
+ba-e-ni-ba-al	V
+
+nig2-erim2-e	N
+ki	N
+la-ba-ra-ag2-ga2-am3	V
+
+mu-gu10	N
+um-ta-ga2-ar	V
+mu-ni	N
+ASZ-sze3	O
+ba-ni-ib-X	V
+
+iti6	N
+X	O
+{d}i-bi2-{d}suen-gu10	NE
+X	O
+X	O
+X	O
+X	O
+mu-un-...	O
+
+ki	N
+ab-zu-{d}inanna	NE
+
+ki	N
+e3-de3-bi	NE
+
+dug4-ga	V
+esz-bar	N
+ki-bi-sze3	N
+gar	V
+nam	N
+tar-re	V
+gal-zu	AJ
+
+ki	N
+gir2-gal	NE
+
+1/2(disz)	NU
+kal-la-ma-ad	NE
+
+szuku	N
+lugal-sza3	NE
+
+4(asz)	NU
+3(barig)	N
+3(ban2)	N
+5(disz)	NU
+sila3	N
+gig	N
+gur	N
+
+i7	N
+gibil	V
+i7-nidba2-du	NE
+
+lu2	N
+a	N
+de2-a	V
+ka-bi	N
+nu-ba-e	V
+
+lugal:ma2-gur8-re	NE
+
+1(disz)	NU
+ki-ra-num2	NE
+
+ki	N
+bu-szu-dingir	NE
+
+ki-en-gi	NE
+ki-uri	NE
+nigin2-na-a-ba	V
+
+ugula	N
+da-du	NE
+
+ur-mah-e	N
+lu2	N
+kiszib	N
+sag3-ge-da	V
+in-sig10-ma	V
+
+...	O
+da-bi-a	N
+ba-an-zu	V
+
+ninda	N
+mah	V
+am3-mi-ni-dug3	V
+e2-kur	NE
+hul2-la-am3	V
+
+hul3	N
+la2	V
+{gisz}igi-tab-ba-ni-me-en	N
+
+am-e	N
+{gisz}apin-na	N
+du8-du8-u3	V
+
+{d}en-lil2-ra	NE
+kur	N
+ni2-ba	DET
+mu-na-il2-il2-i	V
+
+udu	N
+en	N
+zid-de3	AJ
+szu-a	N
+la2-a-da	V
+
+szum2-ma-ab	V
+lugal-la{}-kam	N
+...	O
+
+lugal	N
+ma2	N
+na-mu-u5	V
+
+ur-ab-sag10	NE
+
+{id2}idigna	NE
+ka-ba	N
+mu-un-zur-re	V
+a-gar3-re	N
+nu-si-si	V
+
+1(gesz2)	NU
+5(u)	NU
+1(asz)	NU
+2(barig)	N
+giri3	N
+szesz-ki-lu5-la	NE
+
+ha-ma-zu	NE
+hul-a-ta	V
+aratta{ki}-asz	NE
+bal-a	V
+
+en	N
+gal	V
+pa	N
+e3-a	V
+mah-a-ni	V
+zag	N
+nu-sa2	V
+
+X	O
+szah2	N
+...	O
+
+...	O
+X	O
+ur	N
+gal-la	V
+...	O
+
+lugal	N
+abzu-a	N
+kur9-ra-ni	V
+ud	N
+he2-gal2-am3	N
+gi6	N
+giri17-zal-am3	N
+
+nig2-dab5-ba-ke4-ne	NE
+
+ki-{d}suen	NE
+
+{d}nigir-sig7	NE
+ensi2	N
+{gisz}ma2-gur8-ra-ke4	N
+
+me-lem4	N
+dagal-sze3	V
+dul-la	V
+...	O
+
+ki	N
+dingir-dingir-su	NE
+
+lu2-{d}ba-ni-ba	NE
+
+esztub{ku6}	N
+gi-zi	N
+di4-di4-la2	V
+kun	N
+mu-na-sud-e	V
+
+zi-zu	N
+he2-eb-UD-dug3	V
+
+ebih{ki}	NE
+ka	N
+tar-gu10	V
+he2-si-il-le	V
+me-tesz2	N
+hu-mu-i-i	V
+
+e-sir2	N
+gun3-a	V
+dib-ba-gu10-ne	V
+
+guru7	N
+{d}nansze-gar-ra	NE
+
+edimx(EDIN)-ma	N
+ezen-gin7	N
+du3-a-ba	V
+giri3	N
+
+di	N
+ni2-ga2	DET
+nu-mu-un-til	V
+di	N
+kur2	V
+di-gu10-gin7	N
+igi-ga2	N
+mu-un-nigin2	V
+
+engar-ra	N
+ga-ar3	N
+gal-gal-gu10	V
+ga-mu-na-szi-ib-szum2	V
+...	O
+
+er3-da-da	NE
+
+X	O
+BA	O
+X	O
+LI	O
+X	O
+X	O
+X	O
+pa	N
+mu-na-an-e3{}	V
+
+mu	N
+us2-sa	V
+si-mu-ur4-um{ki}	NE
+ba-hul	V
+
+{d}en-lil2	NE
+nig2-dug4-ga-ni	N
+ba-en-de3-kur2	V
+
+1(asz)	NU
+1(barig)	N
+nin-un-da	NE
+
+2(barig)	N
+3(ban2)	N
+a-na-ha	NE
+
+har-ra-an	N
+kug	AJ
+an-na-ka-sze3	NE
+he2-ni-e3	V
+buru3-da-bi	V
+ha-ba-zu	V
+
+mu	N
+isz-me-{d}nin-tu	NE
+
+1(u)	NU
+sze	N
+gur	N
+
+ur-lum-ma-da	NE
+
+lum-ma-zu-ne	V
+lam-ma-zu-ne	V
+
+kur-sze3	N
+ma2	N
+X	O
+...	O
+X	O
+UM{}	O
+...	O
+
+3(disz)	NU
+{gi}kaskal	N
+
+ki	N
+nin-mu-ku3-mu	NE
+
+kiszib3	N
+za-an-gi4	NE
+dumu	N
+x-...	O
+
+1(disz)	NU
+sila4	N
+nin-iri-da	NE
+
+2	NU
+sze	N
+gur-ta-am3	N
+kug-babbar	N
+1	NU
+gig4-e	N
+bi2-in-sa10-sa10-e	V
+
+kiszib3	N
+lugal-buru14	NE
+
+{d}utu	NE
+kur-sze3	N
+i-in-ku4-ku4-de3-en	V
+he2-me-en	V
+a2-tah-gu10	N
+
+szag4-ba	N
+hu-ri2-in{muszen}-e	N
+dub3	N
+mu-un-bad-ba9-re6	V
+
+i3-si-in{ki}	NE
+iri	N
+nam-lugal-la-ka	N
+
+u3	CNJ
+a-sza3	N
+ab-lu-na	NE
+
+ki-tusz-bi-ta	N
+sar-bi2-ib	V
+
+...	O
+X	O
+di4-di4-la2-zu-ne	V
+za-e	DET
+ma-ra-an-du8-e	V
+
+nam-a-ni	N
+gal-le-esz	V
+tar-re-en-ze2-en	V
+ka	N
+kug-za	AJ
+X	O
+...	O
+
+a-ha-am-wa-qar	NE
+
+JISZ.SZESZ{ku6}	N
+digir	N
+suhur-masz2{ku6}-a-ke4	N
+
+ur-ga2-da	NE
+sukkal	N
+
+a-sza3	N
+u-bar-esz18-dar	NE
+
+mu	N
+gu-ab-ba{ki}	NE
+ba-hul	V
+
+szeg12	N
+e2-kur-ra-ke4	NE
+me	N
+am3-hur	V
+
+szag4	N
+sag3	V
+gu5-li-ne-ne-ta	N
+
+lu2	N
+3	NU
+du	V
+tesz2-e	N
+ba-ni-ib-gu7	V
+
+ki	N
+{d}en-ki-BAD3@s	NE
+
+an-sze3	N
+idim	V
+gal	V
+an-ne2	N
+us2-sa	V
+
+2(barig)	N
+3(ban2)	N
+iri-mah	NE
+
+ze2-mu-ug	N
+X	O
+X	O
+BA	O
+X	O
+...	O
+
+siki-ur2	N
+siki-pa	N
+dub-dub-ba-ni	V
+i3	N
+li	AJ
+he2-en-na-an-su3	V
+
+nig2	N
+ka-ge	N
+dib-ba	V
+
+X	O
+X	O
+nam-kalag{}	N
+kug-kug-ga-zu	AJ
+dug3-ge{}-esz2	V
+ga-an-pad3-pad3	V
+
+kun-zi-da	N
+i7	N
+i7-KU-...	NE
+gub-ba	V
+
+{id2}kesze2-kug	NE
+a-ba-a	DET
+mu-un-ba-al-e	V
+id2	N
+a-ba-a	DET
+mu-un-ba-al-e	V
+
+ki	N
+lugal-a-mu	NE
+
+en	N
+{d}ig-alim-ma-ke4	NE
+gidru-bi	N
+hu-mu-gal2	V
+me-tesz2-bi	N
+
+2(disz)	NU
+esz-am3	NE
+
+usu	N
+digir-ga2	N
+ni2-ga2	DET
+ba-til	V
+
+ki	N
+nu-x-u3-li2	NE
+
+ki	N
+i3-li2-ma-zu	NE
+dumu	N
+i3-li2-mah-ri2	NE
+
+lu2	N
+a2	N
+zig3-ga-bi-ir	V
+{d}nanna	NE
+di	N
+he2-en-e	V
+
+esz3-e	N
+abzu-a	NE
+ul	V
+im-ma-ni-in-de6	V
+
+digir-gu10	N
+{d}{}en{}-ki{}	NE
+en	N
+{d}{}nu-dim2-mud-e	NE
+
+a-a	N
+{d}en-lil2	NE
+u8	N
+{d}ezina2-bi-da-ke4	NE
+
+1(asz)	NU
+gur	N
+ga-lu5	NE
+
+dingir-ug3	NE
+
+...	O
+5(ban2)	N
+ziz2	N
+i3-li2-{d}lamma	NE
+
+{d}dumu-zid-de3	NE
+X	O
+X	O
+X	O
+
+...	O
+X	O
+X	O
+bi2{}-in-...	O
+X	O
+
+{d}nin-nibru{ki}	NE
+dumu	N
+ki	N
+ag2	V
+an-na-ka	NE
+
+lu2-erim2	N
+bar	N
+tab-ba	V
+sag	N
+kur-ra	N
+
+gug-a-ni	N
+gug	N
+ur	N
+tur-ra-ke4	V
+lu2	N
+har-ra-an	N
+gig-ga-ke4	V
+
+ki	N
+ARAD2-hu-la	NE
+
+id2	N
+dun-ne-de3	V
+
+ki-bi-sze3	N
+bi2-in-gi4-gi4	V
+
+{d}ensi2-mah	NE
+
+ki	N
+zi3-KA	NE
+
+sizkur2	N
+gal-gal	V
+hu-mu-un-...-e	O
+
+kiszib3	N
+ib-ni-{d}iszkur	NE
+
+a-hu-tum	NE
+
+X	O
+an-ne-esz	N
+lu2	N
+kalag-ga-zu-ne-ne-a	V
+geszpu2-sze3	N
+he2-en-ma-an-zi-zi-zi-e-sze	V
+
+giri3	N
+|PU3.SZA|-ku-ku	NE
+sukkal	N
+
+i3-li2-du10	NE
+
+dub3-tuku-bi-ir	N
+sa-tur-la2	N
+u3-mu-na-ab-X	O
+
+aga-zu	N
+{d}utu-gin7	NE
+...	O
+he2-...	O
+
+gisz	N
+ba-gur4	V
+kusz-bi	N
+nu-mu-un-da-dar	V
+
+1(ban2)	N
+kasz	N
+1(ban2)	N
+...	O
+
+lu2-u3	N
+lu2-ra	N
+dili	AJ
+a-na	DET
+na-an-tah	V
+
+i-gi-ib-li-me	NE
+nu-banda3	N
+
+{gisz}tir	N
+ha-szu-ur2-ra	N
+gissu	N
+dagal-la	V
+ne3-ni-ta	N
+nir-gal2	AJ
+
+...	O
+X	O
+MU	O
+
+ki	N
+an-ne2-ba-du2	NE
+
+{gisz}za3-mi2	N
+{gisz}al-gar	N
+balag	N
+sur9-za	N
+
+a-sza3	N
+bar-rim4(DU)-gu-la	NE
+
+gib	N
+gu2-nida	N
+gu2	N
+tur	V
+gu2	N
+gal-bi	V
+gi-gur	N
+dub-e	V
+dab5-ba	V
+
+ku6	N
+gal-gal	V
+tesz2-bi	N
+NI	O
+KA	O
+DA	O
+ma2	N
+an-na	N
+im-ma-ni-in-dab5-be2-ne	V
+
+2(asz)	NU
+4(barig)	N
+3(ban2)	N
+gur	N
+ki	N
+igi-szu-szu	NE
+
+ur-bad3-dur2-ra	NE
+
+a-sza3	N
+igi-e2-duru5-{d}na-ru2-a	NE
+
+ki	N
+szi-ma-at-e2-kur	NE
+
+ki	N
+bu3-ul-ma	NE
+
+tukum-bi	CNJ
+lugal-gu10	N
+ugnim-ma	N
+tusz-u3-bi	V
+ab-be2	V
+
+gisz	N
+mah	V
+ki	N
+u6	N
+di-sze3	V
+he2-ni-lah4	V
+
+inim	N
+bi2-in-dug4	V
+{gisz}szinig	N
+szesz-bi-X	N
+
+sze	N
+gurx(|SZE.KIN|)-a	V
+zar3	N
+tab-ba	V
+ki-su7	N
+gub-ba	V
+a-sza3	N
+ku-da-ti	NE
+
+1(barig)	N
+2(ban2)	N
+sze	N
+ur5-ra	N
+kiszib3	N
+dingir-su-ra-bi2	NE
+
+X	O
+X	O
+X	O
+X	O
+an	N
+sikil-la	V
+hi-li	N
+X	O
+...	O
+
+{d}en-ki-ke4	NE
+nu-{gisz}kiri6-...	N
+
+bi-in-dug4	V
+nam-gu10	N
+li-bi2-in-dug4	V
+nam-gu10	N
+
+sze-er-zid	N
+ed2-de3	V
+zag	N
+kesze2-de3-de3	V
+
+{d}nuska	NE
+kur	N
+gal	V
+{d}en-lil2-le	NE
+me-ni-sze3	N
+mu-un-pad3-de3-en	V
+
+su-zu	N
+ha-ra-dug3	V
+
+ud	N
+6-bi	NU
+itid	N
+6-bi	NU
+na-nam	V
+
+ki	N
+|PU3.SZA|-isz-{d}er3	NE
+
+giri3-ni	N
+gakkul	N
+zabar-ra	N
+im-ma-an-szu2-szu2	V
+
+ki	N
+be-la-at-dar-ra-ba-an	NE
+
+ur-sa6-...	NE
+
+dumu	N
+bi-ik-ki-nu-um	NE
+
+{d}suen-e	NE
+a-u3-a	N
+...	O
+
+{d}lugal-szubur{ki}	NE
+men	N
+edin-na	N
+nam-lugal-la	N
+sag-ga2	N
+hu-mu-ra-an-gal2	V
+
+u3	CNJ
+a-sza3	N
+gu2-banda3{da}	NE
+
+tur-tur-ra{}	V
+SA{}	O
+A2{}	O
+E	O
+X	O
+...	O
+
+en-ki-du10	NE
+ed3-de3	V
+i3-gi4	V
+kur-re	N
+im-ma-an-dab5	V
+
+ensi2	N
+i3-na-ab{ki}-a	NE
+tigi-szem5-{kusz}a2-la2-a	NE
+
+nig2-dab5	N
+dug	N
+tu7	N
+ki	N
+ag-ga	NE
+
+sze	N
+ma2-a	N
+si-ga	V
+
+da-szu-ug	NE
+
+u4	N
+3(disz)-kam	NU
+
+e2-gal-mah-ni-sze3	NE
+ul-la	V
+mi-ni-in-tum3	V
+
+ur-mah-e	N
+gu3	N
+u3-mu-un-ra-ra	V
+
+e2-duru5	N
+kak-mi{ki}	NE
+
+dug4-ga-dug4-ga	V
+szag4	N
+lu2-ulu3-kam	N
+gal2-la	V
+
+kiszib3	N
+a-ba-la-du	NE
+dumu	N
+a-ba-{d}en-lil2	NE
+
+aga	N
+nam-lugal-la2-zu-u3	N
+dalla	V
+he2-em-e3	V
+
+...	O
+GAN2	N
+5(asz)	NU
+gur	N
+
+2(barig)	N
+3(ban2)	N
+{d}mah-i3-zu	NE
+
+nig2-dab5	N
+{d}al-la-tum	NE
+
+i-szar-{d}szul-gi	NE
+sukkal	N
+diri	V
+dam-gar3	N
+sa-gaz-ak-sze3	NE
+gen-na	V
+
+PA	N
+{d}ba-ba6-ki-sza-tum	NE
+
+i3	N
+szar2-szar2-re	V
+ku6	N
+muszen	N
+u3-tud	V
+urud	N
+kug-sig17	N
+ib2-gal2-le	V
+
+kiszib3	N
+lugal-e2-da	NE
+
+...	O
+ba-usz2	V
+
+ga-e-re7-de3-en	V
+{gisz}haszhur	N
+gul-la	V
+edin	N
+kul-aba4{ki}-sze3	NE
+ga-an-szi-re7-en-de3-en	V
+
+har-ra-an-kalag	N
+igi-hur-sag-ga2	NE
+...	O
+...	O
+
+me	N
+an	N
+ki	N
+sag	N
+kesze2-bi-sze3	V
+ma-ra-an-sig10	V
+nun-bi-sze3	N
+mu-un-il2-en	V
+
+sag-ki	N
+mu-un-da-an-guru5-usz	V
+zu2	N
+mu-un-da-zalag-zalag	V
+
+ki	N
+zi-bi2-ri	NE
+
+{gi}lam-sa2-a-ni	N
+kug-me	N
+kug-sig17	N
+
+...	O
+1(asz)	NU
+2(ban2)	N
+5(disz)	NU
+sila3	N
+giri3-{d}nin-szubur	NE
+
+{dug}szakir3	N
+kug-ga-a	AJ
+TUN3-bi	N
+ba-ra-ba9-re6	V
+
+szibir	N
+ug3	N
+lu-a	V
+hu-mu-ra-ab-dab5	V
+
+sipad	N
+ki-bal-ba	N
+gesztug2-ga-na	N
+im-ma-ni-ib-dab5-be2	V
+
+sze-gar	N
+nig2	N
+gu2	N
+KUR{}	O
+SZA	O
+TA	O
+...	O
+
+ug3-ba	N
+buru14-ba	N
+he2-ak-e-de3	V
+
+3(u)	NU
+5(disz)	NU
+u8	N
+1(gesz2)	NU
+1(u)	NU
+1(disz)	NU
+udu	N
+
+a-a-na-tum	NE
+
+ul-la	N
+ga-gen	V
+sipad-tur-ra-kam	N
+
+mu	N
+ma-at-ti-i3-li2	NE
+
+ki	N
+zi-sza-ki-ri-...	NE
+
+2(asz)	NU
+2(barig)	N
+ba-ha-an-sze-er	NE
+
+kiszib3	N
+a-ga-zu-igi-ka	NE
+
+si	N
+sa2-bi	V
+sza-ra-da-a-de6	V
+
+sze	N
+sag10-tur	NE
+mu-kux(DU)	N
+
+MU{}	O
+...	O
+
+ki	N
+igi-lam-lam	NE
+
+{d}gesz-bar-e3-i3-sa6	NE
+
+lu2	N
+izi	N
+la2	V
+igi	N
+bi2-du8-am3	V
+igi	N
+nu-mu-ni-du8-am3	V
+
+2(asz)	NU
+gab2-us2-a	NE
+
+sa6-du3-a	NE
+
+1(disz)	NU
+ur-nigar-ka	NE
+
+zag	N
+mi-ni-in-gar-re-esz	V
+
+ki	N
+ur-x-x-da	NE
+dumu	N
+ur-x-x-in	NE
+
+dumu	N
+ugu2-du6	NE
+
+3(asz)	NU
+du	V
+ba-al-li2	NE
+
+...	O
+3(ban2)	N
+5(disz)	NU
+sila3	N
+i3-li2-szi-na-at	NE
+
+dumu	N
+ur-sag3-ga	NE
+
+3(disz)	NU
+pu2-ta-pa3-da-am3-ni	NE
+
+lugal-ku3-zu	NE
+
+dumu	N
+a-ba-na-da	NE
+szusz3	N
+
+ur-ba-gara2	NE
+elam	NE
+
+ki	N
+dub-e2	NE
+
+{d}suen-e	NE
+iri	N
+ama-na-sze3	N
+
+mu	N
+lugal-{d}anzu{muszen}	NE
+
+mu	N
+us2-sa	V
+an-sa-an{ki}	NE
+ba-hul	V
+
+habrud-da-ni	N
+nu-mu-da-an-ku4-ku4	V
+
+me3	N
+gisz	N
+gisz-e	N
+la2-a-ba	V
+{d}utu	NE
+ga2-a-ar	DET
+ma-an-e3	V
+
+i7	N
+{d}szu-{d}suen-he2-gal2	NE
+
+ki	N
+AN-ERIM-he2-zu	NE
+
+u4	N
+3(disz)-sze3	NU
+ma2	N
+su3	V
+gid2-da	V
+diri-ga	V
+
+hur-sag	N
+ki-za	N
+kur	N
+sag-ki-za	N
+ba-e-de3-gid2-de3-en	V
+{d}ezina2	NE
+nig2-gig-bi	N
+
+1(u)	NU
+9(disz)	NU
+sar	N
+6(disz)	NU
+gin2	N
+kab2-ku5	N
+me-en-kar2-a2-ansze-du	NE
+
+ha-lu5-lu5	NE
+sukkal	N
+gaba-asz	N
+
+nin9	N
+e5-gu10	AJ
+kug	AJ
+{d}inana-ke4	NE
+
+a-gar3	N
+gal-gal-ta	V
+a	N
+nam-ta-an-gar	V
+
+kug	AJ
+{d}nin-isin2{si}-na	NE
+X	O
+X	O
+X	O
+X	O
+X	O
+X	O
+X-e	O
+
+2(ban2)	N
+5(disz)	NU
+gin2	N
+ze2-za-ni	NE
+
+a-hu-ba-du11-ga	NE
+
+nam-lu2-ulu3-gu10	N
+ha-lam-ma-bi-a	V
+ga-ba-ni-ib-...	O
+
+AN	O
+X-bi	O
+gur	V
+ab-ba-sze3{ab-ba-gu10}	N
+sa2{}-dug4	N
+szu	N
+ha-ra-an-il2	V
+
+1(disz)	NU
+KA-lu5	NE
+
+igi	N
+du8	V
+lu2-inim-ma-be2-e-ne	N
+
+...	O
+4(ban2)	N
+sze-ba	N
+a-bu-tum	NE
+
+ki	N
+bur-du8-a	NE
+
+gab2-us2-sa	NE
+i3-dab5	V
+
+{d}en-ki-ke4	NE
+e2-bi-sze3	N
+e2	N
+nu-me-a	V
+ba-an-na-dug4	V
+
+lugal-lu-BU	NE
+
+ul{}-ta	N
+nu-gal2-la-am3	V
+
+a-sza3	N
+tir-pa-bil3-la	NE
+
+su8-ba-de3	N
+ba-ra-mu-tuku-tuku-un	V
+
+X	O
+X-ni-in-tu-ud-X-ud	V
+
+sze	N
+gurx(|SZE.KIN|)-a	V
+zar3	N
+tab-ba	V
+ki-su7	N
+gub-ba	V
+a-sza3	N
+i-szu-NE	NE
+
+u4	N
+1(u)	NU
+2(disz)	NU
+x-kam	NU
+
+sukkal	N
+nig2	N
+nu-ha-lam-e	V
+nin	N
+ki	N
+ur5	N
+sag9	V
+...	O
+
+2(asz)	NU
+du	V
+lugal-a-i3-sa6	NE
+
+i7	N
+gibil	V
+idigna	NE
+
+ud	N
+8-bi	NU
+itid	N
+8-bi	NU
+na-nam	V
+
+lugal-bi	N
+ki-giri3-gen-na	N
+he2-du	V
+inim-ma-ni	N
+al-ze2-er	V
+
+nun	N
+he2-me-en	V
+e-ne	DET
+ba-e-...	O
+
+e2-gal	N
+lugal-la-ka	N
+un-kur9	V
+kasz	N
+i-im-na8-na8	V
+...	O
+u3-mu-un-gar	V
+im-X	V
+
+lugal	N
+kalag-ga	V
+{d}nanna-a-me-en	NE
+
+4(barig)	N
+lugal-{gesz}gigir	NE
+
+X	O
+(X)-a-ni	O
+IM.UD	N
+sir2-da-gin7	V
+gal-bi	V
+im-szi-DU	V
+
+1(barig)	N
+2(ban2)	N
+sze	N
+ur5-ra	N
+kiszib3	N
+ga-a-me	NE
+
+mu	N
+hu-uh2-nu-ri{ki}	NE
+ba-hul	V
+
+3(u)	NU
+i3-dub	N
+a-sza3	N
+{d}nin-gir2-su	NE
+nin-ig-KA	NE
+{d}nansze-ta	NE
+
+ki	N
+lu2-iri-ki	NE
+
+giri3	N
+nin-ge6-par4	NE
+
+nin9-zu	N
+nam-dam-sze3	N
+ba-an-tuku-a	V
+
+abgal-zu	N
+siki	N
+bar-ra	N
+bi2-in-du8	V
+
+a-lu	N
+za-da	DET
+a-lu	N
+DU.DU	O
+
+1(disz)	NU
+id-gur2	N
+i3	N
+ur-e2-nar	NE
+
+...-ra-ba	O
+gisz	N
+mu-un-szi-ib-la2-e-ne	V
+
+sun5-na	V
+giri17	N
+szu	N
+gal2-la	V
+igi	N
+zid	AJ
+mu-szi-in-bar	V
+
+1(disz)	NU
+ga-ra-du	NE
+
+inim	N
+{d}gilgamesz2	NE
+szag4	N
+bi2-in-dab5	V
+
+mar-tu	NE
+lu2	N
+sze	N
+nu-zu	V
+hu-mu-zig3	V
+
+lu2	N
+ma2-addir	N
+
+X	O
+X	O
+A	O
+mi2	N
+im-ma-ni-in-dug4	V
+
+2(disz)	NU
+udu	N
+niga	V
+{d}nin-gubalag	NE
+
+i7	N
+ki-gam-ma-ka	NE
+
+3(disz)	NU
+masz2-gal	N
+
+{d}suen-e	NE
+en	N
+zu	V
+mah	V
+an	N
+ki	N
+aga-zu	N
+aga	N
+mah-am3	V
+
+3(asz)	NU
+ur-{d}ba-AN-x	NE
+
+zi-sza{ki}	NE
+u3	CNJ
+nibru{ki}-ta	NE
+gen-na	V
+
+e2-duru5	N
+erim2-gi-gi-gi{ki}	NE
+
+4(barig)	N
+ki	N
+{d}lamma-re-ba-zi	NE
+...-ta	O
+
+X	O
+lu2	N
+gi-gur-da	N
+X	O
+DU	O
+X	O
+
+a{}-a	N
+ma2-gan-an-na{ki}-ta	NE
+PI{}	O
+{d}nin-i3-si-na{ki}	NE
+TU-TU-ta	N
+
+...	O
+bi2-ib2-ed3-de3	V
+
+sag	N
+gig2	V
+dur2-ru-na-bi	V
+nam-sipad-bi	N
+he2-ak-e	V
+
+nam-lu2-ulu3	N
+nig2	N
+a-na	DET
+mu	N
+sa4-a-ba	V
+
+ubur2	N
+kug-ga-na	AJ
+mi2	N
+mu-na-ni-in-dug4	V
+
+pu-us2{ki}	NE
+u3	CNJ
+nibru{ki}-ta	NE
+gen-na	V
+
+ha-zi-in	N
+nagga	N
+mu-na-ni-in-dim2	V
+
+gidru-ni	N
+barag	N
+nam-lugal-la-ta	N
+ba-ra-ba-ta-ed3-de3	V
+
+...	O
+GAN2	N
+4(asz)	NU
+
+ki	N
+be-li2-sag	NE
+
+{gisz}eszgiri2	N
+mah	V
+an-na	N
+sag	N
+il2-la	V
+u6	N
+di	V
+ki	N
+us2-sa	V
+
+a-sza3	N
+musz-bi-an-na	NE
+
+dumu	N
+sza3-ba-na	NE
+
+{gisz}ma2	N
+ni2-bi	DET
+nam-du8	V
+esz2	N
+ni2-bi	DET
+nam-dab5	V
+
+i-bi2-ni	N
+ma-an-hur	V
+giri17-ni	N
+ma-an-hur	V
+
+e2-na	N
+al-dub2-dub2-e	V
+gal2-u3	V
+gal2-u3	V
+
+X	O
+X	O
+ud-de3	N
+sag	N
+ba-ab-gi4	V
+itid	N
+e2-ba	N
+ba-an-kur9	V
+
+gidru	N
+szum2-szum2	V
+aga3	N
+zid	AJ
+hal-ha	V
+mu	N
+mah-bi	V
+sa4-sa4	V
+
+mu	N
+wa-ru	NE
+
+ama-bara2-ge	NE
+
+lugal-zi-sza3-gal2	NE
+
+nam-mah	NE
+
+4(u)	NU
+a-sig7-tur	NE
+
+e2{}	N
+ki-nu2-a	N
+lal3	N
+hab2	V
+dug4-ga-ba	V
+
+{d}en-lil2-le	NE
+szu-za	N
+ma-ra-ni-in-ge-en	V
+
+...	O
+X-an	O
+
+1(gesz2)	NU
+2(u)	NU
+geme2	N
+x	O
+
+udu	N
+kur-ra	N
+ga-an-dug4	V
+amasz-ba	N
+ga-am3-mi-ib-si	V
+
+udu-gin7	N
+ka	N
+u2	N
+gu7-gu10	V
+mu-e-pad3	V
+naga	N
+dub2-ba	V
+i-ni-bad	V
+
+szag4	N
+{gi}gakkul-am3	N
+szag4-me	N
+na-nam	V
+
+{d}urasz-a	NE
+dub3	N
+kug-ga	AJ
+bulug3-ga2	V
+
+ga2-ga2-dam	V
+
+ag2	N
+munus-e-ne	N
+mu	N
+dug4	V
+nu-zu-gen	V
+
+kug	AJ
+{d}inana-ke4	NE
+u3	N
+nu-um-szi-ku-ku	V
+
+3(disz)	NU
+tug2	N
+lu2-{d}nin-ur4-ra	NE
+engar	N
+
+lu2-{d}nig2-zu	NE
+
+...	O
+X	O
+UL	O
+nun	N
+...	O
+X-am3	O
+
+du-lum	N
+ud-bi-ta-gu10	N
+
+4(disz)	NU
+ka-ri-lu2-bi	NE
+a-ri-a	N
+{d}gi-bil	NE
+dumu	N
+x-ma	NE
+
+3(gesz2)	NU
+masz2	N
+
+esz3	N
+gal	V
+eridug{ki}	NE
+abzu	NE
+e2-nun	NE
+ha-ma-du3-e	V
+
+kaskal-kaskal-e	N
+kaskal	N
+ba-an-tah	V
+
+a-na-am3	DET
+ki-sze-er	N
+ba-ab-gar	V
+...	O
+
+im-hul-im-hul-da	N
+im-da-kusz2-u3-de3-en	V
+
+mu	N
+in-ta-e3-a-ka	NE
+{d}inanna	NE
+ba-hun	V
+
+kun4-sa-tu	NE
+en	N
+gal	V
+{d}nu-musz-da-ke4	NE
+
+a	N
+bar-bar-ta	N
+KASZ4	O
+im-sar-sar-re	V
+
+nig2-szum-ma	N
+utul2	N
+gal-la	V
+u3-um-de6	V
+
+abula	N
+{d}utu	NE
+szu4-gin7	V
+iri	N
+X	O
+im-da-sub2-X-esz2	V
+
+an	NE
+musz3{}-am3	N
+X	O
+la-ba-e-gub	V
+ud-bi	N
+la-ba-ni-ib-si	V
+
+giri3	N
+lu2-la2-a	NE
+
+an-dingir-su	NE
+
+u2-du-{d}nin-a-ra-li	NE
+
+a	N
+bal-bal-am3	V
+zid2	N
+dub-dub-ba-am3	V
+
+e2	N
+x-ke4-ne	NE
+
+{d}nanna	NE
+u6	N
+zid-de3-esz	AJ
+mu-un-e3	V
+
+{gisz}tukul	N
+kalag-ga	V
+kur-kur	N
+gam-gam-e	V
+
+4(disz)	NU
+{gesz}pesz3	N
+sze-er-gu	N
+ku3-bi	N
+igi-4(disz)-gal2	NU
+3(disz)	NU
+sze	N
+
+a-mur-dingir	NE
+ra2-gaba	N
+maszkim	N
+
+nam-lugal-zu	N
+an	N
+ki-gin7	N
+he2-ge-en	V
+
+u3	N
+igi{gi}-zi-ne-en-ne	N
+mu-un-da-re-esz-sze	V
+...	O
+
+giri3	N
+si4-ma-a-bu3	NE
+sukkal	N
+
+ga-ra-an	N
+he2-me-du	V
+gu2	N
+me-er-me-er-re-da	V
+gu2	N
+me-er-me-re-de3	V
+du7	V
+ama-gu10	N
+{dug}szagan	N
+nunuz	N
+ga-nu11{muszen}	N
+i3	N
+sag	N
+szim	N
+szag4-bi	N
+dirig	V
+szag4	N
+bi2-si	V
+
+{d}mes-lam-tesz2	NE
+
+u4	N
+2(u)	NU
+4(disz)-kam	NU
+
+...	O
+gal-la-a	V
+me-zu	N
+me{}-a	N
+dirig	V
+a-ra2-zu	N
+nig2	N
+galam-ma-am3	V
+X	O
+nam-kal	N
+kur	N
+ki	N
+su3-ra2-sze3{}	V
+sipad	N
+zid-bi	AJ
+za-e{}-me-en	DET
+
+sza3	N
+e2	N
+i-in-ta-e3-a	NE
+ra2-gaba	N
+
+{id2}idigna	NE
+a	N
+zal-le	V
+im-ma-an-si	V
+
+gurusz-bi	N
+4(disz)	NU
+u4	N
+1(disz)-sze3	NU
+
+in-nin	N
+za-e	DET
+mah-me-en	V
+za-e	DET
+gur4-ra-me-en	V
+
+ki	N
+nin9-dingir	NE
+
+sipad	N
+he2-em-ta-ed3-de3-e-en	V
+
+{gisz}ma2	N
+nig2-gen6-na	N
+ni2	N
+ba-ab-dirig	V
+{d}utu	NE
+kar	N
+gen6-na	V
+mu-un-na-szi-kig2-kig2	V
+
+ur-ab-ba-gi-na	NE
+
+1(asz)	NU
+saga	V
+2(asz)	NU
+du	V
+nin-mi2-zi	NE
+
+dumu	N
+am3-ma-ni	NE
+
+ugula	N
+ka-sa3-bum2-ma-ka	NE
+
+za-e	DET
+HUB{}	O
+X	O
+X	O
+ba-ni-ib-gu7{}-e-en	V
+...	O
+
+...	O
+{d}pa-bil2-sag	NE
+e-ze2	N
+ka-a-ni	N
+ba-ra-mu-da-gu7	V
+
+2(barig)	N
+3(ban2)	N
+gazi	N
+hi-li-abzu	NE
+
+giri3	N
+a-ba-a2-ni-in-zu	NE
+
+2(barig)	N
+3(ban2)	N
+dingir-mu-ta-bil2	NE
+
+ki	N
+lu2-{d}nin-isin2{si}	NE
+
+...{sar}	N
+ga-ba-...	O
+
+sukkal-di-de3	NE
+lu2	N
+{gesz}tukul-gu-la	N
+
+kab2-ku5	N
+pu-ut-sza-dar{ki}	NE
+tir-sze3	N
+
+ki	N
+ur-{d}asar-lu-hi	NE
+
+hi-i3-li2	NE
+
+e2-duru5	N
+gir2-su-ka	NE
+
+5(disz)	NU
+sila3	N
+zi3	N
+kaskal-sze3	N
+
+ama-gu10	N
+hul2-hul2-la-am3	V
+sze-er-ka-an	N
+mi-ri-in-dug4-ga	V
+
+ku3-{d}nin-ur4-ra	NE
+
+X	O
+i-lu-zu	N
+mu-un-gub-X	V
+...	O
+
+kiszib3	N
+2	NE
+
+i3-dub	N
+a-sza3	N
+KU-PAD-nig2-du10	NE
+
+nun	N
+gal-e	V
+ni2-te-ni	DET
+za3-mi2	N
+mi-ni-in-dug4-ga-ta	V
+
+nibru{ki}-a	NE
+dur-an-ki	NE
+ma-a-kam	DET
+
+si	N
+sa2-e-de3	V
+zid	AJ
+tam-me	V
+X	O
+...	O
+
+2(asz)	NU
+1(barig)	N
+3(ban2)	N
+sze	N
+gur	N
+ki	N
+ama-tu-i3-na-kal	NE
+
+1(disz)	NU
+gal	V
+sag-kul	N
+zabar	N
+
+ud	N
+ki-en-gi	NE
+ki-uri	NE
+sag2	V
+ba-ab-dug4-ga-ta	V
+
+ki	N
+nin-du8	NE
+
+X	O
+{d}nin-sumun2-ka	NE
+hu-mu-ni-in-dib2-dib2-be2	V
+u6	N
+di	V
+X	O
+X	O
+
+dumu	N
+su-{d}ma-mi-tum	NE
+
+u2	N
+il2-la-ga2	V
+igi	N
+im-ma-ni-in-du8	V
+gu3	N
+hul2-la	V
+ma-an-de2	V
+
+szesz-gu10	N
+e2-gal-ta	N
+kur9-re{}-ni{}	V
+
+ka	N
+lul-la-ta	V
+ni2	N
+na-an-sukud-de3	V
+di-kud-me	N
+i3-dab5	V
+
+ugula	N
+nin-{gi}gil-sur	NE
+
+kiszib3	N
+gu4-la2	NE
+sza13-dub-ba	N
+
+{d}nisaba	NE
+tur3-ra	N
+i3	N
+he2-me-en	V
+amasz-a	N
+gara2	N
+he2-me-en	V
+...	O
+
+lugal	N
+e2-e-ke4	N
+DIM2-zu	O
+
+lugal-ku3-ga-ni	NE
+
+X	O
+X	O
+lu2	N
+he2-X	O
+X	O
+X	O
+
+5(ban2)	N
+sze-ba	N
+dingir-e2	NE
+
+ki	N
+ur-x-kur-gu4	NE
+
+u3	CNJ
+a-sza3	N
+i7	N
+i7-{d}en-ki-zi-sza3-gal2	NE
+
+lugal	N
+gu2-zal-a-bi	N
+he2-en-na-ab-gam-e	V
+
+siskur2	N
+{d}ga-tum3-du10	NE
+
+4(disz)	NU
+{gi}gur-dub	N
+sullimx	N
+
+la-lu	NE
+
+me-e	DET
+a-al-la-ri	J
+bi2-dug4-ga-ke4-esz	V
+u3-mu-un-e	N
+ag2	N
+ma-an-ba	V
+
+n	NU
+3(ban2)	N
+giri3-se3-ga	N
+...	O
+
+{d}en-lil2	NE
+lugal	N
+kur-kur-ra-ra	N
+nibru{ki}-sze3	NE
+he2-na-ab-tum2	V
+
+lu2-ulu3	N
+dumu	N
+na-an-tu-ud	V
+{d}nin-urta	NE
+lugal-e	N
+...	O
+
+nig2	N
+de6-de6	V
+suhusz-e	N
+uru2{}	N
+he2-du7-me-en	N
+
+la2-ia3	N
+su-ga	V
+
+szu	N
+kug-zu	AJ
+sizkur2	N
+kug	AJ
+sikil-e	V
+ma-ra-tag-ga-zu	V
+
+u3	CNJ
+nin-kal-la	NE
+
+{d}utu-gu2-gal	NE
+nu-banda3-gu4	N
+
+mu-un-sag9	V
+mu-un-sag9	V
+
+...	O
+{d}du5-mu-zid-da-sze3	NE
+
+kiszib3	N
+ur-{d}szara2	NE
+
+ki	N
+ur-ru-ma	NE
+
+2(disz)	NU
+masz2-gal	N
+niga	V
+gu4-e-us2-sa	N
+
+3(asz)	NU
+gur	N
+szuku	N
+ur-ba-ba	NE
+
+mu-kux(DU)	N
+szesz-da-da	NE
+sanga	N
+
+1(disz)	NU
+sila4	N
+nig2-ki-zah3	N
+e2	N
+{d}dumu-zi	NE
+
+digir	N
+er9	V
+me	N
+mah-a	V
+szu	N
+du7	V
+sag	N
+il2	V
+umusz{}	N
+gal	V
+LU{}	O
+
+giri3	N
+lugal-banda3{da}	NE
+sukkal	N
+lugal	N
+
+lugal	N
+ma2-gur8	N
+kug	AJ
+an-na	N
+dirig-ga	V
+
+sza3	N
+enegix(|EN.DIM2.GIG|){ki}	NE
+sza3	N
+min3-tur	O
+...	O
+
+buru14	N
+ezen	N
+gal	V
+{d}en-lil2-la2-ke4	NE
+sag	N
+an-sze3	N
+nam-mi-il2	V
+
+szag4	N
+{d}nin-gal-ta	NE
+szita2	N
+mi-tum-ma	N
+zag	N
+sza-mu-ni-in-kesze2	V
+
+munus	N
+tur5-ra	V
+uzu	N
+nig2	N
+sag3-ga-sze3	V
+ba-an-kur9	V
+
+inim	N
+kug	AJ
+{d}inana-ke4	NE
+ma-ab-be2-a	V
+ge26-e	DET
+ha-ba-da-ab-sze-ge	V
+
+{d}inana	NE
+nin9-zu	N
+e2-gal	N
+ganzer-sze3	NE
+um-ma-te	V
+
+szul-gi	NE
+aga	N
+zid-da	AJ
+he2-du7-bi	N
+
+1(asz)	NU
+gur	N
+kiszib3	N
+me-{d}szul-gi-ra	NE
+
+ki	N
+u2-ta2-mi-szar-ra-am	NE
+
+ninda	N
+{d}nin-kilim	N
+gu7	V
+ninda	N
+kur2	V
+gu7-gu7	V
+
+...	O
+KA	O
+GAM	O
+X	O
+X	O
+...	O
+
+{d}nansze-tesz2-mu	NE
+nu-banda3-gu4	N
+
+a-na-asz-am3	AV
+szar-ru-ki-in	NE
+...	O
+
+dumu	N
+dingir-palil2	NE
+
+gu2	N
+{gisz}ma2	N
+gid2-da	V
+id2-da-ba	N
+u2	N
+gid2-da	V
+ba-an-mu2	V
+
+urud	N
+nig2	N
+kalag-ga-gu10	V
+...-esz	O
+
+mu	N
+nanna{ki}-ma	NE
+ba-hul	V
+
+u3-tud-da	V
+ki-en-gi-ra	NE
+dumu	N
+nibru{ki}-me-en	NE
+
+e2-duru5	N
+szuruppak(|KUR.RU.SU|){ki}	NE
+
+giri3	N
+{d}utu-a-bi2	NE
+dumu	N
+lugal-ag2	NE
+
+a-sza3	N
+{d}szu-{d}suen-maszkim-{d}nin-gir2-su	NE
+
+lugal-ban3-da	NE
+szesz-a-ne-ne	N
+gu5-li-ne-ne	N
+
+na	N
+de5	V
+ab-ba	N
+nig2	N
+kal-la-am3	V
+gu2-zu	N
+he2-em-szi-ak	V
+
+szu-si-ni	N
+bulug	N
+{gisz}taszkarin-na	N
+mu-na-an-bur12-bur12-re	V
+
+gi	N
+gam-ma	V
+KAL	O
+gal2	V
+ba-ni-...	O
+
+ki	N
+a-ri2-lum	NE
+
+X-zu	O
+(X)	O
+X	O
+X	O
+X	O
+X	O
+X	O
+
+3(disz)	NU
+{gi}gur	N
+in-nu	N
+
+ab-sin2	N
+gub-ba-gu10	V
+edin	N
+me-te-asz	N
+bi2-ib-gal2	V
+
+a	N
+ur4-ra	V
+sumur	V
+DU	O
+ki-a	N
+ur4-ur4	V
+nig2-nam	DET
+nu-da13-da13	V
+
+...	O
+ur-{d}nam2-nun-na	NE
+
+ki	N
+szu	N
+tag-tag	V
+unu7	N
+sig7-ga	V
+an-szar2	NE
+kur	N
+gal-ra	V
+
+X	O
+...	O
+e2-kur	NE
+za-gin3-sze3	N
+X	O
+sag	N
+il2-la	V
+mu-un-gen	V
+
+la2-ia3	N
+ka-ga	N
+gi-na	N
+nig2-gesz-sza3-kal	NE
+su-su-dam	V
+
+en	N
+{d}nin-urta-ra	NE
+silim-ma	V
+mu-un-na-ab-be2	V
+
+2(disz)	NU
+lugal-gesz-i3-sa6	NE
+
+ab-ba-gi-na	NE
+za-ab	NE
+
+ki	N
+lu2-al-dab5-ba	NE
+
+ugula	N
+lugal-{d}utu-lu2	NE
+
+kalag-ga	V
+mi2	N
+{gisz}tukul-la	N
+dug4-ga-me-en	V
+
+X	O
+X	O
+...-ib2-du7	V
+
+lu2	N
+X	O
+X	O
+tur3-ra	N
+mu-ni-in-pad3-de3	V
+...-ra-an-DU	V
+
+numun	N
+ud	N
+re-a	DET
+iri-da	N
+mu2-a	V
+
+igi-bar-ra-gu10-u8	N
+a-szag4	N
+ba-ab-zalag-ge-en	V
+
+ma2	N
+gal-gal	V
+hu-mu-ra-ab-sa2	V
+
+lu2-za3	NE
+
+a-na	DET
+ma-ab-be2-en-na-bi	V
+u3-mu-e-dug4	V
+
+ba-a-ah-du	NE
+gaba-ta	N
+
+kiszib3	N
+nar-{d}szara2	NE
+
+nin-gu10	N
+za-pa-ag2-zu-sze3	N
+kur	N
+i3-gam-gam-e	V
+
+siki-gu10	N
+im-da-la2	V
+a	N
+bi2-tu5{}	V
+
+n	NU
+4(barig)	N
+1(ban2)	N
+gur	N
+ki	N
+ri-im-dingir	NE
+
+{d}isz-me-{d}da-gan-e	NE
+kig2	N
+gal-esz2	V
+ma-ra-an-...	O
+
+kiszib3	N
+dingir-szu-e-er	NE
+sza13-dub-ba	N
+
+...-KA-x	NE
+
+sun4	N
+za-gin3	N
+sud4-sud4	V
+he2-a-u5{}	V
+
+e2	N
+nam-kug-zu	N
+{gisz}ig-bi	N
+TAR	O
+mi-ni-in-ak	V
+szag4-bi	N
+mu-un-zu-zu	V
+
+gu3	N
+mu-ra-ra-ra	V
+en-na-bi-sze3	N
+
+2(disz)	NU
+ASZ-ASZ-ASZ	NE
+
+n	NU
+geme2	N
+kikken-na	N
+
+an-e	NE
+he2-em-ma-gub	V
+kurku2-a	N
+he2-em-ma-ab-be2	V
+
+di	N
+ku5-ra2-a-za{}	V
+
+dumu-gir15	N
+du-lum	N
+nu-da13-da13	V
+
+lu2	N
+X	O
+X	O
+(X)	O
+X	O
+arad	N
+iri-ga2-ke4	N
+
+ud-bi-a	N
+tur3	N
+amasz-a	N
+e2	N
+sig9-ga	V
+ba-ab-du7	V
+nig2	N
+ha-lam-ma	V
+ba-ab-ak	V
+
+4(disz)	NU
+sar	N
+kab2-ku5	N
+sahar-sur-ra	NE
+
+{d}suen	NE
+X	O
+...	O
+X	O
+MI	O
+ZI2	O
+X	O
+X	O
+X	O
+
+2-kam-ma-sze3	NU
+{d}suen	NE
+{d}en-ki	NE
+{d}inana	NE
+{d}nin-urta	NE
+{d}iszkur	NE
+{d}utu	NE
+{d}nuska	NE
+{d}nisaba	NE
+digir	N
+he2-em-me-esz	V
+
+a-a	N
+{d}nanna	NE
+{d}utu	NE
+e3-a-ra	V
+
+{urud}ha-zi-in	N
+gal-gal-la	V
+u3-sar	V
+i3-ak-e-ne	V
+
+kisal	N
+mah-e	V
+kisal	N
+gu2-en-na-ka	N
+kig2-gi4-a	N
+i-ib2-bur2	V
+
+ki	N
+ad6-ge6-mu	NE
+
+kab2-ku5	N
+a2-na-mu	NE
+
+ne-mur	N
+mu-dub	V
+szu-luh	N
+
+lu2-u2	NE
+i3-dab5	V
+
+szag4	N
+dab-ba-gu10-ta	V
+ge26-e	DET
+im-ta-DU.DU-u3	V
+
+lugal-uszur3	NE
+
+tur-ra-gu10-ne	V
+e2-dub-ba-a-a-am3	N
+
+geme2-kar-ke3	NE
+
+si	N
+sa2	V
+nitah2-da	N
+nu2-a	V
+
+tukum-bi	CNJ
+lu2	N
+dam	N
+in-tuku-tuku	V
+
+{d}dur7-tur	NE
+ma-la-ga	N
+...	O
+
+me	N
+zid	AJ
+ur-sag	N
+iri{}	N
+barag-ge	N
+X	O
+ki{}	N
+mu2-a	V
+
+kiszib3	N
+nin-pa-e3	NE
+nu-banda3	N
+szu-ku6	N
+
+{d}nanna-ku3-du11-ge	NE
+
+ud	N
+ne	DET
+ud	N
+te-en-e	V
+um-ma-te-a-ta	V
+
+{d}iszkur-gin7	NE
+KA	O
+mah	V
+dib	V
+i3-SZID	V
+
+kuszum	N
+i3-tag-tag-ge	V
+
+2(gesz2)	NU
+5(disz)	NU
+udu	N
+niga	V
+
+X	O
+UD	O
+igi	N
+he2-bi2-ze2	V
+
+nun	N
+ka	N
+silim	V
+e2-kur-ra	NE
+lum-lum	V
+ki-ur3-ra	NE
+...	O
+
+ki	N
+nin-sza3-szu-rinx(|SZU+LAGAB|)-tuku	NE
+
+X	O
+X	O
+X	O
+BA	O
+an{}-ur2{}	N
+X	O
+...	O
+
+{gisz}sag-du	N
+ninda	N
+pad-pax(PAD)-ra2-ni	V
+a	N
+bi2-ib-gul-la-(X)-a	V
+
+siskur2	N
+u4-sakar	N
+dub-la2-mah-a	NE
+
+1(disz)	NU
+szer3{er}-sze-ru-um	NE
+dumu	N
+szes-szesz	NE
+a-tu-nu	NE
+
+x-{gesz}gigir-re	NE
+
+en	N
+{d}asz-im2-babbar	NE
+{d}suen	NE
+he2-en-da-hul2-hul2	V
+
+hu-zi-ri	NE
+
+ga-an-szi-re7-de3-en	V
+umma{ki}-a	NE
+szeg12-kur-szag4-ga-sze3	NE
+ga-am3-szi-re7-de3-en	V
+
+kiszib3	N
+dingir-mah-ri2	NE
+
+...	O
+he2-am3	V
+
+pesz10-am3	N
+sipad-de3	N
+pesz10-am3	N
+
+4(disz)	NU
+sila3	N
+2(disz)	NU
+gin2	N
+ma2-i3-si4	NE
+mar-tu	NE
+
+gi-gun4-na-bi	N
+szen-szen-e-de3	V
+barag-bi	N
+kug-ge-de3	V
+
+ama-GIR3-sze-er	NE
+gu4	N
+udu-da	N
+gen-na	V
+
+5(u)	NU
+7(disz)	NU
+ma-na	N
+siki-gi	N
+
+nir	N
+gal	V
+kar	N
+mah	V
+{d}en-ul	NE
+{d}nin-ul-e	NE
+esz3-mah-a	NE
+tum2-ma	V
+
+ku3-bi	N
+2(disz)	NU
+sze	N
+
+X	O
+szu	N
+gi4-gi4	V
+za-e-me-en	DET
+nig2-sa-sa-ha	N
+
+en	N
+unug{ki}-ga	NE
+musz-sag-kal	N
+ki-en-gi-ra	NE
+til3-la	V
+kur	N
+sag	N
+zid2-gin7	N
+ma5-ma5	V
+
+2(disz)	NU
+ab2	N
+mu	N
+2(asz)	NU
+niga	V
+
+dumu	N
+lu2-na-nam	NE
+
+e-rib-bi2-gu10	N
+gi4-mu	V
+{d}mu-tin-an-na-ra	NE
+
+2(disz)	NU
+PA-ba-lu2-ba	NE
+dumu	N
+pa-lagab-pa-lagab-ba	NE
+
+{d}gesztin-an-na-ke4	NE
+...	O
+mi-ni-...	O
+
+ur2	N
+dam-ma{}-na-ka	N
+ud	N
+nu-sud-su3-ra2	V
+i-si-isz	N
+nu-til-la	V
+re	DET
+
+ug3	N
+dagal-la	V
+u2-gin7	N
+lu-lu	V
+a	N
+mah	V
+{id2}idigna	NE
+{id2}buranun-na-ta	NE
+
+an	NE
+lugal	N
+mu-zu	N
+zag	N
+kalam-ma	N
+gu-gin7	N
+ga-an-szi-BAD	V
+
+ki	N
+nig2-nin9-ra-ga	NE
+
+dumu	N
+iri-ki-du10	NE
+
+gi6	N
+lugud2-da	V
+e2{}	N
+du3{}-ba	V
+mu-ni-ib-ku4{}-ku4{}	V
+...	O
+
+a-sza3	N
+dal-ba-na	NE
+sag	N
+erin-gaba	N
+
+egir2	N
+gi4-in-na-ka	N
+
+ab2-za-an	NE
+nu-banda3	N
+
+gisz-nu2	N
+nam-tar-ra	N
+ba{}-nu2{}	V
+...	O
+
+...-e	O
+tur3-ra	N
+tusz-a-na	V
+tur3	N
+me-te-asz	N
+bi2-ib-gal2	V
+
+a2-gu10	N
+nig2	N
+na-me	DET
+la-ba-dab5-be2	V
+ma-ga-tum	N
+ma-szum2	V
+
+sipa	N
+szuruppak{ki}-me	NE
+
+szesz	N
+gu5-li-gu10	N
+szul	N
+{d}utu-gin7	NE
+
+si	N
+du3-du3-a	V
+TI	O
+UR	O
+RA-a	O
+
+ga-sza-an-an-na	NE
+e-dur2-ra	N
+ba-tusz-tusz	V
+
+a-na-asz-am3	AV
+gu5-li-a-gu10	N
+nu-bi2-in-tar	V
+(...)	O
+
+{gisz}ellag	N
+la-la-bi	N
+nu-mu-un-gi4-a-gu10	V
+
+...	O
+KA{}	O
+ba-ni-in-gar	V
+
+nin-ur5-ra-ni	NE
+umma{ki}	NE
+
+1(u)	NU
+ud5	N
+giri3	N
+u2-mi	NE
+szusz3	N
+
+giri3	N
+gissu-{d}ba-ba6-i3-du10	NE
+
+szum2-sikil{sar}	N
+ab-sin2-ba	N
+dur	N
+dab5-ba	V
+za-ha-din{sar}	N
+szum2-sikil-lum{sar}	N
+
+ki	N
+ha-ba-ad	NE
+
+ug3	N
+
+dumu	N
+ki-ni-ki-ni	NE
+
+mu	N
+us2-sa	V
+du6-sa-bar-ra{ki}	NE
+ba-hul	V
+
+mu	N
+us2-sa	V
+mu	N
+si-mu-ru-um	NE
+lu-lu-bu{ki}	NE
+a-ra2	N
+1(u)	NU
+la2	V
+1(disz)-kam	NU
+ba-hul	V
+
+na-bi2-a	NE
+
+lugal-masz-...	NE
+dumu	N
+ma-an-gu-ul	NE
+
+{d}asz-im2-babbar-e	NE
+lu2	N
+im-szi-in-gi4-gi4	V
+
+1(disz)	NU
+inim-na-mu	NE
+zadim	N
+
+szag4-tum2-szag4-tum2-ma	N
+tud-da	V
+i3-me-a	V
+
+si	N
+ba-ni-in-sa2	V
+{d}en-lil2	NE
+eresz2{ki}-sze3	NE
+
+gu	N
+la2-a-na	V
+muszen	N
+nu-e3	V
+
+lu2-IM	N
+banszur-zu-usz	N
+kur9-re-esz	V
+
+{d}inana-ke4	NE
+gurusz	N
+ki-e	N
+szu	N
+mu-...	O
+
+e2	N
+ki-nu2-a	N
+gisz-nu2	N
+gi-rin-na	N
+{gisz}tir	N
+szim	N
+{gisz}erin-gin7	N
+...	O
+
+{d}nu-nam-nir-re	NE
+ki-en-gi	NE
+ki-uri-a	NE
+ge26-e	DET
+mu-un-suh-en	V
+
+giri3	N
+geme2-e2-mah	NE
+
+gud	N
+dili	AJ
+du-de3	V
+en	N
+pa	N
+ed2-dam{}	V
+{d}suen	NE
+za3-mi2	N
+
+mu	N
+unu{ki}-ga-asz	NE
+ba-hul	V
+
+6(gesz2)	NU
+gurusz	N
+u4	N
+1(disz)-sze3	NU
+
+kug	N
+sag9-ga-zu	V
+sahar	N
+kur-ra-ka	N
+nam-ba-da-ab-szar2-e	V
+
+nig2-dab5	N
+du6-ku3-ga	N
+kiszib3	N
+ur-{nab}nisaba	NE
+
+{d}nin-tur5	NE
+X	O
+hi-li-a	N
+tud	V
+ki	N
+us2-sa	V
+
+dumu	N
+igi-sa6-sa6-ge	NE
+
+he-nun	N
+e2-gal-ta	N
+i3-gin7	N
+lah4-am3	V
+
+ga-il2-bi	N
+ad	N
+gal-esz2	V
+nu-mu-ed3	V
+sila	N
+kur2	V
+ba-ra-an-dab5	V
+
+u3	CNJ
+{d}bi2-ti	NE
+
+X	O
+X	O
+X	O
+KAxX	O
+X	O
+X	O
+X	O
+tesz2-bi	N
+i3-X	O
+
+giri3	N
+ab-ta-ab-e3	NE
+
+2(disz)	NU
+ba-ba6-bar-gesz	NE
+
+ki	N
+lugal-masz2-su	NE
+
+ki	N
+igi-nin	NE
+
+e2	N
+kuara{ki}	NE
+musz3-za	N
+e2	N
+bi2-in-gub	V
+barag-za	N
+dur2	N
+bi2-in-gar	V
+
+lu2-bi	N
+abzu-ta	N
+szu-ga2	N
+u3-mu-e-ri-ze2-eg3	V
+
+2(disz)	NU
+nin-siskur2	NE
+dumu	N
+nu-um-ma-mu	NE
+
+1(gesz2)	NU
+4(u)	NU
+giri3	N
+ur-tum-ma-al-la	NE
+
+{gisz}ba-an	N
+inim	N
+gen6-na	V
+kur-kur-ra	N
+szu	N
+ba-ga2-ga2-ne	V
+
+1(gesz2)	NU
+2(u)	NU
+9(disz)	NU
+udu	N
+1(disz)	NU
+sila3	N
+sze-bi	N
+3(barig)	N
+3(ban2)	N
+a2-na-mu	NE
+
+{d}nanna-bi2-du11	NE
+
+...	N
+PA	N
+geme2-am3-ma	NE
+
+...	O
+X	O
+...-ke4{}	O
+
+1(disz)	NU
+ab-bu-a-sal4	NE
+enku	N
+
+KA-sa6	NE
+x	O
+x	O
+
+{d}nin-gisz-zid-da	NE
+dumu	N
+{d}nin-a-zu	NE
+
+digir	N
+igi	N
+sag9	V
+me3-ga2-a-kam	N
+
+zu2	N
+mu-ra-ze2-X	V
+
+kiszib3	N
+lu5-u2-mu	NE
+
+ama-su	NE
+
+bahar2	N
+im	N
+ba-al	V
+izi	N
+il2	V
+gisz	N
+il2	V
+dug	N
+X	O
+X-bu-u3	O
+
+giszbun-zu	N
+a-da-ab	N
+unu2	N
+gal-zu	V
+kug	AJ
+szem5	N
+{kusz}a2-la2	N
+
+kig2-bi	N
+im-mi-in-til	V
+
+an-ne2	N
+szu	N
+
+gaba-ni	N
+i3	N
+{gisz}erin	N
+babbar-ra-ka	AJ
+
+inim	N
+galam-galam-ma-ta	V
+di	N
+in-dab5-dab5-be2	V
+
+...	O
+X	O
+tum3	V
+an-szag4-ga	N
+
+szu	N
+giri3	N
+ag2	N
+lum-ma	V
+lam-ma-ni	V
+i3	N
+li	AJ
+he2-em-luh-e	V
+
+...-esz	O
+
+pa	N
+mul-mul-la-bi	V
+esz3	N
+e2-an-na-ke4	NE
+
+{m}puzur4-{d}szul-gi	NE
+ensi2	N
+ka-zal-lu{ki}	NE
+arad-zu	N
+na-ab-be2-a	V
+
+he2-dab5	N
+sza3	N
+gir2-su{ki}	NE
+
+lugal-igi-du8	NE
+ensi2-ka	N
+
+ud	N
+bur	N
+szukur2-ra2	N
+igi	N
+kar2-kar2-de3	V
+
+...	O
+za-e	DET
+X	O
+...	O
+
+1(asz)	NU
+2(ban2)	N
+lu2-{d}szara2	NE
+
+ga-ba-de3-u5	V
+szesz-gu10	N
+ga-ba-de3-u5	V
+
+gisz-bi	N
+gisz	N
+X	O
+X	O
+...	O
+
+muszen	N
+nam-mah-gu10	N
+eger-bi	N
+nu-e-zukum-zukum	V
+bar-ga2	N
+
+geme2-ki-la2	NE
+sagi	N
+maszkim	N
+
+alan-gu10	N
+szu-nir-gu10	N
+en	N
+lu2-mah	N
+nin-digir-gu10-ne{}-ne{}	N
+
+...	O
+x	O
+x	O
+
+dumu	N
+{d}utu-ki-szar2	NE
+
+3(barig)	N
+{d}szu-{d}suen-i3-li2	NE
+
+inim	N
+gal	V
+{d}inana	NE
+gi-zu2-lum-ma	N
+DU	O
+me-a	AV
+mu-na-ab-tum3	V
+
+ku-zu-lum	NE
+dumu	N
+ku3-x-da	NE
+
+1(disz)	NU
+udu	N
+niga	V
+gu4-e-us2-sa	N
+...-mu-um	NE
+
+giri3	N
+lugal-da5-ba-an	NE
+
+sa-par3	N
+mah	V
+an	N
+ki	N
+szu2-a	V
+esz2	N
+kur-kur-ra	N
+la2-a	V
+
+lugal	N
+gesz-da{ki}-na	NE
+dub-ru-um{ki}	NE
+
+mu	N
+us2-sa	V
+hu-hu-nu-ru{ki}	NE
+ba-hul	V
+
+a-tir	NE
+
+ninda	N
+he2-gal2-la	N
+{d}nin-kilim	N
+i3-ib2-gu7	V
+
+2(u)	NU
+2(disz)	NU
+1/2(disz)	NU
+sze	N
+apin-la2	N
+ur-mes-hu-ru	NE
+
+in-nin	N
+AN	O
+...	O
+X	O
+GU{}	O
+erin2-husz	N
+X	O
+sul-sul	V
+szen-szen	N
+X	O
+X	O
+X	O
+
+u6	N
+di	V
+nig2-me-gar	N
+sag	N
+gig2-ga	V
+
+kiszib3	N
+ba-ti-ga	NE
+
+{d}nin-hur-sag-ga2	NE
+...	O
+
+tukum-bi	CNJ
+ama-gu10	N
+nu-e-zu	V
+giszkim	N
+ga-mu-ra-ab-szum2	V
+
+zi-in-gar3	NE
+
+3(asz)	NU
+du	V
+igi-dingir	NE
+
+ud	N
+nu-mu-un-da-sa9	V
+am3-da-dirig	V
+aga3-bi	N
+in-szi-in-tag-ne	V
+
+igi	N
+il2-la-ni	V
+kur-re	N
+di-di	V
+
+an-bi-mu	NE
+
+gu-zu-lum	NE
+
+en	N
+gal	V
+{d}gilgamesz2	NE
+unug{ki}{}	NE
+bi2-in-dug4-ga	V
+
+kab2-ku5	N
+gu4-gu4-{d}suen	NE
+
+...	O
+HAR	O
+nam-zu{}	N
+E	O
+AN	O
+X	O
+
+{d}utu-gin7	NE
+di	N
+gen6-na	V
+dab5-be2-da-zu-ne	V
+
+X	O
+lugal-zu	N
+kalam-ma	N
+he2-ri-ib-il2{}-e	V
+
+muszen	N
+{na4}gug-ta	N
+gug	N
+{na4}za-gin3-ta	N
+za-gin3	N
+
+3(disz)	NU
+an-en-am6-ma	NE
+
+2/3(disz)	NU
+gin2	N
+1(u)	NU
+5(disz)	NU
+sze	N
+apin-la2	N
+u2-da-mi-szar-ra-am	NE
+dumu	N
+u2-la-i3-li2-isz	NE
+
+2(asz)	NU
+gu2	N
+gi	N
+al-zi-ra	V
+
+a-sza3	N
+ur-{d}zi3-da	NE
+
+ki	N
+lu2-nimgir	NE
+
+dumu	N
+hul	V
+gig-ga-ni	V
+nig2	N
+im-ma-ni-in-ra	V
+
+gu	N
+mu-un-na-sur-ru-ne	V
+sa	N
+mu-un-na-kesze2-da-ne	V
+
+nin-gu10	N
+gal	V
+mu-un-zu	V
+gal	V
+in-ga-an-tum2-mu	V
+
+na-be2-a	NE
+ensi2	N
+gir2-su{ki}	NE
+i3-dab5	V
+
+ki	N
+{d}nisaba{ki}	NE
+
+1(gesz2)	NU
+udu	N
+ki	N
+ba-bad3-ba-gara3	NE
+
+aga{}	N
+an	N
+ki-a	N
+aga	N
+kug	AJ
+sag	N
+he2-em-ma-il2-e	V
+
+e2-bi	N
+um-ta-e3-a	V
+abzu{}-a	N
+...	O
+
+X	O
+X	O
+X	O
+szid	V
+ka-inim-ma	N
+GUG	O
+sed4	V
+szita	N
+kug	AJ
+du7-du7-du7	V
+
+bad3	N
+nibru{ki}	NE
+i3-du3	V
+...-in-ag2	V
+
+...	O
+IM	O
+SA	O
+TE	O
+gal{}	V
+DA	O
+...	O
+
+lugal-he2-gal2	NE
+
+1(disz)	NU
+{munus}asz2-gar3	N
+...	O
+
+ur-gir15-re	N
+i3-udu-am3	N
+he2-eb2-X-(X)	O
+
+ki	N
+du14-de3	N
+gal2-la-sze3	V
+zi	N
+im-X-pa{}-pa-an-e{}	V
+
+gu-ra-a	NE
+
+1(disz)	NU
+be-dingir-la-ri2-ik	NE
+
+sipad-me-en3	N
+szu-si	N
+gid2-gid2-da	V
+X	O
+X	O
+X	O
+DA	O
+mi-ni-DAR	V
+
+e2-kur-sze3	NE
+za-e	DET
+lu2-bi	N
+he2-me-en	V
+
+usz2	V
+nin-gi-na-ensi2	NE
+
+6(disz)	NU
+gu4	N
+niga	V
+...	O
+
+{d}suen-e	NE
+nidba	N
+
+e2-gir4	N
+mah-a-ni	V
+he2-gal2-la	N
+bi2-de6	V
+
+...	O
+X	O
+TUM{}	O
+mu{}-un-da-ab-dub	V
+...	O
+
+geme2-sud3-da{ki}	NE
+
+ama	N
+{d}nin-gal	NE
+hi-li	N
+...	O
+
+giri3	N
+ur-si4-si4	NE
+
+ug3-sze3	N
+im-ta-an-gar-re-esz	V
+
+hur-sag	N
+gal	V
+an-ba-gin7	N
+pe-el-la2	V
+szu	N
+X	O
+X	O
+mu-la2	V
+
+dumu	N
+ib-qum	NE
+
+ur5	N
+nig2	N
+gig2	V
+izi	N
+im-mi-ni-in-si	V
+
+5(disz)	NU
+ud5	N
+5(disz)	NU
+masz2	N
+
+|PU3.SZA|-{d}lamma	NE
+
+me-e	DET
+mu-da-hul2-en	V
+
+a-esztub{ku6}	N
+nam-he2	N
+zi	N
+kalam-ma	N
+szu-sze3	N
+im-ma-ab-la2	V
+
+ud	N
+szag4-gar	N
+an-tuku	V
+sila4	N
+szu	N
+ba-ni-in-ti-a	V
+
+hul-gal2	AJ
+ud	N
+nu2-a	V
+dumu	N
+{gisz}al-me-esz	N
+
+e2-e	N
+an	N
+ki-a	N
+igi	N
+mi-ni-in-gal2	V
+sa-par4-ra	N
+al-la2	V
+
+a-al-ni	NE
+
+kiszib3	N
+ur-x	NE
+
+2(disz)	NU
+nin-er2-re2	NE
+
+n	NU
+n(barig)	N
+1(ban2)	N
+gur	N
+ki	N
+i3-lu-lu-tar-si	NE
+
+kiszib3	N
+1(u)	NU
+4(disz)	NU
+da-da	NE
+
+giri3	N
+nin-ne2-x-ERIM	NE
+
+...	O
+MU-ni-X	O
+
+muszen	N
+sa	N
+nu-zu	V
+X	O
+he2-em-DU	V
+
+sizkur2	N
+nig2	N
+dug3-ga	V
+la-ba-an-tag-ge	V
+szu	N
+gig	V
+ba-ni-X-gid2	V
+
+i-di3-li2	NE
+
+ra-bi2-bi2	NE
+
+nin-mu-se-ge4	NE
+dumu	N
+nin-mu-sig7-mu	NE
+
+lugal-mu-i3-zi	NE
+
+da-ni-li2	NE
+
+1(barig)	N
+sze-ba	N
+lu2-{d}x	NE
+
+{d}a-nun-na	NE
+ninda	N
+szu	N
+tag-ga-ba	V
+
+giri3-ne2-i3-dab5	NE
+
+kiszib3	N
+{d}nin-giri3-da	NE
+
+asz2-e	N
+gi-a-gu10	V
+asz2	N
+mu-un-gi	V
+
+ku6	N
+u2-gu7	N
+nu-gu7-a	V
+a	N
+pu2	N
+KA	O
+...	O
+
+JISZ	O
+A	O
+KA{}	O
+nig2	N
+nu-...	O
+
+na-du3-a-ga2	N
+a-na	DET
+ab-sar-ra	V
+lul	V
+ba-ra-na	V
+he2-ge-en	V
+
+nin-nig2-be-ge	NE
+
+a-sza3	N
+muru2	NE
+
+ugula	N
+za-la-a	NE
+
+an	NE
+{d}en-lil2	NE
+nam	N
+kalam-ma	N
+tar-re	V
+kur	N
+gal	V
+{d}en-lil2	NE
+...	O
+
+dumu	N
+lugal-tug2-mah	NE
+
+kiszib3	N
+lu2-du10-ga	NE
+szusz3	N
+
+geme2-{d}nin-gesz-zi-da	NE
+
+u3	CNJ
+{d}utu-me-lam2	NE
+
+sa	N
+la2-ni-ir	V
+ni2	N
+nu-zu-ni-ir	V
+igi-te-en	N
+sa	N
+la2-a-ni	V
+X	O
+X	O
+X-ba	O
+nu-e3	V
+
+ugula	N
+har-ti	NE
+
+2(disz)	NU
+a-gal-zi	NE
+dumu	N
+inim-{d}szara2	NE
+
+kiszib3	N
+esz18-dar-la-ba	NE
+u3	CNJ
+ma-du3	NE
+nagar	N
+
+inim-gi	NE
+
+ki	N
+lugal-gu3-de2-a	NE
+
+ARAD2-{d}amar-{d}suen	NE
+dam-gar3	N
+
+{d}en-lil2	NE
+i3-zig3-ge-en-na-gu10	V
+{tug2}nig2-dara2-gu10	N
+du-um	V
+
+ti	N
+zu2-zu-a	N
+ud-gin7	N
+e3-i3	V
+
+a-e-ni	NE
+aga3-us2-gal	N
+
+a-ra-zu-ne	N
+{d}nin-lil2	NE
+hul2-le-me-en	V
+
+4(asz)	NU
+du	V
+i-szi-we-er	NE
+
+gu-u2-tam	NE
+
+{d}nam2-gir2-su{ki}	NE
+u3	CNJ
+nibru{ki}-ta	NE
+gen-na	V
+
+...	O
+7(asz)	NU
+1(ban2)	N
+...	O
+lugal-zi-mu	NE
+
+ab-ba-gi-na	NE
+ebih{ki}-ka	NE
+
+ansze	N
+ne-esz2	AV
+tusz-a	V
+gisz3	N
+pir2-bi	V
+al-il2-en-e-sze	V
+
+ur-{d}ha-ia3	NE
+
+dam	N
+mu-un-X	O
+...	O
+mu{}-...	V
+
+amar	N
+za-gin3-na-gin7	N
+gaba	N
+kug-ga2	AJ
+
+...	O
+mu-un-il2-en-e-sze	V
+
+szegx(IM.A)	N
+an-ta	N
+a-bi	N
+bad-ta	V
+he2-en-na-ge-en	V
+
+1(disz)	NU
+a-tu	NE
+
+a-sza3	N
+{gesz}szinig-pa5(e-PAP)	NE
+i7	N
+nun-ta	N
+ka	N
+i7-musz-bi-an-na-ka	NE
+
+1/3(disz)	NU
+gin2	N
+7(disz)	NU
+1/2(disz)	NU
+sze	N
+apin-la2	N
+lugal-iti-da(LUGAL)	NE
+szuku	N
+lugal-lu-ni	NE
+u3	CNJ
+lugal-lu2-sa6-sa6-ga	NE
+szu-i	N
+
+nig2	N
+ak-ga2	V
+ni2-bi	DET
+ga-bulug5	V
+
+pa5	N
+a	N
+bi2-in-si	V
+
+1(asz)	NU
+1(barig)	N
+nimgir-di-de3	NE
+
+tug2	N
+dugud	V
+{tug2}zulumhi	N
+{tug2}pala3	N
+nam-nin-a	N
+
+lu2	N
+nig2-tuku	AJ
+lu2	N
+nig2	N
+nu-tuku	V
+gig-sze3	V
+in-gar	V
+
+ab-ba-gi-na	NE
+szu	N
+ba-ti	V
+
+2(disz)	NU
+NE-da	NE
+dumu	N
+ne-dur	NE
+
+1(u)	NU
+2(asz)	NU
+sze	N
+gur	N
+kiszib3	N
+{d}isz-bi-er3-ra-en-en	NE
+
+{d}inana	NE
+bad3	N
+{na4}gul-gul	N
+...	O
+X	O
+u3-ma	N
+sa2	V
+di	V
+
+{d}ba-ba6-eb2-gu	NE
+lu2	N
+kas4	N
+
+ki	N
+u5-sa6	NE
+
+ne	N
+na-an-su-ub-be2-en	V
+
+ba-ad-da-ri2	NE
+
+ma2-gur8	N
+za-gin3	N
+nam-lugal-la	N
+ba-ni-in-du8-a-ni	V
+
+lugal-ki-gal-la	NE
+
+giri3	N
+hul-la	NE
+
+...	O
+X	O
+numun{}	N
+kal{}	V
+nam-ta-gar	V
+
+gu3	N
+szu	N
+nigin2-bi	V
+an-ur2-ra	N
+tug2-gin7	N
+i-im-dul	V
+gada-gin7	N
+i-im-bur2	V
+
+in-nin9	N
+{d}ama-uszumgal-an-na	NE
+szembi2-zid-da-ni	N
+
+sze-ba	N
+u3	CNJ
+a-sza3	N
+e2-gibil4-le-x	NE
+
+4(disz)	NU
+a-ab-x	NE
+
+ur-gir15-re	N
+kasz-de2-a-sze3	N
+al-gen	V
+
+{tum9}mar-uru5	N
+an-szag4-ga-sze3	N
+bu4-bu4-gin7	V
+i-sza-a	O
+an-na	N
+mu-un-ni10-ni10	V
+u2-na-ra-ṭisz{}	O
+
+digir-gu10	N
+lu2	N
+kur2	V
+di	V
+nu-me-en	V
+szag4-zu	N
+ki{}-bi{}	N
+ha-ma-ab-gi4-gi4	V
+
+gisz-gisz-la2	N
+sul-sul	V
+mar-uru5	N
+hub2	N
+sar-sar-re	V
+su-lim	N
+husz	V
+gu2	N
+e3	V
+
+{d}utu-he2-gal2	NE
+nitah	N
+kalag-ga	V
+lugal	N
+unug{ki}-ga	NE
+
+sukkal-a-ni	N
+{d}isimudx(ENKUM)-ra	NE
+gu3	N
+mu-na-de2-e	V
+
+lu2-{d}NI-x	NE
+
+ur-{d}esz5-pesz	NE
+
+{d}nin-nig2-bun2-na-ra	NE
+{d}nin-JAR-JAR-JAR	NE
+sza-ra-da-gub	V
+
+{d}nanibgal	NE
+sig7-ga	V
+{d}nisaba-ke4	NE
+
+ki	N
+lugal-gurum2	NE
+
+ugula	N
+ur-{d}asznan	NE
+
+ka5-a	N
+ur2	N
+{gisz}kiszi17-sze3	N
+in-kur9-ma	V
+
+a-sza3	N
+gaba-tum-al	NE
+
+gu2	N
+i7	N
+i7-a-masz-ti-ak	NE
+
+ku6	N
+ambar-ra-ke4	N
+gisz-gi-a	N
+nunuz	N
+mu-ni-ib2-nu2-nu2	V
+
+ud-an-ne2	NE
+digir	N
+
+...	O
+X	O
+gub{}-bu-zu	V
+lal3	N
+X	O
+...	O
+
+ga2-nam-ma-an-ze2-en	V
+amasz	N
+kug-ga-sze3	AJ
+ga-an-szi-re7-de3-en	V
+
+ki-su7	N
+u4-DU-tur-tur	NE
+gub-ba	V
+
+gu2-un-na-ni	N
+bur2-bur2-da	V
+ensi2{}	N
+gu-la	V
+an-dib-ba	V
+nu-mu-un-da-gi{}-gi	V
+
+ur-{d}AB-NE-uszur3	NE
+
+mu	N
+us2-sa	V
+unug{ki}-ga	NE
+ba-hul	V
+
+a-a-gu10	N
+{d}en-lil2-le	NE
+dug3-ga	V
+he2-gu7-e	V
+
+szu	N
+dag-dag-ge-bi	V
+X	O
+...	O
+
+ki	N
+lu2-ur4-sza3-ga	NE
+
+a-szag4-ga	N
+sze	N
+gu-nu	N
+a-gar3-ra	N
+nu-si-si	V
+
+szul	N
+{d}suen	NE
+an-na	N
+gub-ba-ni	V
+hi-li	N
+...	O
+
+ki-bal	N
+hul	V
+gig	V
+{d}suen-na-sze3	NE
+ud-de3	N
+DU.DU-e-me-esz	V
+
+sag	N
+il2-la	V
+gu3	N
+ra-bi-da	V
+nir-gal2	AJ
+
+1(disz)	NU
+inim-{d}ba-ba6-en-kal	NE
+dumu	N
+inim-{d}szara2-za	NE
+
+gisz-hur	N
+digir-re-e-ne-ke4	N
+
+ganba	N
+gal2-la-gin7	V
+na-an-sig9-ge-en	V
+
+nig2-ka9-ak	N
+a2-ta-szu	NE
+dam-gar3	N
+
+nig2-dab5	N
+{kusz}suhub2	N
+szar3	V
+ki	N
+im-lik-e2-a	NE
+
+nigir-e	N
+zag-ga-na	N
+nu-um-nigin2-nigin2	V
+
+kiszib3	N
+lugal-a2-ga	NE
+
+{d}ezina2	NE
+u8-ra	N
+mu-un-na-ni-ib-gi4-gi4	V
+
+kusz	N
+la2	V
+kusz-ni-ta	N
+mu-na-da-an-ku4-ku4	V
+
+...	O
+ud	N
+ul-le-a-sze3	N
+
+4(asz)	NU
+du	V
+la-ni-ib	NE
+
+sza3	N
+ma-da	N
+gir2-su{ki}	NE
+
+dumu-gir15	N
+ninda	N
+sag9-ga	V
+gu7-gu7-zu	V
+u2-szim-e	N
+ha-ba-nu2	V
+
+ki	N
+masz-hub2	NE
+
+...	O
+aratta{ki}-a-ke4	NE
+...	O
+
+...	O
+X	O
+X-am3	O
+sur-ra-zu	V
+
+1(esze3)	N
+GAN2	N
+1(asz)	NU
+1(barig)	N
+3(ban2)	N
+gur	N
+
+urud-zu	N
+nagga	N
+zabar-ra	N
+he2-em	V
+
+nig2-dab5	N
+dug	N
+tu7	N
+ki	N
+a-da-na-ah	NE
+
+...-si{}-en-de3-en	V
+
+mu	N
+us2-sa	V
+u-pi5{ki}	NE
+ba-hul	V
+
+ud	N
+dug3	V
+nam-he2-a	N
+hul2-la	V
+hu-mu-u3-di-ni-ib-zal-e	V
+li-ip-pu-uh2	O
+
+2(asz)	NU
+i-din-er3	NE
+
+lugal-mu-du10-ga	NE
+
+4(barig)	N
+ki	N
+ma-at-dingir	NE
+...-ta	O
+
+mi2	N
+dug4-ga	V
+kur	N
+gal	V
+{d}en-lil2-le	NE
+nam	N
+dug3-ge-esz	V
+tar-ra	V
+
+gu4	N
+u2-na-ap-sze-en6	NE
+
+dumu	N
+igi-dim-zum	NE
+
+sahar-gi4-zu	N
+{d}utu	NE
+an-ur2	N
+...	O
+SU	O
+giri3	N
+e2	N
+nam	N
+...	O
+
+kiszib3	N
+lugal-ukken-ne2	NE
+
+gud-dam	NE
+iri{ki}	N
+...	O
+
+nin9{}	N
+sag9-ga-gu10	V
+gana2-gu10-sze3	N
+ge26-e	DET
+ga-ba-e-de3-gen	V
+
+kiszib3	N
+5(u)	NU
+la2	V
+2(disz)	NU
+{d}szara2-zi-da	NE
+
+mu	N
+bad3	N
+ba-du3	V
+
+gu-la-x	NE
+gudu4	N
+
+nin9	N
+lu2	N
+nig2	N
+5	NU
+ma-ra-de6-a-gu10	V
+
+ama-zu	N
+dumu	N
+tud-da	V
+mah-bi	V
+in-ga-an-zu	V
+
+lu2	N
+digir	N
+lul-lul	V
+sig10-ge5	V
+nam-erim2	N
+ba-an-kud	V
+igi	N
+bi2-du8-am3	V
+igi	N
+i-ni-du8-am3	V
+a-na-gin7	AV
+an-ak	V
+
+nam-til3-la{}-zu	N
+gu-gin7	N
+he2-mu2-mu2	V
+sze-gin7	N
+he2-mu2-mu2	V
+
+szeg9-sag-6	NE
+sahar-gi4-a	N
+bi2-in-la2	V
+
+ud	N
+5-kam-ma	NU
+barag	N
+i3-li2-tab-be4-e-ka	NE
+i3-li2-tap-pe2-e-ka	NE
+gisz	N
+bi2-du3	V
+
+kug	AJ
+{d}nin-isin2{si}-na	NE
+sizkur	N
+mu-na-ab-be2	V
+a-ra-zu	N
+mu-na-ab-be2	V
+
+ur-sag	N
+{d}gilgamesz2	NE
+dumu	N
+{d}nin-sumun2-ka	NE
+za3-mi2-zu	N
+dug3-ga-am3	V
+
+kiszib3	N
+szesz-szesz-mu	NE
+
+lugal-sza2	NE
+
+szag4-bal-bal-zu	N
+dug3-zu	V
+he2-en-X	O
+X	O
+
+lugal-an-ba9-ra2	NE
+en	N
+sun4(KAxNUN)	N
+igi-sze3	N
+mu-na-gen	V
+
+kusz	N
+dugud	V
+gar3-ru	V
+szu	N
+X	O
+...	O
+
+lal3	N
+gesztin	N
+tesz2-ba	N
+sur-ra-a	V
+
+ud	N
+sze	N
+bir	V
+ak-de3	V
+a-ab-du7-a	V
+a	N
+dug4-ga-ab	V
+
+ge26-e	DET
+in-ga-me-en-na-e-sze	V
+
+igi-ga2	N
+lal3-bi-im	N
+szag4-ga2	N
+hi-li-bi-im	N
+
+il2-la-zu	V
+tur-ra-am3	V
+a-ra2-zu	N
+mah-am3	V
+
+za-e	DET
+sza-mu-un-da-tusz-en	V
+
+szuku	N
+en-nam-szita-{d}szul-gi-ra-ke4-ba-gub	NE
+szandana	N
+
+2(disz)	NU
+nin9-gi-na	NE
+dumu	N
+ur-{d}ma-mi	NE
+
+giri3	N
+ur2-nig2-du10-ga	NE
+dub-sar	N
+
+masz-masz-e	N
+suhur{ku6}	N
+gal	V
+a-ta	N
+im-ta-an-e3	V
+im-ta-an-ed3	V
+
+a-ab	N
+mur	N
+sza4-ni	V
+
+{gisz}al-e	N
+{gisz}apin-na	N
+dirig-ga-ba	V
+
+e2	N
+igi-nim-ma{}	N
+lugal-bi	N
+nu-ub-us2	V
+
+muszen-e	N
+szu	N
+gar-bi	V
+im-mi-in-gi4	V
+szag4-bi	N
+mu-...	O
+
+en3	N
+ma-tar-re-e-sze	V
+
+esz3	N
+kug-ga-am3	AJ
+saman	N
+za-gin3-na	N
+
+4(disz)	NU
+ba-zi-gu-la	NE
+
+dumu	N
+um-ma-num2	NE
+
+5(disz)	NU
+sila3	N
+2(disz)	NU
+gin2	N
+inim-{d}ba-ba6-zi	NE
+KA-gu	NE
+ra2-gaba-da	N
+du	V
+
+in-nin	N
+za-e	DET
+mah-me-en	V
+igi-zu-sze3	N
+na-me	DET
+nu-dib-be2	V
+
+dub-sar3	N
+dumu	N
+ur-nigar{gar}	NE
+szusz3	N
+
+kiszib3	N
+e2-bu3-NE	NE
+
+mu	N
+i3-lal3-lum	NE
+
+1(disz)	NU
+ur-{d}nin-gesz-gesz-zi-da	NE
+enku	N
+
+gisz-hur	N
+e2-kur-ra	NE
+szu	N
+du7-du7	V
+nig2	N
+galam-galam-ma-bi	V
+
+dub-sar3	N
+dumu	N
+a-bi-ad-e-el	NE
+
+ki	N
+lu2-ni	NE
+
+szu	N
+na-ag2-sag9-ga-na-ka	N
+
+gi4-in	N
+ud	N
+szu2-szu2-ru	V
+gi6	N
+MASZ-a-gin7	NU
+an-na-di-di-(X)	V
+
+1(u)	NU
+gur	N
+
+kur-gi4{muszen}	N
+ki-a	N
+ba-ra-ab-taka4-a-bi	V
+
+1(ban2)	N
+6(disz)	NU
+sila3	N
+ga	N
+gazi	N
+
+si	N
+sa2-gu10-usz	V
+
+nin-a-du	NE
+
+kiszib3	N
+ur-lu2-...	NE
+
+1(barig)	N
+kiszib3	N
+lugal-i3-nun	NE
+
+en	N
+ensi2	N
+gal	V
+abzu-ke4	N
+
+...	O
+5(asz)	NU
+5(disz)	NU
+sila3	N
+sze-ba	N
+{d}amar-{d}suen-ka	NE
+
+...	O
+X	O
+X	O
+AN	O
+...	O
+
+mu	N
+{d}szu-{d}suen	NE
+lugal	N
+uri5{ki}-ma-ke4	NE
+na-ru2-a-mah	N
+{d}en-lil2-ra	NE
+mu-na-du3	V
+
+kiszib3	N
+nin-si-par4	NE
+
+...-e-sze	O
+
+2(disz)	NU
+mu-ru-gin7	NE
+
+{d}gibil	NE
+kalam-ma	N
+ba-gu7-e-en	V
+
+ki	N
+nam-erim2-ma-sze3	N
+sag	N
+gid2-i	V
+
+{d}en-ki	NE
+nu-zu-gin7	V
+a-na-am3	DET
+ne-e	DET
+im-me	V
+
+{d}dumu-zid-de3	NE
+gaba	N
+ba-ri-a-bi	V
+
+nitalam	N
+ki	N
+ag2-zu	V
+ki-sikil	N
+{d}nisaba	NE
+nin	N
+gal	V
+nin-e-ne	N
+
+ki	N
+lugal-a2-mah	NE
+
+igi	N
+sar-ru-kalag	NE
+
+ki{}-bal	N
+gul-gul-de3	V
+na-an-gen	V
+
+til-lu-ug	N
+til-lu-ug-da	N
+nig2-zi-gal2	N
+edin-na	N
+dab5-dab5-be2-da-gu10-ne	V
+
+sipad	N
+{e2}tur3-re	N
+i3	N
+ga	N
+mah-me-en	V
+
+dam-a-ni	N
+e2-a-na	N
+an-da-tusz{}-am3	V
+szag4-ge	N
+guru6-ni	V
+...	O
+
+kesze2-ra2	V
+ga-gu7	V
+um-mi-in-dug4-ga	V
+
+kiszib3	N
+szu-a-ba	NE
+aszgab	N
+
+sag9-ga-asz	V
+ge26-e	DET
+nu-ub-gu7	V
+
+lu2-ulu3	N
+nam-mah	N
+digir-ra-na	N
+zid-de3-esz-sze3	AJ
+he2-em-me	V
+
+mu	N
+{d}szu-{d}suen	NE
+lugal-e	N
+na-ru2-a-mah	N
+mu-hul	V
+
+2(barig)	N
+3(ban2)	N
+ur-{gesz}x-tul2-ki	NE
+
+digir-gu10	N
+{d}en-ki	NE
+en	N
+{d}nu-dim2-mud-e	NE
+...	O
+
+gir2-nun-na	NE
+
+{d}suen-e	NE
+{gisz}ma2-gur8-ra	N
+X	O
+...	O
