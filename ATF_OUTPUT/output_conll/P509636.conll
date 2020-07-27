@@ -1,0 +1,69 @@
+#new_text=P509636
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	{disz}{d}suen-a-hu-szu	 	PN
+o.2.1	u3	u[and]	CNJ
+o.2.2	sza-at-{d}gibil6	 	PN
+o.3.1	ha-la	Hala[1][-ra]	N
+o.3.2	e2	e[house]	N
+o.3.3	ad-da-ni	 	N
+o.4.1	nig2	 	N
+o.4.2	i3-na-me	 	V
+o.5.1	ugu	 	N
+o.5.2	za-za-kum	 	V
+o.6.1	li-bi2-in-tuku	 	V
+r.1.1	igi	igi[eye][-ø]	N
+r.1.2	a-mur-i-lu-su2	 	PN
+r.2.1	igi	igi[eye][-ø]	N
+r.2.2	{d}suen-en-nam	 	RN
+r.2.3	szitim	 	N
+r.3.1	igi	igi[eye][-ø]	N
+r.3.2	bur-ia	 	PN
+r.4.1	dumu	dumu[child]	N
+r.4.2	sa-li	 	PN
+r.5.1	igi	igi[eye][-ø]	N
+r.5.2	{d}nanna-zi-sza3-gal2	 	PN
+r.6.1	iti	iti[month]	N
+r.6.2	gan-gan-e3	 	MN
+r.7.1	mu	mu[year]	N
+r.7.2	{gesz}gu-za	guza[chair]	N
+r.7.3	za3-bi-us2	 	N
+r.7.4	3(disz)-a-bi	 	NU
+r.7.5	{d}en-lil2	Enlil[1]	DN
+r.7.6	{d}nin-urta	Ninurta[1][-ra]	DN
+r.7.7	{d}nin-nibru{ki}	 	DN
+r.7.8	ma-na-ba-al-te-el	 	V
+eo.1.1	{disz}{d}suen-a-hu-szu	 	PN
+eo.2.1	u3	u[and]	CNJ
+eo.2.2	sza-at-{d}gibil6	 	PN
+eo.3.1	ha-la	Hala[1][-ra]	N
+eo.3.2	e2	e[house]	N
+eo.3.3	ad-da-ni	 	N
+eo.4.1	nig2	 	N
+eo.4.2	na-me	 	DET
+eo.5.1	ugu	 	N
+eo.5.2	za-za-kum	 	V
+eo.6.1	li-bi2-in-tuku	 	V
+eo.7.1	igi	igi[eye][-ø]	N
+eo.7.2	a-mur-i-lu-su2	 	PN
+eo.8.1	igi	igi[eye][-ø]	N
+eo.8.2	{d}suen-en-nam	 	RN
+eo.8.3	szitim	 	N
+er.3.1	igi	igi[eye][-ø]	N
+er.3.2	bur-ia	 	PN
+er.3.3	dumu	dumu[child]	N
+er.3.4	sa-li	 	PN
+er.5.1	igi	igi[eye][-ø]	N
+er.5.2	{d}nanna-zi-sza3-gal2	 	PN
+er.6.1	iti	iti[month]	N
+er.6.2	gan-gan-e3	 	MN
+er.7.1	mu	mu[year]	N
+er.7.2	{gesz}gu-za	guza[chair]	N
+er.7.3	za3-bi-us2	 	N
+er.7.4	3(disz)-a-bi	 	NU
+er.7.5	{d}en-lil2	Enlil[1]	DN
+er.7.6	{d}nin-urta	Ninurta[1][-ra]	DN
+er.7.7	{d}nin-nibru{ki}	 	DN
+er.7.8	ma-na-dim2	 	V
+s1.1.1	{d}suen-a-bu-szu	Suenabuszu[1]	PN
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	za-pa-ti	 	PN
