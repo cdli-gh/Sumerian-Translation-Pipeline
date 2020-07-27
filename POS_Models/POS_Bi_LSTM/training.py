@@ -104,6 +104,7 @@ def BUILD_MODEL(X,MAX,n_words,n_tags,embedding_matrix):
     input_word = Input(shape = (MAX))
     model=Embedding(input_dim=n_words,input_length=X.shape[1], output_dim=embedding_matrix.shape[1], weights=[embedding_matrix],trainable=True, mask_zero=True)(input_word)
     model=Bidirectional(LSTM(64, return_sequences=True, dropout=0.2, recurrent_dropout=0.2))(model)
+    model=Bidirectional(LSTM(32, return_sequences=True, dropout=0.2, recurrent_dropout=0.2))(model)
     out=TimeDistributed(Dense(n_tags, activation ='softmax'))(model)
     model = Model(input_word, out)
     model.summary()
@@ -165,7 +166,7 @@ def main():
     model=BUILD_MODEL(X, MAX,len(word2idx),len(tag2idx),embedding_matrix)
     model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
     
-    history = model.fit(X_train, y_train, epochs=10, batch_size=32,validation_split=0.1,verbose=0, callbacks=[TqdmCallback(verbose=1)])
+    history = model.fit(X_train, y_train, epochs=10, batch_size=64,validation_split=0.1,verbose=0, callbacks=[TqdmCallback(verbose=1)])
     
     evaluate_model(history)
     TestData(model,X_test,y_test,idx2tag)
@@ -174,7 +175,7 @@ def main():
     
     
 if __name__=='__main__':
-    MAX=50
+    MAX=30
     #Input_path='Dataset/Augmented_POSTAG_training_ml.csv'
     #Embedding_path='Word_Embeddings/sumerian_word2vec_50.txt'
     #saved_path='Saved_Models/POS/POS_Bi_LSTM.h5'

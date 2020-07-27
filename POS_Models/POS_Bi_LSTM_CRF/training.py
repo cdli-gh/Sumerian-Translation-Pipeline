@@ -168,7 +168,7 @@ def main():
     model=BUILD_MODEL(X, MAX,len(word2idx),len(tag2idx),embedding_matrix)
     
     
-    history = model.fit(X_train, y_train, epochs=10, batch_size=32,validation_split=0.1, callbacks=[TqdmCallback(verbose=1)])
+    history = model.fit(X_train, y_train, epochs=5, batch_size=32,validation_split=0.1, callbacks=[TqdmCallback(verbose=1)])
     
     evaluate_model(history)
     TestData(model,X_test,y_test,idx2tag)

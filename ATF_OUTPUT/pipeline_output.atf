@@ -1,34 +1,414 @@
-&P509224 = CDLI Seals 012854 (composite)
+&P509668 = FAOS 02, 123
 #atf: lang sux
-@object seal
-@surface a
-1. su-mu-ra-pi2
-#tr.en:Tirmium and
-2. _dumu_ ia-szu-ub-dingir
-#tr.en:son of PN2
-3. _ARAD2_ sza {d}iszkur
-#tr.en:servant of Ikur
+@tablet
+@obverse
+1. 2(ban2) 6(disz) sila3 x x x x
+#tr.en:2 ban2 6 sila3
+2. n(ban2) 1(disz) sila3 bur-ru#-um#
+#tr.en:n ban2 1 sila3 bigcheese
+3. [n(ban2) n] sila3# {d}suen-gi-im-la-an-ni
+#tr.en:n ban2 n sila3 bigcheese
+4. [n(ban2) n] sila3# {[d]}suen#-i-din-nam#
+#tr.en:n ban2 sila3 of Sniddinam
+5. [n(ban2) n sila3 {d}]suen#-szar-rum
+#tr.en:n ban2 n sila3 bigcheese
+6. [n(ban2) n sila3 a]-bi#-ia
+#tr.en:n ban2 n sila3 bigcheese
+7. [n(ban2) n sila3 x]-x {d}suen-li-x
+#tr.en:n ban2 n sila3 bigcheese
+8. 2(ban2)# x ha nam ASZ ia
+#tr.en:2 ban2 of from the great gate of Elam with oil
+9. 1(ban2) i3-li2-tab-ba-e
+#tr.en:sadur and agandul ditch he made
+10. 3(disz) sila3 te-szub#-na-s,ir
+#tr.en:3 sila3 eaflour and 3 sila3 dubdub flour
+11. 6(disz) sila3 x x x NI# x nu
+#tr.en:6 sila3
+@reverse
+1. 1(ban2) ip-qu2-isz8-tar2
+#tr.en:sadur and agandul ditch he made
+2. iti sze-sag11-ku5 u4 1(disz)-kam
+#tr.en:month Harvest 1st day
+$ blank space
 
-&P509225 = CDLI Seals 012855 (composite)
+&P509633 = FAOS 02, 086
 #atf: lang sux
-@object seal
-@surface a
-1. ia-am-s,i2-at-nu-u2
+@tablet
+@obverse
+1. {disz}{d}suen-sze-mi mu-nim#
+#tr.en:puppy cub
+2. sa10 til-la-ni-sze3
+#tr.en:Ummas levied troops he annihilated
+3. 6(disz) gin2 ku3-babbar
+#tr.en:6 shekels of silver 6 shekels of silver
+4. in-na-la2
+#tr.en:did Ilkibr weigh out
+5. ki li-li-lum x-x
 #tr.en:Tirmium and
-2. _dumu_ a-li2-wa-aq-rum
-#tr.en:son of PN2
-3. _ARAD2_ sza {d}...
-#tr.en:servant of
-
-&P509226 = CDLI Seals 012856 (composite)
-#atf: lang sux
-@object seal
-@surface a
-1. ur-{d}nanna
-#tr.en:UrNanna UrNanna UrNanna
-2. _dumu_ {d}suen-i-qi2-sza-am
-#tr.en:son of Sniqam
-3. i-ri {d}su-he2-zi
+6. um-mi-he-pa2-at
+#tr.en:Tirmium and
+7. in-szi-sa10# x x
+#tr.en:give in exchange for it
+8. u4-kur2-kur2-sze3 nu-mu-gi4#-gi4#-dam#
+#tr.en:puppy cub
+9. mu {d}nin-urta
+#tr.en:year Ninurta
+10. u3# ma-na-ba-al-te#-el#
+#tr.en:Anyone who Anyone who Anyone who
+11. in-pa3
+#tr.en:did choose did choose
+@reverse
+1. igi ia-ah-zi-be2-el3
 #tr.en:Zinuba is his son
-4. {d}nin-sza3-tuk-x
+2. dumu isz-me-{d}suen
+#tr.en:son of PN2
+3. igi szu#-la#-ra#-ak#
+#tr.en:Zinuba is his son
+4. igi na#-nu#-szu#-um#
+#tr.en:Zinuba is his son
+5. dumu za#-x-la#-nu#
+#tr.en:son of PN2
+6. igi ku#-nu#-um#
+#tr.en:Zinuba is his son
+7. dumu# nu#-ur2#-ia
+#tr.en:son of PN2
+8. mu [e2 {d}]nin#-urta ma#-[na-ba-al-te-el mu-na-du3]
+#tr.en:year Ninurta the house of Ninurta he built for him
+@envelope
+@reverse
+$ beginning broken
+1'. [dumu isz-me]-{d}suen#
+#tr.en:son of PN2
+2'. [igi szu-la]-ra-ak#
+#tr.en:Zinuba is his son
+3'. [dumu x]-x-x-[x]
+#tr.en:son of PN2
+4'. [igi ku]-nu-um
+#tr.en:Zinuba is his son
+5'. [dumu nu]-ur2-ia#
+#tr.en:son of PN2
+6'. [...] x [...]
+#tr.en:At that time
+$ rest broken
+$ illegible seal impression
+
+&P509634 = FAOS 02, 087
+#atf: lang sux
+@tablet
+@obverse
+$ beginning broken
+1'. ki# a#-[x-x-x]
 #tr.en:Tirmium and
+2'. u3 i-[x-x-x-x]
+#tr.en:Anyone who Anyone who Anyone who
+3'. dumu me-x-[x-x]
+#tr.en:son of PN2
+4'. zi-x-[x-x-x]
+#tr.en:Tirmium and
+5'. dumu NI-[x-x-x]
+#tr.en:son of PN2
+6'. in-szi#-[sa10]
+#tr.en:give in exchange for it
+7'. 5(disz) gin2# [ku3-babbar]
+#tr.en:5 shekels of silver
+8'. sa10# [til-la-ni-sze3]
+#tr.en:Ummas levied troops he annihilated
+9'. [in-na-la2]
+#tr.en:did Ilkibr weigh out
+$ rest broken
+$ illegible seal impression
+
+&P509669 = FAOS 02, 124
+#atf: lang sux
+@tablet
+@obverse
+1. 4(disz)# gu4#-ab2
+#tr.en:4 young oxen turners of
+2. 6(disz)# ab2 mah2
+#tr.en:6 mature cow mature cow
+3. 2(u) 7(disz) gu4 amar-ga
+#tr.en:27 oxen ugidtype
+4. 1(disz) amar nig2 e2 nam-ra#-tum#
+#tr.en:1 calf Amakiengi
+5. nig2-szu la-lum#
+#tr.en:Zinuba is his son
+$ rest broken
+@reverse
+$ beginning broken
+1'. giri3# x-[x-x-x]
+#tr.en:Two doves they were
+2'. i3#-gen-ne-[en]
+#tr.en:Tirmium and
+# restored from FAOS 02, 125 rev. 1-2
+3'. iti# sze-sag11#-ku5# u4 4(disz)-kam
+#tr.en:month Harvest 4th day
+4'. [mu ...]
+#tr.en:year
+$ rest broken
+@envelope
+@obverse
+1. 4(disz)# [gu4-ab2]
+#tr.en:4 young oxen turners of
+2. 6(disz)# [ab2 mah2]
+#tr.en:6 mature cow mature cow
+3. 2(u)# 7(disz)# [gu4 amar-ga]
+#tr.en:27 oxen ugidtype
+4. [1(disz)] amar# [nig2 e2 nam-ra-tum]
+#tr.en:1 calf Amakiengi
+5. [nig2-szu la-lum]
+#tr.en:Zinuba is his son
+$ rest broken
+@reverse
+$ beginning broken
+1'. [giri3 x-x-x-x]
+#tr.en:Two doves they were
+2'. [i3]-gen#-ne#-[en]
+#tr.en:Tirmium and
+3'. iti sze-sag11-ku5# [u4 4(disz)-kam]
+#tr.en:month Harvest 4th day
+4'. mu GISZ# [...]
+#tr.en:cannot be dispersed
+@seal 1
+1. la-lu-um
+#tr.en:Tirmium and
+2. dumu s,a-al-lum
+#tr.en:son of PN2
+
+&P509663 = FAOS 02, 118
+#atf: lang sux
+@tablet
+@obverse
+1. 6(disz) 2/3(disz) gin2 ku3-babbar sa10 2(asz) gur <sze>
+#tr.en:6 23 shekels silver for the price of grain 2 gur of barley
+2. szu ti-a bu-s,um
+#tr.en:Finished tools From LuIbgal Urara weighed
+3. mu ma-ma-ba-al-te-el
+#tr.en:he named it for him
+4. 6(disz) gin2 ku3-babbar sa10 2(asz) gur sze
+#tr.en:6 shekels silver the price of grain 2 gur of barley
+5. szu ti-a a-na-gum
+#tr.en:Finished tools From LuIbgal Urara weighed
+6. mu mu-na-ba-al-te-el
+#tr.en:he named it for him
+@reverse
+1. 1(u) 3(disz)# 1/2(disz) gin2 1(disz)-kam
+#tr.en:13 12 shekels 1 shekel
+2. 1(u) 3(disz)# 1/3(disz) gin2 2(disz)-kam
+#tr.en:13 shekels 12th day
+3. 1/3(disz) ma-<na> 8(disz) igi-6(disz)-gal2 szu-la2
+#tr.en:13 mana 8 16 shekels DUBla
+4. mu ma-na-ba-al-te-<el>
+#tr.en:he named it for him
+$ blank space
+
+&P509670 = FAOS 02, 125
+#atf: lang sux
+@tablet
+@obverse
+$ beginning broken
+1'. [4(disz) ab2 mah2]
+#tr.en:4 mature cows mature cow
+2'. [6(disz) gu4-ab2]
+#tr.en:6 bulls calves young bulls
+3'. [2(u) 2(disz) ab2 amar-ga]
+#tr.en:22 cows calves male mules
+4'. 6(disz)# gu4 amar-ga
+#tr.en:6 214
+5'. ($ blank space $) 3(u) 8(disz) gu4 <ab2> amar-hi-a
+#tr.en:total 38 sheep 38 diverse bulls
+6'. nig2-szu {d}utu-sipa
+#tr.en:Zinuba is his son
+@reverse
+1. giri3# x x x x
+#tr.en:via
+2. i3-gen-ne-en
+#tr.en:Tirmium and
+3. [iti sze]-sag11#-ku5# u4# 4(disz)#-kam#
+#tr.en:month Harvest 4th day
+4. [mu ...]
+#tr.en:year
+@envelope
+$ beginning broken
+1'. [4(disz) ab2 mah2]
+#tr.en:4 mature cows mature cow
+2'. 6(disz) gu4#-[ab2]
+#tr.en:6 bulls calves young bulls
+3'. 2(u) 2(disz)# ab2# [amar-ga]
+#tr.en:22 cows calves male mules
+4'. 6(disz)# gu4 [amar-ga]
+#tr.en:6 214
+5'. ($ blank space $) 3(u)# 8(disz)# [gu4 ab2 amar-hi-a]
+#tr.en:total 38 sheep 38 diverse bulls
+6'. [nig2-szu {d}]utu#-[sipa]
+#tr.en:Zinuba is his son
+$ rest broken
+
+&P509664 = FAOS 02, 119
+#atf: lang sux
+@tablet
+@obverse
+1. 3(disz) gin2 sa10 sze-gesz-i3
+#tr.en:3 shekels silver the price of sesame oil
+2. 2(disz)# gin2 sa10 i3-gesz
+#tr.en:2 shekels oil for oiling garments
+3. 1/2(disz)# gin2 a-hi#-i-ma
+#tr.en:12 workman LuMagana 12 workman Uremah
+4. [n] gin2# a#-[hi]-i#-ma# a-ra2# 2(disz)#-kam
+#tr.en:n shekels of silver further for 1 days
+5. [n gin2 a-hi-i]-ma# a#-[ra2 3(disz)]-kam
+#tr.en:n shekels alkali plant 3 times
+$ rest broken
+@reverse
+$ beginning broken
+1'. szu-nigin 1(u) 7(disz) 1/3(disz) gin2 ku3-babbar
+#tr.en:Total 17 13 shekels silver
+2'. zi-ga
+#tr.en:booked out
+$ blank space
+
+&P509636 = FAOS 02, 089
+#atf: lang sux
+@tablet
+@obverse
+1. {disz}{d}suen-a-hu-szu
+#tr.en:Tirmium and
+2. u3 sza-at-{d}gibil6?
+#tr.en:Anyone who Anyone who Anyone who
+# FAOS 02 reads: -{d}girrum
+3. ha-la e2 ad-da-ni
+#tr.en:His father from the estate of his father
+4. nig2 i3-na-me
+#tr.en:Zinuba is his son
+5. ugu za-za-kum
+#tr.en:Ummas levied troops he annihilated
+6. li-bi2-in-tuku
+#tr.en:may hold him
+@reverse
+1. igi a-mur-i-lu-su2
+#tr.en:Zinuba is his son
+2. igi {d}suen-en-nam szitim
+#tr.en:before Bebe before NurAdda in the builders of Newfield
+3. igi bur-ia
+#tr.en:Zinuba is his son
+4. dumu s,a-li
+#tr.en:son of PN2
+5. igi {d}nanna-zi-sza3-gal2
+#tr.en:Zinuba is his son
+6. iti gan-gan-e3
+#tr.en:months in Nippur months in Nippur
+7. mu {gesz}gu-za za3-bi-us2# 3(disz)-a-bi {d}en-lil2 {d}nin#-urta# {d}nin-nibru{ki} ma-na-ba-al-te-el
+#tr.en:year The throne of the builtup city be captured by the bird feather brings out at the place of office
+@envelope
+@obverse
+1. {disz}{d}suen-a-hu-[szu]
+#tr.en:Tirmium and
+2. u3 sza-at-{d}gibil6#
+#tr.en:Anyone who Anyone who Anyone who
+3. ha-la e2 ad-da-ni
+#tr.en:His father from the estate of his father
+4. nig2 na-me
+#tr.en:is there
+5. ugu za-za-kum
+#tr.en:Ummas levied troops he annihilated
+6. li-bi2-in-tuku
+#tr.en:may hold him
+7. igi a-mur-i-lu-su2
+#tr.en:Zinuba is his son
+8. igi {d}suen-en-nam szitim
+#tr.en:before Bebe before NurAdda in the builders of Newfield
+@reverse
+3. [igi bur]-ia dumu s,a-li
+#tr.en:licked The sons of the widows children was your servant
+5. [igi {d}nanna]-zi-sza3-gal2
+#tr.en:Zinuba is his son
+6. [iti] gan#-gan-e3
+#tr.en:months in Nippur months in Nippur
+7. mu# {[gesz]}gu#-za# [za3-bi-us2 3(disz)-a-bi] {d}[en-lil2 {d}nin-urta {d}nin]-nibru#{ki} ma-na-[dim2]
+#tr.en:year The throne of the builtup city be captured by the bird feather brings out at the place of office
+@seal 1
+1. {d}suen-a-bu-szu
+#tr.en:His kingly he built for him
+2. dumu za-pa-ti
+#tr.en:son of PN2
+
+&P509671 = FAOS 02, 126
+#atf: lang sux
+@tablet
+@obverse
+1. 5(disz)# ab2 mah2#
+#tr.en:5 mature cow mature cow
+2. [1(disz)] ab2# mu# 1(disz)#
+#tr.en:1 heifer 1 year old
+3. 2(disz)# gu4# mu# 2(disz)#
+#tr.en:2 bulls 2 years old 2 bulls 2 years old
+4. 1(disz)# gu4# mu# 1(disz)#
+#tr.en:1 bull 1 year old
+5. 1(disz)# gu4# amar#-ga#
+#tr.en:1 ox hoof
+6. 1(disz)# ab2# amar#-ga#
+#tr.en:1 cow 1 cow
+7. ($ blank space $) 1(u) 1(disz)# gu4# ab2# amar
+#tr.en:subtotal 11 oxen 1 cow
+8. ($ blank space $) dingir#-[na]-s,ir#
+#tr.en:subtotal 798
+9. 2(disz)# ab2# mah2# 2(disz)# ab2# mu# 1(disz)
+#tr.en:2 heifers 2 years old 2 heifers 1 year old
+10. 1(disz)# ab2# [amar-ga]
+#tr.en:1 cow 1 cow
+11. 1(disz) gu4 amar-ga
+#tr.en:1 ox hoof
+12. ($ blank space $) 6(disz)# er3#-ra!-ha#-bi#-it#
+#tr.en:subtotal 6 214
+13. 4(disz) ab2# mah2#
+#tr.en:4 mature cows mature cow
+14. 2(disz) ab2 amar#-ga#
+#tr.en:2 heifers 2 lines
+15. 1(disz)# gu4 amar#-ga#
+#tr.en:1 ox hoof
+16. [n] ab2 amar-ga
+#tr.en:cow that has captured cow
+$ rest broken
+@reverse
+$ beginning broken
+1'. [n ab2] mu# [n]
+#tr.en:n heifers n years old
+2'. [n] gu4# mu [2(disz)]
+#tr.en:n oxen 2 years old 2 bulls 2 years old
+3'. 1(disz) gu4 mu 1(disz)
+#tr.en:1 bull 1 year old
+4'. 1(disz) gu4 amar-ga
+#tr.en:1 ox hoof
+5'. 1(disz) ab2 amar-ga
+#tr.en:1 cow 1 cow
+6'. ($ blank space $) 8(disz) a-hu-um-ma
+#tr.en:subtotal 263
+7'. 1(disz) ab2 mah2
+#tr.en:1 mature cow mature cow
+8'. 1(disz) gu4 mu 3(disz)
+#tr.en:1 bull 3 years old
+9'. 1(disz)# gu4# mu 1(disz)
+#tr.en:1 bull 1 year old
+10'. 1(disz) ab2 amar-ga
+#tr.en:1 cow 1 cow
+11'. ($ blank space $) 4(disz) {d}suen-na-s,i-ir#
+#tr.en:subtotal 4 2th day
+12'. 2(disz) ab2 mah2
+#tr.en:2 mature cows mature cow
+13'. 2(disz) ab2 mu 2(disz) 1(disz) gu4 mu# [n]
+#tr.en:2 heifers 2 years old 1 bull n years old
+14'. ($ blank space $) 5(disz) sza3 2(u) a-ra2 1(disz)-kam
+#tr.en:subtotal 5 first time
+15'. 5(disz) ab2 mah2 2(disz) ab2 mu [2(disz)]
+#tr.en:5 mature cows 2 heifers 2 years old
+16'. 2(disz) ab2 mu 1(disz) 2(disz) gu4 mu 1(disz)
+#tr.en:2 heifers 1 year old 2 bulls 1 year old
+17'. 3(disz) gu4 mu 2(disz) 3(disz) gu4 mu# [3(disz)]
+#tr.en:3 oxen 2 years old 2 bulls 3 years old
+18'. ($ blank space $) 1(u) 7(disz) x [...]
+#tr.en:total 17
+19'. nig2-szu {d}suen#-[x-x]
+#tr.en:All of Sn
+@left
+# traces of 2 lines for which Kienast suggests final totals:
+# (a-ra2 2(disz)-kam na-gada PN)
+# (szu-nigin2 n ab2 gu4 amar)

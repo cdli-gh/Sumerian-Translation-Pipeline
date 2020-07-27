@@ -1,30 +1,486 @@
 1
-sentence: su-mu-ra-pi2
-POS:(su-mu-ra-pi2,NE) 
+sentence: 2(ban2) 6(disz) sila3 x x x x
+POS:(2(ban2),N) (6(disz),NU) (sila3,N) (x,O) (x,O) (x,O) (x,O) 
 2
-sentence: dumu ia-szu-ub-dingir
-POS:(dumu,N) (ia-szu-ub-dingir,NE) 
+sentence: n(ban2) 1(disz) sila3 bur-ru-um
+POS:(n(ban2),N) (1(disz),NU) (sila3,N) (bur-ru-um,NE) 
 3
-sentence: ARAD2 sza {d}iszkur
-POS:(ARAD2,N) (sza,N) ({d}iszkur,NE) 
+sentence: n(ban2) n sila3 {d}suen-gi-im-la-an-ni
+POS:(n(ban2),N) (n,NU) (sila3,N) ({d}suen-gi-im-la-an-ni,NE) 
 4
-sentence: ia-am-si2-at-nu-u2
-POS:(ia-am-si2-at-nu-u2,NE) 
+sentence: n(ban2) n sila3 {d}suen-i-din-nam
+POS:(n(ban2),N) (n,NU) (sila3,N) ({d}suen-i-din-nam,NE) 
 5
-sentence: dumu a-li2-wa-aq-rum
-POS:(dumu,N) (a-li2-wa-aq-rum,NE) 
+sentence: n(ban2) n sila3 {d}suen-szar-rum
+POS:(n(ban2),N) (n,NU) (sila3,N) ({d}suen-szar-rum,NE) 
 6
-sentence: ARAD2 sza {d}...
-POS:(ARAD2,N) (sza,N) ({d}...,NE) 
+sentence: n(ban2) n sila3 a-bi-ia
+POS:(n(ban2),N) (n,NU) (sila3,N) (a-bi-ia,NE) 
 7
-sentence: ur-{d}nanna
-POS:(ur-{d}nanna,NE) 
+sentence: n(ban2) n sila3 x-x {d}suen-li-x
+POS:(n(ban2),N) (n,NU) (sila3,N) (x-x,O) ({d}suen-li-x,NE) 
 8
-sentence: dumu {d}suen-i-qi2-sza-am
-POS:(dumu,N) ({d}suen-i-qi2-sza-am,NE) 
+sentence: 2(ban2) x ha nam ASZ ia
+POS:(2(ban2),N) (x,O) (ha,O) (nam,N) (ASZ,O) (ia,V) 
 9
-sentence: i-ri {d}su-he2-zi
-POS:(i-ri,N) ({d}su-he2-zi,NE) 
+sentence: 1(ban2) i3-li2-tab-ba-e
+POS:(1(ban2),N) (i3-li2-tab-ba-e,NE) 
 10
-sentence: {d}nin-sza3-tuk-x
-POS:({d}nin-sza3-tuk-x,NE) 
+sentence: 3(disz) sila3 te-szub-na-sir
+POS:(3(disz),NU) (sila3,N) (te-szub-na-sir,NE) 
+11
+sentence: 6(disz) sila3 x x x NI x nu
+POS:(6(disz),NU) (sila3,N) (x,O) (x,O) (x,O) (NI,O) (x,O) (nu,V) 
+12
+sentence: 1(ban2) ip-qu2-isz8-tar2
+POS:(1(ban2),N) (ip-qu2-isz8-tar2,NE) 
+13
+sentence: iti sze-sag11-ku5 u4 1(disz)-kam
+POS:(iti,N) (sze-sag11-ku5,N) (u4,N) (1(disz)-kam,NU) 
+14
+sentence: {disz}{d}suen-sze-mi mu-nim
+POS:({disz}{d}suen-sze-mi,N) (mu-nim,V) 
+15
+sentence: sa10 til-la-ni-sze3
+POS:(sa10,N) (til-la-ni-sze3,V) 
+16
+sentence: 6(disz) gin2 ku3-babbar
+POS:(6(disz),NU) (gin2,N) (ku3-babbar,N) 
+17
+sentence: in-na-la2
+POS:(in-na-la2,NE) 
+18
+sentence: ki li-li-lum x-x
+POS:(ki,N) (li-li-lum,NE) (x-x,O) 
+19
+sentence: um-mi-he-pa2-at
+POS:(um-mi-he-pa2-at,NE) 
+20
+sentence: in-szi-sa10 x x
+POS:(in-szi-sa10,O) (x,O) (x,O) 
+21
+sentence: u4-kur2-kur2-sze3 nu-mu-gi4-gi4-dam
+POS:(u4-kur2-kur2-sze3,N) (nu-mu-gi4-gi4-dam,V) 
+22
+sentence: mu {d}nin-urta
+POS:(mu,N) ({d}nin-urta,NE) 
+23
+sentence: u3 ma-na-ba-al-te-el
+POS:(u3,CNJ) (ma-na-ba-al-te-el,NE) 
+24
+sentence: in-pa3
+POS:(in-pa3,NE) 
+25
+sentence: igi ia-ah-zi-be2-el3
+POS:(igi,N) (ia-ah-zi-be2-el3,V) 
+26
+sentence: dumu isz-me-{d}suen
+POS:(dumu,N) (isz-me-{d}suen,NE) 
+27
+sentence: igi szu-la-ra-ak
+POS:(igi,N) (szu-la-ra-ak,V) 
+28
+sentence: igi na-nu-szu-um
+POS:(igi,N) (na-nu-szu-um,V) 
+29
+sentence: dumu za-x-la-nu
+POS:(dumu,N) (za-x-la-nu,NE) 
+30
+sentence: igi ku-nu-um
+POS:(igi,N) (ku-nu-um,V) 
+31
+sentence: dumu nu-ur2-ia
+POS:(dumu,N) (nu-ur2-ia,NE) 
+32
+sentence: mu e2 {d}nin-urta ma-na-ba-al-te-el mu-na-du3
+POS:(mu,N) (e2,N) ({d}nin-urta,NE) (ma-na-ba-al-te-el,NE) (mu-na-du3,V) 
+33
+sentence: dumu isz-me-{d}suen
+POS:(dumu,N) (isz-me-{d}suen,NE) 
+34
+sentence: igi szu-la-ra-ak
+POS:(igi,N) (szu-la-ra-ak,V) 
+35
+sentence: dumu x-x-x-x
+POS:(dumu,N) (x-x-x-x,NE) 
+36
+sentence: igi ku-nu-um
+POS:(igi,N) (ku-nu-um,V) 
+37
+sentence: dumu nu-ur2-ia
+POS:(dumu,N) (nu-ur2-ia,NE) 
+38
+sentence: ... x ...
+POS:(...,O) (x,O) (...,O) 
+39
+sentence: ki a-x-x-x
+POS:(ki,N) (a-x-x-x,NE) 
+40
+sentence: u3 i-x-x-x-x
+POS:(u3,CNJ) (i-x-x-x-x,NE) 
+41
+sentence: dumu me-x-x-x
+POS:(dumu,N) (me-x-x-x,NE) 
+42
+sentence: zi-x-x-x-x
+POS:(zi-x-x-x-x,NE) 
+43
+sentence: dumu NI-x-x-x
+POS:(dumu,N) (NI-x-x-x,NE) 
+44
+sentence: in-szi-sa10
+POS:(in-szi-sa10,O) 
+45
+sentence: 5(disz) gin2 ku3-babbar
+POS:(5(disz),NU) (gin2,N) (ku3-babbar,N) 
+46
+sentence: sa10 til-la-ni-sze3
+POS:(sa10,N) (til-la-ni-sze3,V) 
+47
+sentence: in-na-la2
+POS:(in-na-la2,NE) 
+48
+sentence: 4(disz) gu4-ab2
+POS:(4(disz),NU) (gu4-ab2,NE) 
+49
+sentence: 6(disz) ab2 mah2
+POS:(6(disz),NU) (ab2,N) (mah2,N) 
+50
+sentence: 2(u) 7(disz) gu4 amar-ga
+POS:(2(u),NU) (7(disz),NU) (gu4,N) (amar-ga,N) 
+51
+sentence: 1(disz) amar nig2 e2 nam-ra-tum
+POS:(1(disz),NU) (amar,N) (nig2,N) (e2,N) (nam-ra-tum,NE) 
+52
+sentence: nig2-szu la-lum
+POS:(nig2-szu,N) (la-lum,NE) 
+53
+sentence: giri3 x-x-x-x
+POS:(giri3,N) (x-x-x-x,NE) 
+54
+sentence: i3-gen-ne-en
+POS:(i3-gen-ne-en,NE) 
+55
+sentence: iti sze-sag11-ku5 u4 4(disz)-kam
+POS:(iti,N) (sze-sag11-ku5,N) (u4,N) (4(disz)-kam,NU) 
+56
+sentence: mu ...
+POS:(mu,N) (...,O) 
+57
+sentence: 4(disz) gu4-ab2
+POS:(4(disz),NU) (gu4-ab2,NE) 
+58
+sentence: 6(disz) ab2 mah2
+POS:(6(disz),NU) (ab2,N) (mah2,N) 
+59
+sentence: 2(u) 7(disz) gu4 amar-ga
+POS:(2(u),NU) (7(disz),NU) (gu4,N) (amar-ga,N) 
+60
+sentence: 1(disz) amar nig2 e2 nam-ra-tum
+POS:(1(disz),NU) (amar,N) (nig2,N) (e2,N) (nam-ra-tum,NE) 
+61
+sentence: nig2-szu la-lum
+POS:(nig2-szu,N) (la-lum,NE) 
+62
+sentence: giri3 x-x-x-x
+POS:(giri3,N) (x-x-x-x,NE) 
+63
+sentence: i3-gen-ne-en
+POS:(i3-gen-ne-en,NE) 
+64
+sentence: iti sze-sag11-ku5 u4 4(disz)-kam
+POS:(iti,N) (sze-sag11-ku5,N) (u4,N) (4(disz)-kam,NU) 
+65
+sentence: mu GISZ ...
+POS:(mu,N) (GISZ,O) (...,O) 
+66
+sentence: la-lu-um
+POS:(la-lu-um,NE) 
+67
+sentence: dumu sa-al-lum
+POS:(dumu,N) (sa-al-lum,NE) 
+68
+sentence: 6(disz) 2/3(disz) gin2 ku3-babbar sa10 2(asz) gur sze
+POS:(6(disz),NU) (2/3(disz),NU) (gin2,N) (ku3-babbar,N) (sa10,NU) (2(asz),NU) (gur,N) (sze,N) 
+69
+sentence: szu ti-a bu-sum
+POS:(szu,N) (ti-a,V) (bu-sum,V) 
+70
+sentence: mu ma-ma-ba-al-te-el
+POS:(mu,N) (ma-ma-ba-al-te-el,NE) 
+71
+sentence: 6(disz) gin2 ku3-babbar sa10 2(asz) gur sze
+POS:(6(disz),NU) (gin2,N) (ku3-babbar,N) (sa10,NU) (2(asz),NU) (gur,N) (sze,N) 
+72
+sentence: szu ti-a a-na-gum
+POS:(szu,N) (ti-a,V) (a-na-gum,V) 
+73
+sentence: mu mu-na-ba-al-te-el
+POS:(mu,N) (mu-na-ba-al-te-el,NE) 
+74
+sentence: 1(u) 3(disz) 1/2(disz) gin2 1(disz)-kam
+POS:(1(u),NU) (3(disz),NU) (1/2(disz),NU) (gin2,N) (1(disz)-kam,NU) 
+75
+sentence: 1(u) 3(disz) 1/3(disz) gin2 2(disz)-kam
+POS:(1(u),NU) (3(disz),NU) (1/3(disz),NU) (gin2,N) (2(disz)-kam,NU) 
+76
+sentence: 1/3(disz) ma-na 8(disz) igi-6(disz)-gal2 szu-la2
+POS:(1/3(disz),NU) (ma-na,N) (8(disz),NU) (igi-6(disz)-gal2,NU) (szu-la2,NE) 
+77
+sentence: mu ma-na-ba-al-te-el
+POS:(mu,N) (ma-na-ba-al-te-el,NE) 
+78
+sentence: 4(disz) ab2 mah2
+POS:(4(disz),NU) (ab2,N) (mah2,N) 
+79
+sentence: 6(disz) gu4-ab2
+POS:(6(disz),NU) (gu4-ab2,NE) 
+80
+sentence: 2(u) 2(disz) ab2 amar-ga
+POS:(2(u),NU) (2(disz),NU) (ab2,N) (amar-ga,N) 
+81
+sentence: 6(disz) gu4 amar-ga
+POS:(6(disz),NU) (gu4,N) (amar-ga,V) 
+82
+sentence: ($ blank space $) 3(u) 8(disz) gu4 ab2 amar-hi-a
+POS:(($,N) (blank,NU) (space,NU) ($),NU) (3(u),NU) (8(disz),NU) (gu4,N) (ab2,N) (amar-hi-a,V) 
+83
+sentence: nig2-szu {d}utu-sipa
+POS:(nig2-szu,N) ({d}utu-sipa,V) 
+84
+sentence: giri3 x x x x
+POS:(giri3,N) (x,O) (x,O) (x,O) (x,O) 
+85
+sentence: i3-gen-ne-en
+POS:(i3-gen-ne-en,NE) 
+86
+sentence: iti sze-sag11-ku5 u4 4(disz)-kam
+POS:(iti,N) (sze-sag11-ku5,N) (u4,N) (4(disz)-kam,NU) 
+87
+sentence: mu ...
+POS:(mu,N) (...,O) 
+88
+sentence: 4(disz) ab2 mah2
+POS:(4(disz),NU) (ab2,N) (mah2,N) 
+89
+sentence: 6(disz) gu4-ab2
+POS:(6(disz),NU) (gu4-ab2,NE) 
+90
+sentence: 2(u) 2(disz) ab2 amar-ga
+POS:(2(u),NU) (2(disz),NU) (ab2,N) (amar-ga,N) 
+91
+sentence: 6(disz) gu4 amar-ga
+POS:(6(disz),NU) (gu4,N) (amar-ga,V) 
+92
+sentence: ($ blank space $) 3(u) 8(disz) gu4 ab2 amar-hi-a
+POS:(($,N) (blank,NU) (space,NU) ($),NU) (3(u),NU) (8(disz),NU) (gu4,N) (ab2,N) (amar-hi-a,V) 
+93
+sentence: nig2-szu {d}utu-sipa
+POS:(nig2-szu,N) ({d}utu-sipa,V) 
+94
+sentence: 3(disz) gin2 sa10 sze-gesz-i3
+POS:(3(disz),NU) (gin2,N) (sa10,N) (sze-gesz-i3,NE) 
+95
+sentence: 2(disz) gin2 sa10 i3-gesz
+POS:(2(disz),NU) (gin2,N) (sa10,N) (i3-gesz,N) 
+96
+sentence: 1/2(disz) gin2 a-hi-i-ma
+POS:(1/2(disz),NU) (gin2,N) (a-hi-i-ma,NE) 
+97
+sentence: n gin2 a-hi-i-ma a-ra2 2(disz)-kam
+POS:(n,NU) (gin2,N) (a-hi-i-ma,NE) (a-ra2,N) (2(disz)-kam,NU) 
+98
+sentence: n gin2 a-hi-i-ma a-ra2 3(disz)-kam
+POS:(n,NU) (gin2,N) (a-hi-i-ma,NE) (a-ra2,N) (3(disz)-kam,NU) 
+99
+sentence: szu-nigin 1(u) 7(disz) 1/3(disz) gin2 ku3-babbar
+POS:(szu-nigin,NU) (1(u),NU) (7(disz),NU) (1/3(disz),NU) (gin2,N) (ku3-babbar,N) 
+100
+sentence: zi-ga
+POS:(zi-ga,V) 
+101
+sentence: {disz}{d}suen-a-hu-szu
+POS:({disz}{d}suen-a-hu-szu,NE) 
+102
+sentence: u3 sza-at-{d}gibil6
+POS:(u3,CNJ) (sza-at-{d}gibil6,NE) 
+103
+sentence: ha-la e2 ad-da-ni
+POS:(ha-la,NE) (e2,N) (ad-da-ni,V) 
+104
+sentence: nig2 i3-na-me
+POS:(nig2,N) (i3-na-me,V) 
+105
+sentence: ugu za-za-kum
+POS:(ugu,N) (za-za-kum,V) 
+106
+sentence: li-bi2-in-tuku
+POS:(li-bi2-in-tuku,NE) 
+107
+sentence: igi a-mur-i-lu-su2
+POS:(igi,N) (a-mur-i-lu-su2,V) 
+108
+sentence: igi {d}suen-en-nam szitim
+POS:(igi,N) ({d}suen-en-nam,NE) (szitim,N) 
+109
+sentence: igi bur-ia
+POS:(igi,N) (bur-ia,V) 
+110
+sentence: dumu sa-li
+POS:(dumu,N) (sa-li,NE) 
+111
+sentence: igi {d}nanna-zi-sza3-gal2
+POS:(igi,N) ({d}nanna-zi-sza3-gal2,NE) 
+112
+sentence: iti gan-gan-e3
+POS:(iti,N) (gan-gan-e3,NE) 
+113
+sentence: mu {gesz}gu-za za3-bi-us2 3(disz)-a-bi {d}en-lil2 {d}nin-urta {d}nin-nibru{ki} ma-na-ba-al-te-el
+POS:(mu,N) ({gesz}gu-za,N) (za3-bi-us2,NE) (3(disz)-a-bi,N) ({d}en-lil2,NE) ({d}nin-urta,NE) ({d}nin-nibru{ki},N) (ma-na-ba-al-te-el,V) 
+114
+sentence: {disz}{d}suen-a-hu-szu
+POS:({disz}{d}suen-a-hu-szu,NE) 
+115
+sentence: u3 sza-at-{d}gibil6
+POS:(u3,CNJ) (sza-at-{d}gibil6,NE) 
+116
+sentence: ha-la e2 ad-da-ni
+POS:(ha-la,NE) (e2,N) (ad-da-ni,V) 
+117
+sentence: nig2 na-me
+POS:(nig2,N) (na-me,V) 
+118
+sentence: ugu za-za-kum
+POS:(ugu,N) (za-za-kum,V) 
+119
+sentence: li-bi2-in-tuku
+POS:(li-bi2-in-tuku,NE) 
+120
+sentence: igi a-mur-i-lu-su2
+POS:(igi,N) (a-mur-i-lu-su2,V) 
+121
+sentence: igi {d}suen-en-nam szitim
+POS:(igi,N) ({d}suen-en-nam,NE) (szitim,N) 
+122
+sentence: igi bur-ia dumu sa-li
+POS:(igi,N) (bur-ia,NE) (dumu,N) (sa-li,NE) 
+123
+sentence: igi {d}nanna-zi-sza3-gal2
+POS:(igi,N) ({d}nanna-zi-sza3-gal2,NE) 
+124
+sentence: iti gan-gan-e3
+POS:(iti,N) (gan-gan-e3,NE) 
+125
+sentence: mu {gesz}gu-za za3-bi-us2 3(disz)-a-bi {d}en-lil2 {d}nin-urta {d}nin-nibru{ki} ma-na-dim2
+POS:(mu,N) ({gesz}gu-za,N) (za3-bi-us2,NE) (3(disz)-a-bi,N) ({d}en-lil2,NE) ({d}nin-urta,NE) ({d}nin-nibru{ki},N) (ma-na-dim2,V) 
+126
+sentence: {d}suen-a-bu-szu
+POS:({d}suen-a-bu-szu,NE) 
+127
+sentence: dumu za-pa-ti
+POS:(dumu,N) (za-pa-ti,NE) 
+128
+sentence: 5(disz) ab2 mah2
+POS:(5(disz),NU) (ab2,N) (mah2,N) 
+129
+sentence: 1(disz) ab2 mu 1(disz)
+POS:(1(disz),NU) (ab2,N) (mu,N) (1(disz),NU) 
+130
+sentence: 2(disz) gu4 mu 2(disz)
+POS:(2(disz),NU) (gu4,N) (mu,N) (2(disz),NU) 
+131
+sentence: 1(disz) gu4 mu 1(disz)
+POS:(1(disz),NU) (gu4,N) (mu,N) (1(disz),NU) 
+132
+sentence: 1(disz) gu4 amar-ga
+POS:(1(disz),NU) (gu4,N) (amar-ga,V) 
+133
+sentence: 1(disz) ab2 amar-ga
+POS:(1(disz),NU) (ab2,N) (amar-ga,V) 
+134
+sentence: ($ blank space $) 1(u) 1(disz) gu4 ab2 amar
+POS:(($,NU) (blank,NU) (space,NU) ($),NU) (1(u),NU) (1(disz),NU) (gu4,N) (ab2,N) (amar,N) 
+135
+sentence: ($ blank space $) dingir-na-sir
+POS:(($,N) (blank,NU) (space,NU) ($),NU) (dingir-na-sir,NE) 
+136
+sentence: 2(disz) ab2 mah2 2(disz) ab2 mu 1(disz)
+POS:(2(disz),NU) (ab2,N) (mah2,N) (2(disz),NU) (ab2,N) (mu,N) (1(disz),NU) 
+137
+sentence: 1(disz) ab2 amar-ga
+POS:(1(disz),NU) (ab2,N) (amar-ga,V) 
+138
+sentence: 1(disz) gu4 amar-ga
+POS:(1(disz),NU) (gu4,N) (amar-ga,V) 
+139
+sentence: ($ blank space $) 6(disz) er3-ra-ha-bi-it
+POS:(($,N) (blank,NU) (space,NU) ($),NU) (6(disz),NU) (er3-ra-ha-bi-it,NE) 
+140
+sentence: 4(disz) ab2 mah2
+POS:(4(disz),NU) (ab2,N) (mah2,N) 
+141
+sentence: 2(disz) ab2 amar-ga
+POS:(2(disz),NU) (ab2,N) (amar-ga,V) 
+142
+sentence: 1(disz) gu4 amar-ga
+POS:(1(disz),NU) (gu4,N) (amar-ga,V) 
+143
+sentence: n ab2 amar-ga
+POS:(n,NU) (ab2,N) (amar-ga,V) 
+144
+sentence: n ab2 mu n
+POS:(n,NU) (ab2,N) (mu,N) (n,NU) 
+145
+sentence: n gu4 mu 2(disz)
+POS:(n,NU) (gu4,N) (mu,N) (2(disz),NU) 
+146
+sentence: 1(disz) gu4 mu 1(disz)
+POS:(1(disz),NU) (gu4,N) (mu,N) (1(disz),NU) 
+147
+sentence: 1(disz) gu4 amar-ga
+POS:(1(disz),NU) (gu4,N) (amar-ga,V) 
+148
+sentence: 1(disz) ab2 amar-ga
+POS:(1(disz),NU) (ab2,N) (amar-ga,V) 
+149
+sentence: ($ blank space $) 8(disz) a-hu-um-ma
+POS:(($,N) (blank,NU) (space,NU) ($),NU) (8(disz),NU) (a-hu-um-ma,NE) 
+150
+sentence: 1(disz) ab2 mah2
+POS:(1(disz),NU) (ab2,N) (mah2,N) 
+151
+sentence: 1(disz) gu4 mu 3(disz)
+POS:(1(disz),NU) (gu4,N) (mu,N) (3(disz),NU) 
+152
+sentence: 1(disz) gu4 mu 1(disz)
+POS:(1(disz),NU) (gu4,N) (mu,N) (1(disz),NU) 
+153
+sentence: 1(disz) ab2 amar-ga
+POS:(1(disz),NU) (ab2,N) (amar-ga,V) 
+154
+sentence: ($ blank space $) 4(disz) {d}suen-na-si-ir
+POS:(($,N) (blank,NU) (space,NU) ($),NU) (4(disz),NU) ({d}suen-na-si-ir,NE) 
+155
+sentence: 2(disz) ab2 mah2
+POS:(2(disz),NU) (ab2,N) (mah2,N) 
+156
+sentence: 2(disz) ab2 mu 2(disz) 1(disz) gu4 mu n
+POS:(2(disz),NU) (ab2,N) (mu,N) (2(disz),NU) (1(disz),NU) (gu4,N) (mu,N) (n,NU) 
+157
+sentence: ($ blank space $) 5(disz) sza3 2(u) a-ra2 1(disz)-kam
+POS:(($,N) (blank,NU) (space,NU) ($),NU) (5(disz),NU) (sza3,N) (2(u),NU) (a-ra2,N) (1(disz)-kam,NU) 
+158
+sentence: 5(disz) ab2 mah2 2(disz) ab2 mu 2(disz)
+POS:(5(disz),NU) (ab2,N) (mah2,N) (2(disz),NU) (ab2,N) (mu,N) (2(disz),NU) 
+159
+sentence: 2(disz) ab2 mu 1(disz) 2(disz) gu4 mu 1(disz)
+POS:(2(disz),NU) (ab2,N) (mu,N) (1(disz),NU) (2(disz),NU) (gu4,N) (mu,N) (1(disz),NU) 
+160
+sentence: 3(disz) gu4 mu 2(disz) 3(disz) gu4 mu 3(disz)
+POS:(3(disz),NU) (gu4,N) (mu,N) (2(disz),NU) (3(disz),NU) (gu4,N) (mu,N) (3(disz),NU) 
+161
+sentence: ($ blank space $) 1(u) 7(disz) x ...
+POS:(($,N) (blank,NU) (space,NU) ($),NU) (1(u),NU) (7(disz),NU) (x,O) (...,O) 
+162
+sentence: nig2-szu {d}suen-x-x
+POS:(nig2-szu,N) ({d}suen-x-x,V) 

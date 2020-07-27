@@ -103,6 +103,7 @@ def embeddings(word2idx):
 def BUILD_MODEL(X,MAX,n_words,n_tags,embedding_matrix):
     input_word = Input(shape = (MAX,))
     model=Embedding(input_dim=n_words,input_length=X.shape[1], output_dim=embedding_matrix.shape[1], weights=[embedding_matrix],trainable=False)(input_word)
+    model=Bidirectional(LSTM(64, return_sequences=True, dropout=0.2, recurrent_dropout=0.2))(model)
     model=Bidirectional(LSTM(32, return_sequences=True, dropout=0.2, recurrent_dropout=0.2))(model)
     out=TimeDistributed(Dense(n_tags, activation ='softmax'))(model)
     model = Model(input_word, out)
@@ -174,7 +175,7 @@ def main():
     
     
 if __name__=='__main__':
-    MAX=50
+    MAX=30
     #Input_path='Dataset/Augmented_NER_training_ml.csv'
     #Embedding_path='Word_Embeddings/sumerian_word2vec_50.txt'
     #saved_path='Saved_Models/NER_BiLSTM_model.h5'

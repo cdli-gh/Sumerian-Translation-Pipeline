@@ -3,6 +3,8 @@ import os
 import subprocess
 import unicodedata
 import argparse
+from FLAIR.predict import Predictions
+
 stopping_chars=["@", "#", "&", "$"]
 
 
@@ -115,12 +117,26 @@ def main():
     
     #POS MODEL
     print("Running Part of speech Model for Sumerian Language")
-    os.system(f'python3 {pos_path} -i {output_dir}pipeline.txt -o {output_dir}pos_pipeline.txt')
+    if Flair==False:
+        os.system(f'python3 {pos_path} -i {output_dir}pipeline.txt -o {output_dir}pos_pipeline.txt')
+    else:
+        print("Using Flair Model")
+        inp=output_dir+'/pipeline.txt'
+        out=output_dir+'/pos_pipeline.txt'
+        obj=Predictions(inp,out,True,False)
+        obj.predict()
     
     #NER MODEL
     print("Running Named entity recognation Model for Sumerian Language")
-    os.system(f'python3 {ner_path} -i {output_dir}pipeline.txt -o {output_dir}ner_pipeline.txt')
-    
+    if Flair==False:
+        os.system(f'python3 {ner_path} -i {output_dir}pipeline.txt -o {output_dir}ner_pipeline.txt')
+    else:
+        print("Using Flair Model")
+        inp=output_dir+'/pipeline.txt'
+        out=output_dir+'/ner_pipeline.txt'
+        obj=Predictions(inp,out,False,True)
+        obj.predict()
+        
     #Translation MODEL
     print("Running Translation Model for Sumerian Language")
     if GPU==False:
@@ -150,6 +166,7 @@ if __name__=='__main__':
     parser.add_argument("-t","--trans",help="Machine Translation Model to be used",choices=['Transformer'], default="Transformer" )
     parser.add_argument("-o","--output",help="Location of output Directory", default='ATF_OUTPUT/')
     parser.add_argument("-g","--gpu",help="Use of GPU if avaliable", default=False)
+    parser.add_argument("-f","--flair",help="Use of flair language model", default=False)
     
     args=parser.parse_args()
     
@@ -159,6 +176,7 @@ if __name__=='__main__':
     trans_path='Translation_Models/'+args.trans+'.pt'
     output_dir=args.output
     GPU=args.gpu
+    Flair=args.flair
     
     print("\n")
     print("Input file is ", input_path)
@@ -167,6 +185,7 @@ if __name__=='__main__':
     print("Translation Model path is ", trans_path)
     print("Output directory is", output_dir)
     print("GPU", GPU)
+    print("Flair_Model", Flair)
     print("\n")
     
     main()

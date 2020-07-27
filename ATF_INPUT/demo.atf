@@ -1,24 +1,252 @@
-&P509224 = CDLI Seals 012854 (composite) 
-#atf: lang sux 
-@object seal 
-@surface a 
-1. su-mu-ra-pi2 
-2. _dumu_ ia-szu-ub-dingir 
-3. _ARAD2_ sza {d}iszkur 
+&P509668 = FAOS 02, 123  
+#atf: lang sux  
+@tablet 
+@obverse 
+1. 2(ban2) 6(disz) sila3 x x x x 
+2. n(ban2) 1(disz) sila3 bur-ru#-um# 
+3. [n(ban2) n] sila3# {d}suen-gi-im-la-an-ni 
+4. [n(ban2) n] sila3# {[d]}suen#-i-din-nam#  
+5. [n(ban2) n sila3 {d}]suen#-szar-rum 
+6. [n(ban2) n sila3 a]-bi#-ia 
+7. [n(ban2) n sila3 x]-x {d}suen-li-x 
+8. 2(ban2)# x ha nam ASZ ia  
+9. 1(ban2) i3-li2-tab-ba-e 
+10. 3(disz) sila3 te-szub#-na-s,ir 
+11. 6(disz) sila3 x x x NI# x nu 
+@reverse 
+1. 1(ban2) ip-qu2-isz8-tar2 
+2. iti sze-sag11-ku5 u4 1(disz)-kam 
+$ blank space 
 
-&P509225 = CDLI Seals 012855 (composite) 
+&P509633 = FAOS 02, 086 
 #atf: lang sux 
-@object seal 
-@surface a 
-1. ia-am-s,i2-at-nu-u2 
-2. _dumu_ a-li2-wa-aq-rum 
-3. _ARAD2_ sza {d}... 
+@tablet 
+@obverse 
+1. {disz}{d}suen-sze-mi mu-nim# 
+2. sa10 til-la-ni-sze3 
+3. 6(disz) gin2 ku3-babbar 
+4. in-na-la2 
+5. ki li-li-lum x-x 
+6. um-mi-he-pa2-at 
+7. in-szi-sa10# x x 
+8. u4-kur2-kur2-sze3 nu-mu-gi4#-gi4#-dam# 
+9. mu {d}nin-urta 
+10. u3# ma-na-ba-al-te#-el# 
+11. in-pa3 
+@reverse 
+1. igi ia-ah-zi-be2-el3  
+2. dumu isz-me-{d}suen 
+3. igi szu#-la#-ra#-ak# 
+4. igi na#-nu#-szu#-um# 
+5. dumu za#-x-la#-nu# 
+6. igi ku#-nu#-um#  
+7. dumu# nu#-ur2#-ia 
+8. mu [e2 {d}]nin#-urta ma#-[na-ba-al-te-el mu-na-du3]
+@envelope 
+@reverse 
+$ beginning broken 
+1'. [dumu isz-me]-{d}suen# 
+2'. [igi szu-la]-ra-ak# 
+3'. [dumu x]-x-x-[x] 
+4'. [igi ku]-nu-um 
+5'. [dumu nu]-ur2-ia# 
+6'. [...] x [...] 
+$ rest broken 
+$ illegible seal impression 
 
-&P509226 = CDLI Seals 012856 (composite) 
+&P509634 = FAOS 02, 087 
 #atf: lang sux 
-@object seal 
-@surface a 
-1. ur-{d}nanna 
-2. _dumu_ {d}suen-i-qi2-sza-am 
-3. i-ri {d}su-he2-zi 
-4. {d}nin-sza3-tuk-x 
+@tablet 
+@obverse 
+$ beginning broken 
+1'. ki# a#-[x-x-x] 
+2'. u3 i-[x-x-x-x] 
+3'. dumu me-x-[x-x] 
+4'. zi-x-[x-x-x] 
+5'. dumu NI-[x-x-x] 
+6'. in-szi#-[sa10] 
+7'. 5(disz) gin2# [ku3-babbar] 
+8'. sa10# [til-la-ni-sze3] 
+9'. [in-na-la2] 
+$ rest broken 
+$ illegible seal impression 
+
+&P509669 = FAOS 02, 124  
+#atf: lang sux  
+@tablet 
+@obverse 
+1. 4(disz)# gu4#-ab2 
+2. 6(disz)# ab2 mah2 
+3. 2(u) 7(disz) gu4 amar-ga 
+4. 1(disz) amar nig2 e2 nam-ra#-tum# 
+5. nig2-szu la-lum# 
+$ rest broken 
+@reverse 
+$ beginning broken 
+1'. giri3# x-[x-x-x] 
+2'. i3#-gen-ne-[en] 
+# restored from FAOS 02, 125 rev. 1-2
+3'. iti# sze-sag11#-ku5# u4 4(disz)-kam 
+4'. [mu ...] 
+$ rest broken 
+@envelope 
+@obverse 
+1. 4(disz)# [gu4-ab2] 
+2. 6(disz)# [ab2 mah2] 
+3. 2(u)# 7(disz)# [gu4 amar-ga] 
+4. [1(disz)] amar# [nig2 e2 nam-ra-tum] 
+5. [nig2-szu la-lum] 
+$ rest broken 
+@reverse 
+$ beginning broken 
+1'. [giri3 x-x-x-x] 
+2'. [i3]-gen#-ne#-[en] 
+3'. iti sze-sag11-ku5# [u4 4(disz)-kam] 
+4'. mu GISZ# [...] 
+@seal 1 
+1. la-lu-um 
+2. dumu s,a-al-lum 
+
+&P509663 = FAOS 02, 118  
+#atf: lang sux  
+@tablet 
+@obverse 
+1. 6(disz) 2/3(disz) gin2 ku3-babbar sa10 2(asz) gur <sze> 
+2. szu ti-a bu-s,um 
+3. mu ma-ma-ba-al-te-el 
+4. 6(disz) gin2 ku3-babbar sa10 2(asz) gur sze 
+5. szu ti-a a-na-gum 
+6. mu mu-na-ba-al-te-el 
+@reverse 
+1. 1(u) 3(disz)# 1/2(disz) gin2 1(disz)-kam 
+2. 1(u) 3(disz)# 1/3(disz) gin2 2(disz)-kam
+3. 1/3(disz) ma-<na> 8(disz) igi-6(disz)-gal2 szu-la2 
+4. mu ma-na-ba-al-te-<el> 
+$ blank space 
+
+&P509670 = FAOS 02, 125  
+#atf: lang sux  
+@tablet 
+@obverse 
+$ beginning broken 
+1'. [4(disz) ab2 mah2] 
+2'. [6(disz) gu4-ab2] 
+3'. [2(u) 2(disz) ab2 amar-ga] 
+4'. 6(disz)# gu4 amar-ga 
+5'. ($ blank space $) 3(u) 8(disz) gu4 <ab2> amar-hi-a 
+6'. nig2-szu {d}utu-sipa 
+@reverse 
+1. giri3# x x x x 
+2. i3-gen-ne-en 
+3. [iti sze]-sag11#-ku5# u4# 4(disz)#-kam# 
+4. [mu ...]  
+@envelope 
+$ beginning broken 
+1'. [4(disz) ab2 mah2] 
+2'. 6(disz) gu4#-[ab2] 
+3'. 2(u) 2(disz)# ab2# [amar-ga] 
+4'. 6(disz)# gu4 [amar-ga] 
+5'. ($ blank space $) 3(u)# 8(disz)# [gu4 ab2 amar-hi-a] 
+6'. [nig2-szu {d}]utu#-[sipa] 
+$ rest broken 
+
+&P509664 = FAOS 02, 119  
+#atf: lang sux  
+@tablet 
+@obverse 
+1. 3(disz) gin2 sa10 sze-gesz-i3 
+2. 2(disz)# gin2 sa10 i3-gesz 
+3. 1/2(disz)# gin2 a-hi#-i-ma 
+4. [n] gin2# a#-[hi]-i#-ma# a-ra2# 2(disz)#-kam 
+5. [n gin2 a-hi-i]-ma# a#-[ra2 3(disz)]-kam 
+$ rest broken 
+@reverse 
+$ beginning broken 
+1'. szu-nigin 1(u) 7(disz) 1/3(disz) gin2 ku3-babbar 
+2'. zi-ga 
+$ blank space 
+
+&P509636 = FAOS 02, 089 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. {disz}{d}suen-a-hu-szu 
+2. u3 sza-at-{d}gibil6? 
+# FAOS 02 reads: -{d}girrum 
+3. ha-la e2 ad-da-ni 
+4. nig2 i3-na-me 
+5. ugu za-za-kum 
+6. li-bi2-in-tuku 
+@reverse 
+1. igi a-mur-i-lu-su2 
+2. igi {d}suen-en-nam szitim 
+3. igi bur-ia 
+4. dumu s,a-li 
+5. igi {d}nanna-zi-sza3-gal2 
+6. iti gan-gan-e3 
+7. mu {gesz}gu-za za3-bi-us2# 3(disz)-a-bi {d}en-lil2 {d}nin#-urta# {d}nin-nibru{ki} ma-na-ba-al-te-el 
+@envelope 
+@obverse 
+1. {disz}{d}suen-a-hu-[szu] 
+2. u3 sza-at-{d}gibil6# 
+3. ha-la e2 ad-da-ni 
+4. nig2 na-me 
+5. ugu za-za-kum 
+6. li-bi2-in-tuku 
+7. igi a-mur-i-lu-su2 
+8. igi {d}suen-en-nam szitim 
+@reverse 
+3. [igi bur]-ia dumu s,a-li 
+5. [igi {d}nanna]-zi-sza3-gal2 
+6. [iti] gan#-gan-e3 
+7. mu# {[gesz]}gu#-za# [za3-bi-us2 3(disz)-a-bi] {d}[en-lil2 {d}nin-urta {d}nin]-nibru#{ki} ma-na-[dim2] 
+@seal 1 
+1. {d}suen-a-bu-szu 
+2. dumu za-pa-ti 
+
+&P509671 = FAOS 02, 126  
+#atf: lang sux  
+@tablet 
+@obverse 
+1. 5(disz)# ab2 mah2# 
+2. [1(disz)] ab2# mu# 1(disz)# 
+3. 2(disz)# gu4# mu# 2(disz)# 
+4. 1(disz)# gu4# mu# 1(disz)# 
+5. 1(disz)# gu4# amar#-ga# 
+6. 1(disz)# ab2# amar#-ga# 
+7. ($ blank space $) 1(u) 1(disz)# gu4# ab2# amar 
+8. ($ blank space $) dingir#-[na]-s,ir# 
+9. 2(disz)# ab2# mah2# 2(disz)# ab2# mu# 1(disz) 
+10. 1(disz)# ab2# [amar-ga] 
+11. 1(disz) gu4 amar-ga 
+12. ($ blank space $) 6(disz)# er3#-ra!-ha#-bi#-it# 
+13. 4(disz) ab2# mah2#  
+14. 2(disz) ab2 amar#-ga# 
+15. 1(disz)# gu4 amar#-ga# 
+16. [n] ab2 amar-ga 
+$ rest broken 
+@reverse 
+$ beginning broken 
+1'. [n ab2] mu# [n] 
+2'. [n] gu4# mu [2(disz)] 
+3'. 1(disz) gu4 mu 1(disz) 
+4'. 1(disz) gu4 amar-ga 
+5'. 1(disz) ab2 amar-ga 
+6'. ($ blank space $) 8(disz) a-hu-um-ma  
+7'. 1(disz) ab2 mah2 
+8'. 1(disz) gu4 mu 3(disz) 
+9'. 1(disz)# gu4# mu 1(disz) 
+10'. 1(disz) ab2 amar-ga 
+11'. ($ blank space $) 4(disz) {d}suen-na-s,i-ir# 
+12'. 2(disz) ab2 mah2  
+13'. 2(disz) ab2 mu 2(disz) 1(disz) gu4 mu# [n] 
+14'. ($ blank space $) 5(disz) sza3 2(u) a-ra2 1(disz)-kam 
+15'. 5(disz) ab2 mah2 2(disz) ab2 mu [2(disz)] 
+16'. 2(disz) ab2 mu 1(disz) 2(disz) gu4 mu 1(disz)  
+17'. 3(disz) gu4 mu 2(disz) 3(disz) gu4 mu# [3(disz)] 
+18'. ($ blank space $) 1(u) 7(disz) x [...] 
+19'. nig2-szu {d}suen#-[x-x] 
+@left 
+# traces of 2 lines for which Kienast suggests final totals:
+# (a-ra2 2(disz)-kam na-gada PN) 
+# (szu-nigin2 n ab2 gu4 amar)
