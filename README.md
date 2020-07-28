@@ -3,23 +3,8 @@ The project aims to translate and provide detailed information(POS tagging, Name
 
 The tags/symbols(ORACC Version) for NER and POS can be observed from here - https://cdli-gh.github.io/guides/guide_tagsets.html
 
-
-## Usage
-Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
-Install requirments by simply running requirments.sh file- \
-Run pipeline.py file with the ATF input file, the results will be in ATF_OUTPUT folder 
-```
-git clone https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git
-cd Sumerian-Translation-Pipeline
-sh requirments.sh
-python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
-```
-
-
-<details open>
-<summary>
-## Requirements
-</summary>
+<details>
+<summary> Requirements </summary>
 <br>
 - Python 3.5.2 or higher <br/>
 - numPy  <br/>
@@ -36,6 +21,20 @@ python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
 - OpenNMT-py (to use Machine Translation Models) <br/>
 
 </details>
+
+## Usage
+Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
+Install requirments by simply running requirments.sh file- \
+Run pipeline.py file with the ATF input file, the results will be in ATF_OUTPUT folder 
+```
+git clone https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git
+cd Sumerian-Translation-Pipeline
+sh requirments.sh
+python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
+```
+
+
+
 
 ## Pipeline
 Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation. Since the weights are already saved, any model can be used directly without training.    
