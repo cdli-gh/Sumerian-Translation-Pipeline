@@ -4,8 +4,7 @@ The project aims to translate and provide detailed information(POS tagging, Name
 The tags/symbols(ORACC Version) for NER and POS can be observed from here - https://cdli-gh.github.io/guides/guide_tagsets.html
 
 <details>
-<h2> Requirements </h2>
-<summary> </summary> 
+<summary> Requirements </summary> 
 - Python 3.5.2 or higher <br/>
 - numPy  <br/>
 - pandas <br/>
