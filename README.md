@@ -20,6 +20,12 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 - OpenNMT-py (to use Machine Translation Models) <br/>
 
 </details>
+![alt text](https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/1.png)
+
+
+
+
+
 
 ## Usage
 Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
