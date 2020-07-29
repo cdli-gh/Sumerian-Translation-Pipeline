@@ -57,7 +57,7 @@ sentence: um-mi-he-pa2-at
 POS:(um-mi-he-pa2-at,NE) 
 20
 sentence: in-szi-sa10 x x
-POS:(in-szi-sa10,V) (x,O) (x,O) 
+POS:(in-szi-sa10,NE) (x,O) (x,O) 
 21
 sentence: u4-kur2-kur2-sze3 nu-mu-gi4-gi4-dam
 POS:(u4-kur2-kur2-sze3,N) (nu-mu-gi4-gi4-dam,V) 
@@ -213,7 +213,7 @@ sentence: 6(disz) gin2 ku3-babbar sa10 2(asz) gur sze
 POS:(6(disz),NU) (gin2,N) (ku3-babbar,N) (sa10,V) (2(asz),NU) (gur,N) (sze,N) 
 72
 sentence: szu ti-a a-na-gum
-POS:(szu,N) (ti-a,V) (a-na-gum,O) 
+POS:(szu,N) (ti-a,V) (a-na-gum,NE) 
 73
 sentence: mu mu-na-ba-al-te-el
 POS:(mu,N) (mu-na-ba-al-te-el,V) 

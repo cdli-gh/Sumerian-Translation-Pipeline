@@ -4,27 +4,27 @@ o.1.1	6(disz)	6(disz)[one][-sze]	NU
 o.1.2	2/3(disz)	2/3(disz)[one]	NU
 o.1.3	gin2	gig[unit]	N
 o.1.4	ku3-babbar	kugbabbar[silver]	N
-o.1.5	sa10	 	V
+o.1.5	sa10	_	V
 o.1.6	2(asz)	2(asz)[one]	NU
 o.1.7	gur	gur[unit]	N
 o.1.8	sze	sze[barley]	N
 o.2.1	szu	szu[hand][-e]	N
 o.2.2	ti-a	ti[receive]-a	V
-o.2.3	bu-sum	 	PN
+o.2.3	bu-sum	_	PN
 o.3.1	mu	mu[year]	N
-o.3.2	ma-ma-ba-al-te-el	 	PN
+o.3.2	ma-ma-ba-al-te-el	_	PN
 o.4.1	6(disz)	6(disz)[one][-sze]	NU
 o.4.2	gin2	gig[unit]	N
 o.4.3	ku3-babbar	kugbabbar[silver]	N
-o.4.4	sa10	 	V
+o.4.4	sa10	_	V
 o.4.5	2(asz)	2(asz)[one]	NU
 o.4.6	gur	gur[unit]	N
 o.4.7	sze	sze[barley]	N
 o.5.1	szu	szu[hand][-e]	N
 o.5.2	ti-a	ti[receive]-a	V
-o.5.3	a-na-gum	 	 
+o.5.3	a-na-gum	_	PN
 o.6.1	mu	mu[year]	N
-o.6.2	mu-na-ba-al-te-el	 	V
+o.6.2	mu-na-ba-al-te-el	_	V
 r.1.1	1(u)	1(u)[ten]	NU
 r.1.2	3(disz)	3(disz)[one]	NU
 r.1.3	1/2(disz)	1/2(disz)[one]	NU
@@ -41,4 +41,4 @@ r.3.3	8(disz)	8(disz)[one]	NU
 r.3.4	igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU
 r.3.5	szu-la2	szula[entrust][-a]	PN
 r.4.1	mu	mu[year]	N
-r.4.2	ma-na-ba-al-te-el	 	V
+r.4.2	ma-na-ba-al-te-el	_	V

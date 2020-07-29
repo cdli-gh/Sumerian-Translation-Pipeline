@@ -1,18 +1,18 @@
 #new_text=P509634
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
 o.1'.1	ki	ki[place]	N
-o.1'.2	a-x-x-x	 	PN
+o.1'.2	a-x-x-x	_	PN
 o.2'.1	u3	u[and]	CNJ
-o.2'.2	i-x-x-x-x	 	PN
+o.2'.2	i-x-x-x-x	_	PN
 o.3'.1	dumu	dumu[child]	N
-o.3'.2	me-x-x-x	 	PN
-o.4'.1	zi-x-x-x-x	 	PN
+o.3'.2	me-x-x-x	_	PN
+o.4'.1	zi-x-x-x-x	_	PN
 o.5'.1	dumu	dumu[child]	N
-o.5'.2	NI-x-x-x	 	PN
-o.6'.1	in-szi-sa10	i-nn-szi[-n]-sa[pay_for][-ø][-a]	V
+o.5'.2	NI-x-x-x	_	PN
+o.6'.1	in-szi-sa10	i-nn-szi[-n]-sa[pay_for][-ø][-a]	PN
 o.7'.1	5(disz)	5(disz)[one]	NU
 o.7'.2	gin2	gig[unit]	N
 o.7'.3	ku3-babbar	kugbabbar[silver]	N
-o.8'.1	sa10	 	V
-o.8'.2	til-la-ni-sze3	 	V
-o.9'.1	in-na-la2	 	V
+o.8'.1	sa10	_	V
+o.8'.2	til-la-ni-sze3	_	V
+o.9'.1	in-na-la2	_	V

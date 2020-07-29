@@ -64,8 +64,8 @@ class ATFCONLConvertor:
             outputFile.writelines("#new_text=" + self.outputFilename + "\n")
             outputFile.writelines("# ID\tFORM\tSEGM\tXPOSTAG\tHEAD\tDEPREL\tMISC\n")
             for tok in self.tokens:
-                SEGM=" "
-                tag=" "
+                SEGM="_"
+                tag="_"
                 if (SEGM_dict.get(tok[1])!=None):
                     SEGM=SEGM_dict.get(tok[1])
                 if(self.taglist.get(tok[1])!=None):
