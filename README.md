@@ -21,6 +21,19 @@ The tags/symbols(ORACC Version) for NER and POS can be observed from here - http
 
 </details>
 
+<p align="center">
+  <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/1.png" alt="Example image"/>
+</p>
+<p align="center">
+  <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/3.png" alt="Example image"/>
+</p>
+<p align="center">
+  <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/2.png" alt="Example image"/>
+</p>
+
+
+
+
 ## Usage
 Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
 Install requirments by simply running requirments.sh file- \
@@ -32,8 +45,7 @@ sh requirments.sh
 python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
 ```
 
-
-
+For the reference of Machine Translation Models follow this link - [Unsupervised-NMT-for-Sumerian-English](https://github.com/cdli-gh/Unsupervised-NMT-for-Sumerian-English)
 
 ## Pipeline
 Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation. Since the weights are already saved, any model can be used directly without training.    
