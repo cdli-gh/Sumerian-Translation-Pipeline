@@ -3,6 +3,23 @@ The project aims to translate and provide detailed information(POS tagging, Name
 
 The tags/symbols(ORACC Version) for NER and POS can be observed from here - https://cdli-gh.github.io/guides/guide_tagsets.html
 
+<details>
+<summary> Requirements </summary> 
+- Python 3.5.2 or higher <br/>
+- numPy  <br/>
+- pandas <br/>
+- sklearn <br/>
+- nltk <br/>
+- sklearn_crfsuite <br/>
+- matplotlib <br/>
+- tqdm>=4.46.1 <br/>
+- keras <br/>
+- tensorflow <br/>
+- CRF keras (pip3 install git+https://www.github.com/keras-team/keras-contrib.git) <br/>
+- click <br/>
+- OpenNMT-py (to use Machine Translation Models) <br/>
+
+</details>
 
 ## Usage
 Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
@@ -15,21 +32,8 @@ sh requirments.sh
 python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
 ```
 
-## Requirements
 
-- Python 3.5.2 or higher
-- numPy
-- pandas
-- sklearn
-- sklearn_crfsuite
-- matplotlib
-- tqdm>=4.46.1
-- keras
-- tensorflow
-- CRF keras (pip3 install git+https://www.github.com/keras-team/keras-contrib.git)
-- click
-- git+https://git@github.com/cdli-gh/pyoracc.git@master#egg=pyoracc
-- OpenNMT-py (to use Machine Translation Models)
+
 
 ## Pipeline
 Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation. Since the weights are already saved, any model can be used directly without training.    
