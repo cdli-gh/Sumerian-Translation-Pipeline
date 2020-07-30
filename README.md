@@ -1,7 +1,8 @@
 # Translating the whole Ur III corpus (GSoC - 2020)
 The project aims to translate and provide detailed information(POS tagging, Named Entity Recognation, English Translation) about 1.5M Raw Sumerian Text. The project aims to build a full translation pipeline, which will integrate NER (Named Entity Recognation), POS (Part of Speech Tagging) and machine translation of URIII Sumerian language, using Neural Network Techniques and Rule-Based approaches.
 
-The tags/symbols(ORACC Version) for NER and POS can be observed from here - https://cdli-gh.github.io/guides/guide_tagsets.html
+The tags/symbols(ORACC Version) for NER and POS can be observed from here - \
+https://cdli-gh.github.io/guides/guide_tagsets.html
 
 <details>
 <summary> Requirements </summary> 
