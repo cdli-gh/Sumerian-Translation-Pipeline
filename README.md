@@ -55,17 +55,24 @@ usage: pipeline.py [-h] [-i INPUT]
                    [-p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}]
                    [-n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}]
                    [-t {Transformer}] [-o OUTPUT]
+                   [-o OUTPUT] [-g GPU] [-f FLAIR]
                    
-  -i INPUT,
-          Location of the Input ATF File
-  -p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}
-                        POS Model to be used out of the above choices 
-  -n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}
-                        NER Model to be used from above the choices
-  -t {Transformer}
-                        Machine Translation Model to be used from above choices 
-  -o OUTPUT
-                        Location of output Directory/Folder
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+                        Location of the Input ATF File
+  -p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}, --pos {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}
+                        POS Model to be used from ['POS_CRF','POS_HMM','POS_Bi_LSTM','POS_Bi_LSTM_CRF'] (Case sensitive)
+  -n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}, --ner {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}
+                        NER Model to be used from ['NER_CRF','NER_Bi_LSTM','NER_Bi_LSTM_CRF'] (Case_sensitive)
+  -t {Transformer}, --trans {Transformer}
+                        Machine Translation Model to be used
+  -o OUTPUT, --output OUTPUT
+                        Location of output Directory
+  -g GPU, --gpu GPU     Use of GPU if avaliable
+  -f FLAIR, --flair FLAIR
+                        Use of flair language model
+
 ```
 
 
@@ -121,6 +128,18 @@ $ Python3 {POS_Models/NER_Models}/{Choice from the above models}/prediction.py
 
 Any Model can be used for the predictions for any txt file. Here we used Dataset/sumerian_demo.txt as input file. which contains 150 random sentences from 1.5M sumerian text.
 ```
+### Word_Embeddings
+All Word Embedding models are Trained on Sumerian Processed Monolingual Dataset(contain around 1.5M UrIII phrases). The trained word embeddings are also used in Flair Language models
+#### Word2vec 
+Word2vec model can be trained using Word2vec_train.py file in Word_Embeddings Repo.
+To train use - 
+```
+Python3 Word2vec_train.py -input CDLI_Data/Sumerian_monolingual_processed.txt -output Word_Embeddings/sumerian_word2vec_50.txt 
+```
+The used model is trained with \
+  model = Word2Vec(Monolingual_Text, size=50, window=5, min_count=1, workers=4) \
+which can be changed according to the requirments, by simply updating the Word2vec_train.py file  
+
 
 
 ## Project structure
