@@ -140,6 +140,30 @@ The used model is trained with \
   model = Word2Vec(Monolingual_Text, size=50, window=5, min_count=1, workers=4) \
 which can be changed according to the requirments, by simply updating the Word2vec_train.py file  
 
+#### Glove
+To train glove wordVectors clone https://github.com/stanfordnlp/GloVe \
+change demo.sh file as - \
+remove line 1-15 and update the required fields - \
+```
+sh demo.sh
+```
+We used these parameters \
+CORPUS=Sumerian_monolingual_processed.txt \
+VOCAB_FILE=vocab.txt \
+COOCCURRENCE_FILE=cooccurrence.bin \
+COOCCURRENCE_SHUF_FILE=cooccurrence.shuf.bin \
+BUILDDIR=build \
+SAVE_FILE=vectors \
+VERBOSE=2 \
+MEMORY=4.0 \
+VOCAB_MIN_COUNT=1 \
+VECTOR_SIZE=50 \
+MAX_ITER=100 \
+WINDOW_SIZE=15 \
+BINARY=2 \
+NUM_THREADS=8 \
+X_MAX=10 \
+
 
 
 ## Project structure
