@@ -3,7 +3,6 @@ import os
 import subprocess
 import unicodedata
 import argparse
-from FLAIR.predict import Predictions
 
 stopping_chars=["@", "#", "&", "$"]
 
@@ -120,6 +119,7 @@ def main():
     if Flair==False:
         os.system(f'python3 {pos_path} -i {output_dir}pipeline.txt -o {output_dir}pos_pipeline.txt')
     else:
+        from FLAIR.predict import Predictions
         print("Using Flair Model")
         inp=output_dir+'/pipeline.txt'
         out=output_dir+'/pos_pipeline.txt'
@@ -139,7 +139,7 @@ def main():
         
     #Translation MODEL
     print("Running Translation Model for Sumerian Language")
-    model_name = trainpath.split('/')[-1].split('.')[0]
+    model_name = trans_path.split('/')[-1].split('.')[0]
     
     if model_name == 'Transformer' or model_name == 'Back_Translation':
         if GPU==False:

@@ -1,26 +1,26 @@
 #new_text=P509633
 # ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
-o.1.1	{disz}{d}suen-sze-mi	_	PN
-o.1.2	mu-nim	_	V
-o.2.1	sa10	_	V
+o.1.1	{disz}{d}suen-sze-mi	_	N
+o.1.2	mu-nim	_	PN
+o.2.1	sa10	_	N
 o.2.2	til-la-ni-sze3	_	V
 o.3.1	6(disz)	6(disz)[one][-sze]	NU
 o.3.2	gin2	gig[unit]	N
-o.3.3	ku3-babbar	kugbabbar[silver]	N
-o.4.1	in-na-la2	_	V
+o.3.3	ku3-babbar	kugbabbar[silver]	PN
+o.4.1	in-na-la2	_	PN
 o.5.1	ki	ki[place]	N
-o.5.2	li-li-lum	_	PN
-o.5.3	x-x	_[_]	 
+o.5.2	li-li-lum	_	N
+o.5.3	x-x	_[_]	N
 o.6.1	um-mi-he-pa2-at	_	PN
-o.7.1	in-szi-sa10	i-nn-szi[-n]-sa[pay_for][-ø][-a]	PN
-o.7.2	x	_[_]	 
-o.7.3	x	_[_]	 
+o.7.1	in-szi-sa10	i-nn-szi[-n]-sa[pay_for][-ø][-a]	N
+o.7.2	x	_[_]	N
+o.7.3	x	_[_]	N
 o.8.1	u4-kur2-kur2-sze3	_	N
 o.8.2	nu-mu-gi4-gi4-dam	_	V
 o.9.1	mu	mu[year]	N
-o.9.2	{d}nin-urta	Ninurta[1][-ra]	DN
+o.9.2	{d}nin-urta	Ninurta[1][-ra]	PN
 o.10.1	u3	u[and]	CNJ
-o.10.2	ma-na-ba-al-te-el	_	V
+o.10.2	ma-na-ba-al-te-el	_	PN
 o.11.1	in-pa3	i-n-pad[name][-ø]	PN
 r.1.1	igi	igi[eye][-ø]	N
 r.1.2	ia-ah-zi-be2-el3	_	PN
@@ -38,8 +38,8 @@ r.7.1	dumu	dumu[child]	N
 r.7.2	nu-ur2-ia	_	PN
 r.8.1	mu	mu[year]	N
 r.8.2	e2	e[house]	N
-r.8.3	{d}nin-urta	Ninurta[1][-ra]	DN
-r.8.4	ma-na-ba-al-te-el	_	V
+r.8.3	{d}nin-urta	Ninurta[1][-ra]	PN
+r.8.4	ma-na-ba-al-te-el	_	PN
 r.8.5	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V
 er.1'.1	dumu	dumu[child]	N
 er.1'.2	isz-me-{d}suen	_	PN
@@ -52,5 +52,5 @@ er.4'.2	ku-nu-um	_	PN
 er.5'.1	dumu	dumu[child]	N
 er.5'.2	nu-ur2-ia	_	PN
 er.6'.1	...	_[_]	 
-er.6'.2	x	_[_]	 
+er.6'.2	x	_[_]	N
 er.6'.3	...	_[_]	 
