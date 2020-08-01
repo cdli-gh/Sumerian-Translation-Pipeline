@@ -45,6 +45,7 @@ cd Sumerian-Translation-Pipeline
 sh requirments.sh
 python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
 ```
+Backtranslation Model is set as default, to download other weights please check Translation_Models Repository
 
 For the reference of ***Machine Translation Models*** follow this link - [Unsupervised-NMT-for-Sumerian-English](https://github.com/cdli-gh/Unsupervised-NMT-for-Sumerian-English)
 
