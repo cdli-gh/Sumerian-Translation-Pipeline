@@ -128,6 +128,7 @@ $ Python3 {POS_Models/NER_Models}/{Choice from the above models}/prediction.py
 
 Any Model can be used for the predictions for any txt file. Here we used Dataset/sumerian_demo.txt as input file. which contains 150 random sentences from 1.5M sumerian text.
 ```
+
 ### Word_Embeddings
 All Word Embedding models are Trained on Sumerian Processed Monolingual Dataset(contain around 1.5M UrIII phrases). The trained word embeddings are also used in Flair Language models
 #### Word2vec 
@@ -178,8 +179,8 @@ For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
 
 ### Flair
 Flair is very simple framework for state-of-the-art NLP, It allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER) and part-of-speech tagging (PoS). It is currently the best state of art technique to tag POS and NER for English langauge. I used this to train forward and backword language models and applied with different combination of Word Wmbeddings. For further references follow - https://github.com/flairNLP/flair \
-All the corpus folders to train language model, fine tune POS and NER are in FLAIR repository in the desired format.
-The below code can be used, and modified if needed for traing and fine tunning - \
+
+All the corpus folders to train language model, fine tune POS and NER are in FLAIR repository in the desired format. The below code can be used, and modified if needed for traing and fine tunning - 
 ```
 # foward language model
 python3 FLAIR/flair_forward_LanguageModel.py
@@ -196,15 +197,14 @@ python3 FLAIR/flair_NER_trainer.py
 # To predict (Default is POS)
 python3 FLAIR/predict.py
 ```
-To use Differnt word Embeddings such as Glove, Fasttext, Word2vec along with backword and forward language model Embeddins, First convert the text wordvectors file to gensim format. Follow this link for further details - https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/CLASSIC_WORD_EMBEDDINGS.md \
-using the below code for word2vec. We used the following stack of embeddings - character_embeddings, word2vec, forward_flair, backword_flair.
+To use Differnt word Embeddings such as Glove, Fasttext, Word2vec along with backword and forward language model Embeddins, First convert the text wordvectors file to gensim format using the below code (for word2vec). Follow this link for further details - [CLASSIC_WORD_EMBEDDINGS](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/CLASSIC_WORD_EMBEDDINGS.md) \
 ```
 import gensim
 
 word_vectors = gensim.models.KeyedVectors.load_word2vec_format('/path/to/fasttext/embeddings.txt', binary=False)
 word_vectors.save('/path/to/converted')
 ```
-
+We used the following stack of Embeddings - character_embeddings, word2vec, forward_flair, backword_flair.
 
 
 ## Project structure
