@@ -178,7 +178,7 @@ model.save_model("Word_Embeddings/fasttext50.txt")
 For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
 
 ### Flair
-Flair is very simple framework for state-of-the-art NLP, It allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER) and part-of-speech tagging (PoS). It is currently the best state of art technique to tag POS and NER for English langauge. I used this to train forward and backword language models and applied with different combination of Word Wmbeddings. For further references follow - https://github.com/flairNLP/flair \
+Flair is very simple framework for state-of-the-art NLP, It allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER) and part-of-speech tagging (PoS). It is currently the best state of art technique to tag POS and NER for English langauge. I used this to train forward and backword language models and applied with different combination of Word Wmbeddings. For further references follow - https://github.com/flairNLP/flair 
 
 All the corpus folders to train language model, fine tune POS and NER are in FLAIR repository in the desired format. The below code can be used, and modified if needed for traing and fine tunning - 
 ```
@@ -197,7 +197,7 @@ python3 FLAIR/flair_NER_trainer.py
 # To predict (Default is POS)
 python3 FLAIR/predict.py
 ```
-To use Differnt word Embeddings such as Glove, Fasttext, Word2vec along with backword and forward language model Embeddins, First convert the text wordvectors file to gensim format using the below code (for word2vec). Follow this link for further details - [CLASSIC_WORD_EMBEDDINGS](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/CLASSIC_WORD_EMBEDDINGS.md) \
+To use Differnt word Embeddings such as Glove, Fasttext, Word2vec along with backword and forward language model Embeddins, First convert the text wordvectors file to gensim format using the below code (for word2vec). Follow this link for further details - [CLASSIC_WORD_EMBEDDINGS](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/CLASSIC_WORD_EMBEDDINGS.md) 
 ```
 import gensim
 
