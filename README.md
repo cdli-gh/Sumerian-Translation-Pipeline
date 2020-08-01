@@ -142,7 +142,7 @@ which can be changed according to the requirments, by simply updating the Word2v
 
 #### Glove
 To train glove wordVectors clone (https://github.com/stanfordnlp/GloVe) \
-remove lines 1-15 in demo.sh file and update the required fields, to get the similar results use - \
+remove lines 1-15 in demo.sh file and update the required fields, to get the similar results use -
 ```
 CORPUS=Sumerian_monolingual_processed.txt \
 VOCAB_FILE=vocab.txt \
@@ -166,8 +166,8 @@ sh demo.sh
 ```
 
 #### Fasttext
-To train fasttext word embeddings install the library -\ 
-$ pip3 install fastext
+To train fasttext word embeddings install the library - \ 
+$ pip3 install fastext \
 and run -
 ```
 import fasttext
@@ -175,6 +175,10 @@ model = fasttext.train_unsupervised('CDLI_Data/Sumerian_monolingual_processed.tx
 model.save_model("Word_Embeddings/fasttext50.txt")
 ```
 For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
+
+### Flair
+
+
 
 ## Project structure
 
