@@ -47,7 +47,8 @@ python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
 ```
 Backtranslation Model is set as default, to download other weights please check Translation_Models Repository
 
-For the reference of ***Machine Translation Models*** follow this link - [Unsupervised-NMT-for-Sumerian-English](https://github.com/cdli-gh/Unsupervised-NMT-for-Sumerian-English)
+For the reference of ***Machine Translation Models*** follow this link - [Unsupervised-NMT-for-Sumerian-English](https://github.com/cdli-gh/Unsupervised-NMT-for-Sumerian-English) \
+\(If working on conda Environment install pytorch seperately to run Machine Translation models - conda install pytorch \)
 
 ## Pipeline
 Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation. Since the weights are already saved, any model can be used directly without training.    
