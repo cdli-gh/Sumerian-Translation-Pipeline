@@ -1,7 +1,8 @@
 # Translating the whole Ur III corpus (GSoC - 2020)
 The project aims to translate and provide detailed information(POS tagging, Named Entity Recognation, English Translation) about 1.5M Raw Sumerian Text. The project aims to build a full translation pipeline, which will integrate NER (Named Entity Recognation), POS (Part of Speech Tagging) and machine translation of URIII Sumerian language, using Neural Network Techniques and Rule-Based approaches.
 
-The tags/symbols(ORACC Version) for NER and POS can be observed from here - https://cdli-gh.github.io/guides/guide_tagsets.html
+The tags/symbols(ORACC Version) for NER and POS can be observed from here - \
+https://cdli-gh.github.io/guides/guide_tagsets.html
 
 <details>
 <summary> Requirements </summary> 
@@ -54,17 +55,24 @@ usage: pipeline.py [-h] [-i INPUT]
                    [-p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}]
                    [-n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}]
                    [-t {Transformer}] [-o OUTPUT]
+                   [-o OUTPUT] [-g GPU] [-f FLAIR]
                    
-  -i INPUT,
-          Location of the Input ATF File
-  -p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}
-                        POS Model to be used out of the above choices 
-  -n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}
-                        NER Model to be used from above the choices
-  -t {Transformer}
-                        Machine Translation Model to be used from above choices 
-  -o OUTPUT
-                        Location of output Directory/Folder
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+                        Location of the Input ATF File
+  -p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}, --pos {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}
+                        POS Model to be used from ['POS_CRF','POS_HMM','POS_Bi_LSTM','POS_Bi_LSTM_CRF'] (Case sensitive)
+  -n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}, --ner {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}
+                        NER Model to be used from ['NER_CRF','NER_Bi_LSTM','NER_Bi_LSTM_CRF'] (Case_sensitive)
+  -t {Transformer}, --trans {Transformer}
+                        Machine Translation Model to be used
+  -o OUTPUT, --output OUTPUT
+                        Location of output Directory
+  -g GPU, --gpu GPU     Use of GPU if avaliable
+  -f FLAIR, --flair FLAIR
+                        Use of flair language model
+
 ```
 
 
@@ -121,36 +129,130 @@ $ Python3 {POS_Models/NER_Models}/{Choice from the above models}/prediction.py
 Any Model can be used for the predictions for any txt file. Here we used Dataset/sumerian_demo.txt as input file. which contains 150 random sentences from 1.5M sumerian text.
 ```
 
+### Word_Embeddings
+All Word Embedding models are Trained on Sumerian Processed Monolingual Dataset(contain around 1.5M UrIII phrases). The trained word embeddings are also used in Flair Language models
+#### Word2vec 
+Word2vec model can be trained using Word2vec_train.py file in Word_Embeddings Repo.
+To train use - 
+```
+Python3 Word2vec_train.py -input CDLI_Data/Sumerian_monolingual_processed.txt -output Word_Embeddings/sumerian_word2vec_50.txt 
+```
+The used model is trained with \
+  model = Word2Vec(Monolingual_Text, size=50, window=5, min_count=1, workers=4) \
+which can be changed according to the requirments, by simply updating the Word2vec_train.py file  
+
+#### Glove
+To train glove wordVectors clone (https://github.com/stanfordnlp/GloVe) \
+remove lines 1-15 in demo.sh file and update the required fields, to get the similar results use -
+```
+CORPUS=Sumerian_monolingual_processed.txt \
+VOCAB_FILE=vocab.txt \
+COOCCURRENCE_FILE=cooccurrence.bin \
+COOCCURRENCE_SHUF_FILE=cooccurrence.shuf.bin \
+BUILDDIR=build \
+SAVE_FILE=vectors \
+VERBOSE=2 \
+MEMORY=4.0 \
+VOCAB_MIN_COUNT=1 \
+VECTOR_SIZE=50 \
+MAX_ITER=100 \
+WINDOW_SIZE=15 \
+BINARY=2 \
+NUM_THREADS=8 \
+X_MAX=10 \
+```
+Run shell script \
+```
+sh demo.sh
+```
+
+#### Fasttext
+To train fasttext word embeddings install the library - \ 
+$ pip3 install fastext \
+and run -
+```
+import fasttext
+model = fasttext.train_unsupervised('CDLI_Data/Sumerian_monolingual_processed.txt', model='skipgram',dim=50,epoch=50,minCount=1,minn=2,maxn=15)
+model.save_model("Word_Embeddings/fasttext50.txt")
+```
+For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
+
+### Flair
+Flair is very simple framework for state-of-the-art NLP, It allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER) and part-of-speech tagging (PoS). It is currently the best state of art technique to tag POS and NER for English langauge. I used this to train forward and backword language models and applied with different combination of Word Wmbeddings. For further references follow - https://github.com/flairNLP/flair 
+
+All the corpus folders to train language model, fine tune POS and NER are in FLAIR repository in the desired format. The below code can be used, and modified if needed for traing and fine tunning - 
+```
+# foward language model
+python3 FLAIR/flair_forward_LanguageModel.py
+
+# backward language model
+python3 FLAIR/flair_backward_LanguageModel.py
+
+# FineTunning POS
+python3 FLAIR/flair_POS_trainer.py
+
+# FineTunning NER
+python3 FLAIR/flair_NER_trainer.py
+
+# To predict (Default is POS)
+python3 FLAIR/predict.py
+```
+To use Differnt word Embeddings such as Glove, Fasttext, Word2vec along with backword and forward language model Embeddins, First convert the text wordvectors file to gensim format using the below code (for word2vec). Follow this link for further details - [CLASSIC_WORD_EMBEDDINGS](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/CLASSIC_WORD_EMBEDDINGS.md) 
+```
+import gensim
+
+word_vectors = gensim.models.KeyedVectors.load_word2vec_format('/path/to/fasttext/embeddings.txt', binary=False)
+word_vectors.save('/path/to/converted')
+```
+We used the following stack of Embeddings - character_embeddings, word2vec, forward_flair, backword_flair.
+
 
 ## Project structure
 
 ```
+|__ ATF_2_Conll/ --> Code for converting text output to conll format, takes atf file as input and convert it by creating ID's representing phrases present in table
+
+|__ ATF_INPUT/ --> A user can put an ATF file and can provide the path while calling pipeline.py file
+
+|__ ATF_OUTPUT/ --> Contain all the results generated using pipeline.py file, including results in text format as well as in conll format. Results can simply be identified by file names.
+
 |__ Basic_Named_Entites/ --> collection of some sumerian named entities such as City name, Month names, etc.
 
 |__ CDLI_data/
-        |__ Monolingual_sumerian_processing.py/ --> Python Code for Processing Sumerian Monolingual dataset
-        |__ extract.py/ --> Python Code for Extracting sumerian dataset from CDLI/data github
-        |__ Sumerian_monolingual_original.txt/ --> Unprocessed Sumerian Monolingual dataset extracted from sumerian untranslated.txt
         |__ Sumerian_monolingual_processed.txt/ --> Processed Sumerian Monolingual dataset extracted from sumerian untranslated.txt and processed using Monolingual_sumerian_processing.py
-        |__ Sumerian_translated.txt/ --> Sumerian Parallel En-Su data extracted from CDLI raw data using extract.py
-        |__ Sumerian_untranslated.txt/ --> Sumerian Monolingual data extracted from CDLI raw data using extract.py
+        |__ Sumerian_translated.atf/ --> Sumerian Parallel En-Su data extracted from CDLI raw data using extract.py
+        |__ Sumerian_untranslated.atf/ --> Sumerian Monolingual data extracted from CDLI raw data using extract.py
         
 |__ Dataset/
+        |__ ETCSL_conll/ --> Human annotated conll files of ETCSL dataset 
         |__ Raw/
             |__ CDLI conll files, human annotated data, taken from CDLI/mtacc_gold_corpus
         |__ Augmented_POSTAG_training_ml.csv/ --> Augmented POS tag training Data using Named dictionary and POS_training_ml.csv, generated after applying TextAugmentation
         |__ Augmented_RAW_NER_POS.csv/ --> Augmented Raw training Data include POS and NER using Named dictionary and POS_training_ml.csv generated after applying TextAugmentation
+        |__ ETCSL_ORACC_NER/ --> Final datset on which models trained, contains annotated data from ETCSL, ORACC and augmented text for NER
+        |__ ETCSL_ORACC_POS/ --> Final datset on which models trained, contains annotated data from ETCSL, ORACC and augmented text for POS
+        |__ RAW_ETCSL_ORACC/ --> Final datset contains annotated data from ETCSL, ORACC and augmented text for both NER and POS
         |__ POSTAG_training_ml.csv/ --> POS tagging dataset created from 'Dataset/Raw_NER_POS_data.csv' using scripts/POS_TrainingData_creater.py
         |__ Raw_NER_POS_data.csv/ --> Extracted and processed sumerian conll files using scripts/CDLI_conll_extracter.py 
         |__ sumerian_demo.txt/ --> Randomly extracted 150 sentences for the manual testing  of modeles from 1.5M sumerian text, code used - scripts/sumerian_random.py 
+
+|__FLAIR/ --> Flair is currently best state of art technique for English Language, this repo contains differrnt python files to train forward and backword language models along with different word embeddings and python files used for fine tunning the models for identifying POS and NER Models  
 
 |__NER_Models/         
         |__ NER_CRF_Model
                 |__ NER_CRF_features.py --> set of rules/features to identify NER tags for sumerian languages 
                 |__ training.py --> conditional random field model including abouve feature set to identify NER taggs for sumerian language 
                 |__ prediction.py --> python file use to predict output of CRF model
+       
+        |__ NER_Bi_LSTM
+                |__ training.py --> Bidirectional LSTM Neural network model trained with word2vec embeddings 
+                |__ prediction.py --> python file use to predict output of deep neural network
+                
+        |__ NER_Bi_LSTM_CRF
+                |__ training.py --> Bidirectional LSTM Neural network with CRF integrated, trained with word2vec embeddings 
+                |__ prediction.py --> python file use to predict output of deep neural network
 
-|__ Output/ --> Results of POS using different models (CRF,HMM,Bi_LSTM) on 150 randomly selected sumerian sentences
+|__ Output/ --> Results of POS and NER using different models (CRF,HMM,Bi_LSTM) on 150 randomly selected sumerian sentences
 
 |__POS_Models/
         |__ POS_Bi_LSTM
@@ -174,6 +276,13 @@ Any Model can be used for the predictions for any txt file. Here we used Dataset
         |__ POS/
         |__ NER/
         
+|__scripts/
+   |__ Monolingual_sumerian_processing.py --> Python Code for Processing Sumerian Monolingual dataset
+   |__ extract.py --> Python Code for Extracting sumerian dataset from CDLI/data github
+   |__CDLI_conll_extracter.py --> code to extract POS and Raw_POS_NER datset from CDLI conll files 
+   |__POS_TrainingData_creater.py --> code to creat POS_Training dataset 
+   |__sumerian_random.py --> code to extract 150 random sentences from 1.5M Sumerian_monolingual_processed.txt
+
 |__ TextAugmentation/
         |__ Raw/
             |__ Raw_NER_POS_data.csv/ --> Extracted and processed sumerian conll files using
@@ -182,12 +291,13 @@ Any Model can be used for the predictions for any txt file. Here we used Dataset
         |__ pndictionary_process.py / --> python code used to process raw dictionary and convert in usable form
         |__ textdata_augmentation.py/ --> Python code for text augmentation, used raw human annotated dataset of 3500 phrase and converted to 22500 phrases using pndictioanry_processed.csv and Raw_NER_POS_data.csv
 
-|__ Word_Embeddings/ --> Sumerian word embeddings(word2vec,fasttext) and code to train the word embeddings on Sumerian_monolingual_processed.txt
+|__ Translation_Models/ --> contains README file, describing how to use different Machine Translation models for sumerian languages, by deafult on cloning the repo the the backtranslation weights get saved in this repo
 
-|__scripts/
-   |__CDLI_conll_extracter.py --> code to extract POS and Raw_POS_NER datset from CDLI conll files 
-   |__POS_TrainingData_creater.py --> code to creat POS_Training dataset 
-   |__sumerian_random.py --> code to extract 150 random sentences from 1.5M Sumerian_monolingual_processed.txt
+|__ Word_Embeddings/ --> Sumerian word embeddings(word2vec,fasttext,glove) readme file and code to train the word embeddings on Sumerian_monolingual_processed.txt
+
+|__ pipeline.py --> To run the pipeline integrated POS, NER and Machine Translation
+
+|__ requirment.sh --> Contains required packages to run this model
 
 ```
 

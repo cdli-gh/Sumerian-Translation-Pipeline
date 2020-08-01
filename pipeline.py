@@ -139,11 +139,18 @@ def main():
         
     #Translation MODEL
     print("Running Translation Model for Sumerian Language")
-    if GPU==False:
-    	os.system(f'onmt_translate -model {trans_path} -src {output_dir}pipeline.txt -output {output_dir}trans_pipeline.txt -replace_unk -verbose')
-    else:
-    	os.system(f'CUDA_VISIBLE_DEVICES=0 onmt_translate -model {trans_path} -src {output_dir}pipeline.txt -output {output_dir}trans_pipeline.txt -replace_unk -verbose -gpu 0')
+    model_name = trainpath.split('/')[-1].split('.')[0]
     
+    if model_name == 'Transformer' or model_name == 'Back_Translation':
+        if GPU==False:
+            os.system(f'onmt_translate -model {trans_path} -src {output_dir}pipeline.txt -output {output_dir}trans_pipeline.txt -replace_unk -verbose')
+        else:
+    	    os.system(f'CUDA_VISIBLE_DEVICES=0 onmt_translate -model {trans_path} -src {output_dir}pipeline.txt -output {output_dir}trans_pipeline.txt -replace_unk -verbose -gpu 0')
+    if model_name == 'XLM' or model_name == 'MASS':
+        if GPU==False:
+    	    os.system(f'sh inference/evalXLM.sh ../{output_dir}pipeline.txt {model_name} ../{output_dir}trans_pipeline.txt')
+        else:
+    	    os.system(f'CUDA_VISIBLE_DEVICES=0 sh inference/evalXLM.sh ../{output_dir}pipeline.txt {model_name} ../{output_dir}trans_pipeline.txt')
     
     #Converting POS_NER to conll
     print("converting POS_NER to conll form")
@@ -163,7 +170,7 @@ if __name__=='__main__':
     parser.add_argument("-i","--input",help="Location of the Input ATF File ", default="ATF_INPUT/demo.atf")
     parser.add_argument("-p","--pos",help="POS Model to be used from ['POS_CRF','POS_HMM','POS_Bi_LSTM','POS_Bi_LSTM_CRF'] (Case sensitive)", choices=['POS_CRF','POS_HMM','POS_Bi_LSTM','POS_Bi_LSTM_CRF'],default="POS_CRF" )
     parser.add_argument("-n","--ner",help="NER Model to be used from ['NER_CRF','NER_Bi_LSTM','NER_Bi_LSTM_CRF'] (Case_sensitive)", choices=['NER_CRF','NER_Bi_LSTM','NER_Bi_LSTM_CRF'],default="NER_CRF" )
-    parser.add_argument("-t","--trans",help="Machine Translation Model to be used",choices=['Transformer'], default="Transformer" )
+    parser.add_argument("-t","--trans",help="Machine Translation Model to be used",choices=['Transformer', 'Back_Translation', 'XLM', 'MASS'], default="Back_Translation" )
     parser.add_argument("-o","--output",help="Location of output Directory", default='ATF_OUTPUT/')
     parser.add_argument("-g","--gpu",help="Use of GPU if avaliable", default=False)
     parser.add_argument("-f","--flair",help="Use of flair language model", default=False)
