@@ -12,5 +12,5 @@ pip3 install git+https://www.github.com/keras-team/keras-contrib.git
 pip3 install OpenNMT-py
 pip3 install click
 pip3 install nltk
-echo -e "\n Downloading Translation Model \n"
-wget wget https://cdlisumerianunmt.s3.us-east-2.amazonaws.com/Transformer/AllCompSents/_step_14000.pt -O Translation_Models/Transformer.pt
+echo -e "\n Downloading Backward Translation Model (Best Performing)\n"
+wget https://cdlisumerianunmt.s3.us-east-2.amazonaws.com/BackTranslation/5st/_step_10000.pt -O Translation_Models/Back_Translation.pt

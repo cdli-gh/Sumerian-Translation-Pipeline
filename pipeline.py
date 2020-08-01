@@ -148,9 +148,9 @@ def main():
     	    os.system(f'CUDA_VISIBLE_DEVICES=0 onmt_translate -model {trans_path} -src {output_dir}pipeline.txt -output {output_dir}trans_pipeline.txt -replace_unk -verbose -gpu 0')
     if model_name == 'XLM' or model_name == 'MASS':
         if GPU==False:
-    	    os.system(f'sh inference/evalXLM.sh ../{output_dir}pipeline.txt {model_name} ../{output_dir}trans_pipeline.txt')
+    	    os.system(f'sh Translation_Models/evalXLM.sh ../{output_dir}pipeline.txt {model_name} ../{output_dir}trans_pipeline.txt')
         else:
-    	    os.system(f'CUDA_VISIBLE_DEVICES=0 sh inference/evalXLM.sh ../{output_dir}pipeline.txt {model_name} ../{output_dir}trans_pipeline.txt')
+    	    os.system(f'CUDA_VISIBLE_DEVICES=0 sh Translation_Models/evalXLM.sh ../{output_dir}pipeline.txt {model_name} ../{output_dir}trans_pipeline.txt')
     
     #Converting POS_NER to conll
     print("converting POS_NER to conll form")

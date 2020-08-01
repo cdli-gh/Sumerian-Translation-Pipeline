@@ -15,7 +15,7 @@ corpus: Corpus = ColumnCorpus(data_folder, columns,
                               
                               
 # load the model you trained
-model = SequenceTagger.load('FLAIR/resources/taggers/flairNer1/best-model.pt')
+model = SequenceTagger.load('FLAIR/resources/taggers/flairNer/best-model.pt')
 
 #if you want to save test results in predcitions.txt
 #result,val= model.evaluate(corpus.test,out_path=f"predictions.txt")
