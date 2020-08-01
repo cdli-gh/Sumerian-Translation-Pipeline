@@ -65,7 +65,7 @@ optional arguments:
                         POS Model to be used from ['POS_CRF','POS_HMM','POS_Bi_LSTM','POS_Bi_LSTM_CRF'] (Case sensitive)
   -n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}, --ner {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}
                         NER Model to be used from ['NER_CRF','NER_Bi_LSTM','NER_Bi_LSTM_CRF'] (Case_sensitive)
-  -t {Transformer}, --trans {Transformer}
+  -t {Transformer,Back_Translation,XLM,MASS}, --trans {Transformer,Back_Translation,XLM,MASS}
                         Machine Translation Model to be used
   -o OUTPUT, --output OUTPUT
                         Location of output Directory
