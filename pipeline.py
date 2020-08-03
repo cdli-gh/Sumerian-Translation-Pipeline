@@ -110,12 +110,19 @@ def Pipeline_end(lines):
 def main():
     
     lines=OPEN(input_path)
-    Pipeline=Pipeline_start(lines)
-    savefile(output_dir+'pipeline.txt',Pipeline)
+    if(atf_file=="False"):
+    	Pipeline=[]
+    	print(len(lines))
+    	for line in lines:
+    		Pipeline.append(processing_1(line))
+    	savefile(output_dir+'pipeline.txt',Pipeline)
+    else:
+    	Pipeline=Pipeline_start(lines)
+    	savefile(output_dir+'pipeline.txt',Pipeline)
     
     
     #POS MODEL
-    print("Running Part of speech Model for Sumerian Language")
+    print("\n Running Part of speech Model for Sumerian Language")
     if Flair==False:
         os.system(f'python3 {pos_path} -i {output_dir}pipeline.txt -o {output_dir}pos_pipeline.txt')
     else:
@@ -153,15 +160,18 @@ def main():
     	    os.system(f'CUDA_VISIBLE_DEVICES=0 sh Translation_Models/evalXLM.sh ../{output_dir}pipeline.txt {model_name} ../{output_dir}trans_pipeline.txt')
     
     #Converting POS_NER to conll
-    print("converting POS_NER to conll form")
-    os.system(f'python3 ATF_2_Conll/atf2conll_tags.py -i {input_path}')
+    
+    if(atf_file!="False"):
+    	print("\n converting POS_NER to conll form")
+    	os.system(f'python3 ATF_2_Conll/atf2conll_tags.py -i {input_path}')
     
         
+    if(atf_file!="False"):
+    	print("\n Generating atf file output")
+    	pipeline_result=Pipeline_end(lines)
+    	savefile(output_dir+'pipeline_output.atf',pipeline_result)
     
-    pipeline_result=Pipeline_end(lines)
-    savefile(output_dir+'pipeline_output.atf',pipeline_result)
-    
-
+    print("\n Done!.. \n")
     
 if __name__=='__main__':
     
@@ -172,8 +182,10 @@ if __name__=='__main__':
     parser.add_argument("-n","--ner",help="NER Model to be used from ['NER_CRF','NER_Bi_LSTM','NER_Bi_LSTM_CRF'] (Case_sensitive)", choices=['NER_CRF','NER_Bi_LSTM','NER_Bi_LSTM_CRF'],default="NER_CRF" )
     parser.add_argument("-t","--trans",help="Machine Translation Model to be used",choices=['Transformer', 'Back_Translation', 'XLM', 'MASS'], default="Back_Translation" )
     parser.add_argument("-o","--output",help="Location of output Directory", default='ATF_OUTPUT/')
+    parser.add_argument("-a","--atf",help="Use of Text file rather than ATF", default=True)
     parser.add_argument("-g","--gpu",help="Use of GPU if avaliable", default=False)
     parser.add_argument("-f","--flair",help="Use of flair language model", default=False)
+
     
     args=parser.parse_args()
     
@@ -182,6 +194,7 @@ if __name__=='__main__':
     ner_path='NER_Models/'+args.ner+'/prediction.py'
     trans_path='Translation_Models/'+args.trans+'.pt'
     output_dir=args.output
+    atf_file=args.atf
     GPU=args.gpu
     Flair=args.flair
     
@@ -191,6 +204,7 @@ if __name__=='__main__':
     print("NER Model path is ", ner_path)
     print("Translation Model path is ", trans_path)
     print("Output directory is", output_dir)
+    print("Using ATF file", atf_file)
     print("GPU", GPU)
     print("Flair_Model", Flair)
     print("\n")
