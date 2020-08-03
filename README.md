@@ -56,7 +56,7 @@ Run Sumerian Translation Pipeline to extract information about Sumerian Text usi
 usage: pipeline.py [-h] [-i INPUT]
                    [-p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}]
                    [-n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}]
-                   [-t {Transformer}] [-o OUTPUT]
+                   [-t {Transformer,Back_Translation,XLM,MASS}] [-o OUTPUT]
                    [-o OUTPUT] [-g GPU] [-f FLAIR]
                    
 optional arguments:
