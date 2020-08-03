@@ -181,7 +181,7 @@ model.save_model("Word_Embeddings/fasttext50.txt")
 ```
 For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
 
-### Flair
+## FLAIR
 Flair is very simple framework for state-of-the-art NLP, It allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER) and part-of-speech tagging (PoS). It is currently the best state of art technique to tag POS and NER for English langauge. I used this to train forward and backword language models and applied with different combination of Word Wmbeddings. For further references follow - https://github.com/flairNLP/flair 
 
 All the corpus folders to train language model, fine tune POS and NER are in FLAIR repository in the desired format. The below code can be used, and modified if needed for traing and fine tunning - 
