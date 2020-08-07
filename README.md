@@ -269,6 +269,8 @@ For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
         |__ Raw_NER_POS_data.csv/ --> Extracted and processed sumerian conll files using scripts/CDLI_conll_extracter.py 
         |__ sumerian_demo.txt/ --> Randomly extracted 150 sentences for the manual testing  of modeles from 1.5M sumerian text, code used - scripts/sumerian_random.py 
 
+|__BERT/ --> Contain code for Language Modeling and Fine tunning of RoBERTo Model, other transformer models can be trained and used similarly.
+
 |__FLAIR/ --> Flair is currently best state of art technique for English Language, this repo contains differrnt python files to train forward and backword language models along with different word embeddings and python files used for fine tunning the models for identifying POS and NER Models  
 
 |__NER_Models/         
@@ -331,6 +333,8 @@ For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
 |__ pipeline.py --> To run the pipeline integrated POS, NER and Machine Translation
 
 |__ requirment.sh --> Contains required packages to run this model
+
+|__ src --> Repository containing images used in Readme.md file 
 
 ```
 
