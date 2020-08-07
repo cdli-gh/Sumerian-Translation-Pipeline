@@ -38,7 +38,8 @@ https://cdli-gh.github.io/guides/guide_tagsets.html
 ## Usage
 Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
 Install requirments by simply running requirments.sh file- \
-Run pipeline.py file with the ATF input file, the results will be in ATF_OUTPUT folder 
+Run pipeline.py file with the ATF input file, the results will be in ATF_OUTPUT folder \
+If use are using text file as input rather than ATF, set atf argument as False, the conll files and atf output will not be generated in that case  
 ```
 git clone https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git
 cd Sumerian-Translation-Pipeline
@@ -57,7 +58,7 @@ usage: pipeline.py [-h] [-i INPUT]
                    [-p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}]
                    [-n {NER_CRF,NER_Bi_LSTM,NER_Bi_LSTM_CRF}]
                    [-t {Transformer,Back_Translation,XLM,MASS}] [-o OUTPUT]
-                   [-o OUTPUT] [-g GPU] [-f FLAIR]
+                   [-a ATF] [-g GPU] [-f FLAIR]
                    
 optional arguments:
   -h, --help            show this help message and exit
@@ -71,6 +72,7 @@ optional arguments:
                         Machine Translation Model to be used
   -o OUTPUT, --output OUTPUT
                         Location of output Directory
+  -a ATF, --atf ATF     Use of Text file rather than ATF, set False if using text file as input                  
   -g GPU, --gpu GPU     Use of GPU if avaliable
   -f FLAIR, --flair FLAIR
                         Use of flair language model
@@ -179,7 +181,7 @@ model.save_model("Word_Embeddings/fasttext50.txt")
 ```
 For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
 
-### Flair
+## FLAIR
 Flair is very simple framework for state-of-the-art NLP, It allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER) and part-of-speech tagging (PoS). It is currently the best state of art technique to tag POS and NER for English langauge. I used this to train forward and backword language models and applied with different combination of Word Wmbeddings. For further references follow - https://github.com/flairNLP/flair 
 
 All the corpus folders to train language model, fine tune POS and NER are in FLAIR repository in the desired format. The below code can be used, and modified if needed for traing and fine tunning - 
