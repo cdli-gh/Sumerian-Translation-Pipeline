@@ -172,11 +172,14 @@ I used the following stack of Embeddings - character_embeddings, word2vec, forwa
 <p align="center">
   <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/5.png" alt="Example image"/>
 </p>
+
 BERT (Bidirectional Encoder Representations from Transformers) is a recent paper published by researchers at Google AI Language. It has caused a stir in the Machine Learning community by presenting state-of-the-art results in a wide variety of NLP tasks. I used RoBERTo (by Facebook) as an experiment but any transformer model can be used for training and fine-tunning the language model. For training the language model sumerian_monolingual_processed data is used, and for fine-tunning similar data is used as for the FLAIR models. To train and finetune I  used [HuggingFace framework](https://github.com/huggingface/transformers)  \
-To train Language model simpaly use - 
+To train Language model simpaly use -
+
 ```
 python3 BERT/language_model_train.py 
 ```
+
 The language model training is very time consuming so it is advised to use GPUs for training perposes, Google colab notebook can also be used for free GPU access. \
 To do the fine tunning for any token classification task (POS and NER is our case) the similar script can be used as provided, we just need a tokenizer and language model accordingly. To fine tune the BERT Model use - 
 ```
