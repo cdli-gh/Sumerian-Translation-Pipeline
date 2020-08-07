@@ -9,22 +9,22 @@ sentence: n(ban2) n sila3 {d}suen-gi-im-la-an-ni
 NER:(n(ban2),O) (n,O) (sila3,O) ({d}suen-gi-im-la-an-ni,PN) 
 4
 sentence: n(ban2) n sila3 {d}suen-i-din-nam
-NER:(n(ban2),O) (n,O) (sila3,O) ({d}suen-i-din-nam,O) 
+NER:(n(ban2),O) (n,O) (sila3,O) ({d}suen-i-din-nam,PN) 
 5
 sentence: n(ban2) n sila3 {d}suen-szar-rum
 NER:(n(ban2),O) (n,O) (sila3,O) ({d}suen-szar-rum,PN) 
 6
 sentence: n(ban2) n sila3 a-bi-ia
-NER:(n(ban2),O) (n,O) (sila3,O) (a-bi-ia,O) 
+NER:(n(ban2),O) (n,O) (sila3,O) (a-bi-ia,PN) 
 7
 sentence: n(ban2) n sila3 x-x {d}suen-li-x
-NER:(n(ban2),O) (n,O) (sila3,O) (x-x,O) ({d}suen-li-x,O) 
+NER:(n(ban2),O) (n,O) (sila3,O) (x-x,O) ({d}suen-li-x,PN) 
 8
 sentence: 2(ban2) x ha nam ASZ ia
 NER:(2(ban2),O) (x,O) (ha,O) (nam,O) (ASZ,O) (ia,O) 
 9
 sentence: 1(ban2) i3-li2-tab-ba-e
-NER:(1(ban2),O) (i3-li2-tab-ba-e,PN) 
+NER:(1(ban2),O) (i3-li2-tab-ba-e,O) 
 10
 sentence: 3(disz) sila3 te-szub-na-sir
 NER:(3(disz),O) (sila3,O) (te-szub-na-sir,PN) 
@@ -36,10 +36,10 @@ sentence: 1(ban2) ip-qu2-isz8-tar2
 NER:(1(ban2),O) (ip-qu2-isz8-tar2,PN) 
 13
 sentence: iti sze-sag11-ku5 u4 1(disz)-kam
-NER:(iti,O) (sze-sag11-ku5,O) (u4,O) (1(disz)-kam,O) 
+NER:(iti,O) (sze-sag11-ku5,MN) (u4,O) (1(disz)-kam,O) 
 14
 sentence: {disz}{d}suen-sze-mi mu-nim
-NER:({disz}{d}suen-sze-mi,O) (mu-nim,O) 
+NER:({disz}{d}suen-sze-mi,PN) (mu-nim,O) 
 15
 sentence: sa10 til-la-ni-sze3
 NER:(sa10,O) (til-la-ni-sze3,O) 
@@ -48,10 +48,10 @@ sentence: 6(disz) gin2 ku3-babbar
 NER:(6(disz),O) (gin2,O) (ku3-babbar,O) 
 17
 sentence: in-na-la2
-NER:(in-na-la2,PN) 
+NER:(in-na-la2,O) 
 18
 sentence: ki li-li-lum x-x
-NER:(ki,O) (li-li-lum,O) (x-x,O) 
+NER:(ki,O) (li-li-lum,PN) (x-x,O) 
 19
 sentence: um-mi-he-pa2-at
 NER:(um-mi-he-pa2-at,PN) 
@@ -63,49 +63,49 @@ sentence: u4-kur2-kur2-sze3 nu-mu-gi4-gi4-dam
 NER:(u4-kur2-kur2-sze3,O) (nu-mu-gi4-gi4-dam,O) 
 22
 sentence: mu {d}nin-urta
-NER:(mu,O) ({d}nin-urta,O) 
+NER:(mu,O) ({d}nin-urta,DN) 
 23
 sentence: u3 ma-na-ba-al-te-el
-NER:(u3,O) (ma-na-ba-al-te-el,O) 
+NER:(u3,O) (ma-na-ba-al-te-el,PN) 
 24
 sentence: in-pa3
-NER:(in-pa3,O) 
+NER:(in-pa3,PN) 
 25
 sentence: igi ia-ah-zi-be2-el3
-NER:(igi,O) (ia-ah-zi-be2-el3,O) 
+NER:(igi,O) (ia-ah-zi-be2-el3,PN) 
 26
 sentence: dumu isz-me-{d}suen
-NER:(dumu,O) (isz-me-{d}suen,O) 
+NER:(dumu,O) (isz-me-{d}suen,PN) 
 27
 sentence: igi szu-la-ra-ak
-NER:(igi,O) (szu-la-ra-ak,O) 
+NER:(igi,O) (szu-la-ra-ak,PN) 
 28
 sentence: igi na-nu-szu-um
-NER:(igi,O) (na-nu-szu-um,O) 
+NER:(igi,O) (na-nu-szu-um,PN) 
 29
 sentence: dumu za-x-la-nu
 NER:(dumu,O) (za-x-la-nu,PN) 
 30
 sentence: igi ku-nu-um
-NER:(igi,O) (ku-nu-um,O) 
+NER:(igi,O) (ku-nu-um,PN) 
 31
 sentence: dumu nu-ur2-ia
 NER:(dumu,O) (nu-ur2-ia,PN) 
 32
 sentence: mu e2 {d}nin-urta ma-na-ba-al-te-el mu-na-du3
-NER:(mu,O) (e2,O) ({d}nin-urta,O) (ma-na-ba-al-te-el,O) (mu-na-du3,O) 
+NER:(mu,O) (e2,O) ({d}nin-urta,DN) (ma-na-ba-al-te-el,O) (mu-na-du3,O) 
 33
 sentence: dumu isz-me-{d}suen
-NER:(dumu,O) (isz-me-{d}suen,O) 
+NER:(dumu,O) (isz-me-{d}suen,PN) 
 34
 sentence: igi szu-la-ra-ak
-NER:(igi,O) (szu-la-ra-ak,O) 
+NER:(igi,O) (szu-la-ra-ak,PN) 
 35
 sentence: dumu x-x-x-x
 NER:(dumu,O) (x-x-x-x,PN) 
 36
 sentence: igi ku-nu-um
-NER:(igi,O) (ku-nu-um,O) 
+NER:(igi,O) (ku-nu-um,PN) 
 37
 sentence: dumu nu-ur2-ia
 NER:(dumu,O) (nu-ur2-ia,PN) 
@@ -114,10 +114,10 @@ sentence: ... x ...
 NER:(...,O) (x,O) (...,O) 
 39
 sentence: ki a-x-x-x
-NER:(ki,O) (a-x-x-x,O) 
+NER:(ki,O) (a-x-x-x,PN) 
 40
 sentence: u3 i-x-x-x-x
-NER:(u3,O) (i-x-x-x-x,O) 
+NER:(u3,O) (i-x-x-x-x,PN) 
 41
 sentence: dumu me-x-x-x
 NER:(dumu,O) (me-x-x-x,PN) 
@@ -129,7 +129,7 @@ sentence: dumu NI-x-x-x
 NER:(dumu,O) (NI-x-x-x,PN) 
 44
 sentence: in-szi-sa10
-NER:(in-szi-sa10,PN) 
+NER:(in-szi-sa10,O) 
 45
 sentence: 5(disz) gin2 ku3-babbar
 NER:(5(disz),O) (gin2,O) (ku3-babbar,O) 
@@ -138,7 +138,7 @@ sentence: sa10 til-la-ni-sze3
 NER:(sa10,O) (til-la-ni-sze3,O) 
 47
 sentence: in-na-la2
-NER:(in-na-la2,PN) 
+NER:(in-na-la2,O) 
 48
 sentence: 4(disz) gu4-ab2
 NER:(4(disz),O) (gu4-ab2,PN) 
@@ -162,7 +162,7 @@ sentence: i3-gen-ne-en
 NER:(i3-gen-ne-en,O) 
 55
 sentence: iti sze-sag11-ku5 u4 4(disz)-kam
-NER:(iti,O) (sze-sag11-ku5,O) (u4,O) (4(disz)-kam,O) 
+NER:(iti,O) (sze-sag11-ku5,MN) (u4,O) (4(disz)-kam,O) 
 56
 sentence: mu ...
 NER:(mu,O) (...,O) 
@@ -189,7 +189,7 @@ sentence: i3-gen-ne-en
 NER:(i3-gen-ne-en,O) 
 64
 sentence: iti sze-sag11-ku5 u4 4(disz)-kam
-NER:(iti,O) (sze-sag11-ku5,O) (u4,O) (4(disz)-kam,O) 
+NER:(iti,O) (sze-sag11-ku5,MN) (u4,O) (4(disz)-kam,O) 
 65
 sentence: mu GISZ ...
 NER:(mu,O) (GISZ,O) (...,O) 
@@ -204,10 +204,10 @@ sentence: 6(disz) 2/3(disz) gin2 ku3-babbar sa10 2(asz) gur sze
 NER:(6(disz),O) (2/3(disz),O) (gin2,O) (ku3-babbar,O) (sa10,O) (2(asz),O) (gur,O) (sze,O) 
 69
 sentence: szu ti-a bu-sum
-NER:(szu,O) (ti-a,O) (bu-sum,O) 
+NER:(szu,O) (ti-a,O) (bu-sum,PN) 
 70
 sentence: mu ma-ma-ba-al-te-el
-NER:(mu,O) (ma-ma-ba-al-te-el,O) 
+NER:(mu,O) (ma-ma-ba-al-te-el,PN) 
 71
 sentence: 6(disz) gin2 ku3-babbar sa10 2(asz) gur sze
 NER:(6(disz),O) (gin2,O) (ku3-babbar,O) (sa10,O) (2(asz),O) (gur,O) (sze,O) 
@@ -216,7 +216,7 @@ sentence: szu ti-a a-na-gum
 NER:(szu,O) (ti-a,O) (a-na-gum,O) 
 73
 sentence: mu mu-na-ba-al-te-el
-NER:(mu,O) (mu-na-ba-al-te-el,O) 
+NER:(mu,O) (mu-na-ba-al-te-el,PN) 
 74
 sentence: 1(u) 3(disz) 1/2(disz) gin2 1(disz)-kam
 NER:(1(u),O) (3(disz),O) (1/2(disz),O) (gin2,O) (1(disz)-kam,O) 
@@ -228,13 +228,13 @@ sentence: 1/3(disz) ma-na 8(disz) igi-6(disz)-gal2 szu-la2
 NER:(1/3(disz),O) (ma-na,O) (8(disz),O) (igi-6(disz)-gal2,O) (szu-la2,O) 
 77
 sentence: mu ma-na-ba-al-te-el
-NER:(mu,O) (ma-na-ba-al-te-el,O) 
+NER:(mu,O) (ma-na-ba-al-te-el,PN) 
 78
 sentence: 4(disz) ab2 mah2
 NER:(4(disz),O) (ab2,O) (mah2,O) 
 79
 sentence: 6(disz) gu4-ab2
-NER:(6(disz),O) (gu4-ab2,PN) 
+NER:(6(disz),O) (gu4-ab2,O) 
 80
 sentence: 2(u) 2(disz) ab2 amar-ga
 NER:(2(u),O) (2(disz),O) (ab2,O) (amar-ga,O) 
@@ -243,10 +243,10 @@ sentence: 6(disz) gu4 amar-ga
 NER:(6(disz),O) (gu4,O) (amar-ga,PN) 
 82
 sentence: ($ blank space $) 3(u) 8(disz) gu4 ab2 amar-hi-a
-NER:(($,O) (blank,O) (space,O) ($),O) (3(u),O) (8(disz),O) (gu4,O) (ab2,O) (amar-hi-a,PN) 
+NER:(($,O) (blank,O) (space,O) ($),O) (3(u),O) (8(disz),O) (gu4,O) (ab2,O) (amar-hi-a,O) 
 83
 sentence: nig2-szu {d}utu-sipa
-NER:(nig2-szu,O) ({d}utu-sipa,O) 
+NER:(nig2-szu,O) ({d}utu-sipa,DN) 
 84
 sentence: giri3 x x x x
 NER:(giri3,O) (x,O) (x,O) (x,O) (x,O) 
@@ -255,7 +255,7 @@ sentence: i3-gen-ne-en
 NER:(i3-gen-ne-en,O) 
 86
 sentence: iti sze-sag11-ku5 u4 4(disz)-kam
-NER:(iti,O) (sze-sag11-ku5,O) (u4,O) (4(disz)-kam,O) 
+NER:(iti,O) (sze-sag11-ku5,MN) (u4,O) (4(disz)-kam,O) 
 87
 sentence: mu ...
 NER:(mu,O) (...,O) 
@@ -264,7 +264,7 @@ sentence: 4(disz) ab2 mah2
 NER:(4(disz),O) (ab2,O) (mah2,O) 
 89
 sentence: 6(disz) gu4-ab2
-NER:(6(disz),O) (gu4-ab2,PN) 
+NER:(6(disz),O) (gu4-ab2,O) 
 90
 sentence: 2(u) 2(disz) ab2 amar-ga
 NER:(2(u),O) (2(disz),O) (ab2,O) (amar-ga,O) 
@@ -273,10 +273,10 @@ sentence: 6(disz) gu4 amar-ga
 NER:(6(disz),O) (gu4,O) (amar-ga,PN) 
 92
 sentence: ($ blank space $) 3(u) 8(disz) gu4 ab2 amar-hi-a
-NER:(($,O) (blank,O) (space,O) ($),O) (3(u),O) (8(disz),O) (gu4,O) (ab2,O) (amar-hi-a,PN) 
+NER:(($,O) (blank,O) (space,O) ($),O) (3(u),O) (8(disz),O) (gu4,O) (ab2,O) (amar-hi-a,O) 
 93
 sentence: nig2-szu {d}utu-sipa
-NER:(nig2-szu,O) ({d}utu-sipa,O) 
+NER:(nig2-szu,O) ({d}utu-sipa,DN) 
 94
 sentence: 3(disz) gin2 sa10 sze-gesz-i3
 NER:(3(disz),O) (gin2,O) (sa10,O) (sze-gesz-i3,O) 
@@ -288,10 +288,10 @@ sentence: 1/2(disz) gin2 a-hi-i-ma
 NER:(1/2(disz),O) (gin2,O) (a-hi-i-ma,PN) 
 97
 sentence: n gin2 a-hi-i-ma a-ra2 2(disz)-kam
-NER:(n,O) (gin2,O) (a-hi-i-ma,O) (a-ra2,O) (2(disz)-kam,O) 
+NER:(n,O) (gin2,O) (a-hi-i-ma,PN) (a-ra2,O) (2(disz)-kam,O) 
 98
 sentence: n gin2 a-hi-i-ma a-ra2 3(disz)-kam
-NER:(n,O) (gin2,O) (a-hi-i-ma,O) (a-ra2,O) (3(disz)-kam,O) 
+NER:(n,O) (gin2,O) (a-hi-i-ma,PN) (a-ra2,O) (3(disz)-kam,O) 
 99
 sentence: szu-nigin 1(u) 7(disz) 1/3(disz) gin2 ku3-babbar
 NER:(szu-nigin,O) (1(u),O) (7(disz),O) (1/3(disz),O) (gin2,O) (ku3-babbar,O) 
@@ -303,7 +303,7 @@ sentence: {disz}{d}suen-a-hu-szu
 NER:({disz}{d}suen-a-hu-szu,PN) 
 102
 sentence: u3 sza-at-{d}gibil6
-NER:(u3,O) (sza-at-{d}gibil6,O) 
+NER:(u3,O) (sza-at-{d}gibil6,PN) 
 103
 sentence: ha-la e2 ad-da-ni
 NER:(ha-la,O) (e2,O) (ad-da-ni,O) 
@@ -315,34 +315,34 @@ sentence: ugu za-za-kum
 NER:(ugu,O) (za-za-kum,O) 
 106
 sentence: li-bi2-in-tuku
-NER:(li-bi2-in-tuku,PN) 
+NER:(li-bi2-in-tuku,O) 
 107
 sentence: igi a-mur-i-lu-su2
-NER:(igi,O) (a-mur-i-lu-su2,O) 
+NER:(igi,O) (a-mur-i-lu-su2,PN) 
 108
 sentence: igi {d}suen-en-nam szitim
-NER:(igi,O) ({d}suen-en-nam,O) (szitim,O) 
+NER:(igi,O) ({d}suen-en-nam,RN) (szitim,O) 
 109
 sentence: igi bur-ia
-NER:(igi,O) (bur-ia,O) 
+NER:(igi,O) (bur-ia,PN) 
 110
 sentence: dumu sa-li
 NER:(dumu,O) (sa-li,PN) 
 111
 sentence: igi {d}nanna-zi-sza3-gal2
-NER:(igi,O) ({d}nanna-zi-sza3-gal2,O) 
+NER:(igi,O) ({d}nanna-zi-sza3-gal2,PN) 
 112
 sentence: iti gan-gan-e3
-NER:(iti,O) (gan-gan-e3,O) 
+NER:(iti,O) (gan-gan-e3,MN) 
 113
 sentence: mu {gesz}gu-za za3-bi-us2 3(disz)-a-bi {d}en-lil2 {d}nin-urta {d}nin-nibru{ki} ma-na-ba-al-te-el
-NER:(mu,O) ({gesz}gu-za,O) (za3-bi-us2,O) (3(disz)-a-bi,O) ({d}en-lil2,O) ({d}nin-urta,O) ({d}nin-nibru{ki},O) (ma-na-ba-al-te-el,O) 
+NER:(mu,O) ({gesz}gu-za,O) (za3-bi-us2,O) (3(disz)-a-bi,O) ({d}en-lil2,DN) ({d}nin-urta,DN) ({d}nin-nibru{ki},DN) (ma-na-ba-al-te-el,O) 
 114
 sentence: {disz}{d}suen-a-hu-szu
 NER:({disz}{d}suen-a-hu-szu,PN) 
 115
 sentence: u3 sza-at-{d}gibil6
-NER:(u3,O) (sza-at-{d}gibil6,O) 
+NER:(u3,O) (sza-at-{d}gibil6,PN) 
 116
 sentence: ha-la e2 ad-da-ni
 NER:(ha-la,O) (e2,O) (ad-da-ni,O) 
@@ -354,25 +354,25 @@ sentence: ugu za-za-kum
 NER:(ugu,O) (za-za-kum,O) 
 119
 sentence: li-bi2-in-tuku
-NER:(li-bi2-in-tuku,PN) 
+NER:(li-bi2-in-tuku,O) 
 120
 sentence: igi a-mur-i-lu-su2
-NER:(igi,O) (a-mur-i-lu-su2,O) 
+NER:(igi,O) (a-mur-i-lu-su2,PN) 
 121
 sentence: igi {d}suen-en-nam szitim
-NER:(igi,O) ({d}suen-en-nam,O) (szitim,O) 
+NER:(igi,O) ({d}suen-en-nam,RN) (szitim,O) 
 122
 sentence: igi bur-ia dumu sa-li
-NER:(igi,O) (bur-ia,O) (dumu,O) (sa-li,PN) 
+NER:(igi,O) (bur-ia,PN) (dumu,O) (sa-li,PN) 
 123
 sentence: igi {d}nanna-zi-sza3-gal2
-NER:(igi,O) ({d}nanna-zi-sza3-gal2,O) 
+NER:(igi,O) ({d}nanna-zi-sza3-gal2,PN) 
 124
 sentence: iti gan-gan-e3
-NER:(iti,O) (gan-gan-e3,O) 
+NER:(iti,O) (gan-gan-e3,MN) 
 125
 sentence: mu {gesz}gu-za za3-bi-us2 3(disz)-a-bi {d}en-lil2 {d}nin-urta {d}nin-nibru{ki} ma-na-dim2
-NER:(mu,O) ({gesz}gu-za,O) (za3-bi-us2,O) (3(disz)-a-bi,O) ({d}en-lil2,O) ({d}nin-urta,O) ({d}nin-nibru{ki},O) (ma-na-dim2,O) 
+NER:(mu,O) ({gesz}gu-za,O) (za3-bi-us2,O) (3(disz)-a-bi,O) ({d}en-lil2,DN) ({d}nin-urta,DN) ({d}nin-nibru{ki},DN) (ma-na-dim2,O) 
 126
 sentence: {d}suen-a-bu-szu
 NER:({d}suen-a-bu-szu,PN) 
@@ -483,4 +483,4 @@ sentence: ($ blank space $) 1(u) 7(disz) x ...
 NER:(($,O) (blank,O) (space,O) ($),O) (1(u),O) (7(disz),O) (x,O) (...,O) 
 162
 sentence: nig2-szu {d}suen-x-x
-NER:(nig2-szu,O) ({d}suen-x-x,O) 
+NER:(nig2-szu,O) ({d}suen-x-x,DN) 

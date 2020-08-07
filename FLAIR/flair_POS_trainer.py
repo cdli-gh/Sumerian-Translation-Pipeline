@@ -1,6 +1,6 @@
 from flair.data import Corpus
 from flair.datasets import ColumnCorpus
-from flair.embeddings import TokenEmbeddings, WordEmbeddings, StackedEmbeddings, FlairEmbeddings, CharacterEmbeddings
+from flair.embeddings import TokenEmbeddings, WordEmbeddings, StackedEmbeddings, FlairEmbeddings, CharacterEmbeddings, TransformerWordEmbeddings
 from torch.optim.adam import Adam
 from typing import List
 
@@ -31,14 +31,16 @@ print(tag_dictionary)
 embedding_types: List[TokenEmbeddings] = [
 
     # Word2vec embeddings
-    WordEmbeddings('FLAIR/word2vec50'),
-    CharacterEmbeddings(),
-
+    #WordEmbeddings('FLAIR/word2vec50'),
+    #CharacterEmbeddings(),
+    
+    #TransformerWordEmbeddings(model ='BERT/sumerianBERTo/',allow_long_sentences=True),
+    
     # contextual string embeddings, forward
-    FlairEmbeddings('FLAIR/resources/taggers/language_model/best-lm.pt'),
+    FlairEmbeddings('FLAIR/resources/taggers/language_model_forward/best-lm.pt'),
     
     # contextual string embeddings, backward
-    FlairEmbeddings('FLAIR/resources/taggers/language_model/best-lm.pt'),
+    FlairEmbeddings('FLAIR/resources/taggers/language_model_backward/best-lm.pt'),
 ]
 
 embeddings: StackedEmbeddings = StackedEmbeddings(embeddings=embedding_types)
@@ -51,7 +53,8 @@ tagger: SequenceTagger = SequenceTagger(hidden_size=256,
                                         embeddings=embeddings,
                                         tag_dictionary=tag_dictionary,
                                         tag_type=tag_type,
-                                        use_crf=True)
+                                        use_crf=True,
+                                        reproject_embeddings=128)
 
 # 6. initialize trainer
 from flair.trainers import ModelTrainer
@@ -59,9 +62,10 @@ from flair.trainers import ModelTrainer
 trainer: ModelTrainer = ModelTrainer(tagger, corpus, optimizer=Adam)
 
 # 7. start training
-trainer.train('FLAIR/resources/taggers/flairpos1',
+trainer.train('FLAIR/resources/taggers/flairpos',
               learning_rate=0.1,
-              mini_batch_size=32,
+              mini_batch_size=64,
               max_epochs=30)
+
 
 

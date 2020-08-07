@@ -16,19 +16,19 @@ o.5'.1	3(u)	3(u)[ten]	NU
 o.5'.2	8(disz)	8(disz)[one]	NU
 o.5'.3	gu4	gud[ox]	N
 o.5'.4	ab2	ab[cow][-ø]	N
-o.5'.5	amar-hi-a	_	PN
+o.5'.5	amar-hi-a	_	N
 o.6'.1	nig2-szu	_	N
-o.6'.2	{d}utu-sipa	_	PN
+o.6'.2	{d}utu-sipa	_	DN
 r.1.1	giri3	giri[foot]	N
-r.1.2	x	_[_]	N
-r.1.3	x	_[_]	N
-r.1.4	x	_[_]	N
-r.1.5	x	_[_]	N
+r.1.2	x	_[_]	 
+r.1.3	x	_[_]	 
+r.1.4	x	_[_]	 
+r.1.5	x	_[_]	 
 r.2.1	i3-gen-ne-en	_	V
 r.3.1	iti	iti[month]	N
-r.3.2	sze-sag11-ku5	Szesagku[1][-'a]	N
+r.3.2	sze-sag11-ku5	Szesagku[1][-'a]	MN
 r.3.3	u4	ud[day]	N
-r.3.4	4(disz)-kam	4(disz)[one]-ak-am[-'a]	PN
+r.3.4	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU
 r.4.1	mu	mu[year]	N
 r.4.2	...	_[_]	 
 er.1'.1	4(disz)	4(disz)[one]	NU
@@ -47,6 +47,6 @@ er.5'.1	3(u)	3(u)[ten]	NU
 er.5'.2	8(disz)	8(disz)[one]	NU
 er.5'.3	gu4	gud[ox]	N
 er.5'.4	ab2	ab[cow][-ø]	N
-er.5'.5	amar-hi-a	_	PN
+er.5'.5	amar-hi-a	_	N
 er.6'.1	nig2-szu	_	N
-er.6'.2	{d}utu-sipa	_	PN
+er.6'.2	{d}utu-sipa	_	DN
