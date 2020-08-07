@@ -228,8 +228,10 @@ sh demo.sh
 ```
 
 #### Fasttext
-To train fasttext word embeddings install the library - \ 
-$ pip3 install fastext \
+To train fasttext word embeddings install the library -
+```
+$ pip3 install fastext
+```
 and run -
 ```
 import fasttext
