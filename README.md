@@ -52,7 +52,7 @@ For the reference of ***Machine Translation Models*** follow this link - [Unsupe
 \(If working on conda Environment install pytorch seperately to run Machine Translation models - conda install pytorch \)
 
 ## Pipeline
-Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation. Since the weights are already saved, any model can be used directly without training.    
+Run Sumerian Translation Pipeline to extract information about Sumerian Text using POS, NER and Machine Translation. Since some of the weights are already saved, so these models can be used directly without training.    
 ```
 usage: pipeline.py [-h] [-i INPUT]
                    [-p {POS_CRF,POS_HMM,POS_Bi_LSTM,POS_Bi_LSTM_CRF}]
@@ -108,7 +108,7 @@ $ Python3 {POS_Models/NER_Models}/POS_Bi_LSTM/training.py
   -o OUTPUT,     Location of model weights to be saved
 ```
 #### 4. Bidirectional LSTM Neural Network CRF (Bi_LSTM_CRF_Model)
-Integrated Deep learning and conditional random field model, uses word2vec/fasttext word-embeddings, weights are saved in .h5 format in Saved_Model..  
+Integrated Deep learning and conditional random field model, uses word2vec/fasttext word-embeddings, weights are saved in .h5 format in Saved_Model. 
 ```
 $ Python3 {POS_Models/NER_Models}/{POS_Bi_LSTM_CRF/NER_Bi_LSTM_CRF}/training.py
   -i INPUT,      Location of the Input training file in the specific
@@ -132,6 +132,60 @@ $ Python3 {POS_Models/NER_Models}/{Choice from the above models}/prediction.py
 
 Any Model can be used for the predictions for any txt file. Here we used Dataset/sumerian_demo.txt as input file. which contains 150 random sentences from 1.5M sumerian text.
 ```
+
+
+## FLAIR
+Flair is very simple framework for state-of-the-art NLP, It allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER) and part-of-speech tagging (PoS). It is currently the best state of art technique to tag POS and NER for English langauge. I used this to train forward and backword language models and applied with different combination of Word Wmbeddings. For further references follow - https://github.com/flairNLP/flair 
+
+<p align="center">
+  <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/4.png" alt="Example image"/>
+</p>
+
+All the corpus folders to train language model, fine tune POS and NER are in FLAIR repository in the desired format. The below code can be used, and modified if needed for traing and fine tunning - 
+```
+# foward language model
+python3 FLAIR/flair_forward_LanguageModel.py
+
+# backward language model
+python3 FLAIR/flair_backward_LanguageModel.py
+
+# FineTunning POS
+python3 FLAIR/flair_POS_trainer.py
+
+# FineTunning NER
+python3 FLAIR/flair_NER_trainer.py
+
+# To predict (Default is POS)
+python3 FLAIR/predict.py
+```
+To use Differnt word Embeddings such as Glove, Fasttext, Word2vec along with backword and forward language model Embeddins, First convert the text wordvectors file to gensim format using the below code (for word2vec). Follow this link for further details - [CLASSIC_WORD_EMBEDDINGS](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/CLASSIC_WORD_EMBEDDINGS.md) 
+```
+import gensim
+
+word_vectors = gensim.models.KeyedVectors.load_word2vec_format('/path/to/fasttext/embeddings.txt', binary=False)
+word_vectors.save('/path/to/converted')
+```
+I used the following stack of Embeddings - character_embeddings, word2vec, forward_flair, backword_flair. The transfrmer embeddings can also be used, BERT model is described below. 
+
+
+## BERT
+<p align="center">
+  <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/5.png" alt="Example image"/>
+</p>
+BERT (Bidirectional Encoder Representations from Transformers) is a recent paper published by researchers at Google AI Language. It has caused a stir in the Machine Learning community by presenting state-of-the-art results in a wide variety of NLP tasks. I used RoBERTo (by Facebook) as an experiment but any transformer model can be used for training and fine-tunning the language model. For training the language model sumerian_monolingual_processed data is used, and for fine-tunning similar data is used as for the FLAIR models. To train and finetune I  used [HuggingFace framework](https://github.com/huggingface/transformers)  \
+To train Language model simpaly use - 
+```
+python3 BERT/language_model_train.py 
+```
+The language model training is very time consuming so it is advised to use GPUs for training perposes, Google colab notebook can also be used for free GPU access. \
+To do the fine tunning for any token classification task (POS and NER is our case) the similar script can be used as provided, we just need a tokenizer and language model accordingly. To fine tune the BERT Model use - 
+```
+cd BERT/
+sh fine_tune.sh
+```
+For further details please follow the documentation - [https://huggingface.co/transformers/examples.html](https://huggingface.co/transformers/examples.html)
+
+
 
 ### Word_Embeddings
 All Word Embedding models are Trained on Sumerian Processed Monolingual Dataset(contain around 1.5M UrIII phrases). The trained word embeddings are also used in Flair Language models
@@ -181,34 +235,6 @@ model.save_model("Word_Embeddings/fasttext50.txt")
 ```
 For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
 
-## FLAIR
-Flair is very simple framework for state-of-the-art NLP, It allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER) and part-of-speech tagging (PoS). It is currently the best state of art technique to tag POS and NER for English langauge. I used this to train forward and backword language models and applied with different combination of Word Wmbeddings. For further references follow - https://github.com/flairNLP/flair 
-
-All the corpus folders to train language model, fine tune POS and NER are in FLAIR repository in the desired format. The below code can be used, and modified if needed for traing and fine tunning - 
-```
-# foward language model
-python3 FLAIR/flair_forward_LanguageModel.py
-
-# backward language model
-python3 FLAIR/flair_backward_LanguageModel.py
-
-# FineTunning POS
-python3 FLAIR/flair_POS_trainer.py
-
-# FineTunning NER
-python3 FLAIR/flair_NER_trainer.py
-
-# To predict (Default is POS)
-python3 FLAIR/predict.py
-```
-To use Differnt word Embeddings such as Glove, Fasttext, Word2vec along with backword and forward language model Embeddins, First convert the text wordvectors file to gensim format using the below code (for word2vec). Follow this link for further details - [CLASSIC_WORD_EMBEDDINGS](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/CLASSIC_WORD_EMBEDDINGS.md) 
-```
-import gensim
-
-word_vectors = gensim.models.KeyedVectors.load_word2vec_format('/path/to/fasttext/embeddings.txt', binary=False)
-word_vectors.save('/path/to/converted')
-```
-We used the following stack of Embeddings - character_embeddings, word2vec, forward_flair, backword_flair.
 
 
 ## Project structure
