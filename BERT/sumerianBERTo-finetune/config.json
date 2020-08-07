@@ -1,0 +1,46 @@
+{
+  "architectures": [
+    "RobertaForTokenClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": 0,
+  "eos_token_id": 2,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "AJ",
+    "1": "AV",
+    "2": "CNJ",
+    "3": "DET",
+    "4": "J",
+    "5": "N",
+    "6": "NE",
+    "7": "NU",
+    "8": "O",
+    "9": "V"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+    "AJ": 0,
+    "AV": 1,
+    "CNJ": 2,
+    "DET": 3,
+    "J": 4,
+    "N": 5,
+    "NE": 6,
+    "NU": 7,
+    "O": 8,
+    "V": 9
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 514,
+  "model_type": "roberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 6,
+  "pad_token_id": 1,
+  "type_vocab_size": 1,
+  "vocab_size": 52000
+}
