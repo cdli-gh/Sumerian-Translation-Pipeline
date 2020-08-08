@@ -1,12 +1,12 @@
 echo "Installing Python libraries \n"
-pip3 install numPy
+pip3 install numpy
 pip3 install pandas
 pip3 install matplotlib
 pip3 install sklearn
 pip3 install sklearn_crfsuite
 pip3 install tqdm==4.46.1
-pip3 install Keras
 pip3 install tensorflow
+pip3 install Keras
 pip3 install git+https://www.github.com/keras-team/keras-contrib.git
 #pip3 install git+https://git@github.com/cdli-gh/pyoracc.git@master#egg=pyoracc
 pip3 install OpenNMT-py
