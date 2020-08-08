@@ -172,11 +172,14 @@ I used the following stack of Embeddings - character_embeddings, word2vec, forwa
 <p align="center">
   <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/5.png" alt="Example image"/>
 </p>
+
 BERT (Bidirectional Encoder Representations from Transformers) is a recent paper published by researchers at Google AI Language. It has caused a stir in the Machine Learning community by presenting state-of-the-art results in a wide variety of NLP tasks. I used RoBERTo (by Facebook) as an experiment but any transformer model can be used for training and fine-tunning the language model. For training the language model sumerian_monolingual_processed data is used, and for fine-tunning similar data is used as for the FLAIR models. To train and finetune I  used [HuggingFace framework](https://github.com/huggingface/transformers)  \
-To train Language model simpaly use - 
+To train Language model simpaly use -
+
 ```
 python3 BERT/language_model_train.py 
 ```
+
 The language model training is very time consuming so it is advised to use GPUs for training perposes, Google colab notebook can also be used for free GPU access. \
 To do the fine tunning for any token classification task (POS and NER is our case) the similar script can be used as provided, we just need a tokenizer and language model accordingly. To fine tune the BERT Model use - 
 ```
@@ -225,8 +228,10 @@ sh demo.sh
 ```
 
 #### Fasttext
-To train fasttext word embeddings install the library - \ 
-$ pip3 install fastext \
+To train fasttext word embeddings install the library -
+```
+$ pip3 install fastext
+```
 and run -
 ```
 import fasttext
@@ -265,6 +270,8 @@ For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
         |__ POSTAG_training_ml.csv/ --> POS tagging dataset created from 'Dataset/Raw_NER_POS_data.csv' using scripts/POS_TrainingData_creater.py
         |__ Raw_NER_POS_data.csv/ --> Extracted and processed sumerian conll files using scripts/CDLI_conll_extracter.py 
         |__ sumerian_demo.txt/ --> Randomly extracted 150 sentences for the manual testing  of modeles from 1.5M sumerian text, code used - scripts/sumerian_random.py 
+
+|__BERT/ --> Contain code for Language Modeling and Fine tunning of RoBERTo Model, other transformer models can be trained and used similarly.
 
 |__FLAIR/ --> Flair is currently best state of art technique for English Language, this repo contains differrnt python files to train forward and backword language models along with different word embeddings and python files used for fine tunning the models for identifying POS and NER Models  
 
@@ -328,6 +335,8 @@ For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
 |__ pipeline.py --> To run the pipeline integrated POS, NER and Machine Translation
 
 |__ requirment.sh --> Contains required packages to run this model
+
+|__ src --> Repository containing images used in Readme.md file 
 
 ```
 
