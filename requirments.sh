@@ -13,5 +13,7 @@ pip3 install OpenNMT-py
 pip3 install click
 pip3 install nltk
 pip3 install flair
+pip3 install tokenizers
+pip3 install transformers
 echo -e "\n Downloading Backward Translation Model (Best Performing)\n"
 wget https://cdlisumerianunmt.s3.us-east-2.amazonaws.com/BackTranslation/5st/_step_10000.pt -O Translation_Models/Back_Translation.pt
