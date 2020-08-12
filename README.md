@@ -206,21 +206,21 @@ which can be changed according to the requirments, by simply updating the Word2v
 To train glove wordVectors clone (https://github.com/stanfordnlp/GloVe) \
 remove lines 1-15 in demo.sh file and update the required fields, to get the similar results use -
 ```
-CORPUS=Sumerian_monolingual_processed.txt \
-VOCAB_FILE=vocab.txt \
-COOCCURRENCE_FILE=cooccurrence.bin \
-COOCCURRENCE_SHUF_FILE=cooccurrence.shuf.bin \
-BUILDDIR=build \
-SAVE_FILE=vectors \
-VERBOSE=2 \
-MEMORY=4.0 \
-VOCAB_MIN_COUNT=1 \
-VECTOR_SIZE=50 \
-MAX_ITER=100 \
-WINDOW_SIZE=15 \
-BINARY=2 \
-NUM_THREADS=8 \
-X_MAX=10 \
+CORPUS=Sumerian_monolingual_processed.txt 
+VOCAB_FILE=vocab.txt 
+COOCCURRENCE_FILE=cooccurrence.bin 
+COOCCURRENCE_SHUF_FILE=cooccurrence.shuf.bin 
+BUILDDIR=build 
+SAVE_FILE=vectors 
+VERBOSE=2 
+MEMORY=4.0 
+VOCAB_MIN_COUNT=1 
+VECTOR_SIZE=50 
+MAX_ITER=100 
+WINDOW_SIZE=15 
+BINARY=2 
+NUM_THREADS=8 
+X_MAX=10 
 ```
 Run shell script \
 ```
