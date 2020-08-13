@@ -2,6 +2,7 @@ import os
 import click
 from stat import ST_MODE, S_ISREG
 import argparse
+from shutil import rmtree
 from converter import ATFCONLConvertor
 from text2tag import TAGCLASS
 #from pyoracc.atf.common.atffile import check_atf
@@ -10,6 +11,8 @@ from text2tag import TAGCLASS
 def file_process(infile, output_path, taglist, verbose=False):
     outfolder = os.path.join(output_path, 'output_conll')
     print("\nouptput folder is {} \n".format(outfolder))
+    if os.path.exists(outfolder):
+    	rmtree(outfolder)
     if not os.path.exists(outfolder):
     	os.makedirs(outfolder)
 #    try:
