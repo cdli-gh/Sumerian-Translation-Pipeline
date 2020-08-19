@@ -3,6 +3,7 @@ import os
 import subprocess
 import unicodedata
 import argparse
+from shutil import rmtree
 
 stopping_chars=["@", "#", "&", "$"]
 
@@ -107,8 +108,11 @@ def Pipeline_end(lines):
 
 
 
-def main():
-    
+def main():   
+    if os.path.exists(output_dir):
+    	rmtree(output_dir)
+    os.makedirs(output_dir)
+        
     lines=OPEN(input_path)
     if(atf_file=="False"):
     	Pipeline=[]
