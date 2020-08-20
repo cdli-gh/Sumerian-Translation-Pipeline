@@ -37,9 +37,9 @@ https://cdli-gh.github.io/guides/guide_tagsets.html
 
 ## Usage
 Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
-Install requirments by simply using pip3 and Download weights for the translation model \
-Run pipeline.py file with the ATF input file, the results will be in ATF_OUTPUT folder \
-If use are using text file as input rather than ATF, set atf argument as False, the conll files and atf output will not be generated in that case  
+Install requirments and Download weights for the Machine Translation model \
+Run pipeline.py file with the ATF/txt input file, the results will be in ATF_OUTPUT folder \
+If you are using text file as input rather than ATF, set atf argument as False, the CDLI-conll files and atf output will not be generated in that case  
 ```
 git clone https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git
 cd Sumerian-Translation-Pipeline
@@ -47,7 +47,7 @@ pip3 install requirments.txt
 wget https://cdlisumerianunmt.s3.us-east-2.amazonaws.com/BackTranslation/5st/_step_10000.pt -O Translation_Models/Back_Translation.pt
 python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
 ```
-Backtranslation Model is set as default, to download other weights please check [Translation_Models](https://github.com/cdli-gh/Sumerian-Translation-Pipeline/Translation_Models) Repository
+Backtranslation Model is set as default, to download other weights please check [Translation_Models](https://github.com/cdli-gh/Sumerian-Translation-Pipeline/tree/master/Translation_Models) Repository
 
 For the further reference of ***Machine Translation Models*** follow this link - [Unsupervised-NMT-for-Sumerian-English](https://github.com/cdli-gh/Unsupervised-NMT-for-Sumerian-English) \
 \(If working on conda Environment install pytorch seperately to run Machine Translation models - conda install pytorch \)
