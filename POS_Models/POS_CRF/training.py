@@ -12,6 +12,7 @@ import pickle
 import re
 #importing features
 from POS_CRF_features import features
+from sklearn.metrics import classification_report
 
 
 def Preparing_tagged_data(df):
@@ -79,6 +80,7 @@ def TestData(crf, X_train,y_train,X_test,y_test):
     print("test accuracy is %f \n" % metrics.flat_f1_score(y_test, y_pred,average='weighted',labels=crf.classes_))
     print("Test classification report is \n")
     print(metrics.flat_classification_report(y_test, y_pred, labels=crf.classes_, digits=3))
+    print(classification_report(y_test, y_pred, labels=crf.classes_))
 
 
 
@@ -91,7 +93,7 @@ def main():
     #printing details
     printing_details(tagged_sentence)
     
-    train_set, test_set = train_test_split(tagged_sentence,test_size=0.05,random_state=7)
+    train_set, test_set = train_test_split(tagged_sentence,test_size=0.1,random_state=40)
     
     #print("Number of Sentences in Training Data ",len(train_set))
     #print("Number of Sentences in Testing Data ",len(test_set))
@@ -125,7 +127,7 @@ if __name__=='__main__':
     
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format(csv file with columns ID FORM XPOSTAG)",default="Dataset/Augmented_POSTAG_training_ml.csv")
+    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format(csv file with columns ID FORM XPOSTAG)",default="Dataset/ETCSL_ORACC_POS.csv")
     parser.add_argument("-o","--output",help="Location of model weights to be saved",default="Saved_Models/POS/POS_CRF.pkl")
     
     args=parser.parse_args()

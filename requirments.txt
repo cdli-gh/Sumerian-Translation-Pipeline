@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+sklearn
+sklearn_crfsuite
+tqdm==4.46.1
+tensorflow
+Keras
+git+https://www.github.com/keras-team/keras-contrib.git
+OpenNMT-py
+click
+nltk
+flair
+tokenizers
+transformers

@@ -15,7 +15,7 @@ from keras.layers import LSTM, Dense, Dropout, Embedding, Masking, Bidirectional
 from keras.optimizers import Adam
 from tqdm.keras import TqdmCallback
 import argparse
-
+from sklearn.metrics import classification_report
 
 
 def Preparing_tagged_data(df):
@@ -142,6 +142,7 @@ def TestData(model,X_test,y_test,idx2tag,label=None):
     print("test accuracy is %f \n" % np.multiply(metrics.flat_f1_score(y_test, y_pred,average='weighted',labels=label),100))
     print("Test classification report is \n")
     print(metrics.flat_classification_report(y_test, y_pred, digits=3,labels=label))
+    print(classification_report(y_test, y_pred, labels=label))
     
     
 
