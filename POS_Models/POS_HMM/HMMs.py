@@ -156,7 +156,7 @@ def main():
     #printing details
     printing_details(tagged_sentence)
     
-    train_set, test_set = train_test_split(tagged_sentence,train_size=0.90,test_size=0.10,random_state=42)
+    train_set, test_set = train_test_split(tagged_sentence,train_size=0.95,test_size=0.05,random_state=7)
     
     
     train_tagged_words = [ tup for sent in train_set for tup in sent ]

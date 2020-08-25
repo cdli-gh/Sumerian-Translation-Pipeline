@@ -324,7 +324,7 @@ sentence: igi {d}suen-en-nam szitim
 NER:(igi,O) ({d}suen-en-nam,RN) (szitim,O) 
 109
 sentence: igi bur-ia
-NER:(igi,O) (bur-ia,PN) 
+NER:(igi,O) (bur-ia,O) 
 110
 sentence: dumu sa-li
 NER:(dumu,O) (sa-li,PN) 

@@ -155,7 +155,7 @@ def main():
     print ('Maximum sequence length:', MAX)
     word2idx,idx2word,tag2idx,idx2tag= preparedicts(df)
     X,y=prepareData(sentences,word2idx,tag2idx)
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1,random_state=7)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.05,random_state=7)
     
     print("Dataset dimentions \n")
     print(X_train.shape,y_train.shape)
@@ -182,8 +182,8 @@ if __name__=='__main__':
     
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG)",default="Dataset/Augmented_NER_training_ml.csv")
-    parser.add_argument("-e","--embedding",help="Location of sumerian word embeddings",default='Word_Embeddings/sumerian_word2vec_50.txt')
+    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG)",default="Dataset/ETCSL_ORACC_NER.csv")
+    parser.add_argument("-e","--embedding",help="Location of sumerian word embeddings",default='Word_Embeddings/glove50.txt')
     parser.add_argument("-o","--output",help="Location of model weights to be saved",default="Saved_Models/NER/NER_Bi_LSTM.h5")
     
     args=parser.parse_args()

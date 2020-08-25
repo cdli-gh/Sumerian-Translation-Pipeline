@@ -100,8 +100,7 @@ def main():
     X_test,y_test=prepareData(test_set)
     
     crf = CRF(
-    algorithm='lbfgs',
-    c1=0.01,
+    algorithm='l2sgd',
     c2=0.1,
     max_iterations=1000,
     all_possible_transitions=True)
@@ -126,7 +125,7 @@ if __name__=='__main__':
     
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG NER)",default="Dataset/Augmented_NER_training_ml.csv")
+    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG NER)",default="Dataset/ETCSL_ORACC_NER.csv")
     parser.add_argument("-o","--output",help="Location of model weights to be saved",default="Saved_Models/NER/NER_CRF.pkl")
     
     args=parser.parse_args()

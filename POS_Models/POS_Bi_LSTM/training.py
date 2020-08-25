@@ -142,8 +142,6 @@ def TestData(model,X_test,y_test,idx2tag,label=None):
     print("test accuracy is %f \n" % np.multiply(metrics.flat_f1_score(y_test, y_pred,average='weighted',labels=label),100))
     print("Test classification report is \n")
     print(metrics.flat_classification_report(y_test, y_pred, digits=3,labels=label))
-    print(classification_report(y_test, y_pred, labels=label))
-    
     
 
     
@@ -154,6 +152,7 @@ def main():
     sentences = Preparing_tagged_data(df)
     print ('Maximum sequence length:', MAX)
     word2idx,idx2word,tag2idx,idx2tag= preparedicts(df)
+    
     X,y=prepareData(sentences,word2idx,tag2idx)
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.05,random_state=7)
     
@@ -183,8 +182,8 @@ if __name__=='__main__':
     
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG)",default="Dataset/Augmented_POSTAG_training_ml.csv")
-    parser.add_argument("-e","--embedding",help="Location of sumerian word embeddings",default='Word_Embeddings/sumerian_word2vec_50.txt')
+    parser.add_argument("-i","--input",help="Location of the Input training file in the specific format (csv file with columns ID FORM XPOSTAG)",default="Dataset/ETCSL_ORACC_POS.csv")
+    parser.add_argument("-e","--embedding",help="Location of sumerian word embeddings",default='Word_Embeddings/glove50.txt')
     parser.add_argument("-o","--output",help="Location of model weights to be saved",default="Saved_Models/POS/POS_Bi_LSTM.h5")
     
     args=parser.parse_args()

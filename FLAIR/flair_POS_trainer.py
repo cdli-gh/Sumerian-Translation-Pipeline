@@ -32,7 +32,7 @@ embedding_types: List[TokenEmbeddings] = [
 
     # Word2vec embeddings
     #WordEmbeddings('FLAIR/word2vec50'),
-    #CharacterEmbeddings(),
+    CharacterEmbeddings(),
     
     #TransformerWordEmbeddings(model ='BERT/sumerianBERTo/',allow_long_sentences=True),
     
