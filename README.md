@@ -80,6 +80,15 @@ optional arguments:
 
 ```
 
+## Flask API and Docker
+You can also use web API to use our pipeline, simply run main.py file and copy paste the url on your web browser. ATF or TXT files can be uploaded and produce downloadable results as shown below.
+<p align="center">
+  <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/6.png" alt="Example image"/>
+</p>
+
+To build a and use docker container follow this link - [https://docs.docker.com/get-started/](https://docs.docker.com/get-started/)
+
+
 
 ## POS and NER MODELS
 
