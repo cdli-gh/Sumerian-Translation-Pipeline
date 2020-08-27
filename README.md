@@ -31,7 +31,8 @@ https://cdli-gh.github.io/guides/guide_tagsets.html
 <p align="center">
   <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/2.png" alt="Example image"/>
 </p>
-Image - [Source](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&requestFrom=Search&PrimaryPublication=&Author=&PublicationDate=&SecondaryPublication=&Collection=&AccessionNumber=&MuseumNumber=&Provenience=&ExcavationNumber=&Period=&DatesReferenced=&ObjectType=&ObjectRemarks=&Material=&TextSearch=&TranslationSearch=&CommentSearch=&StructureSearch=&Language=&Genre=&SubGenre=&CompositeNumber=&SealID=&ObjectID=P123903&ATFSource=&CatalogueSource=&TranslationSource=)
+
+[Artifact Image Source](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&requestFrom=Search&PrimaryPublication=&Author=&PublicationDate=&SecondaryPublication=&Collection=&AccessionNumber=&MuseumNumber=&Provenience=&ExcavationNumber=&Period=&DatesReferenced=&ObjectType=&ObjectRemarks=&Material=&TextSearch=&TranslationSearch=&CommentSearch=&StructureSearch=&Language=&Genre=&SubGenre=&CompositeNumber=&SealID=&ObjectID=P123903&ATFSource=&CatalogueSource=&TranslationSource=)
 
 
 
@@ -151,6 +152,8 @@ Flair is very simple framework for state-of-the-art NLP, It allows you to apply 
   <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/4.png" alt="Example image"/>
 </p>
 
+[Image Source](https://research.zalando.com/welcome/mission/research-projects/flair-nlp/)
+
 All the corpus folders to train language model, fine tune POS and NER are in FLAIR repository in the desired format. The below code can be used, and modified if needed for traing and fine tunning - 
 ```
 # foward language model
@@ -182,6 +185,8 @@ I used the following stack of Embeddings - character_embeddings, word2vec, forwa
 <p align="center">
   <img src="https://github.com/cdli-gh/Sumerian-Translation-Pipeline/blob/master/src/5.png" alt="Example image"/>
 </p>
+
+[Image Source](https://nlp.stanford.edu/seminar/details/jdevlin.pdf)
 
 BERT (Bidirectional Encoder Representations from Transformers) is a recent paper published by researchers at Google AI Language. It has caused a stir in the Machine Learning community by presenting state-of-the-art results in a wide variety of NLP tasks. I used RoBERTo (by Facebook) as an experiment but any transformer model can be used for training and fine-tunning the language model. For training the language model sumerian_monolingual_processed data is used, and for fine-tunning similar data is used as for the FLAIR models. To train and finetune I  used [HuggingFace framework](https://github.com/huggingface/transformers)  \
 To train Language model simpaly use -
