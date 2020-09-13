@@ -170,7 +170,7 @@ def main():
     	os.system(f'python3 ATF_2_Conll/atf2conll_tags.py -i {input_path}')
     
         
-    if(atf_file!="False"):
+    if(atf_file=="False"):
     	print("\n Generating atf file output")
     	pipeline_result=Pipeline_end(lines)
     	savefile(output_dir+'pipeline_output.atf',pipeline_result)
