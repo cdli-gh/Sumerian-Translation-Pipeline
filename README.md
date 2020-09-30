@@ -34,7 +34,9 @@ https://cdli-gh.github.io/guides/guide_tagsets.html
 
 [Artifact Image Source](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&requestFrom=Search&PrimaryPublication=&Author=&PublicationDate=&SecondaryPublication=&Collection=&AccessionNumber=&MuseumNumber=&Provenience=&ExcavationNumber=&Period=&DatesReferenced=&ObjectType=&ObjectRemarks=&Material=&TextSearch=&TranslationSearch=&CommentSearch=&StructureSearch=&Language=&Genre=&SubGenre=&CompositeNumber=&SealID=&ObjectID=P123903&ATFSource=&CatalogueSource=&TranslationSource=)
 
-
+## Credits:
+1. [Himanshu Choudhary](https://www.linkedin.com/in/himanshudce/)-- Developer
+2. [Ravneet Punia](https://www.linkedin.com/in/ravneetpunia/)--Mentor
 
 ## Usage
 Clone the Repo https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git \
@@ -354,8 +356,3 @@ For further references follow - [Fasttext](https://pypi.org/project/fasttext/)
 |__ src --> Repository containing images used in Readme.md file 
 
 ```
-
-
-### Mentor:
-
-1. Ravneet Punia
