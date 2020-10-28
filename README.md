@@ -48,7 +48,7 @@ If you are using text file as input rather than ATF, set atf argument as False, 
 ```
 git clone https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git
 cd Sumerian-Translation-Pipeline
-pip3 install requirments.txt
+pip3 install `cat requirments.txt`
 wget https://cdlisumerianunmt.s3.us-east-2.amazonaws.com/BackTranslation/5st/_step_10000.pt -O Translation_Models/Back_Translation.pt
 python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT
 ```
