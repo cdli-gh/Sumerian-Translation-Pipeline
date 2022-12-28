@@ -47,9 +47,17 @@ Run pipeline.py file with the ATF/txt input file, the results will be in ATF_OUT
 If you are using text file as input rather than ATF, set atf argument as False, the CDLI-conll files and atf output will not be generated in that case  
 ```
 git clone https://github.com/cdli-gh/Sumerian-Translation-Pipeline.git
+```
+```
 cd Sumerian-Translation-Pipeline
+```
+```
 pip3 install `cat requirments.txt`
+```
+```
 wget https://cdlisumerianunmt.s3.us-east-2.amazonaws.com/BackTranslation/5st/_step_10000.pt -O Translation_Models/Back_Translation.pt
+```
+```
 python3 pipeline.py -i ATF_INPUT/demo.atf -o ATF_OUTPUT/
 ```
 Backtranslation Model is set as default, to download other weights please check [Translation_Models](https://github.com/cdli-gh/Sumerian-Translation-Pipeline/tree/master/Translation_Models) Repository
